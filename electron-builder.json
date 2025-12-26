@@ -1,0 +1,111 @@
+{
+  "appId": "com.nemhemai.desktop",
+  "productName": "NemhemAI",
+  "copyright": "Copyright © 2025",
+  "directories": {
+    "buildResources": "electron/build",
+    "output": "electron-dist"
+  },
+  "files": [
+    "electron/**/*",
+    "dist/**/*",
+    "setup_complete.py",
+    "!backend/venv/**/*",
+    "!backend/__pycache__/**/*",
+    "!backend/**/*.pyc",
+    "!backend/csv_uploads/**/*",
+    "!backend/uploads/**/*",
+    "!backend/databases/**/*",
+    "!backend/charts/**/*"
+  ],
+  "extraResources": [
+    {
+      "from": "setup_complete.py",
+      "to": "setup_complete.py"
+    },
+    {
+      "from": "backend",
+      "to": "backend",
+      "filter": [
+        "**/*",
+        "!venv/**/*",
+        "!__pycache__/**/*",
+        "!**/*.pyc",
+        "!csv_uploads/**/*",
+        "!uploads/**/*",
+        "!databases/**/*",
+        "!charts/**/*"
+      ]
+    },
+    {
+      "from": "python-embedded",
+      "to": "python"
+    }
+  ],
+  "win": {
+    "target": [
+      {
+        "target": "nsis",
+        "arch": ["x64"]
+      },
+      {
+        "target": "portable",
+        "arch": ["x64"]
+      }
+    ],
+    "icon": "electron/build/icon.ico"
+  },
+  "nsis": {
+    "artifactName": "${productName}-Setup-${version}.${ext}",
+    "oneClick": false,
+    "allowToChangeInstallationDirectory": true,
+    "createDesktopShortcut": true,
+    "createStartMenuShortcut": true,
+    "shortcutName": "NemhemAI",
+    "installerIcon": "electron/build/icon.ico",
+    "uninstallerIcon": "electron/build/icon.ico",
+    "installerHeaderIcon": "electron/build/icon.ico"
+  },
+  "portable": {
+    "artifactName": "${productName}-Portable-${version}.${ext}"
+  },
+  "mac": {
+    "target": [
+      {
+        "target": "dmg",
+        "arch": ["x64", "arm64"]
+      },
+      {
+        "target": "zip",
+        "arch": ["x64", "arm64"]
+      }
+    ],
+    "icon": "electron/build/icon.icns",
+    "category": "public.app-category.productivity",
+    "artifactName": "${productName}-${version}-${os}-${arch}.${ext}",
+    "hardenedRuntime": true,
+    "gatekeeperAssess": false
+  },
+  "dmg": {
+    "contents": [
+      {
+        "x": 130,
+        "y": 220
+      },
+      {
+        "x": 410,
+        "y": 220,
+        "type": "link",
+        "path": "/Applications"
+      }
+    ],
+    "title": "${productName} ${version}",
+    "icon": "electron/build/icon.icns"
+  },
+  "linux": {
+    "target": ["AppImage", "deb", "rpm"],
+    "icon": "electron/build/icon.png",
+    "category": "Utility",
+    "artifactName": "${productName}-${version}-${os}-${arch}.${ext}"
+  }
+}

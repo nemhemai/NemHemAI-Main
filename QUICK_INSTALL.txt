@@ -1,0 +1,158 @@
+# 🚀 NemhemAI - Quick Setup Guide
+
+## Before You Install
+
+### ✅ System Requirements
+- Windows 10 or 11 (64-bit)
+- 4 GB RAM (8 GB recommended)
+- 3 GB free disk space
+
+---
+
+## 📥 Installation (2 Steps)
+
+### STEP 1: Install Ollama (Required!)
+
+Ollama runs the AI on your computer.
+
+1. **Download:** https://ollama.com/download
+2. **Install** the downloaded file
+3. **Open PowerShell** and run:
+   ```powershell
+   ollama pull llama2
+   ```
+4. **Wait** 5-15 minutes for download (~4 GB)
+
+✅ **Done!** Ollama icon should appear in system tray.
+
+---
+
+### STEP 2: Install NemhemAI
+
+1. **Double-click:** `NemhemAI-Setup-v1.0.0.exe`
+2. **Windows warning?** Click "More info" → "Run anyway"
+3. **Follow wizard:** Next → Next → Install
+4. **Launch** from Desktop shortcut
+
+✅ **Done!** NemhemAI is ready to use.
+
+---
+
+## 🎯 First Use
+
+1. **Create Account**
+   - Username: your-name
+   - Password: your-password
+   - Click "Create Account"
+
+2. **Start Chatting**
+   - Type: "Hello! What can you help me with?"
+   - Press Enter
+   - Wait 5-30 seconds for response
+
+3. **Enjoy!** 🎉
+
+---
+
+## 🐛 Having Issues?
+
+### "Ollama not found" error
+```powershell
+# Run this:
+ollama serve
+```
+
+### AI not responding
+```powershell
+# Download the model:
+ollama pull llama2
+```
+
+### App won't start
+1. Check Ollama is running (system tray)
+2. Run as Administrator
+3. Restart computer
+
+---
+
+## 💬 What Can NemhemAI Do?
+
+- ✅ Answer any question
+- ✅ Write code, emails, essays
+- ✅ Analyze CSV data files
+- ✅ Summarize PDF documents
+- ✅ Analyze images
+- ✅ Help with homework/work
+
+**Try asking:**
+- "Explain quantum physics simply"
+- "Write a Python sorting function"
+- "Give me 5 healthy dinner ideas"
+
+---
+
+## 📁 Where is My Data?
+
+Everything stored locally on your PC:
+```
+C:\Program Files\NemhemAI\backend\
+```
+
+✅ **100% Private** - Nothing sent to the cloud!
+
+---
+
+## 🔄 Need Help?
+
+**Full Guide:** See `USER_INSTALLATION_GUIDE.md` for complete instructions
+
+**Check Ollama:** http://localhost:11434 (should show "Ollama is running")
+
+**Support:** [Your email/website]
+
+---
+
+## ⚡ Quick Reference
+
+### Required Downloads
+1. **Ollama:** https://ollama.com/download
+2. **NemhemAI:** This installer
+
+### Required Commands
+```powershell
+ollama pull llama2      # Download AI model
+```
+
+### Optional Models (faster/better)
+```powershell
+ollama pull mistral     # Faster responses
+ollama pull llama3      # Better quality
+ollama pull codellama   # For coding
+```
+
+---
+
+## ✅ Checklist
+
+- [ ] Downloaded Ollama
+- [ ] Installed Ollama
+- [ ] Ran `ollama pull llama2`
+- [ ] Ran NemhemAI installer
+- [ ] Created account
+- [ ] Started chatting!
+
+---
+
+**That's it!** Your personal AI assistant is ready. 🤖
+
+**Version 1.0.0** | Windows 10/11 | November 2025
+
+---
+
+## 🗑️ Uninstall
+
+Windows Settings → Apps → NemhemAI → Uninstall
+
+---
+
+**Questions?** See the full `USER_INSTALLATION_GUIDE.md` for detailed help.
