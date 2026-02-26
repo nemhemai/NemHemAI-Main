@@ -1,0 +1,181 @@
+DEVELOPER RECORD — BHAGIRATH (API & INGESTION ORCHESTRATION)
+
+Developer: Bhagirath
+Phases Completed: Day 2 & Day 3
+Primary Responsibility:
+API Layer, Ingestion Integration, and Persistence Orchestration
+
+---
+
+ROLE IN SYSTEM
+
+Responsible for connecting system components into a working pipeline.
+
+API layer acts as the entry point between:
+User Input → Extraction → Identity Generation → Persistence → Chunk Preparation
+
+This layer validates integration and coordinates all downstream layers
+without directly implementing storage logic.
+
+---
+
+DAY 2 OBJECTIVE (COMPLETED)
+
+Implemented ingestion endpoint:
+
+POST /ingest
+
+Pipeline (Day 2):
+
+PDF Upload
+→ Extract text
+→ Call extract_structure()
+→ Return structured JSON
+
+No persistence implemented in Day 2.
+
+---
+
+DAY 3 OBJECTIVE (COMPLETED)
+
+Extend ingestion pipeline to enable persistence and knowledge storage.
+
+Updated Pipeline (v0.4):
+
+PDF Upload
+→ Text Extraction
+→ extract_structure()
+→ Deterministic ID Generation
+→ Validation
+→ Graph Persistence (Atomic)
+→ Chunk Preparation
+→ Return Ingestion Summary
+
+---
+
+DEPENDENCIES FROM TEAM
+
+From Sana:
+
+- extract_structure(pdf_text) available
+- Structured JSON schema finalized
+- Deterministic section_id generation enforced
+- Chunk preparation service available
+
+From Arzoo:
+
+- Graph schema finalized
+- Neo4j connection operational
+- Atomic ingestion implemented
+- MERGE-based upsert strategy defined
+- Unique constraints enforced
+
+---
+
+IMPLEMENTATION DETAILS
+
+API Framework:
+FastAPI
+
+Core File:
+routes.py
+
+New Module Integrated:
+app/ingestion/persistence_service.py
+
+Responsibilities:
+
+✔ Accept file upload
+✔ Validate file type
+✔ Extract raw text
+✔ Call extract_structure()
+✔ Trigger persistence_service
+✔ Trigger chunk preparation
+✔ Return structured JSON + ingestion summary
+✔ Handle validation vs system errors properly
+
+---
+
+API RESPONSE FORMAT (v0.4)
+
+{
+  "status": "success",
+  "data": {
+    act_id,
+    act_title,
+    sections: [...]
+  },
+  "ingestion_summary": {
+    acts_processed,
+    sections_processed,
+    relationships_created,
+    chunks_prepared
+  }
+}
+
+---
+
+ENFORCED RULES
+
+API DOES:
+
+✔ Coordinate layers
+✔ Enforce validation before persistence
+✔ Return ingestion summary
+✔ Preserve schema integrity
+
+API DOES NOT:
+
+✘ Execute raw Neo4j queries directly
+✘ Generate embeddings
+✘ Insert into vector database
+✘ Modify structured schema
+✘ Generate alternative identifiers
+
+---
+
+VALIDATION & TESTING
+
+Tests Performed:
+
+✔ Swagger endpoint operational
+✔ File upload successful
+✔ Extraction function executed correctly
+✔ Deterministic IDs generated
+✔ Graph persistence successful
+✔ Idempotent re-upload validated
+✔ Transaction rollback tested
+✔ Chunk preparation confirmed
+✔ Ingestion summary returned correctly
+
+Clean-database testing performed before validation.
+
+---
+
+SYSTEM IMPACT
+
+API Layer now orchestrates:
+
+Structured Extraction
++ Deterministic Identity
++ Atomic Graph Persistence
++ Chunk Preparation
+
+System Capability Achieved (v0.4):
+
+Full end-to-end ingestion pipeline with persistent knowledge storage.
+
+API layer now serves as stable coordination boundary
+for future vector integration (Day 4).
+
+---
+
+NEXT PHASE
+
+Vector Layer & Embedding Integration (Day 4)
+
+API will be extended to coordinate:
+
+Chunk → Embedding Generation → Vector Storage
+
+while preserving identity consistency and atomic guarantees.

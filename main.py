@@ -8,7 +8,7 @@ from app.llm.groq_client import get_llm
 from app.retrieval.vectorstore import get_vectorstore
 from app.retrieval.retrieve import retrieve_json_and_pdf
 from app.rag.rag_engine import rag_answer
-from app.routes.ingest import router as ingest_router
+from app.api.routes import router as ingest_router
 
 app = FastAPI(title="NemHem Policy RAG")
 app.include_router(ingest_router)

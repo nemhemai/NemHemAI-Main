@@ -1,0 +1,173 @@
+ENGINEERING RULES & CONSTRAINTS — HYBRID-RAG-DEV
+
+These rules define mandatory engineering decisions and must be followed across all future development.
+
+System Version: v0.4
+Current Phase: Persistence & Chunk Preparation Completed
+
+---
+
+IDENTITY CONSISTENCY (CRITICAL)
+
+act_id:
+
+- Primary identifier for an Act.
+- Must remain consistent across all system layers.
+- Generated deterministically using backend utility.
+- Must be unique in graph database.
+
+section_id:
+
+- Global unique identifier for each section.
+- Generated deterministically from act_id and section_number.
+- Used across:
+  • Extraction output
+  • Graph database
+  • Chunk layer
+  • Future vector database
+  • Retrieval responses
+  • Future storage systems
+
+chunk_id:
+
+- Unique identifier for text chunks.
+- Derived from section_id.
+- Will serve as vector identity in future phase.
+
+No component may create alternative identifiers outside the identity utility layer.
+
+---
+
+EXTRACTION RULES
+
+- Extraction layer performs transformation only.
+- No database insertion inside extraction.
+- Output must always be structured JSON.
+- JSON schema must remain stable once finalized.
+- Extraction is source-of-truth for structure.
+- LLM must not generate system identifiers.
+- Backend generates deterministic IDs.
+
+---
+
+API RULES
+
+Current API responsibilities (v0.4):
+
+- Accept PDF uploads
+- Extract raw text
+- Call extract_structure()
+- Generate deterministic IDs
+- Validate structured output
+- Trigger graph persistence
+- Trigger chunk preparation
+- Return ingestion summary
+
+API must NOT:
+
+- Directly execute Neo4j queries
+- Generate embeddings
+- Perform retrieval
+- Modify structured schema
+- Bypass persistence validation
+
+API coordinates layers but does not implement storage logic itself.
+
+---
+
+GRAPH DESIGN RULES
+
+Allowed Node Types:
+
+- Act
+- Section
+
+Relationships:
+
+(:Act)-[:HAS_SECTION]->(:Section)
+(:Section)-[:REFERENCES]->(:Section)  (Future)
+
+Graph Constraints:
+
+- act_id must be UNIQUE
+- section_id must be UNIQUE
+- MERGE must be used for upserts
+- CREATE must not be used for identity nodes
+
+Graph ingestion must:
+
+- Run inside a single transaction
+- Be idempotent
+- Roll back completely on failure
+
+---
+
+CHUNK LAYER RULES
+
+- Chunk preparation must not write to any database.
+- Chunking must preserve act_id and section_id.
+- chunk_id must be deterministic and unique.
+- Chunk splitting must be memory-safe.
+- No embeddings generated in this phase.
+
+Chunk layer prepares data only.
+
+---
+
+DEVELOPMENT WORKFLOW RULES
+
+Branch Strategy:
+feature/* → hybrid-rag-dev → main
+
+Rules:
+
+- Development happens only in feature branches.
+- hybrid-rag-dev acts as integration branch.
+- main remains stable.
+- All persistence logic must be tested locally before merge.
+- Database must be cleaned before idempotency validation tests.
+
+Before starting work:
+feature branch must sync with hybrid-rag-dev.
+
+---
+
+CURRENT DEVELOPMENT LIMITS (v0.4)
+
+Allowed:
+
+✔ Structured extraction
+✔ Deterministic ID generation
+✔ Graph persistence (Neo4j)
+✔ Atomic transactions
+✔ Chunk preparation
+✔ Ingestion validation
+
+Not Allowed Yet:
+
+✘ Embedding generation
+✘ Vector database storage
+✘ Semantic similarity search
+✘ Hybrid retrieval
+✘ Orchestrator logic
+✘ LLM-based answering over stored knowledge
+
+---
+
+DESIGN PHILOSOPHY
+
+Structure first.
+Identity second.
+Storage third.
+Vectorization fourth.
+Retrieval fifth.
+Reasoning last.
+
+Each layer must be:
+
+- Independently validated
+- Deterministic
+- Idempotent
+- Atomic where applicable
+
+No future phase may break identity or persistence guarantees established in Day 3.

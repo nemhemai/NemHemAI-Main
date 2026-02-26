@@ -1,0 +1,201 @@
+DEVELOPER RECORD — SANA (EXTRACTION & CHUNK PIPELINE)
+
+Developer: Sana
+Phases Completed: Day 2 & Day 3
+Primary Responsibility:
+Structured Extraction + Metadata Standardization + Chunk Preparation Layer
+
+---
+
+OBJECTIVE
+
+Build a structured legal document extraction pipeline converting
+PDF legal sources into validated structured JSON using an LLM-based parser.
+
+Extended Goal (Day 3):
+Prepare section-level chunk objects for future vector indexing
+without generating embeddings.
+
+Pipeline Evolution:
+
+Day 2:
+Raw Legal Text → LLM Extraction → Structured JSON
+
+Day 3:
+Raw Legal Text
+→ LLM Extraction
+→ Structured JSON
+→ Deterministic ID Generation (backend)
+→ Chunk Preparation (pre-embedding stage)
+
+---
+
+DATA SOURCES
+
+Data stored inside project:
+
+NemHemAI-Main/data/
+├── pdf_files/
+└── json_files/ (if applicable)
+
+All ingestion depends on data being inside project directory.
+
+---
+
+METADATA CONTRACT (UPDATED STATUS)
+
+Metadata validation occurs during structured extraction and
+persistence validation layers.
+
+Required Structured Fields:
+
+- act_title
+- act_id
+- section_number
+- section_id
+- heading
+- content
+
+Rules:
+
+- LLM does not generate system identifiers.
+- act_id and section_id are generated deterministically.
+- Schema must remain stable once finalized.
+
+---
+
+LLM EXTRACTION IMPLEMENTATION
+
+File:
+app/services/extraction.py
+
+Model:
+Ollama (llama3.1)
+
+Process:
+
+1. Prompt legal text
+2. LLM generates JSON
+3. Markdown and noise cleaned
+4. JSON parsed safely
+5. Schema validated
+6. Deterministic section_id generation enforced
+
+Output Format:
+
+{
+  act_id,
+  act_title,
+  sections: [
+    {
+      section_number,
+      heading,
+      content,
+      clauses,
+      section_id
+    }
+  ]
+}
+
+Strict Rule:
+Extraction layer performs transformation only.
+No database writes.
+
+---
+
+LLM WRAPPER
+
+File:
+app/llm/ollama_client.py
+
+Responsible for:
+
+- Calling local Ollama server
+- Returning raw model output
+- Non-streaming structured response
+
+---
+
+CHUNK PREPARATION LAYER (DAY 3 ADDITION)
+
+File:
+app/ingestion/chunk_service.py
+
+Purpose:
+Prepare section content for future embedding layer.
+
+Capabilities:
+
+✔ Splits section content into overlapping text chunks
+✔ Preserves act_id and section_id
+✔ Generates deterministic chunk_id
+✔ Ensures memory-safe chunk splitting
+✔ No database writes
+✔ No embedding generation
+
+Chunk Output Format:
+
+{
+  chunk_id,
+  act_id,
+  section_id,
+  text
+}
+
+Strict Rule:
+Chunk layer prepares data only.
+Vector storage and embeddings are not implemented yet.
+
+---
+
+TESTING
+
+Extraction Testing:
+
+Test File:
+test_extraction.py
+
+Verified:
+
+✔ Ollama running
+✔ Model responding
+✔ JSON cleaned correctly
+✔ Structured output produced
+✔ Deterministic section_id generation validated
+
+Chunk Testing:
+
+Test File:
+test_chunk_service.py
+
+Verified:
+
+✔ Chunk generation works
+✔ No infinite loop
+✔ Metadata preserved
+✔ Unique chunk_id generated
+
+---
+
+SYSTEM IMPACT
+
+Extraction Layer:
+Fully operational and stable.
+
+Chunk Layer:
+Operational and ready for vector integration.
+
+System Capability Achieved (v0.4):
+
+PDF Text
+→ llama3.1 structured extraction
+→ Deterministic identity enforcement
+→ Graph persistence (via ingestion layer)
+→ Chunk-ready structured output
+
+Extraction and chunk preparation now serve as
+upstream dependency for:
+
+- Graph persistence
+- Future embedding generation
+- Future hybrid retrieval

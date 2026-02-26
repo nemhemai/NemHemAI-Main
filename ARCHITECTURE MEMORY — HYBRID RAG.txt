@@ -1,0 +1,195 @@
+ARCHITECTURE MEMORY — HYBRID RAG SYSTEM
+
+System Architecture Type:
+Hybrid Retrieval-Augmented Generation (Hybrid RAG)
+
+Design Principle:
+Structured understanding first → storage → retrieval later.
+
+The system prioritizes extracting structured legal knowledge before graph persistence and before embedding generation.
+
+---
+
+HIGH LEVEL PIPELINE (Current System – v0.4)
+
+PDF Document
+→ Text Extraction
+→ Structured Extraction (LLM-based parsing)
+→ Deterministic ID Generation
+→ Structured JSON Output
+→ Graph Ingestion (Neo4j – Atomic & Idempotent)
+→ Chunk Preparation Layer
+→ (Future) Embedding Generation
+→ (Future) Vector Storage
+→ (Future) Hybrid Retrieval Layer
+→ (Future) LLM Response Generation
+
+---
+
+CORE COMPONENTS
+
+1. Extraction Layer
+   Responsible for converting raw legal text into structured JSON.
+
+Output Format:
+
+{
+  act_id,
+  act_title,
+  sections: [
+    {
+      section_number,
+      heading,
+      content,
+      clauses,
+      section_id
+    }
+  ]
+}
+
+Rules:
+
+- No database writes
+- Pure transformation layer
+- Source of truth for section structure
+- Deterministic ID generation handled in backend
+
+---
+
+2. Graph Layer (Neo4j) — ACTIVE
+
+Represents legal structure relationships.
+
+Nodes:
+
+- Act
+- Section
+
+Relationships:
+
+(:Act)-[:HAS_SECTION]->(:Section)
+(:Section)-[:REFERENCES]->(:Section)  (Future)
+
+Current Capabilities:
+
+- Atomic transaction ingestion
+- MERGE-based upserts
+- Unique constraints on act_id and section_id
+- Idempotent re-ingestion
+- Full rollback on failure
+
+Purpose:
+
+- Represent legal hierarchy
+- Enable cross-reference reasoning (future)
+- Provide structural foundation for hybrid retrieval
+
+---
+
+3. Chunk Preparation Layer — ACTIVE
+
+Prepares section content for future embedding.
+
+Responsibilities:
+
+- Split section content into overlapping chunks
+- Preserve act_id and section_id
+- Generate deterministic chunk_id
+- No database writes
+- No embedding generation
+
+Purpose:
+
+- Prepare vector-ready payload
+- Maintain metadata integrity
+- Enable future semantic indexing
+
+---
+
+4. API / Ingestion Layer — ACTIVE
+
+Acts as system entry point.
+
+Responsibilities:
+
+- Accept PDF uploads
+- Extract raw text
+- Call extraction service
+- Generate deterministic IDs
+- Validate structured output
+- Persist data to graph atomically
+- Prepare chunks
+- Return ingestion summary
+
+Current Response Includes:
+
+- Structured JSON
+- Ingestion summary (acts_processed, sections_processed, relationships_created, chunks_prepared)
+
+---
+
+5. Future Vector Layer
+
+Will store semantic embeddings of chunks.
+
+Purpose:
+
+- Similarity search
+- Semantic recall
+- Support hybrid retrieval
+
+Not yet implemented.
+
+---
+
+6. Hybrid Retrieval (Future)
+
+Will combine:
+
+- Graph traversal results
+- Vector similarity results
+
+Then send enriched context to LLM for reasoning.
+
+Not yet implemented.
+
+---
+
+GLOBAL IDENTITY RULES
+
+act_id:
+Primary identifier for an Act.
+
+section_id:
+Universal identifier shared across:
+
+- Graph database
+- Vector database
+- Structured storage
+- Retrieval pipeline
+
+chunk_id:
+Unique identifier for text chunks (future vector identity).
+
+No component may generate alternative identifiers outside the identity utility layer.
+
+---
+
+CURRENT DEVELOPMENT PHASE
+
+Phase: Persistence & Chunk Preparation Completed
+
+System Version: v0.4
+
+Status:
+
+- Structured extraction operational
+- Deterministic ID generation implemented
+- Graph persistence fully operational
+- Atomic transactions enforced
+- Idempotent ingestion validated
+- Chunk preparation layer implemented
+
+Next Focus:
+
+Vector Layer & Embedding Integration (Day 4)

@@ -1,0 +1,136 @@
+PROJECT MEMORY — SYSTEM STATE (ALWAYS UPDATE THIS)
+
+System Version: v0.4
+Last Updated: End of Day 3
+
+---
+
+TEAM PROGRESS SUMMARY
+
+Day 1:
+✔ Repository setup completed
+✔ Branch workflow finalized
+✔ hybrid-rag-dev integration branch created
+✔ Base project structure initialized
+✔ Hybrid RAG architecture decided
+
+Day 2:
+✔ Structured extraction implemented (Sana)
+✔ LLM-based extraction integrated
+✔ extract_structure() returning structured JSON
+✔ Graph schema defined (Arzoo)
+✔ Neo4j connection verified
+✔ Schema documentation completed
+✔ Ingestion API endpoint implemented (Bhagirath)
+✔ End-to-end ingestion pipeline validated
+✔ All components merged into hybrid-rag-dev
+
+Day 3:
+✔ Deterministic ID generation enforced (act_id, section_id)
+✔ Graph persistence implemented (Arzoo)
+✔ Atomic transaction ingestion verified
+✔ MERGE-based upserts implemented
+✔ Unique constraints enforced
+✔ Idempotent ingestion validated
+✔ Rollback safety tested
+✔ persistence_service.py integrated (Bhagirath)
+✔ API updated to include ingestion summary
+✔ Chunk preparation layer implemented (Sana)
+✔ Memory-safe chunk splitting logic verified
+✔ Full clean-database validation performed
+
+---
+
+CURRENT WORKING COMPONENTS
+
+Extraction Layer:
+Status: COMPLETE
+Output: Structured JSON
+Persistence: Handled by backend layer
+
+Graph Layer:
+Status: ACTIVE
+Neo4j Connection: Working
+Data Insertion: Atomic & Idempotent
+Constraints: Enforced on act_id and section_id
+
+API Layer:
+Status: COMPLETE
+Endpoint: /ingest
+Persistence Integration: Active
+Ingestion Summary: Returned
+
+Chunk Layer:
+Status: COMPLETE
+Function: Section-level chunk preparation
+Embeddings: Not yet implemented
+
+Vector Layer:
+Status: NOT STARTED
+
+Hybrid Retrieval:
+Status: NOT STARTED
+
+---
+
+CURRENT DATA FLOW (v0.4)
+
+PDF Upload
+→ Text Extraction
+→ extract_structure()
+→ Deterministic ID Generation
+→ Graph Persistence (Neo4j)
+→ Chunk Preparation
+→ API Response (with ingestion summary)
+
+---
+
+VALIDATED PIPELINE (DAY 3 RESULT)
+
+User Upload
+→ FastAPI /ingest endpoint
+→ PDF Reader Utility
+→ extract_structure()
+→ ID generation
+→ Atomic graph ingestion
+→ Chunk preparation
+→ Structured JSON + Ingestion Summary
+
+Status:
+Pipeline validated and operational with persistence enabled.
+
+---
+
+ACTIVE BRANCH MODEL
+
+feature/* branches → hybrid-rag-dev → main
+
+hybrid-rag-dev:
+Integration branch containing latest stable team progress (v0.4).
+
+---
+
+KNOWN DESIGN DECISIONS
+
+- Structured extraction precedes storage.
+- Backend controls deterministic identity generation.
+- section_id is universal system identifier.
+- Graph persistence must be atomic.
+- MERGE used instead of CREATE for identity nodes.
+- Chunk preparation precedes embeddings.
+- Graph + Vector hybrid retrieval planned.
+- Each layer validated independently before advancing.
+
+---
+
+SYSTEM READINESS
+
+Architecture Alignment: ✅
+Extraction: ✅
+Deterministic Identity: ✅
+Graph Persistence: ✅
+Atomic Transactions: ✅
+Idempotency: ✅
+Chunk Preparation: ✅
+Vector Layer: ⏳ (Next Phase)
+Hybrid Retrieval: ⏳ (Future Phase)

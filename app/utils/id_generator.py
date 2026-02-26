@@ -33,6 +33,3 @@ def generate_chunk_id(section_id: str) -> str:
     """
     return f"{section_id}_{uuid.uuid4().hex[:8]}"
 
-
-print(generate_act_id("Income Tax Act 1961"))
-print(generate_section_id("ITA", "80C", 2023))
