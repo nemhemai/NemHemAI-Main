@@ -1,0 +1,40 @@
+{
+  "document_id": 71,
+  "pages": {
+    "1": {
+      "elements": 14,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "71_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.5,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 5,
+          "text_preview": "-: 11-o p 1)..)-C \"fl."
+        },
+        {
+          "element_id": "71_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "\"?bOciEOI\"bE -·11->"
+        }
+      ]
+    }
+  }
+}

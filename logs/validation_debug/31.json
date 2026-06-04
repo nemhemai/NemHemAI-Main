@@ -1,0 +1,367 @@
+{
+  "document_id": 31,
+  "pages": {
+    "1": {
+      "elements": 17,
+      "flagged": 17,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 56.63,
+      "issues": [
+        {
+          "element_id": "31_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.34,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "dal धी६:-"
+        },
+        {
+          "element_id": "31_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.566,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 33,
+          "text_preview": "न॑.पी.जार .जो.|२62 जोड़ सीटीऊन्स जे52 २0१३ पीजाठजो/जेपीजाएहजो/जपीव जोर्थारीटी/वशी. ¢ /१५, SAS22 SAL, WAAUS WML, AALS, dl"
+        },
+        {
+          "element_id": "31_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.566,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "सरडारश्रीनासा.१.वि.चा. पन न..ज५./१०२०१३/५८५/ड्युन/१, १५.१४/०५/२०१३."
+        },
+        {
+          "element_id": "31_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.566,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "सर२5२श्रीना भ,वि.,न। ५०७ #:00१10२0१3/८८५/७, त..१०/०७/२०१३."
+        },
+        {
+          "element_id": "31_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.566,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "२३२५२श्रीन। भ.वि.न। Yat #:१२५/१०१३/१८ ८८/न, त..१२/०७/२०१३."
+        },
+        {
+          "element_id": "31_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.566,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "wrsizeflert स।.१.वि.ना Yar 3ःजारसीपीजेस/१०२०१३/१८१८/१२३०१।५/४, त१1.१८/०3३/२०१ ५ ."
+        },
+        {
+          "element_id": "31_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.566,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "(प) सर5२श्रीन। स।.१.वि.न। 5२१ #:नज५/१०२०१४/१६४०८ १सचुत1५, 01.२3/03/२०१ ५ ."
+        },
+        {
+          "element_id": "31_p1_e7",
+          "sequence_order": 7,
+          "page_number": 1,
+          "quality_score": 0.566,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "सर॥२श्रीना भ.वि.ना नोटीडिडेशन ने .छजेयजेम/१०२०१४/१०४/पीजारसी/१०१५/ ७१८/>३, त1.२८/०३/२०१५ ."
+        },
+        {
+          "element_id": "31_p1_e8",
+          "sequence_order": 8,
+          "page_number": 1,
+          "quality_score": 0.566,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "सर२श्रीन। म.वि.न। नोटीडि3शन ने .छखजेयजेम/१५5/१०४/पीज।रसी/१०१ ४/२३२/ जे१/१, dl.30/03/204S."
+        },
+        {
+          "element_id": "31_p1_e9",
+          "sequence_order": 9,
+          "page_number": 1,
+          "quality_score": 0.566,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "स२4२श्रीना म.वि.ना नो नोटीडिडेशन ने .छजेयजेन/२०१ ४/१०५/ड३१वी/१०२०१५/ १८३/४, त॥.3१/०३/२०१५४."
+        },
+        {
+          "element_id": "31_p1_e10",
+          "sequence_order": 10,
+          "page_number": 1,
+          "quality_score": 0.566,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "सर२4२श्रीना as विभाना Wat #:नज५/१०२०१३/१४१ ४/५(५।.$। .-२), ०0.२५४/०४/२०१ ५४ ."
+        },
+        {
+          "element_id": "31_p1_e11",
+          "sequence_order": 11,
+          "page_number": 1,
+          "quality_score": 0.566,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "arsiralleat जट विभागना ५० #:नज५/१०२०१३/१४१ 5४/५पी(५॥.$। .-२), त1.१२/०४/२०१ ५४ .,"
+        },
+        {
+          "element_id": "31_p1_e12",
+          "sequence_order": 12,
+          "page_number": 1,
+          "quality_score": 0.566,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "जत्रेची saddled त..४/५)२०१४ नो छु&म न॑..पी..ज२ जो ./२७2 rls सीटीऊच्स जे56-२०१३/पीजाठजो/जेपीजा6जो/जपीव जोथोरीटी/वशी. ०५/२"
+        },
+        {
+          "element_id": "31_p1_e13",
+          "sequence_order": 13,
+          "page_number": 1,
+          "quality_score": 0.34,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "WAL ७ु५म:-"
+        },
+        {
+          "element_id": "31_p1_e14",
+          "sequence_order": 14,
+          "page_number": 1,
+          "quality_score": 0.566,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 129,
+          "text_preview": "जाभुण-१ थी सरडारश्रीना सामान्य alae विभागथी धी. ]४२[त. २७2 जो$ सीटी%न्स-२/सर्वीसीळ जधि[नेयभ-२०१३ siyel घडवामां जाव्या छे"
+        },
+        {
+          "element_id": "31_p1_e15",
+          "sequence_order": 15,
+          "page_number": 1,
+          "quality_score": 0.566,
+          "element_type": "table",
+          "reason": [],
+          "token_count": 97,
+          "text_preview": "सेवानुं गम.: UH नभुना ALS ASA, सेवा जापवानों समय: wu [Bay; सेवानुं गम.: जम नमुना न..७ ASA, सेवा जापवानों समय: ७ दिवस.; स"
+        },
+        {
+          "element_id": "31_p1_e16",
+          "sequence_order": 16,
+          "page_number": 1,
+          "quality_score": 0.566,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 50,
+          "text_preview": "जामुण-८ A १० थी तथा जामुण-५, OWA ८ ना ढाटेरनामांथी wee wala सेवाजो पुरी usa भाटेः-(१)सेव। पुरी पाउनार जविआरी(0€5ंशा०९व O"
+        }
+      ]
+    },
+    "2": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": 54.12,
+      "issues": [
+        {
+          "element_id": "31_p2_e17",
+          "sequence_order": 17,
+          "page_number": 2,
+          "quality_score": 0.541,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 63,
+          "text_preview": "(Designeted Authority)<% जने. सरनामा, aus dor सछ्तिनी ordi wea sracrtl Sal नीये ysoini weasilellradel Magis जामुण-११ भा "
+        },
+        {
+          "element_id": "31_p2_e18",
+          "sequence_order": 18,
+          "page_number": 2,
+          "quality_score": 0.541,
+          "element_type": "table",
+          "reason": [],
+          "token_count": 414,
+          "text_preview": "न., Ada, जविआरीश्रीनो दोहे. जने. Sle गभर, अजवि॥रीश्रीनो de जगे. slaAM, wRsidlalld de गने. Sle नभर; १, UH ANAL iS ASA, wa"
+        }
+      ]
+    },
+    "3": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": 56.92,
+      "issues": [
+        {
+          "element_id": "31_p3_e19",
+          "sequence_order": 19,
+          "page_number": 3,
+          "quality_score": 0.569,
+          "element_type": "table",
+          "reason": [],
+          "token_count": 234,
+          "text_preview": "जम. AMAL 1.9 SA।, HINA अथेरी, SURLSL, ताहुडा नयन WHAAELR ०२४३३- २२००३०, WHAAEL, SURISL ०२४ ३३- २२००३०, प्रात wasizlell, "
+        },
+        {
+          "element_id": "31_p3_e20",
+          "sequence_order": 20,
+          "page_number": 3,
+          "quality_score": 0.569,
+          "element_type": "table",
+          "reason": [],
+          "token_count": 194,
+          "text_preview": "ण., सेवानुंचाम, सेवा जापनार, सेवा पुरी पाडनार जने. Sle. नंगर -, sRaue Aaa होटWA दीन नं५पर, मु २२ सत्ता del गने हीन. नंधर"
+        }
+      ]
+    },
+    "4": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": 57.34,
+      "issues": [
+        {
+          "element_id": "31_p4_e21",
+          "sequence_order": 21,
+          "page_number": 4,
+          "quality_score": 0.573,
+          "element_type": "table",
+          "reason": [],
+          "token_count": 877,
+          "text_preview": "Vig लातेहार डावा जंजेनो, BLULL.: णेडुत लातेहार slat जंगेनी घाणदा., मामबतदारश्री, धरमपुर 0२५३३- २४२०२४: माभवतध६र अ्थेरी, "
+        }
+      ]
+    },
+    "5": {
+      "elements": 9,
+      "flagged": 9,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 54.61,
+      "issues": [
+        {
+          "element_id": "31_p5_e22",
+          "sequence_order": 22,
+          "page_number": 5,
+          "quality_score": 0.546,
+          "element_type": "table",
+          "reason": [],
+          "token_count": 117,
+          "text_preview": "uladall जंजेनो cial, wader झ्येरी, 6म२)॥म., मामबतहारश्री, 8मरणाम ०२४०- २५५२०८८, प्रांतaside, निवासी अधि: ural 50.42२ श्र"
+        },
+        {
+          "element_id": "31_p5_e23",
+          "sequence_order": 23,
+          "page_number": 5,
+          "quality_score": 0.546,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 48,
+          "text_preview": "धी. २४२१ (aide जो$ सीटीऊन 2 पन्वी5 सर्विसीऊ) जि नियम 5यद्ानी, कोणचा 6अो. 01.0१/०४/१५ थी जमवगां जावेव छे.ते Praudrild संभ"
+        },
+        {
+          "element_id": "31_p5_e24",
+          "sequence_order": 24,
+          "page_number": 5,
+          "quality_score": 0.546,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "ula, | संभंधित. wWAsilelad/slalellal ars. A BU तथा BRAS. जमन 5२वा २३ ."
+        },
+        {
+          "element_id": "31_p5_e25",
+          "sequence_order": 25,
+          "page_number": 5,
+          "quality_score": 0.546,
+          "element_type": "heading",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "154 alana २१।न॥:-"
+        },
+        {
+          "element_id": "31_p5_e26",
+          "sequence_order": 26,
+          "page_number": 5,
+          "quality_score": 0.546,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "संयुऊत सयिवश्री सामान्य adla2 Mout, सयिवाक्षय,गांधीनगर das."
+        },
+        {
+          "element_id": "31_p5_e27",
+          "sequence_order": 27,
+          "page_number": 5,
+          "quality_score": 0.546,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "(२)७पसयिवश्री मठेसुक Rout, ware, आंधीनणर ars,"
+        },
+        {
+          "element_id": "31_p5_e28",
+          "sequence_order": 28,
+          "page_number": 5,
+          "quality_score": 0.546,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "GuaBasl गूळ eur, waar, [धीनज२ ars."
+        },
+        {
+          "element_id": "31_p5_e29",
+          "sequence_order": 29,
+          "page_number": 5,
+          "quality_score": 0.328,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "२/- Wil २३."
+        },
+        {
+          "element_id": "31_p5_e30",
+          "sequence_order": 30,
+          "page_number": 5,
+          "quality_score": 0.328,
+          "element_type": "caption",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "५६५2२ AGALS"
+        }
+      ]
+    }
+  }
+}

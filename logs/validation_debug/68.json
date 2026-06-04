@@ -1,0 +1,129 @@
+{
+  "document_id": 68,
+  "pages": {
+    "1": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": 31.39,
+      "issues": [
+        {
+          "element_id": "68_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.314,
+          "element_type": "heading",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "arantera Were foresitrent Hares, arergt"
+        },
+        {
+          "element_id": "68_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.314,
+          "element_type": "table",
+          "reason": [],
+          "token_count": 341,
+          "text_preview": "aaMeahset Wavad AT-at Bat: fa[2[-S =; read ara: AST, aaMeahset Wavad AT-at Bat: HpTH Ware - frat ¢ aitrss 1) AERTS seteT"
+        }
+      ]
+    },
+    "2": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": 32.64,
+      "issues": [
+        {
+          "element_id": "68_p2_e2",
+          "sequence_order": 2,
+          "page_number": 2,
+          "quality_score": 0.326,
+          "element_type": "table",
+          "reason": [],
+          "token_count": 255,
+          "text_preview": "BNA Wer sas 1959: CEaa BNA Wer 3fAfasa 1959; BNA Wer sas 1959: aca wea afer 1959, GO / - ee: reer; BNA Wer sas 1959: BNA"
+        }
+      ]
+    },
+    "3": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "4": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "5": {
+      "elements": 2,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "68_p5_e5",
+          "sequence_order": 5,
+          "page_number": 5,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "a[2 i]"
+        }
+      ]
+    },
+    "6": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "7": {
+      "elements": 4,
+      "flagged": 2,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "68_p7_e8",
+          "sequence_order": 8,
+          "page_number": 7,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ij 2]"
+        },
+        {
+          "element_id": "68_p7_e9",
+          "sequence_order": 9,
+          "page_number": 7,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 6,
+          "text_preview": "© 3 - [4 [| $6"
+        }
+      ]
+    }
+  }
+}

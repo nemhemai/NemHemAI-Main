@@ -1,0 +1,261 @@
+
+
+
+GRIEVANCE AGENT
+5-Day Production-Grade Implementation Plan
+
+NemHem Enhanced Architecture v2  ·  Phase 1 Agent  ·  June 2026
+
+
+
+
+
+Overview & Approach
+
+This plan delivers a production-grade Grievance Agent in 5 focused working days. Each day has a clear theme, concrete tasks, code targets, and measurable deliverables. The agent follows the NemHem v2 architecture: PraisonAI orchestrates the end-to-end workflow; LlamaIndex + Qdrant handle policy retrieval; Neo4j surfaces precedents; OpenHuman adds urgency/tone intelligence; and Hermes captures institutional memory.
+
+Core Workflow (what we are building)
+
+Daily Theme Summary
+
+
+Goals
+All core services running in Docker (Ollama, Qdrant, Neo4j, Redis)
+FastAPI project scaffolded with env config, logging, and health checks
+Document ingestion pipeline reading PDFs/text via Unstructured.io + EasyOCR
+Initial grievance schema defined in Postgres
+
+Task Breakdown
+Morning (0–4 hrs): Environment Setup
+Task 1.1 Create docker-compose.yml
+Services: ollama:latest, qdrant/qdrant, neo4j:5, redis:7, postgres:15
+Volume mounts for persistence; health-check on each service
+Expose ports: Qdrant 6333, Neo4j 7474/7687, Ollama 11434
+Task 1.2 Pull and verify Ollama model
+ollama pull mistral:7b-instruct (or llama3.1:8b if available)
+Test: curl http://localhost:11434/api/generate with a sample prompt
+Task 1.3 Scaffold FastAPI project
+Structure: /app/api, /app/core, /app/agents, /app/pipelines, /app/models
+Install: fastapi, uvicorn, python-dotenv, pydantic-settings, loguru
+Config class loading from .env; structured JSON logging via loguru
+
+Afternoon (4–8 hrs): Intake Endpoint + Ingestion Pipeline
+Task 1.4 Define Grievance schema
+Fields: id (UUID), citizen_id, category (enum), description, attachments[], status, priority, created_at, updated_at
+SQLAlchemy model + Alembic migration
+POST /api/v1/grievances — validates payload, persists to Postgres, returns ticket_id
+Task 1.5 Build document ingestion pipeline
+Unstructured.io partition_pdf() for policy PDFs → clean text chunks
+EasyOCR fallback for scanned documents
+Output: List[dict] with text, source_file, page_number, chunk_id
+Task 1.6 Write ingestion tests
+pytest: ingest 3 sample PDFs; assert chunk count > 0; assert no empty chunks
+
+
+Key Code — Grievance Intake Endpoint
+
+
+Goals
+All policy documents chunked, embedded, and stored in Qdrant
+LlamaIndex retrieval pipeline returning top-k relevant chunks for any query
+Hybrid search (vector + keyword) configured for higher precision
+Retrieval quality benchmarked against 10 sample grievance queries
+
+Task Breakdown
+Morning (0–4 hrs): Embedding + Qdrant Indexing
+Task 2.1 Configure embedding model
+Use sentence-transformers/all-MiniLM-L6-v2 (fast, 384-dim, runs locally)
+Or BAAI/bge-base-en-v1.5 for better retrieval quality on formal documents
+Wrap in a singleton EmbeddingService class with batch_encode()
+Task 2.2 Create Qdrant collections
+Collection: policy_docs — 384-dim vectors, HNSW index, cosine distance
+Collection: grievance_precedents — same schema; populated in Day 3
+Payload schema per point: chunk_id, source_file, page_num, department, text
+Task 2.3 Build and run ingestion script
+Load all PDFs from /data/policy_docs/
+Chunk with RecursiveCharacterTextSplitter (chunk_size=512, overlap=64)
+Batch embed → batch upsert to Qdrant (batch size 100)
+Log: total chunks, ingestion time, any failed files
+
+Afternoon (4–8 hrs): LlamaIndex Retrieval + Hybrid Search
+Task 2.4 Set up LlamaIndex over Qdrant
+QdrantVectorStore → VectorStoreIndex with custom embed model
+RetrieverQueryEngine with similarity_top_k=5
+Enable source node metadata in response for citation generation
+Task 2.5 Add hybrid search with Elasticsearch BM25
+Index same chunks in Elasticsearch with BM25 scorer
+QueryFusionRetriever: combine Qdrant vector results + ES keyword results
+Reciprocal Rank Fusion (RRF) for result merging
+Task 2.6 Retrieval quality tests
+Write 10 sample queries covering different grievance types
+Assert: top-3 results contain relevant policy section for each query
+Log MRR (Mean Reciprocal Rank) score as baseline metric
+
+
+Retrieval Architecture
+
+
+Goals
+PraisonAI Grievance Agent defined with tools and role config
+Classification tool assigns grievance type, priority, and department routing
+Neo4j schema populated with past case nodes; precedent lookup tool working
+Full pipeline: intake ticket → classify → retrieve policy → find precedents
+
+Task Breakdown
+Morning (0–4 hrs): PraisonAI Agent Definition + Classification
+Task 3.1 Define PraisonAI agent config
+Role: 'Government Grievance Specialist'
+Goal: 'Classify incoming citizen complaints, retrieve relevant policy sections, identify similar past cases, and produce a structured resolution ticket'
+Tools: classify_grievance, retrieve_policy, find_precedents, draft_response
+LLM: OllamaLLM(model='mistral:7b-instruct', base_url='http://ollama:11434')
+Task 3.2 Build classify_grievance tool
+Input: raw complaint text
+Prompt: structured output JSON with category, sub_category, priority (HIGH/MEDIUM/LOW), department, sentiment
+Categories: INFRASTRUCTURE, HEALTHCARE, EDUCATION, EMPLOYMENT, FINANCIAL, LEGAL, OTHER
+Output parsed and validated via Pydantic model
+Task 3.3 Write classification tests
+10 sample complaints spanning all 7 categories
+Assert: category matches expected label; priority is valid enum
+
+Afternoon (4–8 hrs): Neo4j Graph Schema + Precedent Tool
+Task 3.4 Design Neo4j graph schema
+Node types: GrievanceCase, Department, PolicyClause, ResolutionAction, CitizenProfile
+Relationships: BELONGS_TO (Case→Dept), RESOLVED_BY (Case→Action), CITES (Case→Clause), SIMILAR_TO (Case→Case)
+Create indexes on GrievanceCase.category and GrievanceCase.status
+Task 3.5 Seed Neo4j with historical cases
+Import 50–100 anonymized past grievance records (or generate synthetic data)
+Create SIMILAR_TO edges via cosine similarity on complaint embeddings
+Link resolved cases to their ResolutionAction nodes
+Task 3.6 Build find_precedents tool
+Input: category, sub_category
+Cypher query: MATCH (c:GrievanceCase)-[:RESOLVED_BY]->(a:ResolutionAction) WHERE c.category=$cat RETURN c, a LIMIT 5
+Returns: list of similar cases with resolution actions and time-to-resolve
+Task 3.7 Integration test: full Day 3 pipeline
+POST a grievance → classification → policy retrieval → precedent lookup
+Assert all three tools return non-empty results
+
+
+Neo4j Graph Schema
+
+
+Goals
+OpenHuman context layer wired in — urgency signals, tone detection, repeat-complaint flag
+Hermes memory layer storing case outcomes and updating retrieval weights
+Ollama draft response generation with policy citations and structured output
+Complete end-to-end pipeline returning a classified ticket + draft response
+
+Task Breakdown
+Morning (0–4 hrs): OpenHuman Integration
+Task 4.1 Implement OpenHuman context analyzer
+Build GrievanceContextAnalyzer wrapping OpenHuman's intent and tone APIs
+Input: complaint text + citizen history from Hermes
+Output: urgency_score (0–10), emotional_state (FRUSTRATED/NEUTRAL/DISTRESSED), is_repeat_complaint (bool), recommended_tone (EMPATHETIC/FORMAL/URGENT)
+Task 4.2 Integrate urgency into priority scoring
+If urgency_score > 7 OR is_repeat_complaint → override priority to HIGH
+Pass recommended_tone to draft generation prompt
+Log OpenHuman signals to structured audit table for compliance
+Task 4.3 OpenHuman unit tests
+Test with 5 complaint types: angry/repeat, calm/first-time, distressed, urgent, neutral
+Assert urgency and tone outputs match expected ranges
+
+Afternoon (4–8 hrs): Hermes Memory + Draft Generation
+Task 4.4 Implement Hermes memory service
+RedisJSON store: citizen_id → { history: [case_ids], frequent_categories: [], last_interaction: datetime }
+get_citizen_context(citizen_id): returns history summary for OpenHuman
+update_case_outcome(case_id, resolution): stores outcome; updates category frequency weights
+Weekly job: recalculate Qdrant retrieval weights based on Hermes resolution patterns
+Task 4.5 Build draft_response tool
+Prompt construction: system role + classification + top-3 policy chunks + top-2 precedents + OpenHuman tone + citizen history summary
+Structured output: { acknowledgment, policy_basis: [clause_refs], proposed_resolution, next_steps, estimated_resolution_days, escalation_required: bool }
+Tone wrapper: prepend empathetic/formal/urgent preamble based on OpenHuman signal
+Task 4.6 Full pipeline integration test
+POST 5 different complaint types through the complete pipeline
+Assert: ticket_id returned, draft response non-empty, policy citations present
+Assert: repeat complaints get HIGH priority
+Measure average pipeline latency; target < 8 seconds end-to-end
+
+
+Complete Pipeline Data Flow
+
+
+Goals
+Keycloak RBAC gating all agent endpoints — OFFICER, SUPERVISOR, ADMIN roles defined
+Structured audit logging for every pipeline stage (compliance-ready)
+Full integration test suite passing (happy path + 5 edge cases)
+Docker Compose production stack with all services, health checks, and restart policies
+README with setup, run, and test instructions
+
+Task Breakdown
+Morning (0–4 hrs): RBAC + Security
+Task 5.1 Configure Keycloak realm and roles
+Realm: nemhem-grievance; Roles: CITIZEN, OFFICER, SUPERVISOR, ADMIN
+CITIZEN: can submit grievances, view own ticket status
+OFFICER: can view assigned tickets, update status, view draft response
+SUPERVISOR: can override priority, view all tickets, access OpenHuman signals
+ADMIN: full access including Hermes memory, Neo4j graph, audit logs
+Task 5.2 Add JWT middleware to FastAPI
+python-keycloak + fastapi-keycloak; verify token on every protected route
+Role-based dependency injectors: require_role('OFFICER'), require_role('ADMIN')
+Sensitive endpoints (OpenHuman signals, raw LLM output) — SUPERVISOR+ only
+Task 5.3 Rate limiting + input sanitization
+slowapi: 100 req/min per citizen_id on intake endpoint
+bleach.clean() on all free-text inputs; max length 5000 chars
+
+Afternoon (4–8 hrs): Observability + Testing + Deploy
+Task 5.4 Structured audit logging
+Every pipeline stage emits: { event, timestamp, grievance_id, user_id, role, duration_ms, status }
+Write to: Postgres audit_log table + loguru JSON log file
+Compliance endpoint: GET /api/v1/admin/audit-log?grievance_id=<id> (ADMIN only)
+Task 5.5 Production test suite
+Happy path: submit → classify → retrieve → draft → verify all fields present
+Edge case 1: empty complaint text → 422 validation error
+Edge case 2: repeat complaint by same citizen → priority auto-elevated to HIGH
+Edge case 3: no matching policy docs → graceful fallback response
+Edge case 4: Ollama timeout (mock) → queue retry with exponential backoff
+Edge case 5: unauthorized access to ADMIN endpoint → 403 Forbidden
+Task 5.6 Finalize Docker Compose production config
+Add: restart: unless-stopped to all services
+Nginx reverse proxy in front of FastAPI; TLS termination config stub
+Production .env.example with all required keys documented
+docker-compose.prod.yml separate from docker-compose.dev.yml
+Task 5.7 Write README.md
+Quick-start: git clone → docker compose up → ingest policy docs → test
+Architecture diagram (text-based), API reference, env var table
+
+
+RBAC Permission Matrix
+
+Production Checklist
+
+
+Infrastructure
+All 7 Docker services boot cleanly with health checks passing
+Persistent volumes configured for Qdrant, Neo4j, Postgres, Redis
+Ollama model pulled and responding to inference requests
+Environment variables documented in .env.example
+
+Pipeline
+Policy documents fully ingested into Qdrant (verify chunk count in dashboard)
+Neo4j seeded with historical cases and SIMILAR_TO edges
+End-to-end latency < 8 seconds on average
+Draft responses include 2+ policy citations
+
+Security & Compliance
+Keycloak JWT validation on all protected endpoints
+Input sanitization on all free-text fields
+Audit log capturing every pipeline stage
+OpenHuman signals accessible only to SUPERVISOR+
+
+Testing
+Happy path integration test passing
+5 edge cases covered (empty input, repeat complaint, timeout, auth, no-match)
+Classification accuracy > 80% on 10-sample benchmark
+Retrieval MRR score logged as baseline for future improvement
+
+Knowledge Transfer
+README with quick-start, architecture overview, and env var reference
+Inline code comments on all PraisonAI tool definitions
+Cypher queries documented in /docs/neo4j_queries.md
+
+
+Confidential — Internal Use Only  ·  NemHem Enhanced Architecture v2  ·  June 2026

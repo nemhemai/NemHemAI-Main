@@ -1,0 +1,211 @@
+{
+  "document_id": 151,
+  "pages": {
+    "1": {
+      "elements": 25,
+      "flagged": 6,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 94.93,
+      "issues": [
+        {
+          "element_id": "151_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.57,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "PREAMBLE."
+        },
+        {
+          "element_id": "151_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.57,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "SECTIONS."
+        },
+        {
+          "element_id": "151_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.57,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Short title."
+        },
+        {
+          "element_id": "151_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.57,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Definitions."
+        },
+        {
+          "element_id": "151_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.57,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Designated authority."
+        },
+        {
+          "element_id": "151_p1_e24",
+          "sequence_order": 24,
+          "page_number": 1,
+          "quality_score": 0.57,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "CONTENTS"
+        }
+      ]
+    },
+    "2": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "3": {
+      "elements": 16,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "4": {
+      "elements": 27,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "5": {
+      "elements": 18,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "6": {
+      "elements": 13,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "7": {
+      "elements": 13,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "8": {
+      "elements": 14,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "151_p8_e117",
+          "sequence_order": 117,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "caption",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "TABLE"
+        }
+      ]
+    },
+    "9": {
+      "elements": 17,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "10": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "11": {
+      "elements": 9,
+      "flagged": 3,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "151_p11_e156",
+          "sequence_order": 156,
+          "page_number": 11,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "( see"
+        },
+        {
+          "element_id": "151_p11_e158",
+          "sequence_order": 158,
+          "page_number": 11,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Annexure-A"
+        },
+        {
+          "element_id": "151_p11_e162",
+          "sequence_order": 162,
+          "page_number": 11,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Annexure-B"
+        }
+      ]
+    }
+  }
+}

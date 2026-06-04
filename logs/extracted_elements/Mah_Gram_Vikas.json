@@ -1,0 +1,1997 @@
+{
+  "document_id": 7,
+  "file_name": "Mah_Gram_Vikas.pdf",
+  "extraction_stats": {
+    "ocr_used": false,
+    "weak_pages": 0,
+    "failed_pages": 0,
+    "docling_errors": 0,
+    "pages_processed": 3
+  },
+  "total_elements": 47,
+  "elements": [
+    {
+      "sequence_order": 0,
+      "element_type": "heading",
+      "element_depth": 1,
+      "section_path": null,
+      "heading_breadcrumb": [
+        "र्वाचा:-"
+      ],
+      "content_original": "र्वाचा:-",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 96.354,
+          "top": 505.55749999999995,
+          "right": 138.05159999999998,
+          "bottom": 486.39602653631283
+        }
+      },
+      "token_count": 2,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "section_header",
+        "page_number": 1,
+        "bbox": {
+          "left": 96.354,
+          "top": 505.55749999999995,
+          "right": 138.05159999999998,
+          "bottom": 486.39602653631283
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p1_e0",
+      "quality_score": 0.6,
+      "is_manual_review": true,
+      "flag_reason": [
+        "low_content"
+      ],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 1,
+      "element_type": "paragraph",
+      "element_depth": 1,
+      "section_path": null,
+      "heading_breadcrumb": [
+        "र्वाचा:-"
+      ],
+      "content_original": "सर्वांसाठी घरे-२०२२ या धोरणाची प्रभार्वी अंमलबजार्वणी करण्यासाठी ग्रामीण भागातील शासकीय जममनीर्वरील मनर्वासी प्रयोजनासाठी क े लेली अमतक्रमणे मनयमानुक ू ल करण्याच्या धोरणात सुधारणा करण्याबाबत.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 329.82,
+          "top": 754.7075,
+          "right": 595.9696499999999,
+          "bottom": 655.8560265363128
+        }
+      },
+      "token_count": 47,
+      "detected_language": "mr",
+      "metadata": {
+        "docling_label": "text",
+        "page_number": 1,
+        "bbox": {
+          "left": 329.82,
+          "top": 754.7075,
+          "right": 595.9696499999999,
+          "bottom": 655.8560265363128
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p1_e1",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 2,
+      "element_type": "heading",
+      "element_depth": 1,
+      "section_path": null,
+      "heading_breadcrumb": [
+        "महाराष्ट्र शासन ग्राम मर्वकास मर्वभाग"
+      ],
+      "content_original": "महाराष्ट्र शासन ग्राम मर्वकास मर्वभाग",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 298.79,
+          "top": 635.2574999999999,
+          "right": 393.4916,
+          "bottom": 596.2060265363128
+        }
+      },
+      "token_count": 9,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "section_header",
+        "page_number": 1,
+        "bbox": {
+          "left": 298.79,
+          "top": 635.2574999999999,
+          "right": 393.4916,
+          "bottom": 596.2060265363128
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p1_e2",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 3,
+      "element_type": "paragraph",
+      "element_depth": 1,
+      "section_path": null,
+      "heading_breadcrumb": [
+        "महाराष्ट्र शासन ग्राम मर्वकास मर्वभाग"
+      ],
+      "content_original": "शासन पुरकपत्र क्रमांकः प्रआयो-202५/प्र.क्र.235/E-1432007/योजना-१० बांधकाम भर्वन, 25 मर्झबान रोड, फोर्झ, मुंबई - 400 001.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 151.19,
+          "top": 595.4875,
+          "right": 551.3516000000001,
+          "bottom": 536.5560265363129
+        }
+      },
+      "token_count": 30,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "text",
+        "page_number": 1,
+        "bbox": {
+          "left": 151.19,
+          "top": 595.4875,
+          "right": 551.3516000000001,
+          "bottom": 536.5560265363129
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p1_e3",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 4,
+      "element_type": "paragraph",
+      "element_depth": 1,
+      "section_path": null,
+      "heading_breadcrumb": [
+        "महाराष्ट्र शासन ग्राम मर्वकास मर्वभाग"
+      ],
+      "content_original": "तारीख: 12 जानेर्वारी 2026",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 279.16,
+          "top": 535.8175,
+          "right": 413.13160000000005,
+          "bottom": 516.6560265363129
+        }
+      },
+      "token_count": 6,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "text",
+        "page_number": 1,
+        "bbox": {
+          "left": 279.16,
+          "top": 535.8175,
+          "right": 413.13160000000005,
+          "bottom": 516.6560265363129
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p1_e4",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 5,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": null,
+      "heading_breadcrumb": [
+        "महाराष्ट्र शासन ग्राम मर्वकास मर्वभाग"
+      ],
+      "content_original": "ग्राममर्वकास मर्वभाग शासन मनणझय क्रमांक:-प्रआयो-2017/प्र.क्र.348/योजना-10 मि. 16 फ े ब्रुर्वारी, 2018.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 151.93,
+          "top": 485.67749999999995,
+          "right": 586.6320499999999,
+          "bottom": 446.62602653631285
+        }
+      },
+      "token_count": 25,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 1,
+        "bbox": {
+          "left": 151.93,
+          "top": 485.67749999999995,
+          "right": 586.6320499999999,
+          "bottom": 446.62602653631285
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p1_e5",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 6,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": null,
+      "heading_breadcrumb": [
+        "महाराष्ट्र शासन ग्राम मर्वकास मर्वभाग"
+      ],
+      "content_original": "महसूल र्व र्वन मर्वभाग शासन मनणझय क्रमांक:-कायझशा-2025/प्र.क्र.06/म-8 मि. 09 एमप्रल, 2025.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 151.93,
+          "top": 445.90749999999997,
+          "right": 560.9816000000001,
+          "bottom": 406.86602653631286
+        }
+      },
+      "token_count": 22,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 1,
+        "bbox": {
+          "left": 151.93,
+          "top": 445.90749999999997,
+          "right": 560.9816000000001,
+          "bottom": 406.86602653631286
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p1_e6",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 7,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": null,
+      "heading_breadcrumb": [
+        "महाराष्ट्र शासन ग्राम मर्वकास मर्वभाग"
+      ],
+      "content_original": "मर्वभागीय आयुक्त छत्रपती संभाजीनगर यांचे क्र. 2025/मशाका1/र.र्व.का./सममती सुसुमत्रकरण/प्र.क्र./कामर्व-266, मि. 09 जुलै 2025 रोजीचे पत्र",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 151.93,
+          "top": 406.0175,
+          "right": 560.9802999999998,
+          "bottom": 366.9760265363129
+        }
+      },
+      "token_count": 33,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 1,
+        "bbox": {
+          "left": 151.93,
+          "top": 406.0175,
+          "right": 560.9802999999998,
+          "bottom": 366.9760265363129
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p1_e7",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 8,
+      "element_type": "heading",
+      "element_depth": 1,
+      "section_path": null,
+      "heading_breadcrumb": [
+        "प्रस्तार्वना:-"
+      ],
+      "content_original": "प्रस्तार्वना:-",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 96.354,
+          "top": 355.97749999999996,
+          "right": 155.95159999999998,
+          "bottom": 336.81602653631285
+        }
+      },
+      "token_count": 3,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "section_header",
+        "page_number": 1,
+        "bbox": {
+          "left": 96.354,
+          "top": 355.97749999999996,
+          "right": 155.95159999999998,
+          "bottom": 336.81602653631285
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p1_e8",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 9,
+      "element_type": "paragraph",
+      "element_depth": 1,
+      "section_path": null,
+      "heading_breadcrumb": [
+        "प्रस्तार्वना:-"
+      ],
+      "content_original": "पुणे येथे मिनांक ०३ र्व ०४ एमप्रल, २०२५ रोजी संपन्न र्ालेल्या महसूल पमरषिेमध्ये मा. मुख्यमंत्री महोिय, महाराष्ट्र राज्य यांनी मिलेल्या मनिेशास अनुसरुन कायझक्षम, लोकामभमुख प्रशासन मनर्ममतीसाठी मर्वभागामाफ झ त गठीत करण्यात आलेल्या सममतयांचे पुनर्मर्वलोकन करण्यात आले. मर्वभागीय आयुक्त छत्रपती संभाजीनगर यांनी पुनर्मर्वलोकन करुन शासन मनणझय मि. 16/02/2018 मधील पमरच्छेि क्रमांक 'ई' मधील नमुि सममतीचे पुनगझठन करण्याची मशफारस मि. 09 जुलै 2025 च्या पत्रान्र्वये क े ली आहे. तयास अनुसरुन पु ील प्रमाणे पुरकपत्र मनगझममत करण्यात येत आहे.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 96.354,
+          "top": 336.0875,
+          "right": 596.0516,
+          "bottom": 202.44602653631284
+        }
+      },
+      "token_count": 131,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "text",
+        "page_number": 1,
+        "bbox": {
+          "left": 96.354,
+          "top": 336.0875,
+          "right": 596.0516,
+          "bottom": 202.44602653631284
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p1_e9",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 10,
+      "element_type": "heading",
+      "element_depth": 1,
+      "section_path": null,
+      "heading_breadcrumb": [
+        "शासन पुरकपत्र:"
+      ],
+      "content_original": "शासन पुरकपत्र:",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 96.354,
+          "top": 194.90750000000003,
+          "right": 180.5316,
+          "bottom": 175.7460265363129
+        }
+      },
+      "token_count": 3,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "section_header",
+        "page_number": 1,
+        "bbox": {
+          "left": 96.354,
+          "top": 194.90750000000003,
+          "right": 180.5316,
+          "bottom": 175.7460265363129
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p1_e10",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 11,
+      "element_type": "paragraph",
+      "element_depth": 1,
+      "section_path": null,
+      "heading_breadcrumb": [
+        "शासन पुरकपत्र:"
+      ],
+      "content_original": "शासन मनणझय मि. 16/02/2018 च्या पमरच्छेि '(ई)' येथे नमुि सममतीच्या ऐर्वजी पु ीलप्रमाणे सममती गठीत करण्यात येत आहे.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 96.354,
+          "top": 172.0575,
+          "right": 595.9141000000001,
+          "bottom": 129.92602653631286
+        }
+      },
+      "token_count": 28,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "text",
+        "page_number": 1,
+        "bbox": {
+          "left": 96.354,
+          "top": 172.0575,
+          "right": 595.9141000000001,
+          "bottom": 129.92602653631286
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p1_e11",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 12,
+      "element_type": "table",
+      "element_depth": 1,
+      "section_path": null,
+      "heading_breadcrumb": [
+        "शासन पुरकपत्र:"
+      ],
+      "content_original": "1, उप मर्वभागीय अमधकारी, अध्यक्ष; 2, गर् मर्वकास अमधकारी, सिस्य समचर्व; 3, तहसीलिार, सिस्य; 4, सहायक संचालक नगररचना यांचे प्रमतमनधी, सिस्य; 5, उपअमधक्षक भूमी अमभलेख, सिस्य; 6, पोलीस मनमरक्षक, सिस्य",
+      "structured_content": {
+        "table_id": "table_p1_2310434580304",
+        "is_continuation": false,
+        "continuation_of": null,
+        "num_rows": 6,
+        "num_cols": 3,
+        "num_header_rows": 0,
+        "headers": [],
+        "rows": [
+          {
+            "row_idx": 0,
+            "is_section_separator": false,
+            "cells": [
+              {
+                "col_idx": 0,
+                "text": "1",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 1,
+                "text": "उप मर्वभागीय अमधकारी",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 2,
+                "text": "अध्यक्ष",
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_idx": 1,
+            "is_section_separator": false,
+            "cells": [
+              {
+                "col_idx": 0,
+                "text": "2",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 1,
+                "text": "गर् मर्वकास अमधकारी",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 2,
+                "text": "सिस्य समचर्व",
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_idx": 2,
+            "is_section_separator": false,
+            "cells": [
+              {
+                "col_idx": 0,
+                "text": "3",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 1,
+                "text": "तहसीलिार",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 2,
+                "text": "सिस्य",
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_idx": 3,
+            "is_section_separator": false,
+            "cells": [
+              {
+                "col_idx": 0,
+                "text": "4",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 1,
+                "text": "सहायक संचालक नगररचना यांचे प्रमतमनधी",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 2,
+                "text": "सिस्य",
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_idx": 4,
+            "is_section_separator": false,
+            "cells": [
+              {
+                "col_idx": 0,
+                "text": "5",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 1,
+                "text": "उपअमधक्षक भूमी अमभलेख",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 2,
+                "text": "सिस्य",
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_idx": 5,
+            "is_section_separator": false,
+            "cells": [
+              {
+                "col_idx": 0,
+                "text": "6",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 1,
+                "text": "पोलीस मनमरक्षक",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 2,
+                "text": "सिस्य",
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          }
+        ],
+        "nl_representation": "1, उप मर्वभागीय अमधकारी, अध्यक्ष; 2, गर् मर्वकास अमधकारी, सिस्य समचर्व; 3, तहसीलिार, सिस्य; 4, सहायक संचालक नगररचना यांचे प्रमतमनधी, सिस्य; 5, उपअमधक्षक भूमी अमभलेख, सिस्य; 6, पोलीस मनमरक्षक, सिस्य",
+        "markdown": "|---|---|---|\n| 1 | उप मर्वभागीय अमधकारी | अध्यक्ष |\n| 2 | गर् मर्वकास अमधकारी | सिस्य समचर्व |\n| 3 | तहसीलिार | सिस्य |\n| 4 | सहायक संचालक नगररचना यांचे प्रमतमनधी | सिस्य |\n| 5 | उपअमधक्षक भूमी अमभलेख | सिस्य |\n| 6 | पोलीस मनमरक्षक | सिस्य |",
+        "footnotes": [],
+        "source_pages": [
+          1
+        ],
+        "section_path": null,
+        "table_type": "mixed"
+      },
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 94.76277160644531,
+          "top": 127.74322509765625,
+          "right": 592.6891479492188,
+          "bottom": 2.89349365234375
+        }
+      },
+      "token_count": 49,
+      "detected_language": "hi",
+      "metadata": {
+        "is_table": true,
+        "docling_label": "table",
+        "page_number": 1,
+        "bbox": {
+          "left": 94.76277160644531,
+          "top": 127.74322509765625,
+          "right": 592.6891479492188,
+          "bottom": 2.89349365234375
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p1_e12",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 13,
+      "element_type": "paragraph",
+      "element_depth": 1,
+      "section_path": null,
+      "heading_breadcrumb": [],
+      "content_original": "सिर शासन पुरकपत्र महाराष्ट्र शासनाच्या ww.maharashtra.gov.in या संक े तस्थळार्वर उपलब्ध करण्यात आले असून तयाचा संगणक संक े तांक 202601121305499720 असा आहे. हा आिेश मडजीर्ल स्र्वाक्षरीने साक्षांमकत करुन का ण्यात येत आहे.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 37.05,
+          "top": 691.1975,
+          "right": 536.81215,
+          "bottom": 626.2160265363128
+        }
+      },
+      "token_count": 54,
+      "detected_language": "mr",
+      "metadata": {
+        "docling_label": "text",
+        "page_number": 2,
+        "bbox": {
+          "left": 37.05,
+          "top": 691.1975,
+          "right": 536.81215,
+          "bottom": 626.2160265363128
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p2_e13",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 14,
+      "element_type": "paragraph",
+      "element_depth": 1,
+      "section_path": null,
+      "heading_breadcrumb": [],
+      "content_original": "महाराष्ट्राचे राज्यपाल यांच्या आिेशानुसार र्व नांर्वाने.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 74.124,
+          "top": 622.4075,
+          "right": 329.0016,
+          "bottom": 603.2460265363129
+        }
+      },
+      "token_count": 14,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "text",
+        "page_number": 2,
+        "bbox": {
+          "left": 74.124,
+          "top": 622.4075,
+          "right": 329.0016,
+          "bottom": 603.2460265363129
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p2_e14",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 15,
+      "element_type": "section",
+      "element_depth": 1,
+      "section_path": "VARSHA M BHAROSE",
+      "heading_breadcrumb": [
+        "VARSHA M BHAROSE"
+      ],
+      "content_original": "VARSHA M BHAROSE",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 332.86600011999997,
+          "top": 586.5389549932672,
+          "right": 441.2796891296411,
+          "bottom": 498.82142845935397
+        }
+      },
+      "token_count": 3,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "section_header",
+        "page_number": 2,
+        "bbox": {
+          "left": 332.86600011999997,
+          "top": 586.5389549932672,
+          "right": 441.2796891296411,
+          "bottom": 498.82142845935397
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p2_e15",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 16,
+      "element_type": "paragraph",
+      "element_depth": 1,
+      "section_path": "VARSHA M BHAROSE",
+      "heading_breadcrumb": [
+        "VARSHA M BHAROSE"
+      ],
+      "content_original": "Digitally signed by VARSHA M BHAROSE DN: c=IN, o=GOVERNMENT OF MAHARASHTRA, ou=RURAL DEVELOPMENT DEPARTMENT, 2.5.4.20=2F3096A175796CC670522C4AFF 97DA20B708981B5122E87C8346C4CC746 8F821, postalCode=40032, st=Maharashtra, serialNumber=1BD844032884BBF2167BC 99CD85325223ACEEF69D02BD455B7CA6 972491623E0, cn=VARSHA M BHAROSE",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 443.589413406808,
+          "top": 585.8398557046849,
+          "right": 548.7327440240059,
+          "bottom": 508.56755979055293
+        }
+      },
+      "token_count": 25,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "text",
+        "page_number": 2,
+        "bbox": {
+          "left": 443.589413406808,
+          "top": 585.8398557046849,
+          "right": 548.7327440240059,
+          "bottom": 508.56755979055293
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p2_e16",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 17,
+      "element_type": "paragraph",
+      "element_depth": 1,
+      "section_path": "VARSHA M BHAROSE",
+      "heading_breadcrumb": [
+        "VARSHA M BHAROSE"
+      ],
+      "content_original": "Date: 2026.01.12 15:12:25 +05'30'",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 443.589413406808,
+          "top": 506.4690176720448,
+          "right": 526.9115644054648,
+          "bottom": 501.35202906031293
+        }
+      },
+      "token_count": 4,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "text",
+        "page_number": 2,
+        "bbox": {
+          "left": 443.589413406808,
+          "top": 506.4690176720448,
+          "right": 526.9115644054648,
+          "bottom": 501.35202906031293
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p2_e17",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 18,
+      "element_type": "paragraph",
+      "element_depth": 1,
+      "section_path": "VARSHA M BHAROSE",
+      "heading_breadcrumb": [
+        "VARSHA M BHAROSE"
+      ],
+      "content_original": "(र्व.मुं.भरोसे) सह समचर्व, महाराष्ट्र शासन",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 37.05,
+          "top": 494.0675,
+          "right": 472.6816,
+          "bottom": 455.0260265363129
+        }
+      },
+      "token_count": 10,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "text",
+        "page_number": 2,
+        "bbox": {
+          "left": 37.05,
+          "top": 494.0675,
+          "right": 472.6816,
+          "bottom": 455.0260265363129
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p2_e18",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 19,
+      "element_type": "heading",
+      "element_depth": 1,
+      "section_path": "VARSHA M BHAROSE",
+      "heading_breadcrumb": [
+        "प्रत,"
+      ],
+      "content_original": "प्रत,",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 37.05,
+          "top": 454.30749999999995,
+          "right": 66.2946,
+          "bottom": 435.14602653631283
+        }
+      },
+      "token_count": 1,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "section_header",
+        "page_number": 2,
+        "bbox": {
+          "left": 37.05,
+          "top": 454.30749999999995,
+          "right": 66.2946,
+          "bottom": 435.14602653631283
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p2_e19",
+      "quality_score": 0.6,
+      "is_manual_review": true,
+      "flag_reason": [
+        "low_content"
+      ],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 20,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "VARSHA M BHAROSE",
+      "heading_breadcrumb": [
+        "प्रत,"
+      ],
+      "content_original": "मा. राज्यपाल यांचे समचर्व",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 55.575,
+          "top": 434.41749999999996,
+          "right": 198.1916,
+          "bottom": 415.25602653631285
+        }
+      },
+      "token_count": 6,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 2,
+        "bbox": {
+          "left": 55.575,
+          "top": 434.41749999999996,
+          "right": 198.1916,
+          "bottom": 415.25602653631285
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p2_e20",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 21,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "VARSHA M BHAROSE",
+      "heading_breadcrumb": [
+        "प्रत,"
+      ],
+      "content_original": "मा. मुख्यमंत्री यांचे प्रधान समचर्व, मंत्रालय, मुंबई.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 55.575,
+          "top": 411.4475,
+          "right": 306.15160000000003,
+          "bottom": 392.2860265363129
+        }
+      },
+      "token_count": 13,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 2,
+        "bbox": {
+          "left": 55.575,
+          "top": 411.4475,
+          "right": 306.15160000000003,
+          "bottom": 392.2860265363129
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p2_e21",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 22,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "VARSHA M BHAROSE",
+      "heading_breadcrumb": [
+        "प्रत,"
+      ],
+      "content_original": "मा.उपमुख्यमंत्री (नगरमर्वकास र्व गृहमनमाण)यांचे प्रधान समचर्व, मंत्रालय, मुंबई",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 55.575,
+          "top": 388.59749999999997,
+          "right": 440.5416,
+          "bottom": 369.43602653631285
+        }
+      },
+      "token_count": 19,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 2,
+        "bbox": {
+          "left": 55.575,
+          "top": 388.59749999999997,
+          "right": 440.5416,
+          "bottom": 369.43602653631285
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p2_e22",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 23,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "VARSHA M BHAROSE",
+      "heading_breadcrumb": [
+        "प्रत,"
+      ],
+      "content_original": "मा.उपमुख्यमंत्री (मर्वत्त र्व मनयोजन)यांचे प्रधान समचर्व, मंत्रालय, मुंबई",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 55.575,
+          "top": 365.72749999999996,
+          "right": 397.07160000000005,
+          "bottom": 346.56602653631285
+        }
+      },
+      "token_count": 18,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 2,
+        "bbox": {
+          "left": 55.575,
+          "top": 365.72749999999996,
+          "right": 397.07160000000005,
+          "bottom": 346.56602653631285
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p2_e23",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 24,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "VARSHA M BHAROSE",
+      "heading_breadcrumb": [
+        "प्रत,"
+      ],
+      "content_original": "सर्वझ मंत्री र्व राज्यमंत्री यांचे खाजगी समचर्व, मंत्रालय, मुंबई.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 55.575,
+          "top": 342.8875,
+          "right": 352.7416,
+          "bottom": 323.7260265363129
+        }
+      },
+      "token_count": 16,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 2,
+        "bbox": {
+          "left": 55.575,
+          "top": 342.8875,
+          "right": 352.7416,
+          "bottom": 323.7260265363129
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p2_e24",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 25,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "VARSHA M BHAROSE",
+      "heading_breadcrumb": [
+        "प्रत,"
+      ],
+      "content_original": "मा.मर्वरोधी पक्ष नेता, मर्वधान सभा/ मर्वधान पमरषि, महाराष्ट्र मर्वधानमंडळ समचर्वालय, मुंबई",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 55.575,
+          "top": 319.90749999999997,
+          "right": 497.63160000000005,
+          "bottom": 300.74602653631285
+        }
+      },
+      "token_count": 22,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 2,
+        "bbox": {
+          "left": 55.575,
+          "top": 319.90749999999997,
+          "right": 497.63160000000005,
+          "bottom": 300.74602653631285
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p2_e25",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 26,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "VARSHA M BHAROSE",
+      "heading_breadcrumb": [
+        "प्रत,"
+      ],
+      "content_original": "सर्वझ मर्वधानसभा र्व मर्वधान पमरषि सिस्य.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 55.575,
+          "top": 297.0675,
+          "right": 268.4916,
+          "bottom": 277.9060265363129
+        }
+      },
+      "token_count": 10,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 2,
+        "bbox": {
+          "left": 55.575,
+          "top": 297.0675,
+          "right": 268.4916,
+          "bottom": 277.9060265363129
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p2_e26",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 27,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "VARSHA M BHAROSE",
+      "heading_breadcrumb": [
+        "प्रत,"
+      ],
+      "content_original": "मा.मुख्य समचर्व, यांचे र्वरीष्ट्ठ स्र्वीय सहायक, मंत्रालय, मुंबई",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 55.575,
+          "top": 274.2175,
+          "right": 357.0616,
+          "bottom": 255.05602653631286
+        }
+      },
+      "token_count": 16,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 2,
+        "bbox": {
+          "left": 55.575,
+          "top": 274.2175,
+          "right": 357.0616,
+          "bottom": 255.05602653631286
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p2_e27",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 28,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "VARSHA M BHAROSE",
+      "heading_breadcrumb": [
+        "प्रत,"
+      ],
+      "content_original": "महालेखापाल (लेखा र्व अनुज्ञेयता), महाराष्ट्र राज्य-१, मुंबई.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 55.575,
+          "top": 251.24749999999995,
+          "right": 361.13160000000005,
+          "bottom": 232.08602653631283
+        }
+      },
+      "token_count": 15,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 2,
+        "bbox": {
+          "left": 55.575,
+          "top": 251.24749999999995,
+          "right": 361.13160000000005,
+          "bottom": 232.08602653631283
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p2_e28",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 29,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "VARSHA M BHAROSE",
+      "heading_breadcrumb": [
+        "प्रत,"
+      ],
+      "content_original": "महालेखापाल (लेखापरीक्षण) महाराष्ट्र राज्य, मुंबई-१.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 55.575,
+          "top": 228.39750000000004,
+          "right": 331.4916,
+          "bottom": 209.23602653631292
+        }
+      },
+      "token_count": 12,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 2,
+        "bbox": {
+          "left": 55.575,
+          "top": 228.39750000000004,
+          "right": 331.4916,
+          "bottom": 209.23602653631292
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p2_e29",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 30,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "VARSHA M BHAROSE",
+      "heading_breadcrumb": [
+        "प्रत,"
+      ],
+      "content_original": "महालेखापाल (लेखा र्व अनुज्ञेयता), महाराष्ट्र राज्य-२, नागपूर.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 55.575,
+          "top": 205.5475,
+          "right": 372.0016,
+          "bottom": 186.3860265363129
+        }
+      },
+      "token_count": 15,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 2,
+        "bbox": {
+          "left": 55.575,
+          "top": 205.5475,
+          "right": 372.0016,
+          "bottom": 186.3860265363129
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p2_e30",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 31,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "VARSHA M BHAROSE",
+      "heading_breadcrumb": [
+        "प्रत,"
+      ],
+      "content_original": "महालेखापाल (लेखापमरक्षण), महाराष्ट्र राज्य-२, नागपूर.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 55.575,
+          "top": 182.5575,
+          "right": 346.4416,
+          "bottom": 163.3960265363129
+        }
+      },
+      "token_count": 13,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 2,
+        "bbox": {
+          "left": 55.575,
+          "top": 182.5575,
+          "right": 346.4416,
+          "bottom": 163.3960265363129
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p2_e31",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 32,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "VARSHA M BHAROSE",
+      "heading_breadcrumb": [
+        "प्रत,"
+      ],
+      "content_original": "अमधिान र्व लेखा अमधकारी, मुंबई.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 55.575,
+          "top": 159.70749999999998,
+          "right": 238.7216,
+          "bottom": 140.54602653631287
+        }
+      },
+      "token_count": 7,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 2,
+        "bbox": {
+          "left": 55.575,
+          "top": 159.70749999999998,
+          "right": 238.7216,
+          "bottom": 140.54602653631287
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p2_e32",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 33,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "VARSHA M BHAROSE",
+      "heading_breadcrumb": [
+        "प्रत,"
+      ],
+      "content_original": "मनर्वासी लेखा परीक्षा अमधकारी, मुंबई",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 55.575,
+          "top": 136.85749999999996,
+          "right": 251.6916,
+          "bottom": 117.69602653631284
+        }
+      },
+      "token_count": 9,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 2,
+        "bbox": {
+          "left": 55.575,
+          "top": 136.85749999999996,
+          "right": 251.6916,
+          "bottom": 117.69602653631284
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p2_e33",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 34,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "VARSHA M BHAROSE",
+      "heading_breadcrumb": [
+        "प्रत,"
+      ],
+      "content_original": "अप्पर मुख्य समचर्व/ प्रधान समचर्व/समचर्व, मंत्रालयीन प्रशासकीय मर्वभाग (सर्वझ)",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 55.575,
+          "top": 114.01750000000004,
+          "right": 441.0416,
+          "bottom": 94.85602653631281
+        }
+      },
+      "token_count": 19,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 2,
+        "bbox": {
+          "left": 55.575,
+          "top": 114.01750000000004,
+          "right": 441.0416,
+          "bottom": 94.85602653631281
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p2_e34",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 35,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "VARSHA M BHAROSE",
+      "heading_breadcrumb": [
+        "प्रत,"
+      ],
+      "content_original": "सर्वझ मर्वभागीय आयुक्त",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 55.575,
+          "top": 91.0435,
+          "right": 179.5416,
+          "bottom": 71.88202653631288
+        }
+      },
+      "token_count": 5,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 2,
+        "bbox": {
+          "left": 55.575,
+          "top": 91.0435,
+          "right": 179.5416,
+          "bottom": 71.88202653631288
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p2_e35",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 36,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "VARSHA M BHAROSE",
+      "heading_breadcrumb": [
+        "प्रत,"
+      ],
+      "content_original": "सर्वझ मजल्हामधकारी",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 55.575,
+          "top": 68.19650000000001,
+          "right": 165.0916,
+          "bottom": 49.0350265363129
+        }
+      },
+      "token_count": 4,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 2,
+        "bbox": {
+          "left": 55.575,
+          "top": 68.19650000000001,
+          "right": 165.0916,
+          "bottom": 49.0350265363129
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p2_e36",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 37,
+      "element_type": "section",
+      "element_depth": 2,
+      "section_path": "18.",
+      "heading_breadcrumb": [
+        "प्रत,",
+        "18."
+      ],
+      "content_original": "18.मुख्य कायझकारी अमधकारी, मजल्हा पमरषि (सर्वझ)",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 55.451,
+          "top": 45.34850000000006,
+          "right": 300.8416,
+          "bottom": 26.18702653631283
+        }
+      },
+      "token_count": 11,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 2,
+        "bbox": {
+          "left": 55.451,
+          "top": 45.34850000000006,
+          "right": 300.8416,
+          "bottom": 26.18702653631283
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p2_e37",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 38,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": null,
+      "heading_breadcrumb": [],
+      "content_original": "मुख्य कायझकारी अमधकारी, महाराष्ट्र राज्य जीर्वनोन्नती अमभयान, सी.बी.डी. बेलापूर, नर्वी मुंबई",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 114.88,
+          "top": 714.1675,
+          "right": 580.1216000000001,
+          "bottom": 695.0060265363129
+        }
+      },
+      "token_count": 23,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 3,
+        "bbox": {
+          "left": 114.88,
+          "top": 714.1675,
+          "right": 580.1216000000001,
+          "bottom": 695.0060265363129
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p3_e38",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 39,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": null,
+      "heading_breadcrumb": [],
+      "content_original": "संचालक, राज्य व्यर्वस्थापन कक्ष-ग्रामीण गृहमनमाण, सी.बी.डी., बेलापूर, नर्वी मुंबई",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 110.31,
+          "top": 691.3275,
+          "right": 529.2416000000001,
+          "bottom": 672.1660265363129
+        }
+      },
+      "token_count": 20,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 3,
+        "bbox": {
+          "left": 110.31,
+          "top": 691.3275,
+          "right": 529.2416000000001,
+          "bottom": 672.1660265363129
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p3_e39",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 40,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": null,
+      "heading_breadcrumb": [],
+      "content_original": "संचालक, समाज कल्याण, महाराष्ट्र राज्य, पुणे.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 114.88,
+          "top": 668.4775,
+          "right": 367.5616,
+          "bottom": 649.3160265363128
+        }
+      },
+      "token_count": 11,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 3,
+        "bbox": {
+          "left": 114.88,
+          "top": 668.4775,
+          "right": 367.5616,
+          "bottom": 649.3160265363128
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p3_e40",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 41,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": null,
+      "heading_breadcrumb": [],
+      "content_original": "आयुक्त, आमिर्वासी मर्वकास, नामशक",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 114.88,
+          "top": 645.5074999999999,
+          "right": 312.33160000000004,
+          "bottom": 626.3460265363128
+        }
+      },
+      "token_count": 8,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 3,
+        "bbox": {
+          "left": 114.88,
+          "top": 645.5074999999999,
+          "right": 312.33160000000004,
+          "bottom": 626.3460265363128
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p3_e41",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 42,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": null,
+      "heading_breadcrumb": [],
+      "content_original": "ग्राम मर्वकास र्व जलसंधारण मर्वभागातील सर्वझ सह/उप समचर्व/अर्वर समचर्व/ कक्ष अमधकारी, मंत्रालय, मुंबई",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 114.88,
+          "top": 622.6575,
+          "right": 595.798672,
+          "bottom": 580.6460265363129
+        }
+      },
+      "token_count": 25,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 3,
+        "bbox": {
+          "left": 114.88,
+          "top": 622.6575,
+          "right": 595.798672,
+          "bottom": 580.6460265363129
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p3_e42",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 43,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": null,
+      "heading_breadcrumb": [],
+      "content_original": "उप समचर्व, सामामजक न्याय, आमिर्वासी मर्वकास, अल्पसंख्यांक मर्वकास मर्वभाग, मंत्रालय, मुंबई 25. उप समचर्व, मनयोजन (का.१४११ र्व १४१४) र्व मर्वत्त मर्वभाग (का. व्यय-१५ र्व अथझ-१७) मंत्रालय, मुंबई 26. प्रकल्प संचालक, मजल्हा ग्रामीण मर्वकास यंत्रणा (सर्वझ)",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 114.88,
+          "top": 576.8375,
+          "right": 593.4616,
+          "bottom": 511.95602653631283
+        }
+      },
+      "token_count": 62,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 3,
+        "bbox": {
+          "left": 114.88,
+          "top": 576.8375,
+          "right": 593.4616,
+          "bottom": 511.95602653631283
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p3_e43",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 44,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": null,
+      "heading_breadcrumb": [],
+      "content_original": "गर् मर्वकास अमधकारी, पंचायत सममती (सर्वझ)",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 114.88,
+          "top": 508.1475,
+          "right": 344.3416,
+          "bottom": 488.98602653631286
+        }
+      },
+      "token_count": 10,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 3,
+        "bbox": {
+          "left": 114.88,
+          "top": 508.1475,
+          "right": 344.3416,
+          "bottom": 488.98602653631286
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p3_e44",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 45,
+      "element_type": "section",
+      "element_depth": 2,
+      "section_path": "28.",
+      "heading_breadcrumb": [
+        "28."
+      ],
+      "content_original": "28.अमतमरक्त संचालक, एकात्तमक ग्रामीण मर्वकास कायझक्रम कक्ष, बांधकाम भर्वन, फोर्झ, मुंबई.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 114.76,
+          "top": 485.29749999999996,
+          "right": 562.0916,
+          "bottom": 466.13602653631284
+        }
+      },
+      "token_count": 22,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 3,
+        "bbox": {
+          "left": 114.76,
+          "top": 485.29749999999996,
+          "right": 562.0916,
+          "bottom": 466.13602653631284
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p3_e45",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    },
+    {
+      "sequence_order": 46,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "28.",
+      "heading_breadcrumb": [
+        "28."
+      ],
+      "content_original": "मनर्वड नस्ती (कायासन योजना-१०)",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 114.88,
+          "top": 462.4575,
+          "right": 305.9116,
+          "bottom": 443.29602653631287
+        }
+      },
+      "token_count": 7,
+      "detected_language": "hi",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 3,
+        "bbox": {
+          "left": 114.88,
+          "top": 462.4575,
+          "right": 305.9116,
+          "bottom": 443.29602653631287
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "7_p3_e46",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 7
+    }
+  ]
+}

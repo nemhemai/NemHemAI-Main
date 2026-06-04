@@ -1,0 +1,31 @@
+# Environment
+.venv
+venv
+env
+.env
+__pycache__
+*.pyc
+
+# Data and Storage (Will be mounted as volumes)
+data/
+storage/
+models/
+
+# Git
+.git
+.gitignore
+
+# IDEs
+.vscode
+.idea
+
+# Node
+node_modules/
+npm-debug.log
+
+# System
+.DS_Store
+Thumbs.db
+
+# Huge data files
+*.pdf

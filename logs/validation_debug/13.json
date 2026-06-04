@@ -1,0 +1,48 @@
+{
+  "document_id": 13,
+  "pages": {
+    "1": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "2": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "3": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "4": {
+      "elements": 18,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p4_e27",
+          "sequence_order": 27,
+          "page_number": 4,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "https://docs.google.com/forms/d/e/1FAIpQLSeXsmY2HslUJWqYbjizkGBRMtTdWMbPNc_ KUqY9368srQwXMQ/viewform?usp=header"
+        }
+      ]
+    }
+  }
+}

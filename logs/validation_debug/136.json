@@ -1,0 +1,56 @@
+{
+  "document_id": 136,
+  "pages": {
+    "1": {
+      "elements": 13,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "136_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "र्वाचा:-"
+        }
+      ]
+    },
+    "2": {
+      "elements": 25,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "136_p2_e19",
+          "sequence_order": 19,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "प्रत,"
+        }
+      ]
+    },
+    "3": {
+      "elements": 9,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    }
+  }
+}

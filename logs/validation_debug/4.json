@@ -1,0 +1,69 @@
+{
+  "document_id": 4,
+  "pages": {
+    "1": {
+      "elements": 2,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 87.32,
+      "issues": []
+    },
+    "2": {
+      "elements": 2,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 88.25,
+      "issues": [
+        {
+          "element_id": "4_p2_e2",
+          "sequence_order": 2,
+          "page_number": 2,
+          "quality_score": 0.529,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "85156]"
+        }
+      ]
+    },
+    "3": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "4": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "5": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "6": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "7": {
+      "elements": 2,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "document_id": 58,
+  "pages": {
+    "2": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": 32.64,
+      "issues": [
+        {
+          "element_id": "58_p2_e0",
+          "sequence_order": 0,
+          "page_number": 2,
+          "quality_score": 0.326,
+          "element_type": "table",
+          "reason": [],
+          "token_count": 255,
+          "text_preview": "BNA Wer sas 1959: CEaa BNA Wer 3fAfasa 1959; BNA Wer sas 1959: aca wea afer 1959, GO / - ee: reer; BNA Wer sas 1959: BNA"
+        }
+      ]
+    }
+  }
+}

@@ -1,64 +1,64 @@
-# Dependencies
-node_modules/
-bun.lockb
-
-# Build outputs
-backend/build/
-backend/dist/
-build/
-dist/
-installer_output/
-*.pkg
-*.dmg
-*.exe
-*.msi
-*.pyz
-
-# Electron build outputs
-electron-dist/
-out/
-
-# Keep electron/build for icons
-!electron/build/
-
-# Python
-backend/venv/
+# -------------------------
+# Python / bytecode
+# -------------------------
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-.Python
 
-# Databases
-*.db
-*.sqlite
-*.sqlite3
+# -------------------------
+# Virtual environment
+# -------------------------
+venv/
+.venv/
 
-# Uploads and user content
-backend/uploads/
-uploads/
-
-# AI Models (usually large)
-backend/vosk-model-*/
-*.model
-
-# Environment and config
+# -------------------------
+# Environment variables
+# -------------------------
 .env
-.env.local
-.env.production
 
-# OS generated files
-.DS_Store
-Thumbs.db
-
-# IDE files
+# -------------------------
+# Editor / OS
+# -------------------------
 .vscode/
-.idea/
-*.swp
-*.swo
+.DS_Store
 
-# Logs
+# -------------------------
+# Build / packaging
+# -------------------------
+build/
+dist/
+*.egg-info/
+wheels/
+
+# -------------------------
+# RAW DATA (DO NOT PUSH HEAVY FILES)
+# -------------------------
+data/json_files/
+data/pdf_files/
+
+!data/.gitkeep
+!data/json_files/.gitkeep
+!data/pdf_files/.gitkeep
+
+# -------------------------
+# VECTOR DATABASE (NEVER COMMIT)
+# -------------------------
+vector_store/
+notebooks/Data/vector_store/
+chroma.sqlite3
+pg_data/
+gov-rag-system/
+models/
+storage/
+data/raw/
+chroma.sqlite3
+pg_data/
+gov-rag-system/
+notebooks/Data/vector_store/
+chroma.sqlite3
+
+# -------------------------
+# Logs / temp
+# -------------------------
 *.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*

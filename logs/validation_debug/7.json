@@ -1,0 +1,237 @@
+{
+  "document_id": 7,
+  "pages": {
+    "1": {
+      "elements": 14,
+      "flagged": 2,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "7_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.5,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 5,
+          "text_preview": "-: 11-o p 1)..)-C \"fl."
+        },
+        {
+          "element_id": "7_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "\"?bOciEOI\"bE -·11->"
+        }
+      ]
+    },
+    "2": {
+      "elements": 3,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "3": {
+      "elements": 10,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "7_p3_e18",
+          "sequence_order": 18,
+          "page_number": 3,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": ":1P c"
+        }
+      ]
+    },
+    "4": {
+      "elements": 13,
+      "flagged": 1,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "7_p4_e35",
+          "sequence_order": 35,
+          "page_number": 4,
+          "quality_score": 0.3,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "'t:J\"ft"
+        }
+      ]
+    },
+    "5": {
+      "elements": 18,
+      "flagged": 11,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "7_p5_e41",
+          "sequence_order": 41,
+          "page_number": 5,
+          "quality_score": 0.5,
+          "element_type": "clause",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 4,
+          "text_preview": "~~q_S3fi(vt~). atLQLL lcl(l{L:>L, ~~C{LC-l<.t,:>LLt.flat:>L<."
+        },
+        {
+          "element_id": "7_p5_e43",
+          "sequence_order": 43,
+          "page_number": 5,
+          "quality_score": 0.5,
+          "element_type": "clause",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 6,
+          "text_preview": "lcl8L~ 8(i{~<S3fi,:>j~<Lct <L~. Sl..~C{<L~ l-l.~ctl (l{C{at,:>LLt.flat:>L<."
+        },
+        {
+          "element_id": "7_p5_e44",
+          "sequence_order": 44,
+          "page_number": 5,
+          "quality_score": 0.5,
+          "element_type": "clause",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 11,
+          "text_preview": "~C·HL lcl8L~ ~(U8L~S3fi, ~<ct, 8~, l{t<vfi, Li.~l-l.c?LC{, ~<q_c.c-{1., <L~hlc, ~~ vUcl."
+        },
+        {
+          "element_id": "7_p5_e45",
+          "sequence_order": 45,
+          "page_number": 5,
+          "quality_score": 0.5,
+          "element_type": "clause",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 6,
+          "text_preview": "atl<.tvt ~~q_S3fi(8<8~< ), atLQLL lcl(l{L:>L, ~~<:{LC-12.1.,:>LLt.flat:>L<."
+        },
+        {
+          "element_id": "7_p5_e47",
+          "sequence_order": 47,
+          "page_number": 5,
+          "quality_score": 0.5,
+          "element_type": "clause",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 4,
+          "text_preview": "~8L a- ~at<C-1, ~l-l.E,LC{L/<L~hlc."
+        },
+        {
+          "element_id": "7_p5_e49",
+          "sequence_order": 49,
+          "page_number": 5,
+          "quality_score": 0.5,
+          "element_type": "clause",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 9,
+          "text_preview": "ratGtLl-l.8.13fi, ~~lvt ~~ (ct\"'?l.~a{l 8~~. Sl.~C{<L~ l-l.~ctl (l{C{at,:lltflat:>L< ."
+        },
+        {
+          "element_id": "7_p5_e50",
+          "sequence_order": 50,
+          "page_number": 5,
+          "quality_score": 0.5,
+          "element_type": "clause",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 14,
+          "text_preview": "ctlCj8l lcl8L~ ~(U8L~S3fi. ctl.Li..8~~,vtl<SLc-0.~-~<ct,:>LLt.fl't.I.Ll-l., ~~l,:ol~<- ~- 8~. l{t<vfi~-l{t<vfi,:>LL't.l<"
+        },
+        {
+          "element_id": "7_p5_e51",
+          "sequence_order": 51,
+          "page_number": 5,
+          "quality_score": 0.5,
+          "element_type": "clause",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 15,
+          "text_preview": "~C-<:{l ~c?L2.t8 rat~et&.l3fi, WLrat8 (l{S)_Cf1. (&~Lvtafi 8~~. ~<ct, 8~, l{t<vfi, \\.t~l-l.c?LC-1, ~<q_c-c-0., <L~Slc, ~"
+        },
+        {
+          "element_id": "7_p5_e53",
+          "sequence_order": 53,
+          "page_number": 5,
+          "quality_score": 0.5,
+          "element_type": "clause",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 17,
+          "text_preview": "~ui(Uct:>J.Ll-l. Li.~L tct 8~~ ( ~C-<:-ll lcl8L~ ~(U8L~.I3fi. ~<ct, 8~, l{t<vfi, Li.~l-l.c?LC{, ~<q_c-c-0., <L~Slc, ~~ v"
+        },
+        {
+          "element_id": "7_p5_e54",
+          "sequence_order": 54,
+          "page_number": 5,
+          "quality_score": 0.5,
+          "element_type": "clause",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 11,
+          "text_preview": "i{s-~Lat ~(U8L~S3fi l.J.l, ~~ S ~LLV\\l, Li.~L tct,:>J.L.:>!. fat~~:>J.L. lcllcl(l{L:>L,~~q_Lc-t t,:>LLt.flat:>L<."
+        },
+        {
+          "element_id": "7_p5_e57",
+          "sequence_order": 57,
+          "page_number": 5,
+          "quality_score": 0.3,
+          "element_type": "section",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "~05- ~L~C{/~0'\\C.."
+        }
+      ]
+    }
+  }
+}

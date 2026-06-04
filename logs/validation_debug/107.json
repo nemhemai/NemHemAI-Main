@@ -1,0 +1,355 @@
+{
+  "document_id": 107,
+  "pages": {
+    "1": {
+      "elements": 17,
+      "flagged": 17,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 28.0,
+      "issues": [
+        {
+          "element_id": "107_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.168,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "dau dla:-"
+        },
+        {
+          "element_id": "107_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "fh. 22. ail./ris2 wis Adler WS2 2093/ PaurdalAvlaudreil/aula wialMajasl. ¢ /rs, $A S22 SAL, WAAUS WL, AGALS, dl.og/OUu/r"
+        },
+        {
+          "element_id": "107_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "wrsizallal AtL.a.[AAL Yar A. WY./1020V3/UC F/SYAUY/I, A.A F/OUROVS."
+        },
+        {
+          "element_id": "107_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "wasizallat 4.[A.dl Ua 6:00702073/ECU/~A, al.10/09/2043."
+        },
+        {
+          "element_id": "107_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "wasirzafle 4.[ tt Urt $:424/1093/4¢02E/A, Al. 12/09/2093."
+        },
+        {
+          "element_id": "107_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Cw) wasiraflat ata [Aa vat s:2RAllaia/102093/1¢1¢/aNdly/¥, dl.1G/03/2049S."
+        },
+        {
+          "element_id": "107_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "(uy) wrsizeflat w.4. [Atl S24 SAWY/1OROVY/4 FOC /AUAL, AL.23/03/204."
+        },
+        {
+          "element_id": "107_p1_e7",
+          "sequence_order": 7,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "arsizallar yal daABS in d.wAyrymy/10209 $/cow/laural/vory/ O4C/33, AL.2C/O3/2OVS."
+        },
+        {
+          "element_id": "107_p1_e8",
+          "sequence_order": 8,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "wesizalary.[a.ct ABS a4 4. wrAwMy/> $/cow/Marall/104 $ /232/ ~W4/4, Al. 30/03/2049S."
+        },
+        {
+          "element_id": "107_p1_e9",
+          "sequence_order": 9,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "(¢) wesizshar 4a. tl ABS at 4d. wAAWA/204 F/cOU/SSdl/1020404/ 423/3, dl. 3d/osRors."
+        },
+        {
+          "element_id": "107_p1_e10",
+          "sequence_order": 10,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "(Ce) wrsirahlal Us [AGLAL Yat $212AY/102013/1 815 /MU(UL.SL.-2), AL.2F5/Ow/ROVS. )"
+        },
+        {
+          "element_id": "107_p1_e11",
+          "sequence_order": 11,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "wesiraflar as AH Wat $4214/102093/4¥45/(UL.SL.-2), AL. V2/Ow/ROVS."
+        },
+        {
+          "element_id": "107_p1_e12",
+          "sequence_order": 12,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "2A Sac) at.w/Y20rS al go AU. 2U2. al. aise rls wAlalaea WSE-209.3/Mrausri/Arlaudsai/rula wWiaiMa/jasl oujors"
+        },
+        {
+          "element_id": "107_p1_e13",
+          "sequence_order": 13,
+          "page_number": 1,
+          "quality_score": 0.168,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "MAUL gS4-"
+        },
+        {
+          "element_id": "107_p1_e14",
+          "sequence_order": 14,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 82,
+          "text_preview": "myr-a afl wrsirzailar wearer adla2 facil fl awed ude ws AMava-rjadiala waMan-2043 siael asaiyl Weal B. WHA all Arsiralle"
+        },
+        {
+          "element_id": "107_p1_e15",
+          "sequence_order": 15,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "table",
+          "reason": [],
+          "token_count": 58,
+          "text_preview": "Vals, Uy.: UH HAL ALS ASA, Bar Wuatal WAY: wu (2a; Vals, Uy.: SUH AMAL ALO ASA, Bar Wuatal WAY: © [fay; Vals, Uy.: VSd M"
+        },
+        {
+          "element_id": "107_p1_e16",
+          "sequence_order": 16,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "WMYU-C WA 10 el AAL MHU-F, OWA ¢ Al wisreuHiell wise wa Aarll yl usa w2:-(a)aar yal user wsi2l(Designeted Ofiicer ),(2)s"
+        }
+      ]
+    },
+    "2": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": 33.03,
+      "issues": [
+        {
+          "element_id": "107_p2_e17",
+          "sequence_order": 17,
+          "page_number": 2,
+          "quality_score": 0.33,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 40,
+          "text_preview": "(Designeted Authority)<% 2-1 Awl aus doz uRall rrdl wer sratell dal lA vxori weasel Prasis ayy-ad 4 gada wad sala di.w/v"
+        },
+        {
+          "element_id": "107_p2_e18",
+          "sequence_order": 18,
+          "page_number": 2,
+          "quality_score": 0.33,
+          "element_type": "table",
+          "reason": [],
+          "token_count": 253,
+          "text_preview": "a., Adar, zAsladdAd ASet itd, wAsidlel-d dle ASet itd, wsdleel ml Sle i612; 4, UUM AHL rissa, wade SAL, AGL, aasnimader "
+        }
+      ]
+    },
+    "3": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": 33.54,
+      "issues": [
+        {
+          "element_id": "107_p3_e19",
+          "sequence_order": 19,
+          "page_number": 3,
+          "quality_score": 0.335,
+          "element_type": "table",
+          "reason": [],
+          "token_count": 155,
+          "text_preview": "ae, OH AHL 1.9 SA, MUN AELR srl, SURISL ae,220030, AL SL LL HINAELR O2S33-, HUNAAEL, SURISL O8F33- 220030, wid ~wlasizls"
+        },
+        {
+          "element_id": "107_p3_e20",
+          "sequence_order": 20,
+          "page_number": 3,
+          "quality_score": 0.335,
+          "element_type": "table",
+          "reason": [],
+          "token_count": 118,
+          "text_preview": "ma., ald:, Aare, aayuusue dil Sle Acie:, sRueAaa dlgl2A sla ~ieiz, YSAcct 8lglASl cia; vy, Mga rider la WAAL = ELUAL., A"
+        }
+      ]
+    },
+    "4": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": 32.28,
+      "issues": [
+        {
+          "element_id": "107_p4_e21",
+          "sequence_order": 21,
+          "page_number": 4,
+          "quality_score": 0.323,
+          "element_type": "table",
+          "reason": [],
+          "token_count": 520,
+          "text_preview": "Ysd wider slaAe BLULAL.: Vigd vudele slat dil ELL., WAacelrall YY O2 33- VVLOV'Y: [Hadele sl, SURIL, Mid Wsizlell, YQ2HY"
+        }
+      ]
+    },
+    "5": {
+      "elements": 8,
+      "flagged": 8,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 31.06,
+      "issues": [
+        {
+          "element_id": "107_p5_e22",
+          "sequence_order": 22,
+          "page_number": 5,
+          "quality_score": 0.311,
+          "element_type": "table",
+          "reason": [],
+          "token_count": 65,
+          "text_preview": "uladall AWA eral, wed) $21, GHRoUN., = HINtell, GHUH, Or S0- WUFOLE, 2wlAsizlell, aiall was Ul 52211, ORFO AGL. 2390030 "
+        },
+        {
+          "element_id": "107_p5_e23",
+          "sequence_order": 23,
+          "page_number": 5,
+          "quality_score": 0.311,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "el aeeid (aude rls Adlon 2 vols uMalla) war sisi RoraySail A.O8/O8/1S el MHAHL Aa B.A Plradrld Asia wWAsileldAa uiad sad"
+        },
+        {
+          "element_id": "107_p5_e24",
+          "sequence_order": 24,
+          "page_number": 5,
+          "quality_score": 0.186,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "$AS22 AGALS"
+        },
+        {
+          "element_id": "107_p5_e25",
+          "sequence_order": 25,
+          "page_number": 5,
+          "quality_score": 0.311,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "ula, | ~UilAad Wasilla /slalellad ars. UH HL AAL ARAL WAS SAL Wz."
+        },
+        {
+          "element_id": "107_p5_e26",
+          "sequence_order": 26,
+          "page_number": 5,
+          "quality_score": 0.311,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "dasa uRasl aur adiaz Reus, aMate riche das."
+        },
+        {
+          "element_id": "107_p5_e27",
+          "sequence_order": 27,
+          "page_number": 5,
+          "quality_score": 0.311,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "(2)GurBash xdya Meus, ware, vieldo12 ars,"
+        },
+        {
+          "element_id": "107_p5_e28",
+          "sequence_order": 28,
+          "page_number": 5,
+          "quality_score": 0.311,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "GuaBasl ae eur, waar, viele ars."
+        },
+        {
+          "element_id": "107_p5_e29",
+          "sequence_order": 29,
+          "page_number": 5,
+          "quality_score": 0.311,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "2/- Wil A."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1492 @@
+{
+  "document_id": 13,
+  "file_name": "Updated-Winter-Announcement-2025.pdf",
+  "extraction_stats": {
+    "ocr_used": false,
+    "weak_pages": 0,
+    "failed_pages": 0,
+    "docling_errors": 0,
+    "pages_processed": 4
+  },
+  "total_elements": 31,
+  "elements": [
+    {
+      "sequence_order": 0,
+      "element_type": "heading",
+      "element_depth": 1,
+      "section_path": null,
+      "heading_breadcrumb": [
+        "National e-Governance Division (NeGD) Digital India Corporation (DIC) Ministry o"
+      ],
+      "content_original": "National e-Governance Division (NeGD) Digital India Corporation (DIC) Ministry of Electronics & Information Technology (MeitY) Government of India",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 117.120003,
+          "top": 737.0103490500001,
+          "right": 498.543508545467,
+          "bottom": 672.7126460181818
+        }
+      },
+      "token_count": 18,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "section_header",
+        "page_number": 1,
+        "bbox": {
+          "left": 117.120003,
+          "top": 737.0103490500001,
+          "right": 498.543508545467,
+          "bottom": 672.7126460181818
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p1_e0",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 1,
+      "element_type": "section",
+      "element_depth": 1,
+      "section_path": "TECHNICAL INTERNSHIP PROGRAMME 2025",
+      "heading_breadcrumb": [
+        "TECHNICAL INTERNSHIP PROGRAMME 2025"
+      ],
+      "content_original": "TECHNICAL INTERNSHIP PROGRAMME 2025",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 162.359997,
+          "top": 630.4557246465,
+          "right": 452.86653319022275,
+          "bottom": 619.6022550932727
+        }
+      },
+      "token_count": 4,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "section_header",
+        "page_number": 1,
+        "bbox": {
+          "left": 162.359997,
+          "top": 630.4557246465,
+          "right": 452.86653319022275,
+          "bottom": 619.6022550932727
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p1_e1",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 2,
+      "element_type": "paragraph",
+      "element_depth": 1,
+      "section_path": "TECHNICAL INTERNSHIP PROGRAMME 2025",
+      "heading_breadcrumb": [
+        "TECHNICAL INTERNSHIP PROGRAMME 2025"
+      ],
+      "content_original": "The National e-Governance Division (NeGD) is pleased to announce the continuation of its Technical Internship Scheme, designed to provide students with meaningful exposure to real world professional environments. This initiative offers interns the opportunity to work on live projects and collaborate with experienced industry professionals, enabling them to develop essential technical and problem-solving skills.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 93.60000225,
+          "top": 602.4264158999999,
+          "right": 521.169051863529,
+          "bottom": 541.1899596000001
+        }
+      },
+      "token_count": 54,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "text",
+        "page_number": 1,
+        "bbox": {
+          "left": 93.60000225,
+          "top": 602.4264158999999,
+          "right": 521.169051863529,
+          "bottom": 541.1899596000001
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p1_e2",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 3,
+      "element_type": "paragraph",
+      "element_depth": 1,
+      "section_path": "TECHNICAL INTERNSHIP PROGRAMME 2025",
+      "heading_breadcrumb": [
+        "TECHNICAL INTERNSHIP PROGRAMME 2025"
+      ],
+      "content_original": "Through hands-on learning, participants strengthen their academic knowledge while gaining industry-relevant competencies that prepare them for successful careers across a wide range of sectors. In addition, the scheme allows NeGD to engage with fresh talent and innovative perspectives, further supporting the organization's mission of driving forward India's eGovernance initiatives.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 93.60000225,
+          "top": 523.4664166499999,
+          "right": 521.1994173884116,
+          "bottom": 462.22996035000006
+        }
+      },
+      "token_count": 49,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "text",
+        "page_number": 1,
+        "bbox": {
+          "left": 93.60000225,
+          "top": 523.4664166499999,
+          "right": 521.1994173884116,
+          "bottom": 462.22996035000006
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p1_e3",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 4,
+      "element_type": "paragraph",
+      "element_depth": 1,
+      "section_path": "TECHNICAL INTERNSHIP PROGRAMME 2025",
+      "heading_breadcrumb": [
+        "TECHNICAL INTERNSHIP PROGRAMME 2025"
+      ],
+      "content_original": "NeGD remains committed to fostering future-ready professionals and contributing to a digitally empowered ecosystem.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 93.60000225,
+          "top": 458.1864099,
+          "right": 521.0881736451852,
+          "bottom": 435.94995435000004
+        }
+      },
+      "token_count": 14,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "text",
+        "page_number": 1,
+        "bbox": {
+          "left": 93.60000225,
+          "top": 458.1864099,
+          "right": 521.0881736451852,
+          "bottom": 435.94995435000004
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p1_e4",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 5,
+      "element_type": "section",
+      "element_depth": 1,
+      "section_path": "ELIGIBILITY FOR TECHNICAL INTERNSHIP",
+      "heading_breadcrumb": [
+        "ELIGIBILITY FOR TECHNICAL INTERNSHIP"
+      ],
+      "content_original": "ELIGIBILITY FOR TECHNICAL INTERNSHIP",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 93.60000225,
+          "top": 419.1864099,
+          "right": 338.4215185777193,
+          "bottom": 409.90995285
+        }
+      },
+      "token_count": 4,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "section_header",
+        "page_number": 1,
+        "bbox": {
+          "left": 93.60000225,
+          "top": 419.1864099,
+          "right": 338.4215185777193,
+          "bottom": 409.90995285
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p1_e5",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 6,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "ELIGIBILITY FOR TECHNICAL INTERNSHIP",
+      "heading_breadcrumb": [
+        "ELIGIBILITY FOR TECHNICAL INTERNSHIP"
+      ],
+      "content_original": "All Engineering Graduates or equivalent, with at least 75% marks in the qualifying degree.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 110.52000075000001,
+          "top": 393.26643465,
+          "right": 521.1256557529232,
+          "bottom": 368.98997760000003
+        }
+      },
+      "token_count": 14,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 1,
+        "bbox": {
+          "left": 110.52000075000001,
+          "top": 393.26643465,
+          "right": 521.1256557529232,
+          "bottom": 368.98997760000003
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p1_e6",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 7,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "ELIGIBILITY FOR TECHNICAL INTERNSHIP",
+      "heading_breadcrumb": [
+        "ELIGIBILITY FOR TECHNICAL INTERNSHIP"
+      ],
+      "content_original": "All Engineering Post - Graduates or equivalent, with at least 75% marks in the qualifying degree.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 110.52000075000001,
+          "top": 363.26643465,
+          "right": 521.2809564748575,
+          "bottom": 339.1099581
+        }
+      },
+      "token_count": 16,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 1,
+        "bbox": {
+          "left": 110.52000075000001,
+          "top": 363.26643465,
+          "right": 521.2809564748575,
+          "bottom": 339.1099581
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p1_e7",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 8,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "ELIGIBILITY FOR TECHNICAL INTERNSHIP",
+      "heading_breadcrumb": [
+        "ELIGIBILITY FOR TECHNICAL INTERNSHIP"
+      ],
+      "content_original": "Only the candidates who have passed their qualifying degree in last two years i.e., 2024, 2025 and final year i.e., 2026 students of current year are eligible to apply for this technical internship scheme.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 110.52000075000001,
+          "top": 333.5063949,
+          "right": 521.1501073651664,
+          "bottom": 294.22993785
+        }
+      },
+      "token_count": 34,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 1,
+        "bbox": {
+          "left": 110.52000075000001,
+          "top": 333.5063949,
+          "right": 521.1501073651664,
+          "bottom": 294.22993785
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p1_e8",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 9,
+      "element_type": "section",
+      "element_depth": 1,
+      "section_path": "INTEREST AREAS & NUMBER OF INTERNS FOR TECHNICAL INTERNSHIP",
+      "heading_breadcrumb": [
+        "INTEREST AREAS & NUMBER OF INTERNS FOR TECHNICAL INTERNSHIP"
+      ],
+      "content_original": "INTEREST AREAS & NUMBER OF INTERNS FOR TECHNICAL INTERNSHIP",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 93.60000225,
+          "top": 275.54641815,
+          "right": 500.0181656444761,
+          "bottom": 266.26996110000005
+        }
+      },
+      "token_count": 9,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "section_header",
+        "page_number": 1,
+        "bbox": {
+          "left": 93.60000225,
+          "top": 275.54641815,
+          "right": 500.0181656444761,
+          "bottom": 266.26996110000005
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p1_e9",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 10,
+      "element_type": "table",
+      "element_depth": 1,
+      "section_path": "INTEREST AREAS & NUMBER OF INTERNS FOR TECHNICAL INTERNSHIP",
+      "heading_breadcrumb": [
+        "INTEREST AREAS & NUMBER OF INTERNS FOR TECHNICAL INTERNSHIP"
+      ],
+      "content_original": "Sl No. / Software Development: i., Role: Java / PHP / Python Developer/NodeJS / Dotnet    , Role description: maintain modules in web-based using latest technology. RESTful APIs and integrate third-party troubleshoot backend issues in systems / code. code reviews and adhere to secure, Slots: 06",
+      "structured_content": {
+        "table_id": "table_p1_2311023667344",
+        "is_continuation": false,
+        "continuation_of": null,
+        "num_rows": 1,
+        "num_cols": 4,
+        "num_header_rows": 2,
+        "headers": [
+          [
+            "Sl No.",
+            "Role",
+            "Role description",
+            "Slots"
+          ],
+          [
+            "Software Development"
+          ]
+        ],
+        "rows": [
+          {
+            "row_idx": 2,
+            "is_section_separator": false,
+            "cells": [
+              {
+                "col_idx": 0,
+                "text": "i.",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 1,
+                "text": "Java / PHP / Python Developer/NodeJS / Dotnet    ",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 2,
+                "text": "maintain modules in web-based using latest technology. RESTful APIs and integrate third-party troubleshoot backend issues in systems / code. code reviews and adhere to secure",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 3,
+                "text": "06",
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          }
+        ],
+        "nl_representation": "Sl No. / Software Development: i., Role: Java / PHP / Python Developer/NodeJS / Dotnet    , Role description: maintain modules in web-based using latest technology. RESTful APIs and integrate third-party troubleshoot backend issues in systems / code. code reviews and adhere to secure, Slots: 06",
+        "markdown": "| Sl No. | Role | Role description | Slots |\n| Software Development |  |  |  |\n|---|---|---|---|\n| i. | Java / PHP / Python Developer/NodeJS / Dotnet     | maintain modules in web-based using latest technology. RESTful APIs and integrate third-party troubleshoot backend issues in systems / code. code reviews and adhere to secure | 06 |",
+        "footnotes": [],
+        "source_pages": [
+          1
+        ],
+        "section_path": "INTEREST AREAS & NUMBER OF INTERNS FOR TECHNICAL INTERNSHIP",
+        "table_type": "schedule"
+      },
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 92.56556701660156,
+          "top": 253.6607666015625,
+          "right": 517.9067993164062,
+          "bottom": 74.12847900390625
+        }
+      },
+      "token_count": 48,
+      "detected_language": "en",
+      "metadata": {
+        "is_table": true,
+        "docling_label": "table",
+        "page_number": 1,
+        "bbox": {
+          "left": 92.56556701660156,
+          "top": 253.6607666015625,
+          "right": 517.9067993164062,
+          "bottom": 74.12847900390625
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p1_e10",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 11,
+      "element_type": "table",
+      "element_depth": 1,
+      "section_path": null,
+      "heading_breadcrumb": [],
+      "content_original": "UI-UX Frontend (Frontend (React/ Angular /,  best practices for : Designer / Developer Developer JavaScript / Typescript) GIGW Compliance  Creative design by applications.  Design / Develop web interfaces using  Develop reusable browser compatibility responsiveness.  Collaborate with backend integration., Development of study and highly scalable application. Standardisation of Government Website by using: components Ensure cross- and mobile teams for seamlessAPI 06; Product Testing / Security Testing / Software Tester / Quality Analyst,  best practices for : risks and possible mitigation strategies.  Perform basic security testing of applications (e.g., SQLinjection, XSS, broken authentication).  Write initial plan, test cases and test scripts for web and mobile applications.  Perform manual, automated testing and AI Bot testing using tools like Selenium or Postman.  Track bugs, report issues, and ensure software quality before deployment.  Participate in regression, performance, and, Development of study and highly scalable application. Standardisation of Government Website by using: 11; Database Programmer,  best practices for :  Monitor database performance and ensure regular backups and recovery mechanisms.  Create and manage database schemas, indexes, access controls, and query optimisation. Support data migration, replication, and security practices.  Manage large databases and clustering  Preparation of Documents, Translate project technical / non-technical, Development of study and highly scalable application. Standardisation of Government Website by using: 06; Business Analyst,  best practices for : requirements into documentation and user stories.  Conduct data analysis and create reports for internal departments.  Referring of SRS, FRS, etc. according to the core structure / development. Create flowcharts,, Development of study and highly scalable application. Standardisation of Government Website by using: 06",
+      "structured_content": {
+        "table_id": "table_p2_2311512618576",
+        "is_continuation": false,
+        "continuation_of": null,
+        "num_rows": 4,
+        "num_cols": 3,
+        "num_header_rows": 1,
+        "headers": [
+          [
+            null,
+            " best practices for ",
+            "Development of study and highly scalable application. Standardisation of Government Website by using"
+          ]
+        ],
+        "rows": [
+          {
+            "row_idx": 1,
+            "is_section_separator": false,
+            "cells": [
+              {
+                "col_idx": 0,
+                "text": "UI-UX Frontend (Frontend (React/ Angular /",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 1,
+                "text": "Designer / Developer Developer JavaScript / Typescript) GIGW Compliance  Creative design by applications.  Design / Develop web interfaces using  Develop reusable browser compatibility responsiveness.  Collaborate with backend integration.",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 2,
+                "text": "components Ensure cross- and mobile teams for seamlessAPI 06",
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_idx": 2,
+            "is_section_separator": false,
+            "cells": [
+              {
+                "col_idx": 0,
+                "text": "Product Testing / Security Testing / Software Tester / Quality Analyst",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 1,
+                "text": "risks and possible mitigation strategies.  Perform basic security testing of applications (e.g., SQLinjection, XSS, broken authentication).  Write initial plan, test cases and test scripts for web and mobile applications.  Perform manual, automated testing and AI Bot testing using tools like Selenium or Postman.  Track bugs, report issues, and ensure software quality before deployment.  Participate in regression, performance, and",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 2,
+                "text": "11",
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_idx": 3,
+            "is_section_separator": false,
+            "cells": [
+              {
+                "col_idx": 0,
+                "text": "Database Programmer",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 1,
+                "text": " Monitor database performance and ensure regular backups and recovery mechanisms.  Create and manage database schemas, indexes, access controls, and query optimisation. Support data migration, replication, and security practices.  Manage large databases and clustering  Preparation of Documents, Translate project technical / non-technical",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 2,
+                "text": "06",
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_idx": 4,
+            "is_section_separator": false,
+            "cells": [
+              {
+                "col_idx": 0,
+                "text": "Business Analyst",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 1,
+                "text": "requirements into documentation and user stories.  Conduct data analysis and create reports for internal departments.  Referring of SRS, FRS, etc. according to the core structure / development. Create flowcharts,",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 2,
+                "text": "06",
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          }
+        ],
+        "nl_representation": "UI-UX Frontend (Frontend (React/ Angular /,  best practices for : Designer / Developer Developer JavaScript / Typescript) GIGW Compliance  Creative design by applications.  Design / Develop web interfaces using  Develop reusable browser compatibility responsiveness.  Collaborate with backend integration., Development of study and highly scalable application. Standardisation of Government Website by using: components Ensure cross- and mobile teams for seamlessAPI 06; Product Testing / Security Testing / Software Tester / Quality Analyst,  best practices for : risks and possible mitigation strategies.  Perform basic security testing of applications (e.g., SQLinjection, XSS, broken authentication).  Write initial plan, test cases and test scripts for web and mobile applications.  Perform manual, automated testing and AI Bot testing using tools like Selenium or Postman.  Track bugs, report issues, and ensure software quality before deployment.  Participate in regression, performance, and, Development of study and highly scalable application. Standardisation of Government Website by using: 11; Database Programmer,  best practices for :  Monitor database performance and ensure regular backups and recovery mechanisms.  Create and manage database schemas, indexes, access controls, and query optimisation. Support data migration, replication, and security practices.  Manage large databases and clustering  Preparation of Documents, Translate project technical / non-technical, Development of study and highly scalable application. Standardisation of Government Website by using: 06; Business Analyst,  best practices for : requirements into documentation and user stories.  Conduct data analysis and create reports for internal departments.  Referring of SRS, FRS, etc. according to the core structure / development. Create flowcharts,, Development of study and highly scalable application. Standardisation of Government Website by using: 06",
+        "markdown": "|  |  best practices for  | Development of study and highly scalable application. Standardisation of Government Website by using |\n|---|---|---|\n| UI-UX Frontend (Frontend (React/ Angular / | Designer / Developer Developer JavaScript / Typescript) GIGW Compliance  Creative design by applications.  Design / Develop web interfaces using  Develop reusable browser compatibility responsiveness.  Collaborate with backend integration. | components Ensure cross- and mobile teams for seamlessAPI 06 |\n| Product Testing / Security Testing / Software Tester / Quality Analyst | risks and possible mitigation strategies.  Perform basic security testing of applications (e.g., SQLinjection, XSS, broken authentication).  Write initial plan, test cases and test scripts for web and mobile applications.  Perform manual, automated testing and AI Bot testing using tools like Selenium or Postman.  Track bugs, report issues, and ensure software quality before deployment.  Participate in regression, performance, and | 11 |\n| Database Programmer |  Monitor database performance and ensure regular backups and recovery mechanisms.  Create and manage database schemas, indexes, access controls, and query optimisation. Support data migration, replication, and security practices.  Manage large databases and clustering  Preparation of Documents, Translate project technical / non-technical | 06 |\n| Business Analyst | requirements into documentation and user stories.  Conduct data analysis and create reports for internal departments.  Referring of SRS, FRS, etc. according to the core structure / development. Create flowcharts, | 06 |",
+        "footnotes": [],
+        "source_pages": [
+          2
+        ],
+        "section_path": null,
+        "table_type": "schedule"
+      },
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 92.39932250976562,
+          "top": 742.9375381469727,
+          "right": 518.1964721679688,
+          "bottom": 64.36602783203125
+        }
+      },
+      "token_count": 276,
+      "detected_language": "en",
+      "metadata": {
+        "is_table": true,
+        "docling_label": "table",
+        "page_number": 2,
+        "bbox": {
+          "left": 92.39932250976562,
+          "top": 742.9375381469727,
+          "right": 518.1964721679688,
+          "bottom": 64.36602783203125
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p2_e11",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 12,
+      "element_type": "table",
+      "element_depth": 1,
+      "section_path": null,
+      "heading_breadcrumb": [],
+      "content_original": "Data Engineering & Analytics, Transform, Load) pipelines to collect and process data from various government portals and systems. Work with SQL or NoSQL databases to clean, organize, and structure large datasets for analytics and reporting. Create dashboards and reports using tools like Power BI, Tableau, or Python libraries to present insights to stakeholders. Use Python, Shell scripts, or tools like Apache Airflow to automate repetitive data tasks and ensure timely data availability. Assist in integrating data from multiple sources, 05; Artificial Intelligence / Machine Learning / Internet of Things, platforms (e.g., NLP for chatbots or document summarization). Develop chat bots (conversational RAG, agentic RAG, etc.) using GenAI models. Data handling for knowledge base creations. Perform feature engineering, model tuning, and validation for specific use cases. Evaluate open-source AI tools or APIs for 05; DevOps, Automation and Infra Monitoring, tools like Jenkins, GitLab CI, Linux and GitHub Actions. Help automate build, test, and deployment workflows for faster and more reliable software delivery. Support in environment configuration and containerization using Docker or Kubernetes. Write scripts in Python, Bash, or PowerShell to automate repetitive tasks like deployments, backups, or server health checks. Configure and monitor logs and performance, 05",
+      "structured_content": {
+        "table_id": "table_p3_2311510003280",
+        "is_continuation": false,
+        "continuation_of": null,
+        "num_rows": 3,
+        "num_cols": 3,
+        "num_header_rows": 0,
+        "headers": [],
+        "rows": [
+          {
+            "row_idx": 0,
+            "is_section_separator": false,
+            "cells": [
+              {
+                "col_idx": 0,
+                "text": "Data Engineering & Analytics",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 1,
+                "text": "Transform, Load) pipelines to collect and process data from various government portals and systems. Work with SQL or NoSQL databases to clean, organize, and structure large datasets for analytics and reporting. Create dashboards and reports using tools like Power BI, Tableau, or Python libraries to present insights to stakeholders. Use Python, Shell scripts, or tools like Apache Airflow to automate repetitive data tasks and ensure timely data availability. Assist in integrating data from multiple sources",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 2,
+                "text": "05",
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_idx": 1,
+            "is_section_separator": false,
+            "cells": [
+              {
+                "col_idx": 0,
+                "text": "Artificial Intelligence / Machine Learning / Internet of Things",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 1,
+                "text": "platforms (e.g., NLP for chatbots or document summarization). Develop chat bots (conversational RAG, agentic RAG, etc.) using GenAI models. Data handling for knowledge base creations. Perform feature engineering, model tuning, and validation for specific use cases. Evaluate open-source AI tools or APIs for 05",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 2,
+                "text": null,
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          },
+          {
+            "row_idx": 2,
+            "is_section_separator": false,
+            "cells": [
+              {
+                "col_idx": 0,
+                "text": "DevOps, Automation and Infra Monitoring",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 1,
+                "text": "tools like Jenkins, GitLab CI, Linux and GitHub Actions. Help automate build, test, and deployment workflows for faster and more reliable software delivery. Support in environment configuration and containerization using Docker or Kubernetes. Write scripts in Python, Bash, or PowerShell to automate repetitive tasks like deployments, backups, or server health checks. Configure and monitor logs and performance",
+                "row_span": 1,
+                "col_span": 1
+              },
+              {
+                "col_idx": 2,
+                "text": "05",
+                "row_span": 1,
+                "col_span": 1
+              }
+            ]
+          }
+        ],
+        "nl_representation": "Data Engineering & Analytics, Transform, Load) pipelines to collect and process data from various government portals and systems. Work with SQL or NoSQL databases to clean, organize, and structure large datasets for analytics and reporting. Create dashboards and reports using tools like Power BI, Tableau, or Python libraries to present insights to stakeholders. Use Python, Shell scripts, or tools like Apache Airflow to automate repetitive data tasks and ensure timely data availability. Assist in integrating data from multiple sources, 05; Artificial Intelligence / Machine Learning / Internet of Things, platforms (e.g., NLP for chatbots or document summarization). Develop chat bots (conversational RAG, agentic RAG, etc.) using GenAI models. Data handling for knowledge base creations. Perform feature engineering, model tuning, and validation for specific use cases. Evaluate open-source AI tools or APIs for 05; DevOps, Automation and Infra Monitoring, tools like Jenkins, GitLab CI, Linux and GitHub Actions. Help automate build, test, and deployment workflows for faster and more reliable software delivery. Support in environment configuration and containerization using Docker or Kubernetes. Write scripts in Python, Bash, or PowerShell to automate repetitive tasks like deployments, backups, or server health checks. Configure and monitor logs and performance, 05",
+        "markdown": "|---|---|---|\n| Data Engineering & Analytics | Transform, Load) pipelines to collect and process data from various government portals and systems. Work with SQL or NoSQL databases to clean, organize, and structure large datasets for analytics and reporting. Create dashboards and reports using tools like Power BI, Tableau, or Python libraries to present insights to stakeholders. Use Python, Shell scripts, or tools like Apache Airflow to automate repetitive data tasks and ensure timely data availability. Assist in integrating data from multiple sources | 05 |\n| Artificial Intelligence / Machine Learning / Internet of Things | platforms (e.g., NLP for chatbots or document summarization). Develop chat bots (conversational RAG, agentic RAG, etc.) using GenAI models. Data handling for knowledge base creations. Perform feature engineering, model tuning, and validation for specific use cases. Evaluate open-source AI tools or APIs for 05 |  |\n| DevOps, Automation and Infra Monitoring | tools like Jenkins, GitLab CI, Linux and GitHub Actions. Help automate build, test, and deployment workflows for faster and more reliable software delivery. Support in environment configuration and containerization using Docker or Kubernetes. Write scripts in Python, Bash, or PowerShell to automate repetitive tasks like deployments, backups, or server health checks. Configure and monitor logs and performance | 05 |",
+        "footnotes": [],
+        "source_pages": [
+          3
+        ],
+        "section_path": null,
+        "table_type": "mixed"
+      },
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 92.26732635498047,
+          "top": 742.7366027832031,
+          "right": 518.1967163085938,
+          "bottom": 55.63934326171875
+        }
+      },
+      "token_count": 196,
+      "detected_language": "en",
+      "metadata": {
+        "is_table": true,
+        "docling_label": "table",
+        "page_number": 3,
+        "bbox": {
+          "left": 92.26732635498047,
+          "top": 742.7366027832031,
+          "right": 518.1967163085938,
+          "bottom": 55.63934326171875
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p3_e12",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 13,
+      "element_type": "section",
+      "element_depth": 1,
+      "section_path": "DURATION OF TECHNICAL INTERNSHIP",
+      "heading_breadcrumb": [
+        "DURATION OF TECHNICAL INTERNSHIP"
+      ],
+      "content_original": "DURATION OF TECHNICAL INTERNSHIP",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 93.60000225,
+          "top": 725.0664189,
+          "right": 318.56175432289825,
+          "bottom": 715.78996185
+        }
+      },
+      "token_count": 4,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "section_header",
+        "page_number": 4,
+        "bbox": {
+          "left": 93.60000225,
+          "top": 725.0664189,
+          "right": 318.56175432289825,
+          "bottom": 715.78996185
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p4_e13",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 14,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "DURATION OF TECHNICAL INTERNSHIP",
+      "heading_breadcrumb": [
+        "DURATION OF TECHNICAL INTERNSHIP"
+      ],
+      "content_original": "The Technical Internship Scheme in NeGD will be conducted bi-annually i.e., - January Session and July Session.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 110.52000075000001,
+          "top": 699.1464204,
+          "right": 521.1485653922281,
+          "bottom": 674.86996335
+        }
+      },
+      "token_count": 17,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 4,
+        "bbox": {
+          "left": 110.52000075000001,
+          "top": 699.1464204,
+          "right": 521.1485653922281,
+          "bottom": 674.86996335
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p4_e14",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 15,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "DURATION OF TECHNICAL INTERNSHIP",
+      "heading_breadcrumb": [
+        "DURATION OF TECHNICAL INTERNSHIP"
+      ],
+      "content_original": "The duration of Technical Internship will be fixed for six (06) months and will not be extended further.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 110.52000075000001,
+          "top": 669.26641215,
+          "right": 521.1501073538874,
+          "bottom": 647.02995585
+        }
+      },
+      "token_count": 18,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 4,
+        "bbox": {
+          "left": 110.52000075000001,
+          "top": 669.26641215,
+          "right": 521.1501073538874,
+          "bottom": 647.02995585
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p4_e15",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 16,
+      "element_type": "section",
+      "element_depth": 1,
+      "section_path": "HOW TO APPLY FOR TECHNICAL INTERNSHIP",
+      "heading_breadcrumb": [
+        "HOW TO APPLY FOR TECHNICAL INTERNSHIP"
+      ],
+      "content_original": "HOW TO APPLY FOR TECHNICAL INTERNSHIP",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 93.60000225,
+          "top": 630.26641215,
+          "right": 352.2042896493521,
+          "bottom": 620.9899551
+        }
+      },
+      "token_count": 6,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "section_header",
+        "page_number": 4,
+        "bbox": {
+          "left": 93.60000225,
+          "top": 630.26641215,
+          "right": 352.2042896493521,
+          "bottom": 620.9899551
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p4_e16",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 17,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "HOW TO APPLY FOR TECHNICAL INTERNSHIP",
+      "heading_breadcrumb": [
+        "HOW TO APPLY FOR TECHNICAL INTERNSHIP"
+      ],
+      "content_original": "Interested and eligible students must submit their applications in the prescribed application form available on the NeGD's website.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 110.52000075000001,
+          "top": 604.3464136499999,
+          "right": 521.2170739042285,
+          "bottom": 579.9499543500001
+        }
+      },
+      "token_count": 18,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 4,
+        "bbox": {
+          "left": 110.52000075000001,
+          "top": 604.3464136499999,
+          "right": 521.2170739042285,
+          "bottom": 579.9499543500001
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p4_e17",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 18,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "HOW TO APPLY FOR TECHNICAL INTERNSHIP",
+      "heading_breadcrumb": [
+        "HOW TO APPLY FOR TECHNICAL INTERNSHIP"
+      ],
+      "content_original": "These applications need to be sponsored /forwarded by the Institution where the applicant is currently enrolled in or has recently passed out.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 110.52000075000001,
+          "top": 574.3464136499999,
+          "right": 521.1736778387371,
+          "bottom": 550.1899596000001
+        }
+      },
+      "token_count": 22,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 4,
+        "bbox": {
+          "left": 110.52000075000001,
+          "top": 574.3464136499999,
+          "right": 521.1736778387371,
+          "bottom": 550.1899596000001
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p4_e18",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 19,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "HOW TO APPLY FOR TECHNICAL INTERNSHIP",
+      "heading_breadcrumb": [
+        "HOW TO APPLY FOR TECHNICAL INTERNSHIP"
+      ],
+      "content_original": "The Technical Internship Programme will be an offline internship, which requires the intern to visit the organization daily to adhere to the NeGD's working hours.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 110.52000075000001,
+          "top": 544.5864196499999,
+          "right": 521.1036272974052,
+          "bottom": 520.1899596000001
+        }
+      },
+      "token_count": 25,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 4,
+        "bbox": {
+          "left": 110.52000075000001,
+          "top": 544.5864196499999,
+          "right": 521.1036272974052,
+          "bottom": 520.1899596000001
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p4_e19",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 20,
+      "element_type": "section",
+      "element_depth": 1,
+      "section_path": "SELECTION CRITERIA FOR TECHNICAL INTERNSHIP",
+      "heading_breadcrumb": [
+        "SELECTION CRITERIA FOR TECHNICAL INTERNSHIP"
+      ],
+      "content_original": "SELECTION CRITERIA FOR TECHNICAL INTERNSHIP",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 93.60000225,
+          "top": 501.6264204,
+          "right": 391.056116860324,
+          "bottom": 492.34996335
+        }
+      },
+      "token_count": 5,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "section_header",
+        "page_number": 4,
+        "bbox": {
+          "left": 93.60000225,
+          "top": 501.6264204,
+          "right": 391.056116860324,
+          "bottom": 492.34996335
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p4_e20",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 21,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "SELECTION CRITERIA FOR TECHNICAL INTERNSHIP",
+      "heading_breadcrumb": [
+        "SELECTION CRITERIA FOR TECHNICAL INTERNSHIP"
+      ],
+      "content_original": "Interns will be shortlisted based on academic performance, their relevant certifications & special initiatives and will be selected for the internship through interviews by the internal selection committee as per the NeGD's requirements.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 110.52000075000001,
+          "top": 475.58641965,
+          "right": 521.2454906235774,
+          "bottom": 436.54996785000003
+        }
+      },
+      "token_count": 33,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 4,
+        "bbox": {
+          "left": 110.52000075000001,
+          "top": 475.58641965,
+          "right": 521.2454906235774,
+          "bottom": 436.54996785000003
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p4_e21",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 22,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "SELECTION CRITERIA FOR TECHNICAL INTERNSHIP",
+      "heading_breadcrumb": [
+        "SELECTION CRITERIA FOR TECHNICAL INTERNSHIP"
+      ],
+      "content_original": "Possessing minimum qualifications as mentioned above, shall not guarantee Internship opportunity in NeGD.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 110.52000075000001,
+          "top": 430.70642189999995,
+          "right": 521.1192675116505,
+          "bottom": 406.54996785000003
+        }
+      },
+      "token_count": 13,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 4,
+        "bbox": {
+          "left": 110.52000075000001,
+          "top": 430.70642189999995,
+          "right": 521.1192675116505,
+          "bottom": 406.54996785000003
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p4_e22",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 23,
+      "element_type": "section",
+      "element_depth": 1,
+      "section_path": "STIPEND & CERTIFICATE FOR TECHNICAL INTERNSHIP",
+      "heading_breadcrumb": [
+        "STIPEND & CERTIFICATE FOR TECHNICAL INTERNSHIP"
+      ],
+      "content_original": "STIPEND & CERTIFICATE FOR TECHNICAL INTERNSHIP",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 93.60000225,
+          "top": 387.86642565,
+          "right": 407.6979626741787,
+          "bottom": 378.5899686
+        }
+      },
+      "token_count": 6,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "section_header",
+        "page_number": 4,
+        "bbox": {
+          "left": 93.60000225,
+          "top": 387.86642565,
+          "right": 407.6979626741787,
+          "bottom": 378.5899686
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p4_e23",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 24,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "STIPEND & CERTIFICATE FOR TECHNICAL INTERNSHIP",
+      "heading_breadcrumb": [
+        "STIPEND & CERTIFICATE FOR TECHNICAL INTERNSHIP"
+      ],
+      "content_original": "A token stipend of Rs. 20,00/- per month would be paid to an Intern, subject to satisfactory performance, duly certified by his / her Mentor.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 110.52000075000001,
+          "top": 361.94642789999995,
+          "right": 521.1886572074377,
+          "bottom": 337.7899506
+        }
+      },
+      "token_count": 25,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 4,
+        "bbox": {
+          "left": 110.52000075000001,
+          "top": 361.94642789999995,
+          "right": 521.1886572074377,
+          "bottom": 337.7899506
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p4_e24",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 25,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "STIPEND & CERTIFICATE FOR TECHNICAL INTERNSHIP",
+      "heading_breadcrumb": [
+        "STIPEND & CERTIFICATE FOR TECHNICAL INTERNSHIP"
+      ],
+      "content_original": "NeGD will issue certificates to intern upon the satisfactory completion of the internship (six months), subject to certification by their Mentor.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 110.52000075000001,
+          "top": 332.06640765,
+          "right": 521.1626635771421,
+          "bottom": 307.7899506
+        }
+      },
+      "token_count": 21,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 4,
+        "bbox": {
+          "left": 110.52000075000001,
+          "top": 332.06640765,
+          "right": 521.1626635771421,
+          "bottom": 307.7899506
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p4_e25",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 26,
+      "element_type": "clause",
+      "element_depth": 2,
+      "section_path": "STIPEND & CERTIFICATE FOR TECHNICAL INTERNSHIP",
+      "heading_breadcrumb": [
+        "STIPEND & CERTIFICATE FOR TECHNICAL INTERNSHIP"
+      ],
+      "content_original": "Regular attendance and satisfactory performance are must for the stipend & certificate.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 110.52000075000001,
+          "top": 302.18643314999997,
+          "right": 518.3139422284135,
+          "bottom": 292.9099761
+        }
+      },
+      "token_count": 12,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "list_item",
+        "page_number": 4,
+        "bbox": {
+          "left": 110.52000075000001,
+          "top": 302.18643314999997,
+          "right": 518.3139422284135,
+          "bottom": 292.9099761
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p4_e26",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 27,
+      "element_type": "paragraph",
+      "element_depth": 1,
+      "section_path": "STIPEND & CERTIFICATE FOR TECHNICAL INTERNSHIP",
+      "heading_breadcrumb": [
+        "STIPEND & CERTIFICATE FOR TECHNICAL INTERNSHIP"
+      ],
+      "content_original": "https://docs.google.com/forms/d/e/1FAIpQLSeXsmY2HslUJWqYbjizkGBRMtTdWMbPNc_ KUqY9368srQwXMQ/viewform?usp=header",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 93.60000225,
+          "top": 240.02642939999998,
+          "right": 516.6987814245504,
+          "bottom": 217.66997085000003
+        }
+      },
+      "token_count": 2,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "text",
+        "page_number": 4,
+        "bbox": {
+          "left": 93.60000225,
+          "top": 240.02642939999998,
+          "right": 516.6987814245504,
+          "bottom": 217.66997085000003
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p4_e27",
+      "quality_score": 0.6,
+      "is_manual_review": true,
+      "flag_reason": [
+        "low_content"
+      ],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 28,
+      "element_type": "section",
+      "element_depth": 1,
+      "section_path": "LAST DAY OF SUBMISSION OF APPLICATION FORM",
+      "heading_breadcrumb": [
+        "LAST DAY OF SUBMISSION OF APPLICATION FORM"
+      ],
+      "content_original": "LAST DAY OF SUBMISSION OF APPLICATION FORM",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 93.60000225,
+          "top": 201.02642939999998,
+          "right": 381.9662902987044,
+          "bottom": 191.74997235
+        }
+      },
+      "token_count": 7,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "section_header",
+        "page_number": 4,
+        "bbox": {
+          "left": 93.60000225,
+          "top": 201.02642939999998,
+          "right": 381.9662902987044,
+          "bottom": 191.74997235
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p4_e28",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 29,
+      "element_type": "paragraph",
+      "element_depth": 1,
+      "section_path": "LAST DAY OF SUBMISSION OF APPLICATION FORM",
+      "heading_breadcrumb": [
+        "LAST DAY OF SUBMISSION OF APPLICATION FORM"
+      ],
+      "content_original": "The last date for submission of the Internship Application Form is 24 th December 2025.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 93.60000225,
+          "top": 176.84248200000002,
+          "right": 490.9567740635388,
+          "bottom": 165.7099483500001
+        }
+      },
+      "token_count": 15,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "text",
+        "page_number": 4,
+        "bbox": {
+          "left": 93.60000225,
+          "top": 176.84248200000002,
+          "right": 490.9567740635388,
+          "bottom": 165.7099483500001
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p4_e29",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    },
+    {
+      "sequence_order": 30,
+      "element_type": "paragraph",
+      "element_depth": 1,
+      "section_path": "LAST DAY OF SUBMISSION OF APPLICATION FORM",
+      "heading_breadcrumb": [
+        "LAST DAY OF SUBMISSION OF APPLICATION FORM"
+      ],
+      "content_original": "*For general guidelines please refer to Internship Policy on NeGD's website i.e., https://negd.gov.in/.",
+      "structured_content": null,
+      "source_location": {
+        "page": 1,
+        "bbox": {
+          "left": 93.60000225,
+          "top": 149.18643314999997,
+          "right": 521.167696463895,
+          "bottom": 126.82997460000001
+        }
+      },
+      "token_count": 13,
+      "detected_language": "en",
+      "metadata": {
+        "docling_label": "text",
+        "page_number": 4,
+        "bbox": {
+          "left": 93.60000225,
+          "top": 149.18643314999997,
+          "right": 521.167696463895,
+          "bottom": 126.82997460000001
+        },
+        "ocr_confidence": null,
+        "extraction_mode": "digital"
+      },
+      "element_id": "13_p4_e30",
+      "quality_score": 1.0,
+      "is_manual_review": false,
+      "flag_reason": [],
+      "document_id": 13
+    }
+  ]
+}

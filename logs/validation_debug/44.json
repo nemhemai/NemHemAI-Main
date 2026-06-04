@@ -1,0 +1,146 @@
+{
+  "document_id": 44,
+  "pages": {
+    "1": {
+      "elements": 29,
+      "flagged": 6,
+      "flags": [
+        "corrupted_text",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "44_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "FORM 'A'"
+        },
+        {
+          "element_id": "44_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 3,
+          "text_preview": "I. D. No…….."
+        },
+        {
+          "element_id": "44_p1_e7",
+          "sequence_order": 7,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "3.Permanent Address"
+        },
+        {
+          "element_id": "44_p1_e8",
+          "sequence_order": 8,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "4.Correspondence Address"
+        },
+        {
+          "element_id": "44_p1_e24",
+          "sequence_order": 24,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Place:"
+        },
+        {
+          "element_id": "44_p1_e25",
+          "sequence_order": 25,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Date:"
+        }
+      ]
+    },
+    "2": {
+      "elements": 11,
+      "flagged": 4,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "44_p2_e31",
+          "sequence_order": 31,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Acknowledgement"
+        },
+        {
+          "element_id": "44_p2_e34",
+          "sequence_order": 34,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Mr/Ms"
+        },
+        {
+          "element_id": "44_p2_e35",
+          "sequence_order": 35,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Address"
+        },
+        {
+          "element_id": "44_p2_e38",
+          "sequence_order": 38,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Place Date"
+        }
+      ]
+    }
+  }
+}

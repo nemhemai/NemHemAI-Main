@@ -1,0 +1,4673 @@
+{
+  "document_id": 46,
+  "pages": {
+    "1": {
+      "elements": 33,
+      "flagged": 33,
+      "flags": [
+        "corrupted_text",
+        "low_content"
+      ],
+      "ocr_conf": 44.95,
+      "issues": [
+        {
+          "element_id": "46_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.27,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "ட்ட છ\""
+        },
+        {
+          "element_id": "46_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.27,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "१७७०. కాకా!"
+        },
+        {
+          "element_id": "46_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.27,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "చప కంల నజ *"
+        },
+        {
+          "element_id": "46_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.45,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "ન பட்ட ப்பட்ட."
+        },
+        {
+          "element_id": "46_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.45,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "ವ 23) 'ae ப்பட்ட"
+        },
+        {
+          "element_id": "46_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.45,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "৬ গজ জজ,"
+        },
+        {
+          "element_id": "46_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.27,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "०700100."
+        },
+        {
+          "element_id": "46_p1_e7",
+          "sequence_order": 7,
+          "page_number": 1,
+          "quality_score": 0.27,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "(೧ 214"
+        },
+        {
+          "element_id": "46_p1_e8",
+          "sequence_order": 8,
+          "page_number": 1,
+          "quality_score": 0.45,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "a এল টি রাজ பப"
+        },
+        {
+          "element_id": "46_p1_e9",
+          "sequence_order": 9,
+          "page_number": 1,
+          "quality_score": 0.27,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ಜು ৯. ২ 1"
+        },
+        {
+          "element_id": "46_p1_e10",
+          "sequence_order": 10,
+          "page_number": 1,
+          "quality_score": 0.27,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "கடக்,"
+        },
+        {
+          "element_id": "46_p1_e11",
+          "sequence_order": 11,
+          "page_number": 1,
+          "quality_score": 0.27,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "ರಕ জী"
+        },
+        {
+          "element_id": "46_p1_e12",
+          "sequence_order": 12,
+          "page_number": 1,
+          "quality_score": 0.45,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "மன் সনম 2 ০০ ಹ್ 7"
+        },
+        {
+          "element_id": "46_p1_e13",
+          "sequence_order": 13,
+          "page_number": 1,
+          "quality_score": 0.45,
+          "element_type": "section",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "06 4 श्र hes"
+        },
+        {
+          "element_id": "46_p1_e14",
+          "sequence_order": 14,
+          "page_number": 1,
+          "quality_score": 0.27,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "જ கூர"
+        },
+        {
+          "element_id": "46_p1_e15",
+          "sequence_order": 15,
+          "page_number": 1,
+          "quality_score": 0.27,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "'ட ಯಿಯ"
+        },
+        {
+          "element_id": "46_p1_e16",
+          "sequence_order": 16,
+          "page_number": 1,
+          "quality_score": 0.27,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "ட ৯০০ ನ"
+        },
+        {
+          "element_id": "46_p1_e17",
+          "sequence_order": 17,
+          "page_number": 1,
+          "quality_score": 0.27,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ভাজ জে ಹ"
+        },
+        {
+          "element_id": "46_p1_e18",
+          "sequence_order": 18,
+          "page_number": 1,
+          "quality_score": 0.27,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "x. oan जाह"
+        },
+        {
+          "element_id": "46_p1_e19",
+          "sequence_order": 19,
+          "page_number": 1,
+          "quality_score": 0.27,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ane સઇ છ డ్"
+        },
+        {
+          "element_id": "46_p1_e20",
+          "sequence_order": 20,
+          "page_number": 1,
+          "quality_score": 0.45,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "«१०० ee a டா కలల"
+        },
+        {
+          "element_id": "46_p1_e21",
+          "sequence_order": 21,
+          "page_number": 1,
+          "quality_score": 0.27,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "જદ ಟು"
+        },
+        {
+          "element_id": "46_p1_e22",
+          "sequence_order": 22,
+          "page_number": 1,
+          "quality_score": 0.27,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "த்த a"
+        },
+        {
+          "element_id": "46_p1_e23",
+          "sequence_order": 23,
+          "page_number": 1,
+          "quality_score": 0.27,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "જ્જ ન টপ"
+        },
+        {
+          "element_id": "46_p1_e24",
+          "sequence_order": 24,
+          "page_number": 1,
+          "quality_score": 0.27,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "rly | ಸ"
+        },
+        {
+          "element_id": "46_p1_e25",
+          "sequence_order": 25,
+          "page_number": 1,
+          "quality_score": 0.27,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "xP క్ష"
+        },
+        {
+          "element_id": "46_p1_e26",
+          "sequence_order": 26,
+          "page_number": 1,
+          "quality_score": 0.27,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "કઇ, ಇ."
+        },
+        {
+          "element_id": "46_p1_e27",
+          "sequence_order": 27,
+          "page_number": 1,
+          "quality_score": 0.135,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "7 ae"
+        },
+        {
+          "element_id": "46_p1_e28",
+          "sequence_order": 28,
+          "page_number": 1,
+          "quality_score": 0.27,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "wT आणा"
+        },
+        {
+          "element_id": "46_p1_e29",
+          "sequence_order": 29,
+          "page_number": 1,
+          "quality_score": 0.45,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Fa ஆட La હુ এ"
+        },
+        {
+          "element_id": "46_p1_e30",
+          "sequence_order": 30,
+          "page_number": 1,
+          "quality_score": 0.27,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "PK ತ ર"
+        },
+        {
+          "element_id": "46_p1_e31",
+          "sequence_order": 31,
+          "page_number": 1,
+          "quality_score": 0.27,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ભ્ નન లే"
+        },
+        {
+          "element_id": "46_p1_e32",
+          "sequence_order": 32,
+          "page_number": 1,
+          "quality_score": 0.45,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "हि OK જ ટ 'i"
+        }
+      ]
+    },
+    "3": {
+      "elements": 21,
+      "flagged": 6,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 72.16,
+      "issues": [
+        {
+          "element_id": "46_p3_e34",
+          "sequence_order": 34,
+          "page_number": 3,
+          "quality_score": 0.433,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "bed ae"
+        },
+        {
+          "element_id": "46_p3_e38",
+          "sequence_order": 38,
+          "page_number": 3,
+          "quality_score": 0.433,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "लेण5-परियय"
+        },
+        {
+          "element_id": "46_p3_e44",
+          "sequence_order": 44,
+          "page_number": 3,
+          "quality_score": 0.433,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "નકલ 200"
+        },
+        {
+          "element_id": "46_p3_e46",
+          "sequence_order": 46,
+          "page_number": 3,
+          "quality_score": 0.433,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "નકલ ૩૦૦"
+        },
+        {
+          "element_id": "46_p3_e51",
+          "sequence_order": 51,
+          "page_number": 3,
+          "quality_score": 0.433,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ફન નં. ನ"
+        },
+        {
+          "element_id": "46_p3_e52",
+          "sequence_order": 52,
+          "page_number": 3,
+          "quality_score": 0.433,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "૬૩૩ ૯ર 3२"
+        }
+      ]
+    },
+    "4": {
+      "elements": 8,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text",
+        "low_content"
+      ],
+      "ocr_conf": 90.92,
+      "issues": [
+        {
+          "element_id": "46_p4_e54",
+          "sequence_order": 54,
+          "page_number": 4,
+          "quality_score": 0.455,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 3,
+          "text_preview": "[પ્રકાશકીય )"
+        },
+        {
+          "element_id": "46_p4_e61",
+          "sequence_order": 61,
+          "page_number": 4,
+          "quality_score": 0.546,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "તા. ૧૬-૬-૮૦"
+        }
+      ]
+    },
+    "5": {
+      "elements": 9,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text",
+        "low_content"
+      ],
+      "ocr_conf": 89.44,
+      "issues": [
+        {
+          "element_id": "46_p5_e62",
+          "sequence_order": 62,
+          "page_number": 5,
+          "quality_score": 0.537,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ಡಲ 5121 77"
+        },
+        {
+          "element_id": "46_p5_e70",
+          "sequence_order": 70,
+          "page_number": 5,
+          "quality_score": 0.447,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 13,
+          "text_preview": "ઉપ, રાજગૃહી સોસાયટી, દેવલાલી કેમ્પ, નાસિક (મહારાષ્ટ્ર)"
+        }
+      ]
+    },
+    "6": {
+      "elements": 2,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 75.12,
+      "issues": [
+        {
+          "element_id": "46_p6_e71",
+          "sequence_order": 71,
+          "page_number": 6,
+          "quality_score": 0.451,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "અનુક્રમણિકા"
+        }
+      ]
+    },
+    "7": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 75.46,
+      "issues": []
+    },
+    "12": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 81.21,
+      "issues": []
+    },
+    "13": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 81.48,
+      "issues": []
+    },
+    "16": {
+      "elements": 6,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 89.72,
+      "issues": [
+        {
+          "element_id": "46_p16_e76",
+          "sequence_order": 76,
+          "page_number": 16,
+          "quality_score": 0.449,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 17,
+          "text_preview": "[તમારાં વહાલાં બાળકોને છેવટે .. | ત્રણ વષે માટે તો 'તપોવન'માં મૂકો ४.."
+        }
+      ]
+    },
+    "17": {
+      "elements": 4,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.3,
+      "issues": []
+    },
+    "18": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 66.44,
+      "issues": [
+        {
+          "element_id": "46_p18_e86",
+          "sequence_order": 86,
+          "page_number": 18,
+          "quality_score": 0.664,
+          "element_type": "section",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "SANSKAR SHAKT| PRESENTS"
+        },
+        {
+          "element_id": "46_p18_e87",
+          "sequence_order": 87,
+          "page_number": 18,
+          "quality_score": 0.399,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "- CoOouURSE-"
+        },
+        {
+          "element_id": "46_p18_e88",
+          "sequence_order": 88,
+          "page_number": 18,
+          "quality_score": 0.664,
+          "element_type": "section",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "BY THE BLESSINGS OF PUJYA RAJHANS SURISHVARII M.S."
+        }
+      ]
+    },
+    "19": {
+      "elements": 6,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.52,
+      "issues": [
+        {
+          "element_id": "46_p19_e90",
+          "sequence_order": 90,
+          "page_number": 19,
+          "quality_score": 0.463,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 4,
+          "text_preview": "[ಇ] આર્યરસ્િતસૂરિજી"
+        },
+        {
+          "element_id": "46_p19_e92",
+          "sequence_order": 92,
+          "page_number": 19,
+          "quality_score": 0.463,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 5,
+          "text_preview": "[ર] શ્રીકૃષ્ણની ભેરી"
+        }
+      ]
+    },
+    "20": {
+      "elements": 16,
+      "flagged": 6,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 90.45,
+      "issues": [
+        {
+          "element_id": "46_p20_e97",
+          "sequence_order": 97,
+          "page_number": 20,
+          "quality_score": 0.452,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 12,
+          "text_preview": "થોડાક ધનવાનોના સ્વાર્થમાં કેટલાં બધાંનું નિકંદન !"
+        },
+        {
+          "element_id": "46_p20_e101",
+          "sequence_order": 101,
+          "page_number": 20,
+          "quality_score": 0.452,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 11,
+          "text_preview": "કે, 'તારે એમ જ કહેવું કે, મારે દાસી થવું છે !''"
+        },
+        {
+          "element_id": "46_p20_e104",
+          "sequence_order": 104,
+          "page_number": 20,
+          "quality_score": 0.452,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 7,
+          "text_preview": "'પિતાજી ! હવે મને રાણી બનાવો.''"
+        },
+        {
+          "element_id": "46_p20_e105",
+          "sequence_order": 105,
+          "page_number": 20,
+          "quality_score": 0.452,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 11,
+          "text_preview": "અને..થોડા જ કાળમાં કેતુમંજરી સાધ્વી બની ગયાં."
+        },
+        {
+          "element_id": "46_p20_e106",
+          "sequence_order": 106,
+          "page_number": 20,
+          "quality_score": 0.452,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 3,
+          "text_preview": "[૪] સાત క్షం!"
+        },
+        {
+          "element_id": "46_p20_e107",
+          "sequence_order": 107,
+          "page_number": 20,
+          "quality_score": 0.452,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 27,
+          "text_preview": "સાત கயம் ाम: (ಇ) જમાલિ, (2) eer, (3) టంత શિષ્યો, (૪) নিস, (ಇ) આર્ય ગંગાચાર્ય, (૬) રોહગુપ્ઠ, (ও) ગોષ્ઠામાહિલ."
+        }
+      ]
+    },
+    "21": {
+      "elements": 10,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 90.07,
+      "issues": [
+        {
+          "element_id": "46_p21_e112",
+          "sequence_order": 112,
+          "page_number": 21,
+          "quality_score": 0.45,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 5,
+          "text_preview": "પક્ષે વાળી દીધાં હતાં."
+        }
+      ]
+    },
+    "22": {
+      "elements": 8,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.11,
+      "issues": []
+    },
+    "23": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.31,
+      "issues": []
+    },
+    "24": {
+      "elements": 13,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.91,
+      "issues": [
+        {
+          "element_id": "46_p24_e148",
+          "sequence_order": 148,
+          "page_number": 24,
+          "quality_score": 0.46,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 8,
+          "text_preview": "[१४] હેમચન્દ્રસૂરિજીની ગીતાર્થતા"
+        },
+        {
+          "element_id": "46_p24_e151",
+          "sequence_order": 151,
+          "page_number": 24,
+          "quality_score": 0.46,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 6,
+          "text_preview": "હવે શું બોલે બ્રાહ્મણો ?"
+        }
+      ]
+    },
+    "25": {
+      "elements": 15,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.28,
+      "issues": [
+        {
+          "element_id": "46_p25_e157",
+          "sequence_order": 157,
+          "page_number": 25,
+          "quality_score": 0.456,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 8,
+          "text_preview": "શ્રી જિનપ્રભસુરિજીનું મિલન થયું."
+        }
+      ]
+    },
+    "26": {
+      "elements": 15,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.1,
+      "issues": []
+    },
+    "27": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.34,
+      "issues": []
+    },
+    "28": {
+      "elements": 13,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.14,
+      "issues": []
+    },
+    "29": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [],
+      "ocr_conf": 65.76,
+      "issues": [
+        {
+          "element_id": "46_p29_e208",
+          "sequence_order": 208,
+          "page_number": 29,
+          "quality_score": 0.658,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "Our collection of Jain flashcards, games, books, comics, and puzzles is perfect for learners of all ages who are just st"
+        },
+        {
+          "element_id": "46_p29_e209",
+          "sequence_order": 209,
+          "page_number": 29,
+          "quality_score": 0.658,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 60,
+          "text_preview": "These products are carefully curated to present complex concepts in an age-appropriate ೩೧೮ easy-tounderstand format. Our"
+        },
+        {
+          "element_id": "46_p29_e210",
+          "sequence_order": 210,
+          "page_number": 29,
+          "quality_score": 0.658,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "43৮০৪ (Bo டன"
+        }
+      ]
+    },
+    "30": {
+      "elements": 15,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.28,
+      "issues": [
+        {
+          "element_id": "46_p30_e223",
+          "sequence_order": 223,
+          "page_number": 30,
+          "quality_score": 0.461,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 3,
+          "text_preview": "ભગવંતે કહ્યું."
+        }
+      ]
+    },
+    "31": {
+      "elements": 15,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.57,
+      "issues": []
+    },
+    "32": {
+      "elements": 19,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.02,
+      "issues": [
+        {
+          "element_id": "46_p32_e248",
+          "sequence_order": 248,
+          "page_number": 32,
+          "quality_score": 0.455,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 14,
+          "text_preview": "કાલાંતરે આ ભાઈ દીક્ષાની ભાવનાવાળા થયા. દીક્ષા દેવામાં આવી;"
+        },
+        {
+          "element_id": "46_p32_e258",
+          "sequence_order": 258,
+          "page_number": 32,
+          "quality_score": 0.455,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 8,
+          "text_preview": "[૩૦] નાગશ્રીનું કડવી તુંભડીનું શાક"
+        }
+      ]
+    },
+    "33": {
+      "elements": 13,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.48,
+      "issues": [
+        {
+          "element_id": "46_p33_e262",
+          "sequence_order": 262,
+          "page_number": 33,
+          "quality_score": 0.462,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 15,
+          "text_preview": "આચાર્યદેવે પોતાના શિષ્યોને આજુબાજુના ગામોમાં મોકલી આપ્યા તેમના"
+        }
+      ]
+    },
+    "34": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.89,
+      "issues": []
+    },
+    "35": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.38,
+      "issues": []
+    },
+    "36": {
+      "elements": 19,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.4,
+      "issues": [
+        {
+          "element_id": "46_p36_e301",
+          "sequence_order": 301,
+          "page_number": 36,
+          "quality_score": 0.462,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 7,
+          "text_preview": "કારણે તેમણે સ્ત્રીવેદ બાંધ્યો."
+        },
+        {
+          "element_id": "46_p36_e311",
+          "sequence_order": 311,
+          "page_number": 36,
+          "quality_score": 0.462,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 7,
+          "text_preview": "[૩૮] શ્રીગુપ્તસૂરિજી અને ગોવિંદ"
+        }
+      ]
+    },
+    "37": {
+      "elements": 17,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 90.54,
+      "issues": []
+    },
+    "38": {
+      "elements": 14,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.07,
+      "issues": []
+    },
+    "39": {
+      "elements": 17,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.32,
+      "issues": []
+    },
+    "40": {
+      "elements": 16,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.75,
+      "issues": [
+        {
+          "element_id": "46_p40_e362",
+          "sequence_order": 362,
+          "page_number": 40,
+          "quality_score": 0.459,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 4,
+          "text_preview": "[૪૪] જૈનાસાર્ય മൂ"
+        }
+      ]
+    },
+    "41": {
+      "elements": 16,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.55,
+      "issues": [
+        {
+          "element_id": "46_p41_e391",
+          "sequence_order": 391,
+          "page_number": 41,
+          "quality_score": 0.463,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 9,
+          "text_preview": "[৪৬] સુમતિનાથ સ્વામીજીનો માતાનો ન્યાય"
+        }
+      ]
+    },
+    "42": {
+      "elements": 18,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.12,
+      "issues": [
+        {
+          "element_id": "46_p42_e397",
+          "sequence_order": 397,
+          "page_number": 42,
+          "quality_score": 0.461,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 14,
+          "text_preview": "આ સાંભળીને ઓરમાન મા રાજી થઈ. 'ભલે.. ભલે..'' તેણે કહ્યું."
+        }
+      ]
+    },
+    "43": {
+      "elements": 15,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.8,
+      "issues": []
+    },
+    "44": {
+      "elements": 13,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.78,
+      "issues": [
+        {
+          "element_id": "46_p44_e437",
+          "sequence_order": 437,
+          "page_number": 44,
+          "quality_score": 0.464,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 8,
+          "text_preview": "[पड] પુંડરિંક સ્વામીજીને કેવળજ્ઞાન"
+        }
+      ]
+    },
+    "45": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 89.9,
+      "issues": []
+    },
+    "46": {
+      "elements": 14,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.15,
+      "issues": [
+        {
+          "element_id": "46_p46_e452",
+          "sequence_order": 452,
+          "page_number": 46,
+          "quality_score": 0.456,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 6,
+          "text_preview": "[மடி] ખુશાલદાસ શેઠની ખુમારી"
+        }
+      ]
+    },
+    "47": {
+      "elements": 18,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.17,
+      "issues": [
+        {
+          "element_id": "46_p47_e466",
+          "sequence_order": 466,
+          "page_number": 47,
+          "quality_score": 0.461,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 10,
+          "text_preview": "[पढ] જીવાનંદસરિજીનો બૌદ્ધાચાર્ય સાથેનો વાદ"
+        },
+        {
+          "element_id": "46_p47_e467",
+          "sequence_order": 467,
+          "page_number": 47,
+          "quality_score": 0.461,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 5,
+          "text_preview": "એ હતા, જીવાનંદસૂરિંજી."
+        }
+      ]
+    },
+    "48": {
+      "elements": 16,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.13,
+      "issues": [
+        {
+          "element_id": "46_p48_e495",
+          "sequence_order": 495,
+          "page_number": 48,
+          "quality_score": 0.461,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 4,
+          "text_preview": "[૬ર] વાદિદેવસૂરિજી"
+        }
+      ]
+    },
+    "49": {
+      "elements": 12,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 90.62,
+      "issues": [
+        {
+          "element_id": "46_p49_e502",
+          "sequence_order": 502,
+          "page_number": 49,
+          "quality_score": 0.453,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 27,
+          "text_preview": "લઈને પૂર્ણચંદ્રને દીક્ષા આપવામાં આવી. તેનું નામ 'રામ-ચંદ્રાવેજય' રાખવામાં આવ્યું. વિ. સં. ૧૧૫૨માં દીક્ષા થઈ."
+        },
+        {
+          "element_id": "46_p49_e510",
+          "sequence_order": 510,
+          "page_number": 49,
+          "quality_score": 0.453,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 15,
+          "text_preview": "એ રાજાનું નામ કાકજંઘ હતું. તેણે દિક-પરિમાણ (દિશાનું ગતિ-નિયમન)"
+        }
+      ]
+    },
+    "50": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.34,
+      "issues": []
+    },
+    "51": {
+      "elements": 15,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.11,
+      "issues": [
+        {
+          "element_id": "46_p51_e532",
+          "sequence_order": 532,
+          "page_number": 51,
+          "quality_score": 0.461,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 14,
+          "text_preview": "આ સાંભળીને ચોર્યાસીની જ્ઞાતિ-સભામાં വി. બોલાઈ ગયો. સહુને"
+        }
+      ]
+    },
+    "52": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.18,
+      "issues": []
+    },
+    "53": {
+      "elements": 8,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.72,
+      "issues": []
+    },
+    "54": {
+      "elements": 19,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 90.47,
+      "issues": [
+        {
+          "element_id": "46_p54_e561",
+          "sequence_order": 561,
+          "page_number": 54,
+          "quality_score": 0.452,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 5,
+          "text_preview": "[७३] સુકૃતોની અનુમોદના"
+        }
+      ]
+    },
+    "55": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 90.13,
+      "issues": []
+    },
+    "56": {
+      "elements": 18,
+      "flagged": 4,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.43,
+      "issues": [
+        {
+          "element_id": "46_p56_e590",
+          "sequence_order": 590,
+          "page_number": 56,
+          "quality_score": 0.462,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 7,
+          "text_preview": "નાખ્યાં. સાધુઓને ખૂબ સતાવ્યા."
+        },
+        {
+          "element_id": "46_p56_e599",
+          "sequence_order": 599,
+          "page_number": 56,
+          "quality_score": 0.462,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 6,
+          "text_preview": "અજયપાળનું માથું ફાટી ગયું."
+        },
+        {
+          "element_id": "46_p56_e600",
+          "sequence_order": 600,
+          "page_number": 56,
+          "quality_score": 0.462,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 15,
+          "text_preview": "ભારે વેદનાથી ચિત્કારતો તે બોલ્યો, 'દોષ કોઈનો નથી. મેં સાધુઓને"
+        },
+        {
+          "element_id": "46_p56_e603",
+          "sequence_order": 603,
+          "page_number": 56,
+          "quality_score": 0.462,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 6,
+          "text_preview": "આંસુનું ટીપુંય ન પાડ્યું."
+        }
+      ]
+    },
+    "57": {
+      "elements": 13,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.27,
+      "issues": [
+        {
+          "element_id": "46_p57_e609",
+          "sequence_order": 609,
+          "page_number": 57,
+          "quality_score": 0.456,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 8,
+          "text_preview": "દો. હું બધી જ સામગ્રી પૂરી પાડીશ.''"
+        }
+      ]
+    },
+    "58": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.2,
+      "issues": []
+    },
+    "59": {
+      "elements": 15,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.49,
+      "issues": []
+    },
+    "60": {
+      "elements": 9,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.63,
+      "issues": [
+        {
+          "element_id": "46_p60_e650",
+          "sequence_order": 650,
+          "page_number": 60,
+          "quality_score": 0.463,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 12,
+          "text_preview": "બીજા મુનિના મૃત્યુ-પ્રકારને 'ગૃપ્રપૃષ્ઠ' કહેલ છે."
+        }
+      ]
+    },
+    "61": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 90.29,
+      "issues": []
+    },
+    "63": {
+      "elements": 11,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 90.82,
+      "issues": [
+        {
+          "element_id": "46_p63_e670",
+          "sequence_order": 670,
+          "page_number": 63,
+          "quality_score": 0.454,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 8,
+          "text_preview": "[६२] પાદલિપ્તસૂરિજીની બુદ્ધિમત્તા"
+        }
+      ]
+    },
+    "64": {
+      "elements": 15,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.28,
+      "issues": [
+        {
+          "element_id": "46_p64_e681",
+          "sequence_order": 681,
+          "page_number": 64,
+          "quality_score": 0.456,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 5,
+          "text_preview": "હેલનામાંથી ઊગરી ગયું."
+        }
+      ]
+    },
+    "65": {
+      "elements": 19,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 92.07,
+      "issues": [
+        {
+          "element_id": "46_p65_e703",
+          "sequence_order": 703,
+          "page_number": 65,
+          "quality_score": 0.552,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "[૯૪] ગોશાલક"
+        }
+      ]
+    },
+    "66": {
+      "elements": 19,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text",
+        "low_content"
+      ],
+      "ocr_conf": 91.79,
+      "issues": [
+        {
+          "element_id": "46_p66_e712",
+          "sequence_order": 712,
+          "page_number": 66,
+          "quality_score": 0.551,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "પણ બની ગયો."
+        },
+        {
+          "element_id": "46_p66_e713",
+          "sequence_order": 713,
+          "page_number": 66,
+          "quality_score": 0.459,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 33,
+          "text_preview": "તેણે સ્થાપેલા સંઘમાં શ્રાવક-શિરોમણિ 'આપુલો' હતો અને શ્રાવિકાશિરોમણિ 'હાલાહલી' હતી. આ શ્રાવિકાને ત્યાં જ છેલ્લે તેનું કરૃ"
+        }
+      ]
+    },
+    "67": {
+      "elements": 16,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.86,
+      "issues": [
+        {
+          "element_id": "46_p67_e741",
+          "sequence_order": 741,
+          "page_number": 67,
+          "quality_score": 0.459,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 5,
+          "text_preview": "પૂરેપૂરો ઘેરી લીધો હતો."
+        }
+      ]
+    },
+    "68": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.39,
+      "issues": []
+    },
+    "69": {
+      "elements": 13,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 90.73,
+      "issues": [
+        {
+          "element_id": "46_p69_e756",
+          "sequence_order": 756,
+          "page_number": 69,
+          "quality_score": 0.454,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 10,
+          "text_preview": "થયું. વલ્ક્લચીરી પ્રત્યેક્બુદ્ધ મુનિ બન્યા."
+        },
+        {
+          "element_id": "46_p69_e758",
+          "sequence_order": 758,
+          "page_number": 69,
+          "quality_score": 0.454,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 3,
+          "text_preview": "દાન કર્યું. ்"
+        }
+      ]
+    },
+    "70": {
+      "elements": 19,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.39,
+      "issues": [
+        {
+          "element_id": "46_p70_e772",
+          "sequence_order": 772,
+          "page_number": 70,
+          "quality_score": 0.457,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 16,
+          "text_preview": "તેણે રોજ સેંકડો બ્રાહ્મણોની બન્ને આંખો ફોડી નાખીને, થાળમાં ભરીને"
+        }
+      ]
+    },
+    "71": {
+      "elements": 16,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 93.32,
+      "issues": []
+    },
+    "72": {
+      "elements": 15,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.8,
+      "issues": [
+        {
+          "element_id": "46_p72_e815",
+          "sequence_order": 815,
+          "page_number": 72,
+          "quality_score": 0.464,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 7,
+          "text_preview": "થયેલી ભિક્ષા મારે વાપરવી નહિ.''"
+        }
+      ]
+    },
+    "73": {
+      "elements": 17,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.87,
+      "issues": [
+        {
+          "element_id": "46_p73_e828",
+          "sequence_order": 828,
+          "page_number": 73,
+          "quality_score": 0.459,
+          "element_type": "clause",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 4,
+          "text_preview": "કંઠસ્થ થયાં હતાં."
+        }
+      ]
+    },
+    "74": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.25,
+      "issues": []
+    },
+    "75": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.88,
+      "issues": []
+    },
+    "76": {
+      "elements": 16,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.76,
+      "issues": []
+    },
+    "77": {
+      "elements": 20,
+      "flagged": 5,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.89,
+      "issues": [
+        {
+          "element_id": "46_p77_e880",
+          "sequence_order": 880,
+          "page_number": 77,
+          "quality_score": 0.459,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 6,
+          "text_preview": "વિરાગ પામીને દીક્ષા લીધી."
+        },
+        {
+          "element_id": "46_p77_e881",
+          "sequence_order": 881,
+          "page_number": 77,
+          "quality_score": 0.459,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 8,
+          "text_preview": "[૧૦૯] রুল] અને સિંહગુફાવાસી મુનિ"
+        },
+        {
+          "element_id": "46_p77_e885",
+          "sequence_order": 885,
+          "page_number": 77,
+          "quality_score": 0.459,
+          "element_type": "clause",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 5,
+          "text_preview": "ચાતુર્માસ કર્યું હતું."
+        },
+        {
+          "element_id": "46_p77_e887",
+          "sequence_order": 887,
+          "page_number": 77,
+          "quality_score": 0.459,
+          "element_type": "clause",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 28,
+          "text_preview": "સિંહગૂફાવાસી મુનિએ ગુરુને કહ્યું હતું કે, ''વેશ્યાને પ્રતિબોધવામાં ? હું તેની નાની બહેન ઉપકોશાને પ્રતિબોધીશ. અને.."
+        },
+        {
+          "element_id": "46_p77_e891",
+          "sequence_order": 891,
+          "page_number": 77,
+          "quality_score": 0.459,
+          "element_type": "clause",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 27,
+          "text_preview": "ત્યારે તેને કોઈ જોઈ-જાણી ન જાય તે માટે મોટા વાંસના પોલાણમાં તેને સંતાડી હતી; અને તેનું છિદ્ર પૂરી દીધું હતું."
+        }
+      ]
+    },
+    "78": {
+      "elements": 6,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.55,
+      "issues": []
+    },
+    "79": {
+      "elements": 17,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 90.67,
+      "issues": [
+        {
+          "element_id": "46_p79_e903",
+          "sequence_order": 903,
+          "page_number": 79,
+          "quality_score": 0.544,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "[૧૧ર] સુલસા"
+        }
+      ]
+    },
+    "80": {
+      "elements": 3,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "46_p80_e917",
+          "sequence_order": 917,
+          "page_number": 80,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ட ஆ சார்"
+        },
+        {
+          "element_id": "46_p80_e919",
+          "sequence_order": 919,
+          "page_number": 80,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "4৯, ei లా"
+        }
+      ]
+    },
+    "81": {
+      "elements": 17,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.38,
+      "issues": []
+    },
+    "82": {
+      "elements": 12,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.08,
+      "issues": [
+        {
+          "element_id": "46_p82_e937",
+          "sequence_order": 937,
+          "page_number": 82,
+          "quality_score": 0.46,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 5,
+          "text_preview": "[૧૧૪] સાધ્વી સુકુમાલિકા"
+        }
+      ]
+    },
+    "83": {
+      "elements": 16,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.97,
+      "issues": []
+    },
+    "84": {
+      "elements": 12,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.19,
+      "issues": [
+        {
+          "element_id": "46_p84_e971",
+          "sequence_order": 971,
+          "page_number": 84,
+          "quality_score": 0.461,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 10,
+          "text_preview": "[૧૨૦] ખંભાતમાં જિનબિમ્બ-ચોરી અને સંઘજાગૃતિ"
+        }
+      ]
+    },
+    "85": {
+      "elements": 16,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.1,
+      "issues": [
+        {
+          "element_id": "46_p85_e986",
+          "sequence_order": 986,
+          "page_number": 85,
+          "quality_score": 0.455,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 6,
+          "text_preview": "જીવન પૂરું કરી નાખો..' |"
+        }
+      ]
+    },
+    "86": {
+      "elements": 14,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text",
+        "low_content"
+      ],
+      "ocr_conf": 91.49,
+      "issues": [
+        {
+          "element_id": "46_p86_e997",
+          "sequence_order": 997,
+          "page_number": 86,
+          "quality_score": 0.457,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 6,
+          "text_preview": "[परप] 'રાજેશ્વરી તે எத்தி!"
+        },
+        {
+          "element_id": "46_p86_e999",
+          "sequence_order": 999,
+          "page_number": 86,
+          "quality_score": 0.549,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "થવાના ભયથી."
+        }
+      ]
+    },
+    "87": {
+      "elements": 14,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text",
+        "low_content"
+      ],
+      "ocr_conf": 90.96,
+      "issues": [
+        {
+          "element_id": "46_p87_e1019",
+          "sequence_order": 1019,
+          "page_number": 87,
+          "quality_score": 0.273,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "આવ્યા."
+        }
+      ]
+    },
+    "88": {
+      "elements": 22,
+      "flagged": 5,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.44,
+      "issues": [
+        {
+          "element_id": "46_p88_e1029",
+          "sequence_order": 1029,
+          "page_number": 88,
+          "quality_score": 0.462,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 3,
+          "text_preview": "સાંભળવા આવ્યો."
+        },
+        {
+          "element_id": "46_p88_e1031",
+          "sequence_order": 1031,
+          "page_number": 88,
+          "quality_score": 0.462,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 5,
+          "text_preview": "કે, 'મને દીક્ષા આપો.'"
+        },
+        {
+          "element_id": "46_p88_e1035",
+          "sequence_order": 1035,
+          "page_number": 88,
+          "quality_score": 0.462,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 3,
+          "text_preview": "વાત સ્વીકારી."
+        },
+        {
+          "element_id": "46_p88_e1037",
+          "sequence_order": 1037,
+          "page_number": 88,
+          "quality_score": 0.462,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 3,
+          "text_preview": "દીક્ષા લીધી."
+        },
+        {
+          "element_id": "46_p88_e1040",
+          "sequence_order": 1040,
+          "page_number": 88,
+          "quality_score": 0.462,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 4,
+          "text_preview": "ગુરુ ગૌતમસ્વામીજી"
+        }
+      ]
+    },
+    "89": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.49,
+      "issues": []
+    },
+    "90": {
+      "elements": 16,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.72,
+      "issues": [
+        {
+          "element_id": "46_p90_e1061",
+          "sequence_order": 1061,
+          "page_number": 90,
+          "quality_score": 0.459,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 7,
+          "text_preview": "મુનિએ કહ્યું, 'આજે જ સાંજે.'"
+        },
+        {
+          "element_id": "46_p90_e1063",
+          "sequence_order": 1063,
+          "page_number": 90,
+          "quality_score": 0.459,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 23,
+          "text_preview": "माटे તે ઉપાશ્રયે ગયો અને મુનિને પૂછ્યું, 'मारी ઘોડીના પેટમાં શું મુનિએ કહ્યું, 'બે બચ્ચાં.''"
+        }
+      ]
+    },
+    "91": {
+      "elements": 12,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text",
+        "low_content"
+      ],
+      "ocr_conf": 92.61,
+      "issues": [
+        {
+          "element_id": "46_p91_e1073",
+          "sequence_order": 1073,
+          "page_number": 91,
+          "quality_score": 0.463,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 5,
+          "text_preview": "[૧૩૬] સવા-સોમાની ટૂંક"
+        },
+        {
+          "element_id": "46_p91_e1078",
+          "sequence_order": 1078,
+          "page_number": 91,
+          "quality_score": 0.278,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ચૂકવી દીધા."
+        }
+      ]
+    },
+    "92": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.52,
+      "issues": []
+    },
+    "93": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.52,
+      "issues": []
+    },
+    "94": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.14,
+      "issues": []
+    },
+    "95": {
+      "elements": 16,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.23,
+      "issues": [
+        {
+          "element_id": "46_p95_e1130",
+          "sequence_order": 1130,
+          "page_number": 95,
+          "quality_score": 0.456,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 29,
+          "text_preview": "તેમણે સંસ્કૃત ભાષા ઉપર પ્રભુત્વ મેળવી લીધું. ત્યાર બાદ તેમણે ''આત્મનિંદા, દ્વાત્રિશિકા''ની સંસ્કૃત ભાષામાં રચના કરી."
+        }
+      ]
+    },
+    "96": {
+      "elements": 12,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 90.85,
+      "issues": [
+        {
+          "element_id": "46_p96_e1134",
+          "sequence_order": 1134,
+          "page_number": 96,
+          "quality_score": 0.454,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 6,
+          "text_preview": "તેમાં સંપૂર્ણ મૌન રાખતા."
+        }
+      ]
+    },
+    "97": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.8,
+      "issues": []
+    },
+    "98": {
+      "elements": 11,
+      "flagged": 3,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.15,
+      "issues": [
+        {
+          "element_id": "46_p98_e1154",
+          "sequence_order": 1154,
+          "page_number": 98,
+          "quality_score": 0.461,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 9,
+          "text_preview": "[૧૫૫] શાંતિસૂરિજી અને મુનિચન્દ્રસૂરિજી"
+        },
+        {
+          "element_id": "46_p98_e1156",
+          "sequence_order": 1156,
+          "page_number": 98,
+          "quality_score": 0.461,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 8,
+          "text_preview": "ભાર સોંપીને ગુરુ સ્વર્ગે સિધાવ્યા."
+        },
+        {
+          "element_id": "46_p98_e1161",
+          "sequence_order": 1161,
+          "page_number": 98,
+          "quality_score": 0.461,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 31,
+          "text_preview": "ભોજ સમજી ગયો. તેણે શાંતિસૂરિજીને 'વાદિવેતાલ' Mize આપ્યું, દાનમાં 'અપાયેલા ચોર્યાસી લાખ દ્રમ્મનાં ધારામાં જિનમંદિરો બનાવા"
+        }
+      ]
+    },
+    "99": {
+      "elements": 11,
+      "flagged": 3,
+      "flags": [
+        "corrupted_text",
+        "low_content"
+      ],
+      "ocr_conf": 93.02,
+      "issues": [
+        {
+          "element_id": "46_p99_e1165",
+          "sequence_order": 1165,
+          "page_number": 99,
+          "quality_score": 0.558,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "રત્ન छो.'"
+        },
+        {
+          "element_id": "46_p99_e1169",
+          "sequence_order": 1169,
+          "page_number": 99,
+          "quality_score": 0.465,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 10,
+          "text_preview": "[૧૫૬] દ્રોણાચાર્યજી અને સૂરાચાર્યજીની દાંડી"
+        },
+        {
+          "element_id": "46_p99_e1171",
+          "sequence_order": 1171,
+          "page_number": 99,
+          "quality_score": 0.465,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 16,
+          "text_preview": "સૂરાચાર્યજીએ કહ્યું કે, 'તેઓ પોતાનું બધું જ્ઞાન શિષ્યોને આપવા માગે"
+        }
+      ]
+    },
+    "100": {
+      "elements": 14,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 91.62,
+      "issues": [
+        {
+          "element_id": "46_p100_e1179",
+          "sequence_order": 1179,
+          "page_number": 100,
+          "quality_score": 0.55,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "મારે કામ છે"
+        }
+      ]
+    },
+    "101": {
+      "elements": 8,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.6,
+      "issues": []
+    },
+    "102": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.29,
+      "issues": []
+    },
+    "103": {
+      "elements": 15,
+      "flagged": 3,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.26,
+      "issues": [
+        {
+          "element_id": "46_p103_e1209",
+          "sequence_order": 1209,
+          "page_number": 103,
+          "quality_score": 0.456,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 3,
+          "text_preview": "રતો નીકળ્યાં"
+        },
+        {
+          "element_id": "46_p103_e1215",
+          "sequence_order": 1215,
+          "page_number": 103,
+          "quality_score": 0.456,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 5,
+          "text_preview": "[૧૬૪] દ્વારિંકાનું દહન"
+        },
+        {
+          "element_id": "46_p103_e1219",
+          "sequence_order": 1219,
+          "page_number": 103,
+          "quality_score": 0.456,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 16,
+          "text_preview": "આકાશમાંથી ઉલ્કાપાત નિર્ધાર થવા લાગ્યો. પૃથ્વી કંપવા લાગી, ગૃહોમાંથી"
+        }
+      ]
+    },
+    "104": {
+      "elements": 7,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.21,
+      "issues": [
+        {
+          "element_id": "46_p104_e1229",
+          "sequence_order": 1229,
+          "page_number": 104,
+          "quality_score": 0.461,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 15,
+          "text_preview": "તે સાંભળીને તેમનાં માતાપિતા બોલ્યાં, 'હે વત્સો ! હવે તમે ચાલ્યા"
+        }
+      ]
+    },
+    "105": {
+      "elements": 7,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.59,
+      "issues": []
+    },
+    "106": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.48,
+      "issues": []
+    },
+    "108": {
+      "elements": 12,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 93.45,
+      "issues": [
+        {
+          "element_id": "46_p108_e1257",
+          "sequence_order": 1257,
+          "page_number": 108,
+          "quality_score": 0.467,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 15,
+          "text_preview": "સુરિજીએ શ્રીપાળ કવિ દ્વારા તેને રાજા સુધી પહોંચાડ્યો અને પેલું"
+        }
+      ]
+    },
+    "109": {
+      "elements": 14,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.09,
+      "issues": []
+    },
+    "110": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 89.86,
+      "issues": []
+    },
+    "111": {
+      "elements": 19,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 90.96,
+      "issues": [
+        {
+          "element_id": "46_p111_e1289",
+          "sequence_order": 1289,
+          "page_number": 111,
+          "quality_score": 0.455,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 4,
+          "text_preview": "[१७४] ભીમો કુંડલિયો"
+        },
+        {
+          "element_id": "46_p111_e1300",
+          "sequence_order": 1300,
+          "page_number": 111,
+          "quality_score": 0.455,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 10,
+          "text_preview": "[१७६] સ્વચ્છંદી સાધુઓથી ત્રાસેલા કાલસૂરિજી"
+        }
+      ]
+    },
+    "112": {
+      "elements": 28,
+      "flagged": 3,
+      "flags": [
+        "corrupted_text",
+        "low_content"
+      ],
+      "ocr_conf": 89.13,
+      "issues": [
+        {
+          "element_id": "46_p112_e1308",
+          "sequence_order": 1308,
+          "page_number": 112,
+          "quality_score": 0.535,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "3 ર૪ dasa"
+        },
+        {
+          "element_id": "46_p112_e1312",
+          "sequence_order": 1312,
+          "page_number": 112,
+          "quality_score": 0.446,
+          "element_type": "clause",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 6,
+          "text_preview": "ও. મુનિના સમાધિસ્થાને ഡ്"
+        },
+        {
+          "element_id": "46_p112_e1313",
+          "sequence_order": 1313,
+          "page_number": 112,
+          "quality_score": 0.446,
+          "element_type": "clause",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 6,
+          "text_preview": "આચાર્ય, મુનિ, સિદ્ધપુત્ર"
+        }
+      ]
+    },
+    "113": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 90.92,
+      "issues": []
+    },
+    "114": {
+      "elements": 11,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.49,
+      "issues": [
+        {
+          "element_id": "46_p114_e1350",
+          "sequence_order": 1350,
+          "page_number": 114,
+          "quality_score": 0.457,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 8,
+          "text_preview": "[૧૮૩] બૌદ્ધવિજેતા મલ્લવાદિસૂૃરિજી"
+        }
+      ]
+    },
+    "115": {
+      "elements": 13,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.92,
+      "issues": []
+    },
+    "116": {
+      "elements": 7,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.12,
+      "issues": []
+    },
+    "117": {
+      "elements": 14,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.57,
+      "issues": []
+    },
+    "118": {
+      "elements": 14,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 93.16,
+      "issues": [
+        {
+          "element_id": "46_p118_e1393",
+          "sequence_order": 1393,
+          "page_number": 118,
+          "quality_score": 0.466,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 3,
+          "text_preview": "કારીગીરી કરાવી."
+        },
+        {
+          "element_id": "46_p118_e1394",
+          "sequence_order": 1394,
+          "page_number": 118,
+          "quality_score": 0.466,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 21,
+          "text_preview": "કોઈકે ભીમજીને કહ્યું કે, 'શું જંગલમાં તે પોષાળ થતી હશે ! તમે પૈસાનું પાણી કર્યું છે !''"
+        }
+      ]
+    },
+    "119": {
+      "elements": 13,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.03,
+      "issues": [
+        {
+          "element_id": "46_p119_e1411",
+          "sequence_order": 1411,
+          "page_number": 119,
+          "quality_score": 0.46,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 5,
+          "text_preview": "કર્યો. નામે દેવદિન્ન."
+        }
+      ]
+    },
+    "120": {
+      "elements": 11,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.39,
+      "issues": [
+        {
+          "element_id": "46_p120_e1419",
+          "sequence_order": 1419,
+          "page_number": 120,
+          "quality_score": 0.462,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 11,
+          "text_preview": "\"લાગ્યું. સજા પૂરી થતાં શેઠ જેલમાંથી છૂટા થયા."
+        },
+        {
+          "element_id": "46_p120_e1423",
+          "sequence_order": 1423,
+          "page_number": 120,
+          "quality_score": 0.462,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 10,
+          "text_preview": "રાતે જ ત્યાંના ઉપાશ્રયમાં સિંહબચ્ચું જોયું."
+        }
+      ]
+    },
+    "121": {
+      "elements": 13,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text",
+        "low_content"
+      ],
+      "ocr_conf": 90.13,
+      "issues": [
+        {
+          "element_id": "46_p121_e1426",
+          "sequence_order": 1426,
+          "page_number": 121,
+          "quality_score": 0.451,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 16,
+          "text_preview": "ભારે ઠાઠથી મોઢેરામાં દીક્ષા થઈ. તેમનું દીક્ષાનું ाम ભદ્રકીર્તિ મુનિ"
+        },
+        {
+          "element_id": "46_p121_e1433",
+          "sequence_order": 1433,
+          "page_number": 121,
+          "quality_score": 0.27,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "રાત્રે"
+        }
+      ]
+    },
+    "123": {
+      "elements": 18,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text",
+        "low_content"
+      ],
+      "ocr_conf": 90.15,
+      "issues": [
+        {
+          "element_id": "46_p123_e1440",
+          "sequence_order": 1440,
+          "page_number": 123,
+          "quality_score": 0.27,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "કરીશ.''"
+        }
+      ]
+    },
+    "124": {
+      "elements": 15,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.27,
+      "issues": [
+        {
+          "element_id": "46_p124_e1464",
+          "sequence_order": 1464,
+          "page_number": 124,
+          "quality_score": 0.461,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 12,
+          "text_preview": "હેમરાજ શેઠે માનતુંગસૂરિજી મહારાજાનું નામ આપ્યું."
+        },
+        {
+          "element_id": "46_p124_e1471",
+          "sequence_order": 1471,
+          "page_number": 124,
+          "quality_score": 0.461,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 5,
+          "text_preview": "ભારે ઈર્ષ્યા થવા લાગી."
+        }
+      ]
+    },
+    "125": {
+      "elements": 17,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.74,
+      "issues": []
+    },
+    "126": {
+      "elements": 13,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 93.12,
+      "issues": []
+    },
+    "127": {
+      "elements": 16,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.55,
+      "issues": [
+        {
+          "element_id": "46_p127_e1513",
+          "sequence_order": 1513,
+          "page_number": 127,
+          "quality_score": 0.463,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 15,
+          "text_preview": "બિચારી ! ભૃૂખી-તરસી ડોશી પાછી જંગલમાં ગઈ. માંડ લાકડાં કાપીને"
+        }
+      ]
+    },
+    "128": {
+      "elements": 16,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text",
+        "low_content"
+      ],
+      "ocr_conf": 91.41,
+      "issues": [
+        {
+          "element_id": "46_p128_e1522",
+          "sequence_order": 1522,
+          "page_number": 128,
+          "quality_score": 0.274,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "વેલડી,''"
+        },
+        {
+          "element_id": "46_p128_e1525",
+          "sequence_order": 1525,
+          "page_number": 128,
+          "quality_score": 0.457,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 42,
+          "text_preview": "દેવીએ તેમના મનોભાવો જાણીને કહ્યું, 'હું તમારી ઉપર પ્રસન્ન છું, પણ તમે એક જ વરદાન માંગો; કાં મંદિરના નિર્વિઘ્ન નિર્માણનું"
+        }
+      ]
+    },
+    "129": {
+      "elements": 17,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.72,
+      "issues": [
+        {
+          "element_id": "46_p129_e1535",
+          "sequence_order": 1535,
+          "page_number": 129,
+          "quality_score": 0.459,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 8,
+          "text_preview": "અભિગમ-શ્વાવકોના ભાવે વંશજો બનશે.''"
+        },
+        {
+          "element_id": "46_p129_e1548",
+          "sequence_order": 1548,
+          "page_number": 129,
+          "quality_score": 0.459,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 22,
+          "text_preview": "આવ્યો. તેણે મંદિરની ભમતીમાં રાત્રે પવન પેસતાં દીવાલોમાં મોટી ચીરાડો પડી ગયાનું જણાવ્યું."
+        }
+      ]
+    },
+    "130": {
+      "elements": 15,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.88,
+      "issues": [
+        {
+          "element_id": "46_p130_e1557",
+          "sequence_order": 1557,
+          "page_number": 130,
+          "quality_score": 0.459,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 16,
+          "text_preview": "મંત્રીશ્વરે કહ્યું, 'िल.. જેવી શ્રીસંઘની આજ્ઞા.. બાકી બેવડી વાર લાભ"
+        },
+        {
+          "element_id": "46_p130_e1562",
+          "sequence_order": 1562,
+          "page_number": 130,
+          "quality_score": 0.459,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 18,
+          "text_preview": "રકમ ચૂકવી રહ્યો છે) ત્યારે તેનું નામ ટીપમાં સૌથી પહેલું મૂકવામાં આવ્યું."
+        }
+      ]
+    },
+    "131": {
+      "elements": 17,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.45,
+      "issues": []
+    },
+    "132": {
+      "elements": 13,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 93.45,
+      "issues": []
+    },
+    "133": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 90.81,
+      "issues": []
+    },
+    "134": {
+      "elements": 15,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.89,
+      "issues": [
+        {
+          "element_id": "46_p134_e1608",
+          "sequence_order": 1608,
+          "page_number": 134,
+          "quality_score": 0.459,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 16,
+          "text_preview": "વ્યવસ્થાપકને દાનવીરનું નામ પૂછ્યું.. તેણે 'મંત્રીશ્વર હેમડ' કહ્યું"
+        }
+      ]
+    },
+    "135": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 90.56,
+      "issues": []
+    },
+    "136": {
+      "elements": 17,
+      "flagged": 3,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.23,
+      "issues": [
+        {
+          "element_id": "46_p136_e1634",
+          "sequence_order": 1634,
+          "page_number": 136,
+          "quality_score": 0.456,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 17,
+          "text_preview": "આ સાંભળીને ઉશ્કેરાયેલા ભોજે તે ગ્રંથને ત્યાં ને ત્યાં તાપણામાં નાંખીને"
+        },
+        {
+          "element_id": "46_p136_e1635",
+          "sequence_order": 1635,
+          "page_number": 136,
+          "quality_score": 0.456,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 5,
+          "text_preview": "ભસ્મીભૂત કરી નાંખ્યો."
+        },
+        {
+          "element_id": "46_p136_e1637",
+          "sequence_order": 1637,
+          "page_number": 136,
+          "quality_score": 0.456,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 3,
+          "text_preview": "ઘરે પહોંચ્યા."
+        }
+      ]
+    },
+    "137": {
+      "elements": 14,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 90.64,
+      "issues": [
+        {
+          "element_id": "46_p137_e1652",
+          "sequence_order": 1652,
+          "page_number": 137,
+          "quality_score": 0.453,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 8,
+          "text_preview": "ઝટ તેનું પ્રાયશ્ચિત્ત કરી લેવું.''"
+        }
+      ]
+    },
+    "138": {
+      "elements": 18,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.38,
+      "issues": [
+        {
+          "element_id": "46_p138_e1666",
+          "sequence_order": 1666,
+          "page_number": 138,
+          "quality_score": 0.462,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 17,
+          "text_preview": "માતાએ કહ્યું કે, 'તેં પેટની વિદ્યા મેળવી. તું ભણે તો હું આનંદ પામું.''"
+        },
+        {
+          "element_id": "46_p138_e1672",
+          "sequence_order": 1672,
+          "page_number": 138,
+          "quality_score": 0.462,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 3,
+          "text_preview": "કરવામાં આવી."
+        }
+      ]
+    },
+    "139": {
+      "elements": 13,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.2,
+      "issues": []
+    },
+    "140": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.16,
+      "issues": []
+    },
+    "141": {
+      "elements": 14,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.92,
+      "issues": []
+    },
+    "142": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 89.91,
+      "issues": []
+    },
+    "143": {
+      "elements": 13,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.89,
+      "issues": []
+    },
+    "144": {
+      "elements": 16,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.35,
+      "issues": [
+        {
+          "element_id": "46_p144_e1750",
+          "sequence_order": 1750,
+          "page_number": 144,
+          "quality_score": 0.462,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 6,
+          "text_preview": "'મજા કરો.. કંઈ કામ નથી.''"
+        },
+        {
+          "element_id": "46_p144_e1759",
+          "sequence_order": 1759,
+          "page_number": 144,
+          "quality_score": 0.462,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 3,
+          "text_preview": "ગબડાવી દીધા."
+        }
+      ]
+    },
+    "145": {
+      "elements": 13,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.03,
+      "issues": [
+        {
+          "element_id": "46_p145_e1762",
+          "sequence_order": 1762,
+          "page_number": 145,
+          "quality_score": 0.46,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 9,
+          "text_preview": "લાખમાં મોંઘા પડી ગયા તેનું પરિણામ ?''"
+        },
+        {
+          "element_id": "46_p145_e1763",
+          "sequence_order": 1763,
+          "page_number": 145,
+          "quality_score": 0.46,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 5,
+          "text_preview": "રાજા બિચારો શું બોલે ?"
+        }
+      ]
+    },
+    "146": {
+      "elements": 21,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.01,
+      "issues": [
+        {
+          "element_id": "46_p146_e1786",
+          "sequence_order": 1786,
+          "page_number": 146,
+          "quality_score": 0.455,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 6,
+          "text_preview": "પૂછ્યું, 'ક્યાં પૂજા કરી 2"
+        },
+        {
+          "element_id": "46_p146_e1787",
+          "sequence_order": 1787,
+          "page_number": 146,
+          "quality_score": 0.455,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 14,
+          "text_preview": "ધનપાળે કહ્યું, 'शा ! પહેલાં તો હું 'શક્તિ'ના મંદિરે ગયો; પણ"
+        }
+      ]
+    },
+    "147": {
+      "elements": 15,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.03,
+      "issues": [
+        {
+          "element_id": "46_p147_e1800",
+          "sequence_order": 1800,
+          "page_number": 147,
+          "quality_score": 0.455,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 15,
+          "text_preview": "શાન્તિસૂરિજી મહારાજાની વાદશક્તિ પાસે હું sid વિસાતમાં નથી.''"
+        }
+      ]
+    },
+    "148": {
+      "elements": 17,
+      "flagged": 3,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.93,
+      "issues": [
+        {
+          "element_id": "46_p148_e1811",
+          "sequence_order": 1811,
+          "page_number": 148,
+          "quality_score": 0.46,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 11,
+          "text_preview": "વર્ધમાનસૂરિજીએ આબુનાં જિનમંદિરો બનાવરાવ્યાં."
+        },
+        {
+          "element_id": "46_p148_e1822",
+          "sequence_order": 1822,
+          "page_number": 148,
+          "quality_score": 0.46,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 15,
+          "text_preview": "કોણિકે ચેડા મહારાજાને કહ્યું કે, ''મારા ભાઈઓ મને સોંપી દો, ale"
+        },
+        {
+          "element_id": "46_p148_e1823",
+          "sequence_order": 1823,
+          "page_number": 148,
+          "quality_score": 0.46,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 3,
+          "text_preview": "તો યુદ્ધ ચડો.''"
+        }
+      ]
+    },
+    "149": {
+      "elements": 20,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 90.99,
+      "issues": [
+        {
+          "element_id": "46_p149_e1830",
+          "sequence_order": 1830,
+          "page_number": 149,
+          "quality_score": 0.455,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 3,
+          "text_preview": "ઘેરો નાખ્યો."
+        }
+      ]
+    },
+    "150": {
+      "elements": 19,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 91.74,
+      "issues": [
+        {
+          "element_id": "46_p150_e1859",
+          "sequence_order": 1859,
+          "page_number": 150,
+          "quality_score": 0.55,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "[233] அளவ"
+        }
+      ]
+    },
+    "151": {
+      "elements": 12,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text",
+        "low_content"
+      ],
+      "ocr_conf": 92.21,
+      "issues": [
+        {
+          "element_id": "46_p151_e1868",
+          "sequence_order": 1868,
+          "page_number": 151,
+          "quality_score": 0.277,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "મેળવી લીધો."
+        }
+      ]
+    },
+    "152": {
+      "elements": 16,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.4,
+      "issues": [
+        {
+          "element_id": "46_p152_e1890",
+          "sequence_order": 1890,
+          "page_number": 152,
+          "quality_score": 0.457,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 16,
+          "text_preview": "વૃદ્ધવાદિદેવસૂરિ નામના જૈનાચાર્યને ન જીતો ત્યાં સુધી બધું નકામું.'"
+        }
+      ]
+    },
+    "153": {
+      "elements": 15,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.56,
+      "issues": []
+    },
+    "154": {
+      "elements": 16,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 93.08,
+      "issues": [
+        {
+          "element_id": "46_p154_e1917",
+          "sequence_order": 1917,
+          "page_number": 154,
+          "quality_score": 0.465,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 8,
+          "text_preview": "[२३७] કુમારપાળનાં પૃજાનાં વસ્ત્રો"
+        }
+      ]
+    },
+    "156": {
+      "elements": 15,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.8,
+      "issues": []
+    },
+    "157": {
+      "elements": 20,
+      "flagged": 3,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.64,
+      "issues": [
+        {
+          "element_id": "46_p157_e1950",
+          "sequence_order": 1950,
+          "page_number": 157,
+          "quality_score": 0.458,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 13,
+          "text_preview": "ઉશ્કેરાયેલા ગૂર્જરેશ્વરે આમ્રભટ પાસે ખુલાસો માંગ્યો."
+        },
+        {
+          "element_id": "46_p157_e1954",
+          "sequence_order": 1954,
+          "page_number": 157,
+          "quality_score": 0.458,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 7,
+          "text_preview": "[૨૪૧] કુમારપાળનું જાસૂસીતંત્ર"
+        },
+        {
+          "element_id": "46_p157_e1959",
+          "sequence_order": 1959,
+          "page_number": 157,
+          "quality_score": 0.458,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 17,
+          "text_preview": "જતાં મને મોડું થઈ ગયું છે. થાંભલે સંતાઈને મેં સાંભળ્યું છે કે, કુમારપાળ"
+        }
+      ]
+    },
+    "158": {
+      "elements": 15,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.02,
+      "issues": [
+        {
+          "element_id": "46_p158_e1961",
+          "sequence_order": 1961,
+          "page_number": 158,
+          "quality_score": 0.455,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 4,
+          "text_preview": "ખૂન કરી નાંખવું.'"
+        },
+        {
+          "element_id": "46_p158_e1969",
+          "sequence_order": 1969,
+          "page_number": 158,
+          "quality_score": 0.455,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 46,
+          "text_preview": "ચાલુ કર્યું. કમનસીબે અનેક જાતનાં વિઘ્નો આવતાં રહ્યાં. તેણે ગુરુદેવની સલાહ માંગી. સુરિજીએ કહ્યું કે, 'જાર્ણાદ્ધાર પૂરો ન "
+        }
+      ]
+    },
+    "159": {
+      "elements": 18,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.19,
+      "issues": [
+        {
+          "element_id": "46_p159_e1985",
+          "sequence_order": 1985,
+          "page_number": 159,
+          "quality_score": 0.461,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 15,
+          "text_preview": "કુમારપાળે પોતાનો સંશય પૂછયો. ત્યારે મહાદેવજીએ કહ્યું કે, 'તારે"
+        },
+        {
+          "element_id": "46_p159_e1991",
+          "sequence_order": 1991,
+          "page_number": 159,
+          "quality_score": 0.461,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 11,
+          "text_preview": "કહ્યું, 'તો છોડેલા मध-मास કાયમ માટે છોડી દો.''"
+        }
+      ]
+    },
+    "160": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 90.97,
+      "issues": []
+    },
+    "161": {
+      "elements": 16,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.67,
+      "issues": [
+        {
+          "element_id": "46_p161_e2006",
+          "sequence_order": 2006,
+          "page_number": 161,
+          "quality_score": 0.458,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 8,
+          "text_preview": "તરીકે બૌદ્ધો દારા પૂજાવા લાગ્યા."
+        },
+        {
+          "element_id": "46_p161_e2014",
+          "sequence_order": 2014,
+          "page_number": 161,
+          "quality_score": 0.458,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 6,
+          "text_preview": "તેમણે જવાબ આપ્યો, 'વાલ.''"
+        }
+      ]
+    },
+    "162": {
+      "elements": 15,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.35,
+      "issues": [
+        {
+          "element_id": "46_p162_e2023",
+          "sequence_order": 2023,
+          "page_number": 162,
+          "quality_score": 0.462,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 25,
+          "text_preview": "અંતે પરાજય જાહેર થયો. શત્રુંજય તીર્થ પુનઃ જૈનોને પ્રાપ્ત થયું. વિ.સં. ૫૭૩માં શિલાદિત્યનું મૃત્યુ થયું."
+        }
+      ]
+    },
+    "163": {
+      "elements": 12,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.15,
+      "issues": [
+        {
+          "element_id": "46_p163_e2036",
+          "sequence_order": 2036,
+          "page_number": 163,
+          "quality_score": 0.461,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 3,
+          "text_preview": "પ્રમાણે ગાયું:"
+        }
+      ]
+    },
+    "164": {
+      "elements": 13,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.65,
+      "issues": []
+    },
+    "165": {
+      "elements": 20,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.27,
+      "issues": [
+        {
+          "element_id": "46_p165_e2076",
+          "sequence_order": 2076,
+          "page_number": 165,
+          "quality_score": 0.461,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 4,
+          "text_preview": "તાંતણા જોવા મળે છે."
+        },
+        {
+          "element_id": "46_p165_e2078",
+          "sequence_order": 2078,
+          "page_number": 165,
+          "quality_score": 0.461,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 17,
+          "text_preview": "તેમણે જ્યારે ક્લ્પસૃત્રમાં સાંભળ્યું કે સિદ્ધાર્થ અને ત્રિશલાદેવી જુદા"
+        }
+      ]
+    },
+    "166": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.28,
+      "issues": []
+    },
+    "167": {
+      "elements": 15,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.46,
+      "issues": []
+    },
+    "168": {
+      "elements": 15,
+      "flagged": 3,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.72,
+      "issues": [
+        {
+          "element_id": "46_p168_e2109",
+          "sequence_order": 2109,
+          "page_number": 168,
+          "quality_score": 0.459,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 5,
+          "text_preview": "સમયમાં નિવૃત્તિ લીધી."
+        },
+        {
+          "element_id": "46_p168_e2115",
+          "sequence_order": 2115,
+          "page_number": 168,
+          "quality_score": 0.459,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 12,
+          "text_preview": "તેના મૃત્યુથી સાધુઓની આંખમાં આંસુ આવી ગયાં હતાં."
+        },
+        {
+          "element_id": "46_p168_e2116",
+          "sequence_order": 2116,
+          "page_number": 168,
+          "quality_score": 0.459,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 9,
+          "text_preview": "[ર૫૦] ''સંસારમાં સારભૂત સ્ત્રી છે.''"
+        }
+      ]
+    },
+    "169": {
+      "elements": 17,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.89,
+      "issues": [
+        {
+          "element_id": "46_p169_e2122",
+          "sequence_order": 2122,
+          "page_number": 169,
+          "quality_score": 0.459,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 13,
+          "text_preview": "ઘરમાં તાજી બનાવેલી બધી મીઠાઈ ભિક્ષાપાત્રમાં નાંખી દીધી."
+        }
+      ]
+    },
+    "170": {
+      "elements": 19,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.43,
+      "issues": [
+        {
+          "element_id": "46_p170_e2154",
+          "sequence_order": 2154,
+          "page_number": 170,
+          "quality_score": 0.462,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 14,
+          "text_preview": "પાટણમાં સિદ્ધરાજના મૃત્યુના સમાચાર તાસતાં-ભાગતાં કુમારપાળને"
+        }
+      ]
+    },
+    "171": {
+      "elements": 15,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 90.07,
+      "issues": []
+    },
+    "172": {
+      "elements": 14,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.87,
+      "issues": []
+    },
+    "173": {
+      "elements": 18,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.21,
+      "issues": [
+        {
+          "element_id": "46_p173_e2190",
+          "sequence_order": 2190,
+          "page_number": 173,
+          "quality_score": 0.461,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 16,
+          "text_preview": "તેણે કહ્યું, 'હું જ્યાં લગી જીવું ત્યાં સુધી તમારા દરેક ગામમાંથી"
+        }
+      ]
+    },
+    "174": {
+      "elements": 22,
+      "flagged": 3,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.18,
+      "issues": [
+        {
+          "element_id": "46_p174_e2208",
+          "sequence_order": 2208,
+          "page_number": 174,
+          "quality_score": 0.461,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 3,
+          "text_preview": "મોટોફાળો હતો."
+        },
+        {
+          "element_id": "46_p174_e2210",
+          "sequence_order": 2210,
+          "page_number": 174,
+          "quality_score": 0.461,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 7,
+          "text_preview": "[ર૬૪] પાસિલનું જિનાલય-નિર્માણ"
+        },
+        {
+          "element_id": "46_p174_e2215",
+          "sequence_order": 2215,
+          "page_number": 174,
+          "quality_score": 0.461,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 10,
+          "text_preview": "પૂજા બાદ તે પ્રતિમાજીનું માપ લેવા લાગ્યો."
+        }
+      ]
+    },
+    "175": {
+      "elements": 7,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.28,
+      "issues": []
+    },
+    "176": {
+      "elements": 11,
+      "flagged": 6,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "46_p176_e2235",
+          "sequence_order": 2235,
+          "page_number": 176,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "* MINICANVAS"
+        },
+        {
+          "element_id": "46_p176_e2236",
+          "sequence_order": 2236,
+          "page_number": 176,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ടട TOYS"
+        },
+        {
+          "element_id": "46_p176_e2237",
+          "sequence_order": 2237,
+          "page_number": 176,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "e HANGINGS"
+        },
+        {
+          "element_id": "46_p176_e2238",
+          "sequence_order": 2238,
+          "page_number": 176,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "१ FRAMES"
+        },
+        {
+          "element_id": "46_p176_e2241",
+          "sequence_order": 2241,
+          "page_number": 176,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ShrutGyan.com 1511711711."
+        },
+        {
+          "element_id": "46_p176_e2242",
+          "sequence_order": 2242,
+          "page_number": 176,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ఎత మము ৪"
+        }
+      ]
+    },
+    "177": {
+      "elements": 11,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.08,
+      "issues": [
+        {
+          "element_id": "46_p177_e2251",
+          "sequence_order": 2251,
+          "page_number": 177,
+          "quality_score": 0.455,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 19,
+          "text_preview": "'રાજનૂ ! હાલ તેયો બે ય મોઢેરામાં છે. તેમના નામો છે. નન્તસુરિ અને ગોવિંદસૂરિ.''"
+        }
+      ]
+    },
+    "178": {
+      "elements": 13,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.7,
+      "issues": [
+        {
+          "element_id": "46_p178_e2263",
+          "sequence_order": 2263,
+          "page_number": 178,
+          "quality_score": 0.459,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 10,
+          "text_preview": "સૂરિજીએ કહ્યું, 'રાજન્ ! તારી ભૂલ થાય છે.''"
+        }
+      ]
+    },
+    "179": {
+      "elements": 14,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 92.1,
+      "issues": [
+        {
+          "element_id": "46_p179_e2280",
+          "sequence_order": 2280,
+          "page_number": 179,
+          "quality_score": 0.553,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "એ હકીકતથી"
+        }
+      ]
+    },
+    "180": {
+      "elements": 17,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 90.87,
+      "issues": []
+    },
+    "181": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.02,
+      "issues": []
+    },
+    "182": {
+      "elements": 14,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.05,
+      "issues": [
+        {
+          "element_id": "46_p182_e2316",
+          "sequence_order": 2316,
+          "page_number": 182,
+          "quality_score": 0.455,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 6,
+          "text_preview": "કશું ય શાસ્રબાક્ષ નથી.''"
+        }
+      ]
+    },
+    "183": {
+      "elements": 8,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.53,
+      "issues": []
+    },
+    "184": {
+      "elements": 17,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.97,
+      "issues": []
+    },
+    "185": {
+      "elements": 17,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 89.23,
+      "issues": [
+        {
+          "element_id": "46_p185_e2353",
+          "sequence_order": 2353,
+          "page_number": 185,
+          "quality_score": 0.446,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 15,
+          "text_preview": "'હા, હું જેન મુનિ સિદ્ધસેન દિવાકરસુરિ છું'' બાવાના વેપમાં રહેલા"
+        },
+        {
+          "element_id": "46_p185_e2354",
+          "sequence_order": 2354,
+          "page_number": 185,
+          "quality_score": 0.446,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 4,
+          "text_preview": "સૂંરિજીએ કહ્યું."
+        }
+      ]
+    },
+    "186": {
+      "elements": 20,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 90.89,
+      "issues": [
+        {
+          "element_id": "46_p186_e2384",
+          "sequence_order": 2384,
+          "page_number": 186,
+          "quality_score": 0.545,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "જ હતી."
+        }
+      ]
+    },
+    "187": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.19,
+      "issues": []
+    },
+    "188": {
+      "elements": 16,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text",
+        "low_content"
+      ],
+      "ocr_conf": 90.8,
+      "issues": [
+        {
+          "element_id": "46_p188_e2399",
+          "sequence_order": 2399,
+          "page_number": 188,
+          "quality_score": 0.272,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "સાથે જમ્યો."
+        }
+      ]
+    },
+    "189": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 90.13,
+      "issues": []
+    },
+    "190": {
+      "elements": 18,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.69,
+      "issues": [
+        {
+          "element_id": "46_p190_e2437",
+          "sequence_order": 2437,
+          "page_number": 190,
+          "quality_score": 0.458,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 6,
+          "text_preview": "[२७६] રાણી મૃગાવતીનું ચિત્ર"
+        }
+      ]
+    },
+    "191": {
+      "elements": 15,
+      "flagged": 3,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.51,
+      "issues": [
+        {
+          "element_id": "46_p191_e2444",
+          "sequence_order": 2444,
+          "page_number": 191,
+          "quality_score": 0.458,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 15,
+          "text_preview": "જઈને તેણે લાવણ્ય નીતરતું મૃગાવતીનું ચિત્ર દેખાડ્યું. પામ્યો."
+        },
+        {
+          "element_id": "46_p191_e2446",
+          "sequence_order": 2446,
+          "page_number": 191,
+          "quality_score": 0.458,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 6,
+          "text_preview": "પ્રભુની પાસે દીક્ષા લીધી."
+        },
+        {
+          "element_id": "46_p191_e2447",
+          "sequence_order": 2447,
+          "page_number": 191,
+          "quality_score": 0.458,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 8,
+          "text_preview": "[२७७] ઝીંઝુવાડાના મહાજનની ચાલાકી"
+        }
+      ]
+    },
+    "192": {
+      "elements": 13,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.09,
+      "issues": []
+    },
+    "193": {
+      "elements": 19,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.41,
+      "issues": []
+    },
+    "194": {
+      "elements": 13,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.97,
+      "issues": []
+    },
+    "195": {
+      "elements": 16,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 90.29,
+      "issues": []
+    },
+    "196": {
+      "elements": 11,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 93.44,
+      "issues": [
+        {
+          "element_id": "46_p196_e2526",
+          "sequence_order": 2526,
+          "page_number": 196,
+          "quality_score": 0.467,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 7,
+          "text_preview": "જીવશો તો અનેકોને જિવાડી பம்,'"
+        },
+        {
+          "element_id": "46_p196_e2527",
+          "sequence_order": 2527,
+          "page_number": 196,
+          "quality_score": 0.467,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 9,
+          "text_preview": "કેવી રાષ્ટ્રભક્તિ ! કેવી જાનફિસાની !"
+        }
+      ]
+    },
+    "198": {
+      "elements": 8,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.74,
+      "issues": []
+    },
+    "199": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.36,
+      "issues": []
+    },
+    "200": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.81,
+      "issues": []
+    },
+    "201": {
+      "elements": 13,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.58,
+      "issues": [
+        {
+          "element_id": "46_p201_e2562",
+          "sequence_order": 2562,
+          "page_number": 201,
+          "quality_score": 0.463,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 16,
+          "text_preview": "આચાર્યશ્રીએ દેવીને કહ્યું, 'મ્લેચ્કો ક્યાં સુધી આવી પહોંચ્યા છે ?"
+        },
+        {
+          "element_id": "46_p201_e2564",
+          "sequence_order": 2564,
+          "page_number": 201,
+          "quality_score": 0.463,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 13,
+          "text_preview": "આ દેવીને બાંધી લીધાં. એમની કામગીરીને નાકામયાબ બનાવી."
+        }
+      ]
+    },
+    "202": {
+      "elements": 15,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.0,
+      "issues": [
+        {
+          "element_id": "46_p202_e2573",
+          "sequence_order": 2573,
+          "page_number": 202,
+          "quality_score": 0.46,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 7,
+          "text_preview": "શિષ્યોથી યુક્ત કરવા તે છે.''"
+        }
+      ]
+    },
+    "203": {
+      "elements": 14,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.52,
+      "issues": []
+    },
+    "204": {
+      "elements": 12,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 93.62,
+      "issues": [
+        {
+          "element_id": "46_p204_e2612",
+          "sequence_order": 2612,
+          "page_number": 204,
+          "quality_score": 0.468,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 16,
+          "text_preview": "બોલાવીને પૂછ્યું, 'પેલા સાધુને ધક્કો મારીને બાજુ ઉપર હડસેલી મૂકવાના"
+        }
+      ]
+    },
+    "205": {
+      "elements": 15,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 90.89,
+      "issues": [
+        {
+          "element_id": "46_p205_e2618",
+          "sequence_order": 2618,
+          "page_number": 205,
+          "quality_score": 0.454,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 15,
+          "text_preview": "હતા. રાજપુત્ર, મંત્રીપુત્ર, શ્રેષ્ઠીપુત્ર અને સાર્થવાહ-પુત્ર."
+        }
+      ]
+    },
+    "206": {
+      "elements": 14,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.34,
+      "issues": []
+    },
+    "207": {
+      "elements": 16,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 89.83,
+      "issues": [
+        {
+          "element_id": "46_p207_e2645",
+          "sequence_order": 2645,
+          "page_number": 207,
+          "quality_score": 0.449,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 8,
+          "text_preview": "બન્યાનું લાગતાં પારાવાર દુ:ખ થયું."
+        }
+      ]
+    },
+    "208": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 93.53,
+      "issues": []
+    },
+    "209": {
+      "elements": 17,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.56,
+      "issues": []
+    },
+    "210": {
+      "elements": 16,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.55,
+      "issues": [
+        {
+          "element_id": "46_p210_e2701",
+          "sequence_order": 2701,
+          "page_number": 210,
+          "quality_score": 0.458,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 11,
+          "text_preview": "ઘોડાપુરે ડૂબતાં-તણાતાં, મરતાં આબાદ ઊગરી ગયાં."
+        }
+      ]
+    },
+    "211": {
+      "elements": 14,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.71,
+      "issues": [
+        {
+          "element_id": "46_p211_e2706",
+          "sequence_order": 2706,
+          "page_number": 211,
+          "quality_score": 0.464,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 4,
+          "text_preview": "માટે વિનંતી કરી."
+        },
+        {
+          "element_id": "46_p211_e2707",
+          "sequence_order": 2707,
+          "page_number": 211,
+          "quality_score": 0.464,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 17,
+          "text_preview": "મહાદયાળુ શ્રાવક હાથમાં ત્રાજવું ઊંચું રાખીને બોલ્યો કે, 'હે વરુણદેવ |"
+        }
+      ]
+    },
+    "212": {
+      "elements": 16,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.87,
+      "issues": []
+    },
+    "213": {
+      "elements": 11,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.88,
+      "issues": [
+        {
+          "element_id": "46_p213_e2734",
+          "sequence_order": 2734,
+          "page_number": 213,
+          "quality_score": 0.459,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 14,
+          "text_preview": "ખોવાનું બધુંય ભીષ્મને.. સુખ, યશ અને જીવન.. તેય સ્વેચ્છાએ:"
+        },
+        {
+          "element_id": "46_p213_e2738",
+          "sequence_order": 2738,
+          "page_number": 213,
+          "quality_score": 0.459,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 12,
+          "text_preview": "નિષ્ફળ માટે હાસ્ય વિનાનો.. ધર્મી માટે આંસુ વિનાનો.."
+        }
+      ]
+    },
+    "214": {
+      "elements": 13,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 91.41,
+      "issues": [
+        {
+          "element_id": "46_p214_e2749",
+          "sequence_order": 2749,
+          "page_number": 214,
+          "quality_score": 0.548,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "આચરજો મા |"
+        }
+      ]
+    },
+    "215": {
+      "elements": 15,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 91.87,
+      "issues": [
+        {
+          "element_id": "46_p215_e2764",
+          "sequence_order": 2764,
+          "page_number": 215,
+          "quality_score": 0.459,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 3,
+          "text_preview": "માટે તેયાર છું."
+        }
+      ]
+    },
+    "216": {
+      "elements": 13,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.49,
+      "issues": [
+        {
+          "element_id": "46_p216_e2778",
+          "sequence_order": 2778,
+          "page_number": 216,
+          "quality_score": 0.462,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 15,
+          "text_preview": "'જે પિતામહે પોતાના જ પુત્રો અને પૌત્રોની સામે શસ્ત્રો ઉગામ્યાં"
+        }
+      ]
+    },
+    "217": {
+      "elements": 14,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": 92.17,
+      "issues": [
+        {
+          "element_id": "46_p217_e2788",
+          "sequence_order": 2788,
+          "page_number": 217,
+          "quality_score": 0.461,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 6,
+          "text_preview": "[૩૦૦] ખુમારીવંતા વીરાચાર્ય"
+        },
+        {
+          "element_id": "46_p217_e2790",
+          "sequence_order": 2790,
+          "page_number": 217,
+          "quality_score": 0.461,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 5,
+          "text_preview": "જૈનાચાય નામે વીરાચાર્ય."
+        }
+      ]
+    },
+    "218": {
+      "elements": 13,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 87.84,
+      "issues": []
+    },
+    "219": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": 53.21,
+      "issues": [
+        {
+          "element_id": "46_p219_e2811",
+          "sequence_order": 2811,
+          "page_number": 219,
+          "quality_score": 0.532,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 60,
+          "text_preview": "yy come ₹1 ६६ १९ ! a 1094 1178 14 1] ' 10147 ৪8765772827 త ക് 147 દ ४0 $ ಸ = |. | x 4 శర 4 8 ४1182: 2 గీ १9,294 2118 | இ"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "document_id": 38,
+  "pages": {
+    "1": {
+      "elements": 13,
+      "flagged": 4,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 93.5,
+      "issues": [
+        {
+          "element_id": "38_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.561,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "OFFICE MEMORANDUM"
+        },
+        {
+          "element_id": "38_p1_e9",
+          "sequence_order": 9,
+          "page_number": 1,
+          "quality_score": 0.561,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "ஆ ০2০৮"
+        },
+        {
+          "element_id": "38_p1_e11",
+          "sequence_order": 11,
+          "page_number": 1,
+          "quality_score": 0.561,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Tel.: 23093811"
+        },
+        {
+          "element_id": "38_p1_e12",
+          "sequence_order": 12,
+          "page_number": 1,
+          "quality_score": 0.561,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Email: kanwal.irss@gov.in"
+        }
+      ]
+    },
+    "2": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 95.46,
+      "issues": []
+    },
+    "3": {
+      "elements": 7,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 94.02,
+      "issues": [
+        {
+          "element_id": "38_p3_e26",
+          "sequence_order": 26,
+          "page_number": 3,
+          "quality_score": 0.564,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Tel: 24621305"
+        },
+        {
+          "element_id": "38_p3_e27",
+          "sequence_order": 27,
+          "page_number": 3,
+          "quality_score": 0.564,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Email: kn.reddy@gov.in"
+        }
+      ]
+    }
+  }
+}

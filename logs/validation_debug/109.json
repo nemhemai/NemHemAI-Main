@@ -1,0 +1,580 @@
+{
+  "document_id": 109,
+  "pages": {
+    "1": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "12": {
+      "elements": 13,
+      "flagged": 13,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "109_p12_e1",
+          "sequence_order": 1,
+          "page_number": 12,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 118,
+          "text_preview": "છેોડાીનીે એકૃ યાુવીકૃ સંાથીે તિલવી-ઇનીમેાં રેહીેવીા જાયા છેે. તાેનીે લાગે છેે કૃે તાેનીે દુતિનીયાાનીો સંૌથીી સંારેો જીવી"
+        },
+        {
+          "element_id": "109_p12_e2",
+          "sequence_order": 2,
+          "page_number": 12,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 84,
+          "text_preview": "આવીા રિકૃસ્સંાઓમેાં સંૌથીી મેોટીી સંમેસ્યાા એ હીોયા છેે કૃે દીકૃરેીનીા પોરિરેવીારેનીે ખાબરે નીથીી હીોતાી કૃે તાે કૃોનીી "
+        },
+        {
+          "element_id": "109_p12_e3",
+          "sequence_order": 3,
+          "page_number": 12,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 18,
+          "text_preview": "આ રેતિજસ્ટ્રેેર્શની દીકૃરેીઓ મેાટીે એકૃ કૃાનીૂનીી સંુરેક્ષાા કૃવીચ બનીર્શે."
+        },
+        {
+          "element_id": "109_p12_e4",
+          "sequence_order": 4,
+          "page_number": 12,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 101,
+          "text_preview": "કૃલમે ૩૮૪ હીેઠળ તિલવી-ઇની સંંબંધુ મેાટીે નીંધુણી ફોરેતિજયાાતા છેે; નીંધુણી ની કૃરેાવીવીાથીી ૩ મેતિહીનીા સંુધુીનીી કૃેદ અ"
+        },
+        {
+          "element_id": "109_p12_e5",
+          "sequence_order": 5,
+          "page_number": 12,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 153,
+          "text_preview": "જોગવીાઈ છેે. તાેમેજ સંગીરે સંાથીે તિલવી ઇની સંંબંધુમેાં પોોકૃસંો ઍક્ટી (POCSO Act) મેુજબ સંજાનીી જોગવીાઈ છેે, ઉપોરેાંતા "
+        },
+        {
+          "element_id": "109_p12_e6",
+          "sequence_order": 6,
+          "page_number": 12,
+          "quality_score": 0.5,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 5,
+          "text_preview": "જનાતંનાો અંવિભાપ્રાંય"
+        },
+        {
+          "element_id": "109_p12_e7",
+          "sequence_order": 7,
+          "page_number": 12,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 98,
+          "text_preview": "આ તિવી�યાનીી સંંવીેદનીર્શીલતાા સંમેજીનીે તિનીવૃત્ત જન્જિસ્ટીસં રેં જનીાબહીેની દેસંાઇનીા અધ્ યા ક્ષા સ્થીા નીે તિની મે વી"
+        },
+        {
+          "element_id": "109_p12_e8",
+          "sequence_order": 8,
+          "page_number": 12,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 52,
+          "text_preview": "દેર્શનીા ઇતિતાહીાસંમેાં કૃદાચ જ કૃોઈ કૃાયાદા મેાટીે આટીલી મેોટીી જનીભાાગીદારેી જોવીા મેળી હીર્શે. ૪૯% એટીલે કૃે ૯.૭૨ લાખ"
+        },
+        {
+          "element_id": "109_p12_e9",
+          "sequence_order": 9,
+          "page_number": 12,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 20,
+          "text_preview": "મેાધ્યામેથીી મેળ્યાા છેે.અંદાજે ૨૦ લાખા સંૂચનીોમેાંથીી UCC તારેફોી બહુમેતાી છેે."
+        },
+        {
+          "element_id": "109_p12_e10",
+          "sequence_order": 10,
+          "page_number": 12,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 177,
+          "text_preview": "કૃાયાદામેાં લગ્નનીી સંમેાની જોગવીાઈઓ સંામેેલ કૃરેવીા મેાટીે ૮૧% લોકૃોએ સંમેથીશની આપ્યાું છેે.છેૂટીાછેેડાા મેાટીે સંમેાની"
+        },
+        {
+          "element_id": "109_p12_e11",
+          "sequence_order": 11,
+          "page_number": 12,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 52,
+          "text_preview": "અનીે સંૌથીી મેોટીી વીા તા, તા મેા મે સંમેુદાયાોમેાં સ્ત્રી અનીે પોુરુ� મેાટીે એકૃસંમેાની તિમેલકૃતા/સંંપોતિત્ત અતિધુકૃારે"
+        },
+        {
+          "element_id": "109_p12_e12",
+          "sequence_order": 12,
+          "page_number": 12,
+          "quality_score": 0.5,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 12,
+          "text_preview": "વિ�વિ�ધ વિનાષ્કષોનાં આધંરે તૈયંર થયું યુસીસી વિબલાં"
+        },
+        {
+          "element_id": "109_p12_e13",
+          "sequence_order": 13,
+          "page_number": 12,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 174,
+          "text_preview": "રેાજ્યામેાં આ સંમેાની નીાગરિરેકૃ સંંતિહીતાા અંગે તિનીવૃત્ત જન્જિસ્ટીસં રેંજનીાબહીેની દેસંાઈનીા અધ્યાક્ષાસ્થીાનીે નીીમેવી"
+        }
+      ]
+    },
+    "13": {
+      "elements": 10,
+      "flagged": 10,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "109_p13_e14",
+          "sequence_order": 14,
+          "page_number": 13,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 29,
+          "text_preview": "કૃોઈ પોણ રેીતા-રિરેવીાજ, તાેમેનીા લગ્ન, છેૂટીાછેેડાા કૃે વીારેસંાનીી પ્રથીાઓમેાં લેર્શમેાત્ર પોણ દખાલગીરેી નીહીં કૃરેે."
+        },
+        {
+          "element_id": "109_p13_e15",
+          "sequence_order": 15,
+          "page_number": 13,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 120,
+          "text_preview": "સંતિમેતિતા દ્વાારેા તિવીતિવીધુ કૃાયાદાઓ, સંુપ્રીમે કૃોટીટ અનીે હીાઈકૃોટીટનીા ચુકૃાદાઓ અનીે ઉત્તરેાખાંડા રેાજ્યાનીા યાુતિ"
+        },
+        {
+          "element_id": "109_p13_e16",
+          "sequence_order": 16,
+          "page_number": 13,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 207,
+          "text_preview": "સંનીાતાની સંંસ્કૃૃતિતાએ આપોણનીે એકૃતાાનીા પોાઠ તિર્શખાવીાડ્યુંા છેે. ઋગ્વી ેદમેાં પોણ એકૃસંાથીે ચાલવીાનીી, બોલવીાનીી અની"
+        },
+        {
+          "element_id": "109_p13_e17",
+          "sequence_order": 17,
+          "page_number": 13,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 86,
+          "text_preview": "યાુ સંી સંી નીી અ ન્ યા બાબતાોમેાં પોણ સંમેાનીતાાનીો અનીે સંમેુતિચતા ન્યાાયાનીો તિસં�ાંતા અપોનીાવીવીામેાં આવ્યાો છેે. એ "
+        },
+        {
+          "element_id": "109_p13_e18",
+          "sequence_order": 18,
+          "page_number": 13,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 64,
+          "text_preview": "તિવી તિવી ધુ તાા નીે ધ્ યાા ની મેાં રેા ખાીનીે તામેામે પોાસંાંઓ પોરે સંઘની ચચાશ તિવીચારેણા કૃયાાશ પોછેી તાૈયાારે કૃરેવીા"
+        },
+        {
+          "element_id": "109_p13_e19",
+          "sequence_order": 19,
+          "page_number": 13,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 234,
+          "text_preview": "ખાાસં કૃરેીનીે મેતિહીલાઓનીા સંમેાની અતિધુકૃારેો અનીે સંુરેક્ષાાનીે આ ડ્રાાફ્ટીમેાં પ્રાથીતિમેકૃતાા આપોવીામેાં આવીી છેે. "
+        },
+        {
+          "element_id": "109_p13_e20",
+          "sequence_order": 20,
+          "page_number": 13,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 32,
+          "text_preview": "આ તિવીધુેયાકૃ અંગે નીાયાબ મેુખ્યામેંત્રીશ્રીીએ જણાવ્યાું હીતાું કૃે, એકૃ જ બંધુારેણ હીેઠળ, અલગ અલગ ધુમેશ કૃે સંમેુદાયાો "
+        },
+        {
+          "element_id": "109_p13_e21",
+          "sequence_order": 21,
+          "page_number": 13,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 81,
+          "text_preview": "જ પ્રકૃારેનીા રિકૃસ્સંામેાં અલગ અલગ તિનીયામેો હીોઈ જ ની ર્શકૃે. જેમે બંધુારેણ દરેેકૃ નીાગરિરેકૃ મેાટીે, ધુમેશ કૃે સંમેુદ"
+        },
+        {
+          "element_id": "109_p13_e22",
+          "sequence_order": 22,
+          "page_number": 13,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 77,
+          "text_preview": "આ તિબલ કૃોઈ ધુમેશ, કૃોઈ આસ્થીા કૃે કૃોઈનીી પોૂજા-પો�તિતાનીી તિવીરુ�મેાં નીથીી. આ તિબલ કૃોઈનીા રેીતિતા-રિરેવીાજો છેીનીવીી"
+        },
+        {
+          "element_id": "109_p13_e23",
+          "sequence_order": 23,
+          "page_number": 13,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 140,
+          "text_preview": "આપોણી સંંસ્કૃૃતિતામેાં સ્ત્રીનીે ર્શતિ�સ્વીરૂપોા તારેીકૃે પોૂજનીીયા ગણવીામેાં આવીી છેે. આ યાુ.સંી.સંી.મેાં સંવીશનીી સંમે"
+        }
+      ]
+    },
+    "21": {
+      "elements": 11,
+      "flagged": 9,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "109_p21_e25",
+          "sequence_order": 25,
+          "page_number": 21,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 189,
+          "text_preview": "ભાારેતામેાં સ્ટીાટીટ-અપો સંંસ્કૃૃતિતા ઝીડાપોથીી તિવીકૃસંી રેહીી છેે, જે યાુવીાનીોનીે સ્વીરેોજગારે મેાટીે પ્રોત્સંાતિહીતા"
+        },
+        {
+          "element_id": "109_p21_e26",
+          "sequence_order": 26,
+          "page_number": 21,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 149,
+          "text_preview": "નીાણાકૃીયા તિર્શસ્તા સંાથીે નીવીી ટીૅક્નૉોલૉજીનીે ઝીડાપોથીી અપોનીાવીવીામેાં ગુજરેાતા દેર્શમેાં મેોખારેે છેે. ઇમેતિજશગ સં"
+        },
+        {
+          "element_id": "109_p21_e27",
+          "sequence_order": 27,
+          "page_number": 21,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 130,
+          "text_preview": "રેાજ્યા સંરેકૃારે સંાથીે કૃામે કૃરેવીા મેાટીે પ્રતિતાભાાર્શાળી સ્ટીાટીટઅપ્સંનીે પ્રાથીતિમેકૃતાા આપોવીાનીી સંરેકૃારેનીી ન"
+        },
+        {
+          "element_id": "109_p21_e28",
+          "sequence_order": 28,
+          "page_number": 21,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 106,
+          "text_preview": "મેુખ્યામેંત્રીશ્રીી અનીે સંૌ ઉપોન્જિસ્થીતાો સંમેક્ષા ઍતિગ્રા કૃ લ્ ચ રે સંે ક્ ટી રે મેાં એ.આઇ. ટીૅક્નૉોલૉજીનીા તિવીતિવી"
+        },
+        {
+          "element_id": "109_p21_e29",
+          "sequence_order": 29,
+          "page_number": 21,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 68,
+          "text_preview": "આ AI સંંવીાદ દરેતિમેયાાની સંાયાન્સં એન્ડા ટીૅક્નૉોલૉજી તિવીભાાગ અનીે સંવીશમે AI તાથીા MIKO સ્ટીાટીટ-અપો સંાથીે MOU કૃરેવ"
+        },
+        {
+          "element_id": "109_p21_e31",
+          "sequence_order": 31,
+          "page_number": 21,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 162,
+          "text_preview": "ગુજરેાતામેાં એકૃ આધુુતિનીકૃ Sovereign AI પોાકૃક ઊંભાો કૃરેાર્શે. આ AI પોાકૃકમેાં હીાઇ-એન્ડા કૃમ્પ્યાૂરિટીંગ ઇન્ફ્રાાસ્ટ્"
+        },
+        {
+          "element_id": "109_p21_e32",
+          "sequence_order": 32,
+          "page_number": 21,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 88,
+          "text_preview": "ગુજરેાતા સંરેકૃારેે AI ઇનીોવીેર્શની ચૅલેન્જ હીેઠળ સ્ટીાટીટ-અપ્સંનીે નીવીીની AI સંૉલ્યાુર્શન્સં તિવીકૃસંાવીવીા અનીે ઝીડાપ"
+        },
+        {
+          "element_id": "109_p21_e33",
+          "sequence_order": 33,
+          "page_number": 21,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 74,
+          "text_preview": "આ પોહીેલ અંતાગશતા PoC તાબક્કા મેાટીે સ્ટીાટીટ-અપ્સંનીે યાૂઝી કૃેસં અનીુસંારે સંીધુી નીાણાકૃીયા મેદદ આપોવીામેાં આવીર્શે. "
+        },
+        {
+          "element_id": "109_p21_e34",
+          "sequence_order": 34,
+          "page_number": 21,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 99,
+          "text_preview": "આ ફોાઇનીાન્જિન્ર્શયાલ સંપોોટીટ મેૉડાેલથીી સ્ટીાટીટ-અપ્સંનીે ગુજરેાતા સંરેકૃારે સંાથીે સંીધુું કૃામે કૃરેવીાનીી તાકૃ મેળર"
+        }
+      ]
+    },
+    "41": {
+      "elements": 14,
+      "flagged": 12,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "109_p41_e36",
+          "sequence_order": 36,
+          "page_number": 41,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 217,
+          "text_preview": "વિનાણ�ય: રેાજ્યામેાં પ્રમેોલગેર્શની થીયાેલાં ગામેોમેાં મેાપોણી અંતાગશતા રેહીી ગયાેલી ક્ષા તિતા ઓ નીી સંુ ધુા રે ણા નીી અ"
+        },
+        {
+          "element_id": "109_p41_e37",
+          "sequence_order": 37,
+          "page_number": 41,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 12,
+          "text_preview": "કૃરેીનીે તિનીવીારેણ લાવીવીા પોણ સંૂચનીાઓ આપોી છેે."
+        },
+        {
+          "element_id": "109_p41_e38",
+          "sequence_order": 38,
+          "page_number": 41,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 85,
+          "text_preview": "અંવિભાગમુ: ખાે તાી નીી જમેીનીોનીી મેાપોણીમેાં પ્રમેોલગેર્શની પોછેી ખાેડાૂતાોનીી વીાંધુા અરેજીઓનીો તિનીકૃાલ પોારેદર્શશકૃ "
+        },
+        {
+          "element_id": "109_p41_e39",
+          "sequence_order": 39,
+          "page_number": 41,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 104,
+          "text_preview": "ભાૂ વિમુ સી મુંં ક ના સ વિમુ વિત: મેુખ્યામેંત્રીશ્રીીએ ભાૂતિમે સંીમેાંકૃની અંતાગશતા રેા જ્ યા નીા તિજ લ્લાા ઓ મેાં કૃ લે"
+        },
+        {
+          "element_id": "109_p41_e40",
+          "sequence_order": 40,
+          "page_number": 41,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 128,
+          "text_preview": "દફોતા રે, પ્રાં તા અતિધુ કૃ ા રેી, DILR, મેામેલતાદારે, TDO, જમેીની સંંપોાદની અતિધુકૃારેી, સંરેદારે સંરેોવીરે પોુની:વીસંવ"
+        },
+        {
+          "element_id": "109_p41_e41",
+          "sequence_order": 41,
+          "page_number": 41,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 71,
+          "text_preview": "લાંંભા: મેુખ્યામેંત્રીશ્રીીનીા તિનીણશયાથીી ગુડા ગવીનીશન્સં દ્વાારેા ઇઝી ઑફો ડાુઇંગ તિબઝીનીેસંનીે વીેગ મેળર્શે. ભાૂતિમે સ"
+        },
+        {
+          "element_id": "109_p41_e43",
+          "sequence_order": 43,
+          "page_number": 41,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 76,
+          "text_preview": "વિનાણ�ય: રેાજ્યાનીા ખાેડાૂતા અનીે પોર્શુપોાલકૃ તિમેત્રો તિવીતિવીધુ કૃૃતિ� અનીે પોર્શુપોાલનીલક્ષાી સંહીાયા યાોજનીાઓનીો લા"
+        },
+        {
+          "element_id": "109_p41_e44",
+          "sequence_order": 44,
+          "page_number": 41,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 68,
+          "text_preview": "લાંંભા: રેાજ્યા સંરેકૃારેનીું વી�શ ૨૦૨૬૨૭નીું અંદાજપોત્ર તિવીધુાનીસંભાા ગૃહીમેાં રેજૂ થીયાાનીા ગણતારેીનીા રિદવીસંોમેાં જ"
+        },
+        {
+          "element_id": "109_p41_e45",
+          "sequence_order": 45,
+          "page_number": 41,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 77,
+          "text_preview": "કૃૃતિ� અનીે પોર્શુપોાલની મેંત્રી શ્રીી જીતાુભાાઈ વીાઘાણીએ જણાવ્યાું હીતાું કૃે, આધુુતિનીકૃ ખાેતાીનીે પ્રોત્સંાહીની આપોતા"
+        },
+        {
+          "element_id": "109_p41_e46",
+          "sequence_order": 46,
+          "page_number": 41,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 100,
+          "text_preview": "છેેલ્લાી તાારેીખાનીી રેાહી જોયાા તિવીનીા, જેમે જેમે અરેજીઓ આવીર્શે અનીે તાેનીી ચકૃાસંણી પોૂણશ થીર્શે, તાેમે પોાત્રતાા ધુ"
+        },
+        {
+          "element_id": "109_p41_e47",
+          "sequence_order": 47,
+          "page_number": 41,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 80,
+          "text_preview": "ખાેતાપોેદાર્શોનીા રેક્ષાણ મેાટીે કૃાંટીાળા તાારેનીી વીાડા અનીે પોાકૃ સંંગ્રાહી સ્ટ્રેકૃચરે, સંોલારે પોાવીરે યાુતિનીટી, પ"
+        },
+        {
+          "element_id": "109_p41_e48",
+          "sequence_order": 48,
+          "page_number": 41,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 113,
+          "text_preview": "ફોૂલ અનીે ર્શાકૃભાાજીનીા વીાવીેતારે તાેમેજ તિવીર્શે� કૃરેીનીે કૃમેલમ્ (ડ્રાેગની ફ્રાૂટી) અનીે ઓઇલપોામેનીા વીાવીેતારે મેા"
+        }
+      ]
+    }
+  }
+}

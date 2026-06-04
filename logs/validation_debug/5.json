@@ -1,0 +1,98 @@
+{
+  "document_id": 5,
+  "pages": {
+    "1": {
+      "elements": 24,
+      "flagged": 5,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "5_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ુજરાત સરકાર"
+        },
+        {
+          "element_id": "5_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "નાણા િવભાગ"
+        },
+        {
+          "element_id": "5_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ઠરાવ માંક:"
+        },
+        {
+          "element_id": "5_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "FD/OTH/e-file/4/2022/3153/A(BPE)"
+        },
+        {
+          "element_id": "5_p1_e12",
+          "sequence_order": 12,
+          "page_number": 1,
+          "quality_score": 0.5,
+          "element_type": "clause",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 16,
+          "text_preview": "માન. મં:ી ીઓ, રા%ય ક;ાના મં:ી ીઓ, અને નાયબ મં:ી ીઓના <ગત સ ચવ ીઓ"
+        }
+      ]
+    },
+    "2": {
+      "elements": 2,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "5_p2_e25",
+          "sequence_order": 25,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "<unknown>"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,578 @@
+{
+  "document_id": 6,
+  "pages": {
+    "1": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 55.42,
+      "issues": [
+        {
+          "element_id": "6_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.333,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ies a4"
+        },
+        {
+          "element_id": "6_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.333,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "कळकळ कळ ळ"
+        },
+        {
+          "element_id": "6_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.333,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "नाय र"
+        }
+      ]
+    },
+    "2": {
+      "elements": 5,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 89.25,
+      "issues": []
+    },
+    "4": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 89.28,
+      "issues": []
+    },
+    "5": {
+      "elements": 9,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 92.19,
+      "issues": []
+    },
+    "6": {
+      "elements": 19,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 85.07,
+      "issues": []
+    },
+    "7": {
+      "elements": 19,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 86.13,
+      "issues": []
+    },
+    "8": {
+      "elements": 18,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 86.35,
+      "issues": []
+    },
+    "9": {
+      "elements": 21,
+      "flagged": 3,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 91.1,
+      "issues": [
+        {
+          "element_id": "6_p9_e74",
+          "sequence_order": 74,
+          "page_number": 9,
+          "quality_score": 0.547,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "que 'एफ 7"
+        },
+        {
+          "element_id": "6_p9_e83",
+          "sequence_order": 83,
+          "page_number": 9,
+          "quality_score": 0.547,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "र ४ i"
+        },
+        {
+          "element_id": "6_p9_e94",
+          "sequence_order": 94,
+          "page_number": 9,
+          "quality_score": 0.547,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ee ei"
+        }
+      ]
+    },
+    "10": {
+      "elements": 15,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 83.78,
+      "issues": []
+    },
+    "11": {
+      "elements": 20,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 76.15,
+      "issues": [
+        {
+          "element_id": "6_p11_e111",
+          "sequence_order": 111,
+          "page_number": 11,
+          "quality_score": 0.457,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ग्राम विकास"
+        },
+        {
+          "element_id": "6_p11_e121",
+          "sequence_order": 121,
+          "page_number": 11,
+          "quality_score": 0.457,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "१६/२०१८०१९"
+        }
+      ]
+    },
+    "12": {
+      "elements": 26,
+      "flagged": 4,
+      "flags": [
+        "corrupted_text",
+        "low_content"
+      ],
+      "ocr_conf": 87.06,
+      "issues": [
+        {
+          "element_id": "6_p12_e130",
+          "sequence_order": 130,
+          "page_number": 12,
+          "quality_score": 0.522,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "\"ण em"
+        },
+        {
+          "element_id": "6_p12_e132",
+          "sequence_order": 132,
+          "page_number": 12,
+          "quality_score": 0.261,
+          "element_type": "clause",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Ower):-"
+        },
+        {
+          "element_id": "6_p12_e140",
+          "sequence_order": 140,
+          "page_number": 12,
+          "quality_score": 0.522,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "सचिवांच्या"
+        },
+        {
+          "element_id": "6_p12_e146",
+          "sequence_order": 146,
+          "page_number": 12,
+          "quality_score": 0.522,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "१६/२०१८-११"
+        }
+      ]
+    },
+    "13": {
+      "elements": 23,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 88.75,
+      "issues": [
+        {
+          "element_id": "6_p13_e168",
+          "sequence_order": 168,
+          "page_number": 13,
+          "quality_score": 0.532,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "केंद्रीय"
+        },
+        {
+          "element_id": "6_p13_e178",
+          "sequence_order": 178,
+          "page_number": 13,
+          "quality_score": 0.532,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "0072.. यी"
+        }
+      ]
+    },
+    "14": {
+      "elements": 19,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 83.58,
+      "issues": [
+        {
+          "element_id": "6_p14_e184",
+          "sequence_order": 184,
+          "page_number": 14,
+          "quality_score": 0.501,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "शहरें _ आणि"
+        }
+      ]
+    },
+    "15": {
+      "elements": 18,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 88.12,
+      "issues": [
+        {
+          "element_id": "6_p15_e198",
+          "sequence_order": 198,
+          "page_number": 15,
+          "quality_score": 0.529,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "a, ine"
+        }
+      ]
+    },
+    "16": {
+      "elements": 22,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 91.62,
+      "issues": []
+    },
+    "17": {
+      "elements": 21,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 89.73,
+      "issues": [
+        {
+          "element_id": "6_p17_e245",
+          "sequence_order": 245,
+          "page_number": 17,
+          "quality_score": 0.538,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "त्यांच्या"
+        }
+      ]
+    },
+    "18": {
+      "elements": 20,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 86.49,
+      "issues": []
+    },
+    "19": {
+      "elements": 17,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 84.48,
+      "issues": []
+    },
+    "20": {
+      "elements": 7,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 86.18,
+      "issues": [
+        {
+          "element_id": "6_p20_e296",
+          "sequence_order": 296,
+          "page_number": 20,
+          "quality_score": 0.517,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "yaar' Fe"
+        }
+      ]
+    },
+    "21": {
+      "elements": 15,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 85.75,
+      "issues": []
+    },
+    "22": {
+      "elements": 22,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 88.6,
+      "issues": [
+        {
+          "element_id": "6_p22_e318",
+          "sequence_order": 318,
+          "page_number": 22,
+          "quality_score": 0.532,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "परिशिष्ट १"
+        },
+        {
+          "element_id": "6_p22_e328",
+          "sequence_order": 328,
+          "page_number": 22,
+          "quality_score": 0.532,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Sy 'याह"
+        }
+      ]
+    },
+    "23": {
+      "elements": 23,
+      "flagged": 3,
+      "flags": [
+        "corrupted_text",
+        "low_content"
+      ],
+      "ocr_conf": 88.87,
+      "issues": [
+        {
+          "element_id": "6_p23_e340",
+          "sequence_order": 340,
+          "page_number": 23,
+          "quality_score": 0.267,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "3 पर"
+        },
+        {
+          "element_id": "6_p23_e341",
+          "sequence_order": 341,
+          "page_number": 23,
+          "quality_score": 0.533,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "सकळा ही नशा"
+        },
+        {
+          "element_id": "6_p23_e353",
+          "sequence_order": 353,
+          "page_number": 23,
+          "quality_score": 0.533,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "(Barrier)"
+        }
+      ]
+    },
+    "24": {
+      "elements": 15,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 79.46,
+      "issues": []
+    },
+    "25": {
+      "elements": 16,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 87.02,
+      "issues": []
+    },
+    "26": {
+      "elements": 18,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 84.86,
+      "issues": [
+        {
+          "element_id": "6_p26_e409",
+          "sequence_order": 409,
+          "page_number": 26,
+          "quality_score": 0.509,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "5.00 |"
+        }
+      ]
+    },
+    "27": {
+      "elements": 5,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 72.82,
+      "issues": [
+        {
+          "element_id": "6_p27_e415",
+          "sequence_order": 415,
+          "page_number": 27,
+          "quality_score": 0.437,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "SS ज्याला"
+        }
+      ]
+    },
+    "28": {
+      "elements": 8,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 85.75,
+      "issues": [
+        {
+          "element_id": "6_p28_e419",
+          "sequence_order": 419,
+          "page_number": 28,
+          "quality_score": 0.514,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Emission Standard"
+        },
+        {
+          "element_id": "6_p28_e421",
+          "sequence_order": 421,
+          "page_number": 28,
+          "quality_score": 0.514,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Ee जा"
+        }
+      ]
+    },
+    "29": {
+      "elements": 17,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 88.9,
+      "issues": []
+    },
+    "30": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 78.45,
+      "issues": []
+    }
+  }
+}

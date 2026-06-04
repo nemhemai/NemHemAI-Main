@@ -1,0 +1,168 @@
+{
+  "document_id": 35,
+  "pages": {
+    "1": {
+      "elements": 3,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "2": {
+      "elements": 4,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "3": {
+      "elements": 3,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "4": {
+      "elements": 5,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "5": {
+      "elements": 4,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "6": {
+      "elements": 5,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "7": {
+      "elements": 5,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "35_p7_e24",
+          "sequence_order": 24,
+          "page_number": 7,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "̆વાસન સҮદય½:"
+        }
+      ]
+    },
+    "8": {
+      "elements": 4,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "9": {
+      "elements": 2,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "10": {
+      "elements": 7,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "11": {
+      "elements": 6,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "12": {
+      "elements": 2,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "13": {
+      "elements": 2,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "14": {
+      "elements": 3,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "35_p14_e53",
+          "sequence_order": 53,
+          "page_number": 14,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "વલસાડથી Ӕતર"
+        },
+        {
+          "element_id": "35_p14_e54",
+          "sequence_order": 54,
+          "page_number": 14,
+          "quality_score": 0.5,
+          "element_type": "table",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 47,
+          "text_preview": "વલસાડ ૦૦ ક.મી., પારડ-૧૭ ક.મી., વાપી-૨૯ ક.મી.; તીથલ-૦૫ ક.મી., ઉદવાડા-૨૫ ક.મી., દમણ-૪૦ ક.મી.; ધરાસણા-૧૨ ક.મી., બગવ"
+        }
+      ]
+    },
+    "15": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "35_p15_e55",
+          "sequence_order": 55,
+          "page_number": 15,
+          "quality_score": 0.6,
+          "element_type": "table",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "અરણાઇ-૫૨ કિ.મી."
+        }
+      ]
+    }
+  }
+}

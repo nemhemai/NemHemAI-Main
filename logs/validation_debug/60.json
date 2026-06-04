@@ -1,0 +1,189 @@
+{
+  "document_id": 60,
+  "pages": {
+    "1": {
+      "elements": 17,
+      "flagged": 17,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 28.0,
+      "issues": [
+        {
+          "element_id": "60_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.168,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "dau dla:-"
+        },
+        {
+          "element_id": "60_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "fh. 22. ail./ris2 wis Adler WS2 2093/ PaurdalAvlaudreil/aula wialMajasl. ¢ /rs, $A S22 SAL, WAAUS WL, AGALS, dl.og/OUu/r"
+        },
+        {
+          "element_id": "60_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "wrsizallal AtL.a.[AAL Yar A. WY./1020V3/UC F/SYAUY/I, A.A F/OUROVS."
+        },
+        {
+          "element_id": "60_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "wasizallat 4.[A.dl Ua 6:00702073/ECU/~A, al.10/09/2043."
+        },
+        {
+          "element_id": "60_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "wasirzafle 4.[ tt Urt $:424/1093/4¢02E/A, Al. 12/09/2093."
+        },
+        {
+          "element_id": "60_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Cw) wasiraflat ata [Aa vat s:2RAllaia/102093/1¢1¢/aNdly/¥, dl.1G/03/2049S."
+        },
+        {
+          "element_id": "60_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "(uy) wrsizeflat w.4. [Atl S24 SAWY/1OROVY/4 FOC /AUAL, AL.23/03/204."
+        },
+        {
+          "element_id": "60_p1_e7",
+          "sequence_order": 7,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "arsizallar yal daABS in d.wAyrymy/10209 $/cow/laural/vory/ O4C/33, AL.2C/O3/2OVS."
+        },
+        {
+          "element_id": "60_p1_e8",
+          "sequence_order": 8,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "wesizalary.[a.ct ABS a4 4. wrAwMy/> $/cow/Marall/104 $ /232/ ~W4/4, Al. 30/03/2049S."
+        },
+        {
+          "element_id": "60_p1_e9",
+          "sequence_order": 9,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "(¢) wesizshar 4a. tl ABS at 4d. wAAWA/204 F/cOU/SSdl/1020404/ 423/3, dl. 3d/osRors."
+        },
+        {
+          "element_id": "60_p1_e10",
+          "sequence_order": 10,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "(Ce) wrsirahlal Us [AGLAL Yat $212AY/102013/1 815 /MU(UL.SL.-2), AL.2F5/Ow/ROVS. )"
+        },
+        {
+          "element_id": "60_p1_e11",
+          "sequence_order": 11,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "wesiraflar as AH Wat $4214/102093/4¥45/(UL.SL.-2), AL. V2/Ow/ROVS."
+        },
+        {
+          "element_id": "60_p1_e12",
+          "sequence_order": 12,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "2A Sac) at.w/Y20rS al go AU. 2U2. al. aise rls wAlalaea WSE-209.3/Mrausri/Arlaudsai/rula wWiaiMa/jasl oujors"
+        },
+        {
+          "element_id": "60_p1_e13",
+          "sequence_order": 13,
+          "page_number": 1,
+          "quality_score": 0.168,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "MAUL gS4-"
+        },
+        {
+          "element_id": "60_p1_e14",
+          "sequence_order": 14,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 82,
+          "text_preview": "myr-a afl wrsirzailar wearer adla2 facil fl awed ude ws AMava-rjadiala waMan-2043 siael asaiyl Weal B. WHA all Arsiralle"
+        },
+        {
+          "element_id": "60_p1_e15",
+          "sequence_order": 15,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "table",
+          "reason": [],
+          "token_count": 58,
+          "text_preview": "Vals, Uy.: UH HAL ALS ASA, Bar Wuatal WAY: wu (2a; Vals, Uy.: SUH AMAL ALO ASA, Bar Wuatal WAY: © [fay; Vals, Uy.: VSd M"
+        },
+        {
+          "element_id": "60_p1_e16",
+          "sequence_order": 16,
+          "page_number": 1,
+          "quality_score": 0.28,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "WMYU-C WA 10 el AAL MHU-F, OWA ¢ Al wisreuHiell wise wa Aarll yl usa w2:-(a)aar yal user wsi2l(Designeted Ofiicer ),(2)s"
+        }
+      ]
+    }
+  }
+}

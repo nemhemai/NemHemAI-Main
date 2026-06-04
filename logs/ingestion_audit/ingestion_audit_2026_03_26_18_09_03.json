@@ -1,0 +1,181 @@
+{
+    "batch_summary": {
+        "total_documents": 13,
+        "successful_documents": 13,
+        "failed_documents": 0,
+        "success_rate": 100.0,
+        "batch_processing_time_sec": 3946.37,
+        "avg_processing_time_sec": 303.55
+    },
+    "language_breakdown": {},
+    "structural_metrics": {
+        "total_elements": 0,
+        "total_tables": 0,
+        "avg_elements_per_doc": 0.0
+    },
+    "documents": [
+        {
+            "file": "Aaple-Sarkar-DBT-Portal-Help-file-without-aadhar-bank-link.pdf",
+            "start_time": 1774524797.7523935,
+            "status": "SUCCESS",
+            "pages_processed": 49,
+            "weak_pages": 0,
+            "failed_pages": 2,
+            "docling_errors": 0,
+            "ocr_used": true,
+            "failed_page_details": [],
+            "processing_time_sec": 45.63
+        },
+        {
+            "file": "BMC_Environment_Status_Report.pdf",
+            "start_time": 1774524843.3811984,
+            "status": "SUCCESS",
+            "pages_processed": 170,
+            "weak_pages": 3,
+            "failed_pages": 6,
+            "docling_errors": 0,
+            "ocr_used": true,
+            "failed_page_details": [],
+            "processing_time_sec": 247.65
+        },
+        {
+            "file": "bmc_swm_bye_laws.pdf",
+            "start_time": 1774525091.0373945,
+            "status": "SUCCESS",
+            "pages_processed": 64,
+            "weak_pages": 0,
+            "failed_pages": 2,
+            "docling_errors": 0,
+            "ocr_used": true,
+            "failed_page_details": [],
+            "processing_time_sec": 68.93
+        },
+        {
+            "file": "Citizen_Charter_Nagpur.pdf",
+            "start_time": 1774525159.9649928,
+            "status": "SUCCESS",
+            "pages_processed": 7,
+            "weak_pages": 0,
+            "failed_pages": 0,
+            "docling_errors": 0,
+            "ocr_used": true,
+            "failed_page_details": [],
+            "processing_time_sec": 104.61
+        },
+        {
+            "file": "India_AI_Governance_Guidelines.pdf",
+            "start_time": 1774525264.5774958,
+            "status": "SUCCESS",
+            "pages_processed": 68,
+            "weak_pages": 0,
+            "failed_pages": 4,
+            "docling_errors": 0,
+            "ocr_used": true,
+            "failed_page_details": [],
+            "processing_time_sec": 120.82
+        },
+        {
+            "file": "maharashtra_swm_policy.pdf",
+            "start_time": 1774525385.401096,
+            "status": "SUCCESS",
+            "pages_processed": 30,
+            "weak_pages": 0,
+            "failed_pages": 2,
+            "docling_errors": 0,
+            "ocr_used": true,
+            "failed_page_details": [],
+            "processing_time_sec": 377.01
+        },
+        {
+            "file": "Mah_Gram_Vikas.pdf",
+            "start_time": 1774525762.4166174,
+            "status": "SUCCESS",
+            "pages_processed": 3,
+            "weak_pages": 0,
+            "failed_pages": 0,
+            "docling_errors": 0,
+            "ocr_used": false,
+            "failed_page_details": [],
+            "processing_time_sec": 5.51
+        },
+        {
+            "file": "Ministry_of_Health_and_Family_Welfare_Government_of_India.pdf",
+            "start_time": 1774525767.9318497,
+            "status": "SUCCESS",
+            "pages_processed": 31,
+            "weak_pages": 1,
+            "failed_pages": 1,
+            "docling_errors": 0,
+            "ocr_used": true,
+            "failed_page_details": [],
+            "processing_time_sec": 23.72
+        },
+        {
+            "file": "PMC_Budget.pdf",
+            "start_time": 1774525791.6538725,
+            "status": "SUCCESS",
+            "pages_processed": 72,
+            "weak_pages": 4,
+            "failed_pages": 0,
+            "docling_errors": 0,
+            "ocr_used": true,
+            "failed_page_details": [],
+            "processing_time_sec": 64.87
+        },
+        {
+            "file": "Public_Health_Department_Government_of_Maharashtra.pdf",
+            "start_time": 1774525856.523728,
+            "status": "SUCCESS",
+            "pages_processed": 428,
+            "weak_pages": 0,
+            "failed_pages": 0,
+            "docling_errors": 0,
+            "ocr_used": true,
+            "failed_page_details": [],
+            "processing_time_sec": 2397.36
+        },
+        {
+            "file": "Roadmap_for_Job_Creation_in_the_AI_Economy.pdf",
+            "start_time": 1774528253.907748,
+            "status": "SUCCESS",
+            "pages_processed": 32,
+            "weak_pages": 3,
+            "failed_pages": 6,
+            "docling_errors": 0,
+            "ocr_used": true,
+            "failed_page_details": [],
+            "processing_time_sec": 274.24
+        },
+        {
+            "file": "swm_rules_2016_central.pdf",
+            "start_time": 1774528528.1514332,
+            "status": "SUCCESS",
+            "pages_processed": 41,
+            "weak_pages": 0,
+            "failed_pages": 0,
+            "docling_errors": 0,
+            "ocr_used": false,
+            "failed_page_details": [],
+            "processing_time_sec": 202.28
+        },
+        {
+            "file": "Updated-Winter-Announcement-2025.pdf",
+            "start_time": 1774528730.434173,
+            "status": "SUCCESS",
+            "pages_processed": 4,
+            "weak_pages": 0,
+            "failed_pages": 0,
+            "docling_errors": 0,
+            "ocr_used": false,
+            "failed_page_details": [],
+            "processing_time_sec": 13.48
+        }
+    ],
+    "exceptions": [],
+    "extraction_diagnostics": {
+        "weak_pages": 11,
+        "failed_pages": 23,
+        "ocr_documents": 10,
+        "docling_errors": 0
+    }
+}

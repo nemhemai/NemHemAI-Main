@@ -1,0 +1,48 @@
+{
+  "document_id": 39,
+  "pages": {
+    "2": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "3": {
+      "elements": 13,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "4": {
+      "elements": 14,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "39_p4_e25",
+          "sequence_order": 25,
+          "page_number": 4,
+          "quality_score": 0.6,
+          "element_type": "caption",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "TABLE"
+        }
+      ]
+    },
+    "5": {
+      "elements": 6,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    }
+  }
+}
