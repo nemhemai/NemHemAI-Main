@@ -116,6 +116,7 @@ class HybridRetriever:
         document_id: int | None = None,
         filters:     dict | None = None,
         use_rerank:  bool = True,
+        sparse_only: bool = False,
     ) -> list[dict]:
         """
         Full hybrid retrieval pipeline: dense + sparse → RRF → rerank.
@@ -133,6 +134,7 @@ class HybridRetriever:
                            - section_path (str)    → prefix match on section
             use_rerank:  If True, apply ColBERT reranking on top-20 RRF results.
                          Set False for faster retrieval at slight accuracy cost.
+            sparse_only: If True, skip dense embedding/search and colbert completely. Extremely fast.
 
         Returns:
             List of result dicts, each containing chunk fields + score fields:
@@ -155,15 +157,22 @@ class HybridRetriever:
         target_doc_types = route_documents(query, query_type)
 
         # ── Step 1: Embed the query ────────────────────────────────────────────
-        query_dense, query_sparse = self._embedder.embed_query(query)
+        if not sparse_only:
+            query_dense, query_sparse = self._embedder.embed_query(query)
+        else:
+            query_dense, query_sparse = None, {}
         
         # ── Step 2: Dense search ───────────────────────────────────────────────
-        dense_results = dense_search(
-            conn, query_dense,
-            top_n=DENSE_CANDIDATES,
-            document_id=document_id,
-            filters=filters,
-        )
+        if not sparse_only:
+            dense_results = dense_search(
+                conn, query_dense,
+                top_n=DENSE_CANDIDATES,
+                document_id=document_id,
+                filters=filters,
+            )
+        else:
+            dense_results = []
+            
         dense_scores:  dict[str, float] = {r["chunk_id"]: r["dense_score"] for r in dense_results}
         dense_ranked:  list[str]        = [r["chunk_id"] for r in dense_results]
 
@@ -207,13 +216,18 @@ class HybridRetriever:
                     r["sparse_score"] = r.get("sparse_score", 0) * 1.8
 
         # ── Step 4: RRF fusion ─────────────────────────────────────────────────
-        rrf_ranked = reciprocal_rank_fusion([dense_ranked, sparse_ranked], k=RRF_K)
-        rrf_scores: dict[str, float] = {chunk_id: score for chunk_id, score in rrf_ranked}
+        if not sparse_only:
+            rrf_ranked = reciprocal_rank_fusion([dense_ranked, sparse_ranked], k=RRF_K)
+            rrf_scores: dict[str, float] = {chunk_id: score for chunk_id, score in rrf_ranked}
+        else:
+            rrf_ranked = [(cid, score) for cid, score in sparse_scores.items()]
+            rrf_ranked.sort(key=lambda x: x[1], reverse=True)
+            rrf_scores = sparse_scores
 
         # Take top RERANK_CANDIDATES for reranking
         top_ids = [cid for cid, _ in rrf_ranked[:RERANK_CANDIDATES]]
 
-        logger.debug(f"RRF fusion: {len(rrf_ranked)} unique candidates, top-{RERANK_CANDIDATES} to rerank")
+        logger.debug(f"Fusion/Selection: {len(rrf_ranked)} unique candidates, top-{RERANK_CANDIDATES} selected")
 
         # ── Step 5: Hydrate chunk records ──────────────────────────────────────
         all_known: dict[str, dict] = {}
@@ -227,7 +241,7 @@ class HybridRetriever:
         top_chunks = [all_known[cid] for cid in top_ids if cid in all_known]
         rerank_scores: dict[str, float] = {}
 
-        if use_rerank and top_chunks:
+        if use_rerank and not sparse_only and top_chunks:
             rerank_scores = rerank_chunks(
                 self._embedder,
                 query,

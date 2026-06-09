@@ -29,6 +29,13 @@ class Settings(BaseSettings):
     NEO4J_USER: str = "neo4j"
     NEO4J_PASSWORD: str = "password"
 
+    # Voice Agent Settings (Phase 3)
+    BHASHINI_API_KEY: str = ""
+    BHASHINI_ENDPOINT: str = "https://bhashini.gov.in/api"
+    WHISPER_MODEL_PATH: str = os.path.join(os.getcwd(), "models/whisper")
+    INDICBERT_MODEL_PATH: str = os.path.join(os.getcwd(), "models/indicbert")
+    HAPTIK_WEBHOOK_SECRET: str = ""
+
     @property
     def DATABASE_URL(self):
         return f"postgresql://{self.DB_USER}:{self.DB_PASS}@{self.DB_HOST}:{self.DB_PORT}/{self.DB_NAME}"

@@ -7,7 +7,6 @@ from app.core.database import get_db_conn, release_db_conn
 from app.retrieval.retriever import HybridRetriever
 from app.graph.retriever import retrieve_graph_context
 from app.memory.redis_memory import memory_store
-from app.generation.openhuman import detect_grievance_tone
 
 logger = logging.getLogger(__name__)
 
@@ -16,20 +15,11 @@ MODEL_NAME = "qwen2.5-coder:7b"
 
 DRAFT_PROMPT = """
 You are a highly professional, empathetic Government AI assistant.
-Your job is to draft an official response to a citizen's grievance.
-
-You must base your response on the provided Context (Policy rules and Graph relationships).
-If the citizen's Tone is Angry or Distressed, be highly empathetic and reassuring.
-If the Urgency is High or Critical, mention that this is being escalated immediately.
+Your job is to analyze a citizen's grievance and draft an official response.
 
 --- CITIZEN GRIEVANCE ---
 Category: {category}
 Description: {description}
-
---- OPENHUMAN ANALYSIS ---
-Urgency: {urgency}
-Tone: {tone}
-Intent: {intent}
 
 --- CITIZEN RECENT HISTORY (MEMORY) ---
 {memory_context}
@@ -41,37 +31,47 @@ Intent: {intent}
 {graph_context}
 
 --- INSTRUCTIONS ---
-Write a professional, official response addressing the citizen.
-1. Acknowledge their issue specifically.
-2. If applicable, mention relevant policy or penalties based on the context provided.
-3. State the immediate next steps being taken.
-4. Keep it under 250 words.
-5. Output ONLY the draft response text. Do not include markdown or internal thoughts.
+You must analyze the grievance and provide an official response.
+1. Determine the "urgency": (LOW, MEDIUM, HIGH, CRITICAL)
+2. Determine the "tone": (NEUTRAL, ANGRY, DISTRESSED, CONFUSED, POLITE)
+3. Determine the "intent": (COMPLAINT, INQUIRY, SUGGESTION)
+4. Determine the "severity_score": (Integer between 1 and 10, where 10 is the most severe)
+5. Draft a professional response addressing the citizen based on the Policy Context and Graph Context.
+   - If Tone is Angry/Distressed, be highly empathetic.
+   - If Urgency is High/Critical, mention immediate escalation.
+   - Acknowledge their issue specifically.
+   - Keep the draft under 250 words.
+
+You MUST return ONLY a valid JSON object in this exact format with no other text:
+{{
+  "urgency": "HIGH",
+  "tone": "ANGRY",
+  "intent": "COMPLAINT",
+  "severity_score": 8,
+  "draft_response": "We have received your grievance..."
+}}
 """
 
 def generate_draft_response(citizen_id: str, category: str, description: str) -> Dict[str, Any]:
     """
-    Core generation pipeline combining Vector RAG, Graph RAG, and Memory.
+    Fast Single-Pass Pipeline combining Vector RAG, Graph RAG, OpenHuman analysis, and Drafting.
     """
-    logger.info(f"Generating draft response for {citizen_id} - {category}")
+    logger.info(f"Generating fast draft response for {citizen_id} - {category}")
     
-    # 1. OpenHuman Tone Detection
-    openhuman = detect_grievance_tone(description)
-    
-    # 2. Redis Memory (Track this new one, fetch past ones)
-    memory_store.add_grievance(citizen_id, category, description, openhuman["urgency"])
+    # 1. Fetch Redis Memory (Do not add current yet since we don't know urgency)
     recent_grievances = memory_store.get_recent_grievances(citizen_id)
     
     memory_context = "No recent history."
-    if len(recent_grievances) > 1:
+    if recent_grievances:
         memory_context = "\n".join([
-            f"- {g['category']} (Urgency: {g['urgency']}): {g['description']}" 
-            for g in recent_grievances[1:] # Exclude the current one just added
+            f"- {g['category']} (Urgency: {g.get('urgency', 'UNKNOWN')}): {g['description']}" 
+            for g in recent_grievances
         ])
     
-    # 3. Vector RAG (Hybrid)
+    # 2. Vector RAG (Hybrid)
     conn = get_db_conn()
     vector_context = "No direct policy found."
+    results = []
     try:
         retriever = HybridRetriever()
         search_query = f"{category} {description}"
@@ -83,41 +83,54 @@ def generate_draft_response(citizen_id: str, category: str, description: str) ->
     finally:
         release_db_conn(conn)
         
-    # 4. Graph RAG
-    graph_results = retrieve_graph_context(search_query)
-    graph_context = "No graph relationships found."
-    if graph_results:
-        graph_context = "\n".join([f"{edge['source']} -> {edge['type']} -> {edge['target']}" for edge in graph_results])
+    # 3. Graph RAG
+    graph_results = retrieve_graph_context([category])
+    graph_context = graph_results if graph_results else "No graph relationships found."
         
-    # 5. LLM Prompt Construction
+    # 4. LLM Prompt Construction
     prompt = DRAFT_PROMPT.format(
         category=category,
         description=description,
-        urgency=openhuman["urgency"],
-        tone=openhuman["tone"],
-        intent=openhuman["intent"],
         memory_context=memory_context,
         vector_context=vector_context,
         graph_context=graph_context
     )
     
-    # 6. LLM Call
+    # 5. LLM Call
     payload = {
         "model": MODEL_NAME,
         "prompt": prompt,
         "stream": False,
-        "temperature": 0.3
+        "format": "json",
+        "temperature": 0.2
     }
     
     draft_response = "We have received your grievance and are looking into it."
+    openhuman = {"urgency": "MEDIUM", "tone": "NEUTRAL", "intent": "COMPLAINT", "severity_score": 5}
+    
     try:
-        response = requests.post(OLLAMA_API_URL, json=payload, timeout=120)
+        response = requests.post(OLLAMA_API_URL, json=payload, timeout=60)
         response.raise_for_status()
-        draft_response = response.json().get("response", "").strip()
+        result_text = response.json().get("response", "").strip()
+        
+        analysis = json.loads(result_text)
+        draft_response = analysis.get("draft_response", draft_response)
+        
+        openhuman = {
+            "urgency": analysis.get("urgency", "MEDIUM").upper(),
+            "tone": analysis.get("tone", "NEUTRAL").upper(),
+            "intent": analysis.get("intent", "COMPLAINT").upper(),
+            "severity_score": int(analysis.get("severity_score", 5))
+        }
+        
     except Exception as e:
-        logger.error(f"Draft generation LLM call failed: {e}")
+        logger.error(f"Single-pass LLM call failed: {e}")
+        
+    # 6. Save current grievance to memory now that we have urgency
+    memory_store.add_grievance(citizen_id, category, description, openhuman["urgency"])
         
     return {
         "draft_response": draft_response,
-        "openhuman": openhuman
+        "openhuman": openhuman,
+        "retrieved_context": results
     }

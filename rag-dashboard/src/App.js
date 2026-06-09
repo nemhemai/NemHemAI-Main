@@ -12,6 +12,10 @@ import BulkIngestionDashboard from "./components/BulkIngestionDashboard";
 import Login from "./components/auth/Login";
 import Signup from "./components/auth/Signup";
 
+// 🏛️ NEW DAY 5 DASHBOARD
+import GrievanceDashboard from "./components/GrievanceDashboard";
+import SubmitGrievance from "./components/SubmitGrievance";
+
 /**
  * App Component
  * ----------------------------------------
@@ -127,6 +131,22 @@ function App() {
           Bulk Ingestion
         </button>
 
+        {/* 🏛️ GRIEVANCE OFFICER BUTTON */}
+        <button 
+          onClick={() => setView("grievance")} 
+          style={styles.grievanceButton}
+        >
+          Grievance Officer
+        </button>
+
+        {/* 🙋 CITIZEN GRIEVANCE PORTAL BUTTON */}
+        <button 
+          onClick={() => setView("submit_grievance")} 
+          style={styles.citizenButton}
+        >
+          Citizen Portal
+        </button>
+
         {/* 🔍 QUERY DASHBOARD BUTTON */}
         <button 
           onClick={() => setView("query")} 
@@ -161,6 +181,14 @@ function App() {
             goBack={() => setView("single")} 
           />
         </div>
+
+      ) : view === "grievance" ? (
+
+        <GrievanceDashboard />
+
+      ) : view === "submit_grievance" ? (
+
+        <SubmitGrievance />
 
       ) : (
 
@@ -245,6 +273,28 @@ const styles = {
     marginLeft: "10px",
     padding: "8px 16px",
     background: "#6f42c1",
+    color: "#fff",
+    border: "none",
+    borderRadius: "6px",
+    cursor: "pointer"
+  },
+
+  grievanceButton: {
+    marginTop: "10px",
+    marginLeft: "10px",
+    padding: "8px 16px",
+    background: "#003366", // Navy Blue
+    color: "#fff",
+    border: "none",
+    borderRadius: "6px",
+    cursor: "pointer"
+  },
+
+  citizenButton: {
+    marginTop: "10px",
+    marginLeft: "10px",
+    padding: "8px 16px",
+    background: "#28a745", // Green
     color: "#fff",
     border: "none",
     borderRadius: "6px",

@@ -143,7 +143,7 @@ def sparse_search(
                     FROM document_chunks c
                     JOIN document_embeddings e USING (chunk_id)
                     LEFT JOIN documents d ON c.document_id = d.document_id
-                    WHERE c.fts_tokens @@ to_tsquery('english', %s)
+                    WHERE c.fts_tokens @@ plainto_tsquery('english', %s)
                     ORDER BY fts_score DESC
                     LIMIT %s
                 """
