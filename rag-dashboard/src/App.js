@@ -16,6 +16,9 @@ import Signup from "./components/auth/Signup";
 import GrievanceDashboard from "./components/GrievanceDashboard";
 import SubmitGrievance from "./components/SubmitGrievance";
 
+// 🔍 NEW VERIFICATION DASHBOARD
+import VerificationDashboard from "./components/VerificationDashboard";
+
 /**
  * App Component
  * ----------------------------------------
@@ -154,6 +157,14 @@ function App() {
         >
           Query Dashboard
         </button>
+
+        {/* 📋 VERIFICATION AGENT BUTTON */}
+        <button 
+          onClick={() => setView("verification")} 
+          style={styles.verificationButton}
+        >
+          Verification Agent
+        </button>
       </div>
 
       {/* ================= MAIN CONTENT ================= */}
@@ -189,6 +200,10 @@ function App() {
       ) : view === "submit_grievance" ? (
 
         <SubmitGrievance />
+
+      ) : view === "verification" ? (
+
+        <VerificationDashboard />
 
       ) : (
 
@@ -306,6 +321,17 @@ const styles = {
     marginLeft: "10px",
     padding: "8px 16px",
     background: "#17a2b8",
+    color: "#fff",
+    border: "none",
+    borderRadius: "6px",
+    cursor: "pointer"
+  },
+
+  verificationButton: {
+    marginTop: "10px",
+    marginLeft: "10px",
+    padding: "8px 16px",
+    background: "#fd7e14", // Orange
     color: "#fff",
     border: "none",
     borderRadius: "6px",

@@ -10,6 +10,8 @@ const GrievanceDashboard = () => {
   const [editedResponses, setEditedResponses] = useState({});
   const [activeDocsGrievance, setActiveDocsGrievance] = useState(null);
   const [activeImageGrievance, setActiveImageGrievance] = useState(null);
+  const [briefingNote, setBriefingNote] = useState(null);
+  const [briefingLoading, setBriefingLoading] = useState(false);
 
   const fetchGrievances = async () => {
     try {
@@ -62,6 +64,29 @@ const GrievanceDashboard = () => {
     } catch (err) {
       alert("Failed to approve grievance. See console for details.");
       console.error(err);
+    }
+  };
+
+  const handleGenerateBriefing = async (grievance) => {
+    setBriefingLoading(true);
+    setBriefingNote(null);
+    try {
+      const token = localStorage.getItem("token");
+      const headers = token ? { Authorization: `Bearer ${token}` } : {};
+      
+      const payload = {
+        query: `Briefing for grievance: ${grievance.category} - ${grievance.description || "No description"}`,
+        context_texts: grievance.retrieved_context ? grievance.retrieved_context.map(c => typeof c === 'string' ? c : c.text) : [],
+        role: "field_officer"
+      };
+
+      const response = await axios.post(`${API_URL}/api/v1/briefings/generate`, payload, { headers });
+      setBriefingNote(response.data.briefing_note);
+    } catch (err) {
+      console.error("Briefing generation failed:", err);
+      alert("Failed to generate briefing. Ensure PraisonAI is running correctly.");
+    } finally {
+      setBriefingLoading(false);
     }
   };
 
@@ -220,12 +245,36 @@ const GrievanceDashboard = () => {
       {/* Slidebar for Referred Documents */}
       {activeDocsGrievance && (
         <div style={styles.slidebarOverlay} onClick={() => setActiveDocsGrievance(null)}>
-          <div style={styles.slidebar} onClick={(e) => e.stopPropagation()}>
+          <div style={{...styles.slidebar, width: '600px'}} onClick={(e) => e.stopPropagation()}>
             <div style={styles.slidebarHeader}>
               <h3 style={styles.slidebarTitle}>Referred Documents</h3>
               <button style={styles.closeButton} onClick={() => setActiveDocsGrievance(null)}>×</button>
             </div>
+            
+            <div style={{ padding: '15px 20px', borderBottom: '1px solid #e2e8f0', backgroundColor: '#f8fafc' }}>
+              <button 
+                style={{ ...styles.approveButton, width: '100%' }}
+                onClick={() => handleGenerateBriefing(activeDocsGrievance)}
+                disabled={briefingLoading}
+              >
+                {briefingLoading ? "⏳ Generating Action Plan (ETA 60s)..." : "📝 Generate Field Officer Briefing"}
+              </button>
+            </div>
+
             <div style={styles.slidebarContent}>
+              {briefingNote && (
+                <div style={{ marginBottom: '20px', padding: '15px', backgroundColor: '#e0f2fe', borderRadius: '8px', border: '1px solid #bae6fd' }}>
+                  <h4 style={{ margin: '0 0 10px 0', color: '#0369a1' }}>Generated Briefing Note</h4>
+                  <div style={{ fontSize: '13px', lineHeight: '1.6', color: '#0f172a' }}>
+                    <strong>Exec Summary:</strong> {briefingNote.executive_summary}<br/><br/>
+                    <strong>Actions:</strong>
+                    <ul style={{ paddingLeft: '20px', margin: '5px 0' }}>
+                      {briefingNote.recommended_actions?.map((act, i) => <li key={i}>{act}</li>)}
+                    </ul>
+                  </div>
+                </div>
+              )}
+
               {activeDocsGrievance.retrieved_context.map((ctx, idx) => (
                 <div key={idx} style={styles.contextItem}>
                   <span style={styles.contextSource}>
