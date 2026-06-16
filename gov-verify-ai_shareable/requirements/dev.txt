@@ -1,0 +1,10 @@
+# dev.txt
+
+-r base.txt
+
+black
+ruff
+mypy
+pytest
+pytest-asyncio
+httpx

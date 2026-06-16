@@ -1,0 +1,405 @@
+High-Level Architecture
+
+Citizen
+   │
+   ▼
+Entitlement Agent
+   │
+   ├── Profile Builder
+   ├── Scheme Discovery Engine
+   ├── Eligibility Reasoning Engine
+   ├── Recommendation Engine
+   ├── Application Guidance Engine
+   └── Status Tracking Engine
+   │
+   ▼
+Verification Agent
+   │
+   ▼
+Audit Agent
+
+
+
+Internal Workflow of Entitlement Agent
+
+Citizen Registration
+        │
+        ▼
+Identity Verification
+        │
+        ▼
+Citizen Profile Creation
+        │
+        ▼
+Household & Socio-Economic Assessment
+        │
+        ▼
+Scheme Discovery
+        │
+        ▼
+Eligibility Evaluation
+        │
+        ▼
+Verification Agent
+(Document Validation)
+        │
+        ▼
+Eligibility Reconfirmation
+        │
+        ▼
+Benefit Optimization
+        │
+        ▼
+Scheme Recommendations
+        │
+        ▼
+Application Guidance
+        │
+        ▼
+Application Submission Support
+        │
+        ▼
+Status Tracking
+        │
+        ▼
+Audit Agent
+
+
+
+Detailed Entitlement Agent Workflow
+
+Step 1: Citizen Registration
+
+Citizen enters:
+
+Mobile number 
+
+Aadhaar / Citizen ID 
+
+Email (optional) 
+
+Output:
+
+Citizen Identity Created
+
+
+
+Step 2: Identity Verification
+
+Sources:
+
+Aadhaar 
+
+Municipal records 
+
+State databases 
+
+Internal citizen registry 
+
+Output:
+
+Verified Citizen
+
+
+
+Step 3: Citizen Profile Creation
+
+Entitlement Agent builds a unified profile.
+
+Captures:
+
+Personal Information
+Family Members
+Address
+Occupation
+Income
+Disability Status
+Education
+Land Ownership
+Existing Benefits
+
+Output:
+
+Citizen 360 Profile
+
+
+
+Step 4: Household & Socio-Economic Assessment
+
+Many schemes depend on household-level eligibility.
+
+Agent determines:
+
+BPL/APL status
+Household income
+Dependents
+Senior citizens
+Students
+Widows
+Farmers
+Disabled members
+
+Output:
+
+Eligibility Context Model
+
+
+
+Step 5: Scheme Discovery
+
+Entitlement Agent searches:
+
+Central Schemes
+State Schemes
+Municipal Schemes
+Department Schemes
+
+Examples:
+
+PMAY
+Ayushman Bharat
+National Pension Schemes
+Scholarships
+Farmer Benefits
+Water Subsidies
+
+Output:
+
+Potential Schemes List
+
+
+
+Step 6: Eligibility Evaluation
+
+Core reasoning stage.
+
+For every scheme:
+
+Age Check
+Income Check
+Residence Check
+Occupation Check
+Category Check
+Existing Benefit Check
+
+Output:
+
+Eligible
+Likely Eligible
+Not Eligible
+
+
+
+Step 7: Verification Agent
+
+This remains a separate agent.
+
+Responsibilities
+
+OCR
+Document Extraction
+Cross Validation
+Fraud Detection
+Anomaly Detection
+
+Documents:
+
+Income Certificate
+Aadhaar
+Ration Card
+Domicile Certificate
+Disability Certificate
+
+Output:
+
+Verified Evidence Package
+
+
+
+Step 8: Eligibility Reconfirmation
+
+Entitlement Agent consumes verified evidence.
+
+Eligibility Rules
++
+Verified Documents
++
+Citizen Profile
+
+Output:
+
+Final Eligibility Decision
+
+This is the stage that creates trust.
+
+
+
+Step 9: Benefit Optimization
+
+This is where NemHem becomes differentiated.
+
+Instead of saying:
+
+You qualify for 10 schemes
+
+The agent answers:
+
+Apply in this order.
+
+Example:
+
+1. PMAY
+2. Ayushman Bharat
+3. State Housing Subsidy
+4. Education Scholarship
+
+Ranking factors:
+
+Benefit Amount
+Approval Probability
+Urgency
+Application Complexity
+
+Output:
+
+Optimized Benefit Plan
+
+
+
+Step 10: Scheme Recommendations
+
+Citizen sees:
+
+Recommended Schemes
+Reason for Eligibility
+Expected Benefit
+Required Documents
+Estimated Processing Time
+
+Example:
+
+PMAY
+
+Eligible because:
+• Income below threshold
+• No pucca house
+• Maharashtra resident
+
+Expected Benefit:
+₹2.5 lakh subsidy
+
+
+
+Step 11: Application Guidance
+
+Agent helps citizen:
+
+Fill Forms
+Upload Documents
+Correct Errors
+Generate Affidavits
+Track Missing Documents
+
+Output:
+
+Application Ready
+
+
+
+Step 12: Submission Support
+
+Depending on department integration:
+
+API Submission
+Portal Submission
+Officer Submission Queue
+
+Output:
+
+Application Submitted
+
+
+
+Step 13: Status Tracking
+
+Citizen asks:
+
+What happened to my application?
+
+Agent checks:
+
+Current Stage
+Pending Actions
+Officer Remarks
+Expected Timeline
+
+Output:
+
+Live Application Status
+
+
+
+Step 14: Audit Agent
+
+Separate independent agent.
+
+Responsibilities:
+
+Decision Traceability
+Eligibility Justification
+Officer Audit Logs
+Citizen Activity Logs
+Compliance Records
+
+Stores:
+
+Why scheme recommended
+Why scheme rejected
+Which documents used
+Which rules applied
+
+
+
+Customer Journey
+
+Citizen View
+
+Register
+   │
+Verify Identity
+   │
+Create Profile
+   │
+Upload Documents
+   │
+Discover Eligible Schemes
+   │
+Understand Benefits
+   │
+Receive Recommendations
+   │
+Get Application Assistance
+   │
+Submit Application
+   │
+Track Status
+   │
+Receive Benefit
+
+
+
+Executive One-Line Flow
+
+This is what I would show government officials:
+
+Citizen Registration
+→ Profile Creation
+→ Socio-Economic Assessment
+→ Scheme Discovery
+→ Eligibility Evaluation
+→ Verification
+→ Benefit Optimization
+→ Personalized Recommendations
+→ Application Assistance
+→ Status Tracking
+→ Audit & Compliance

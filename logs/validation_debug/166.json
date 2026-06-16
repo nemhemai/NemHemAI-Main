@@ -1,0 +1,375 @@
+{
+  "document_id": 166,
+  "pages": {
+    "1": {
+      "elements": 2,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "166_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "June 2026"
+        }
+      ]
+    },
+    "2": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": 33.86,
+      "issues": [
+        {
+          "element_id": "166_p2_e2",
+          "sequence_order": 2,
+          "page_number": 2,
+          "quality_score": 0.339,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 301,
+          "text_preview": "SF Fee ee Fe COHAN DUH Fw WN RaAaRSBETSL PARAL! THIrrTrTrrtirtofzieg ¢¢2¢2?2¢22 28 S282 8 re Qaeaoeceaeaeaea0408408 84 8"
+        }
+      ]
+    },
+    "3": {
+      "elements": 17,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "4": {
+      "elements": 15,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "5": {
+      "elements": 23,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "6": {
+      "elements": 20,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "166_p6_e70",
+          "sequence_order": 70,
+          "page_number": 6,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Gender"
+        },
+        {
+          "element_id": "166_p6_e71",
+          "sequence_order": 71,
+          "page_number": 6,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Profile Photo"
+        }
+      ]
+    },
+    "7": {
+      "elements": 22,
+      "flagged": 4,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "166_p7_e80",
+          "sequence_order": 80,
+          "page_number": 7,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Father's Name"
+        },
+        {
+          "element_id": "166_p7_e81",
+          "sequence_order": 81,
+          "page_number": 7,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Mother's Name"
+        },
+        {
+          "element_id": "166_p7_e82",
+          "sequence_order": 82,
+          "page_number": 7,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Guardian's Name"
+        },
+        {
+          "element_id": "166_p7_e99",
+          "sequence_order": 99,
+          "page_number": 7,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Click Submit."
+        }
+      ]
+    },
+    "8": {
+      "elements": 25,
+      "flagged": 11,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "166_p8_e107",
+          "sequence_order": 107,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Domicile State/UT"
+        },
+        {
+          "element_id": "166_p8_e108",
+          "sequence_order": 108,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Name (optional)"
+        },
+        {
+          "element_id": "166_p8_e111",
+          "sequence_order": 111,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Marital Status"
+        },
+        {
+          "element_id": "166_p8_e112",
+          "sequence_order": 112,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Parent Profession"
+        },
+        {
+          "element_id": "166_p8_e113",
+          "sequence_order": 113,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Religion"
+        },
+        {
+          "element_id": "166_p8_e114",
+          "sequence_order": 114,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Community"
+        },
+        {
+          "element_id": "166_p8_e115",
+          "sequence_order": 115,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Is Disabled"
+        },
+        {
+          "element_id": "166_p8_e118",
+          "sequence_order": 118,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Scholarship Category"
+        },
+        {
+          "element_id": "166_p8_e119",
+          "sequence_order": 119,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Application Type"
+        },
+        {
+          "element_id": "166_p8_e120",
+          "sequence_order": 120,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Institute Name"
+        },
+        {
+          "element_id": "166_p8_e124",
+          "sequence_order": 124,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Course Name"
+        }
+      ]
+    },
+    "9": {
+      "elements": 23,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "166_p9_e143",
+          "sequence_order": 143,
+          "page_number": 9,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "State Scheme"
+        }
+      ]
+    },
+    "10": {
+      "elements": 25,
+      "flagged": 3,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "166_p10_e154",
+          "sequence_order": 154,
+          "page_number": 10,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Institution State"
+        },
+        {
+          "element_id": "166_p10_e155",
+          "sequence_order": 155,
+          "page_number": 10,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Institution District"
+        },
+        {
+          "element_id": "166_p10_e162",
+          "sequence_order": 162,
+          "page_number": 10,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Enter Captcha"
+        }
+      ]
+    },
+    "11": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    }
+  }
+}

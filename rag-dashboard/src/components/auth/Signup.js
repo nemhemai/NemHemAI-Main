@@ -1,6 +1,7 @@
 import React, { useState } from "react";
+import logo from "../../assets/nemhem-logo.svg";
 
-function Signup() {
+function Signup({ onSwitchLogin }) {
   const [form, setForm] = useState({
     username: "",
     password: "",
@@ -64,18 +65,25 @@ function Signup() {
 
       {/* LEFT PANEL */}
       <div style={styles.leftPanel}>
-        <div>
-          <h1 style={styles.brand}>Government RAG System</h1>
+        <div style={styles.brandContainer}>
+          <img src={logo} alt="NemhemAI Logo" style={styles.logoLarge} />
+          <h1 style={styles.brandTitle}>NemhemAI</h1>
+          <div style={styles.divider}></div>
+          <h2 style={styles.brandSubtitle}>Government RAG System</h2>
           <p style={styles.tagline}>
             Secure document processing and intelligent retrieval platform
           </p>
         </div>
+        <div style={styles.meshGradient}></div>
       </div>
 
       {/* RIGHT PANEL */}
       <div style={styles.rightPanel}>
         <div style={styles.container}>
-          <h2 style={styles.title}>Signup</h2>
+          <div style={styles.formHeader}>
+            <h2 style={styles.title}>Create Account</h2>
+            <p style={styles.subtitle}>Register for secure platform access</p>
+          </div>
 
           <div style={styles.formScroll}>
 
@@ -107,8 +115,15 @@ function Signup() {
             onClick={handleSignup}
             disabled={loading}
           >
-            {loading ? <span style={styles.loader}></span> : "Signup"}
+            {loading ? <span style={styles.loader}></span> : "Sign Up"}
           </button>
+
+          <p style={styles.switchText}>
+            Already have an account?{" "}
+            <span onClick={onSwitchLogin} style={styles.link}>
+              Sign in
+            </span>
+          </p>
         </div>
       </div>
     </div>
@@ -120,96 +135,168 @@ const styles = {
     display: "flex",
     height: "100vh",
     width: "100vw",
-    fontFamily: "Segoe UI, sans-serif",
-    background: "#f4f6f9"
+    fontFamily: "'Inter', 'Segoe UI', sans-serif",
+    background: "#f4f7fb"
   },
 
   leftPanel: {
-    width: "50%",
-    background: "#1f3a5f",
+    width: "55%",
+    background: "linear-gradient(135deg, #001f3f 0%, #003366 100%)",
     color: "#fff",
     display: "flex",
     alignItems: "center",
     justifyContent: "center",
-    padding: "80px"
+    padding: "80px",
+    position: "relative",
+    overflow: "hidden"
   },
 
-  brand: {
-    fontSize: "44px",
-    fontWeight: "700",
-    letterSpacing: "0.5px",
-    marginBottom: "14px"
+  meshGradient: {
+    position: "absolute",
+    top: "-50%",
+    left: "-50%",
+    width: "200%",
+    height: "200%",
+    background: "radial-gradient(circle at 50% 50%, rgba(255,255,255,0.05) 0%, transparent 60%)",
+    pointerEvents: "none"
+  },
+
+  brandContainer: {
+    zIndex: 1,
+    display: "flex",
+    flexDirection: "column",
+    alignItems: "flex-start",
+    maxWidth: "500px"
+  },
+
+  logoLarge: {
+    width: "72px",
+    height: "72px",
+    marginBottom: "24px",
+    filter: "drop-shadow(0px 4px 8px rgba(0,0,0,0.2))"
+  },
+
+  brandTitle: {
+    fontSize: "48px",
+    fontWeight: "800",
+    letterSpacing: "1px",
+    margin: "0 0 16px 0",
+    background: "linear-gradient(to right, #ffffff, #b3d4ff)",
+    WebkitBackgroundClip: "text",
+    WebkitTextFillColor: "transparent"
+  },
+
+  divider: {
+    width: "60px",
+    height: "4px",
+    background: "#00a8ff",
+    marginBottom: "24px",
+    borderRadius: "2px"
+  },
+
+  brandSubtitle: {
+    fontSize: "28px",
+    fontWeight: "600",
+    margin: "0 0 16px 0",
+    color: "#e6f0ff"
   },
 
   tagline: {
-    fontSize: "15px",
-    opacity: 0.9,
-    maxWidth: "420px",
-    lineHeight: "1.6"
+    fontSize: "16px",
+    color: "#b3d4ff",
+    lineHeight: "1.7",
+    margin: 0
   },
 
   rightPanel: {
-    width: "50%",
+    width: "45%",
     display: "flex",
     justifyContent: "center",
-    alignItems: "center"
+    alignItems: "center",
+    background: "#ffffff"
   },
 
   container: {
-    width: "380px",
-    padding: "26px",
-    borderRadius: "8px",
-    background: "#ffffff",
-    border: "1px solid #dcdfe6",
-    boxShadow: "0 6px 20px rgba(0,0,0,0.12)",
+    width: "100%",
+    maxWidth: "460px",
+    padding: "48px",
     display: "flex",
     flexDirection: "column",
-    gap: "12px"
+    gap: "24px"
+  },
+
+  formHeader: {
+    marginBottom: "8px"
   },
 
   title: {
-    textAlign: "center",
-    fontWeight: "600",
-    fontSize: "18px",
-    color: "#1e293b"
+    fontWeight: "700",
+    fontSize: "32px",
+    color: "#001f3f",
+    margin: "0 0 8px 0"
+  },
+
+  subtitle: {
+    fontSize: "15px",
+    color: "#64748b",
+    margin: 0
   },
 
   formScroll: {
-    maxHeight: "280px",
+    maxHeight: "340px",
     overflowY: "auto",
     display: "flex",
     flexDirection: "column",
-    gap: "10px",
-    paddingRight: "4px"
+    gap: "16px",
+    paddingRight: "8px",
+    "&::-webkit-scrollbar": {
+      width: "6px"
+    },
+    "&::-webkit-scrollbar-thumb": {
+      background: "#cbd5e1",
+      borderRadius: "4px"
+    }
   },
 
   input: {
-    padding: "12px",
-    borderRadius: "6px",
-    border: "1px solid #cfd6dd",
-    background: "#ffffff",
-    color: "#1e293b",
-    fontSize: "14px"
+    padding: "16px",
+    borderRadius: "12px",
+    border: "1.5px solid #e2e8f0",
+    background: "#f8fafc",
+    color: "#0f172a",
+    fontSize: "15px",
+    transition: "all 0.2s ease",
+    outline: "none",
+    width: "100%",
+    boxSizing: "border-box"
   },
 
   select: {
-    padding: "12px",
-    borderRadius: "6px",
-    border: "1px solid #cfd6dd",
-    background: "#ffffff",
-    color: "#1e293b",
-    fontSize: "14px"
+    padding: "16px",
+    borderRadius: "12px",
+    border: "1.5px solid #e2e8f0",
+    background: "#f8fafc",
+    color: "#0f172a",
+    fontSize: "15px",
+    transition: "all 0.2s ease",
+    outline: "none",
+    width: "100%",
+    boxSizing: "border-box"
   },
 
   button: {
-    padding: "12px",
-    borderRadius: "6px",
+    padding: "16px",
+    borderRadius: "12px",
     border: "none",
-    background: "#1f3a5f",
+    background: "#003366",
     color: "#fff",
+    fontSize: "16px",
     fontWeight: "600",
     cursor: "pointer",
-    boxShadow: "0 2px 6px rgba(0,0,0,0.15)"
+    transition: "all 0.2s ease",
+    boxShadow: "0 4px 12px rgba(0, 51, 102, 0.2)",
+    marginTop: "8px",
+    width: "100%"
   },
 
   buttonDisabled: {
@@ -218,20 +305,44 @@ const styles = {
   },
 
   error: {
-    color: "#c62828",
-    fontSize: "13px",
-    textAlign: "center"
+    color: "#ef4444",
+    fontSize: "14px",
+    textAlign: "center",
+    background: "#fef2f2",
+    padding: "12px",
+    borderRadius: "8px",
+    border: "1px solid #fee2e2",
+    margin: 0
   },
 
   success: {
-    color: "#2e7d32",
-    fontSize: "13px",
-    textAlign: "center"
+    color: "#15803d",
+    fontSize: "14px",
+    textAlign: "center",
+    background: "#f0fdf4",
+    padding: "12px",
+    borderRadius: "8px",
+    border: "1px solid #dcfce7",
+    margin: 0
+  },
+
+  switchText: {
+    textAlign: "center",
+    marginTop: "16px",
+    color: "#64748b",
+    fontSize: "14px"
+  },
+
+  link: {
+    color: "#0052cc",
+    fontWeight: "600",
+    cursor: "pointer",
+    textDecoration: "none"
   },
 
   loader: {
-    width: "16px",
-    height: "16px",
+    width: "20px",
+    height: "20px",
     border: "2px solid #fff",
     borderTop: "2px solid transparent",
     borderRadius: "50%",

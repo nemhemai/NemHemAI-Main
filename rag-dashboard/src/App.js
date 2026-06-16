@@ -1,6 +1,7 @@
 /** rag-dashboard/src/App.js */
 
 import React, { useState, useEffect } from "react";
+import logo from "./assets/nemhem-logo.svg";
 import UploadForm from "./components/UploadForm";
 import JobDashboard from "./components/JobDashboard";
 import QueryDashboard from "./components/QueryDashboard";
@@ -16,8 +17,8 @@ import Signup from "./components/auth/Signup";
 import GrievanceDashboard from "./components/GrievanceDashboard";
 import SubmitGrievance from "./components/SubmitGrievance";
 
-// 🔍 NEW VERIFICATION DASHBOARD
-import VerificationDashboard from "./components/VerificationDashboard";
+// 🏛️ NEW ENTITLEMENT & VERIFICATION DASHBOARD
+import EntitlementDashboard from "./components/EntitlementDashboard";
 
 /**
  * App Component
@@ -57,40 +58,45 @@ function App() {
   // 🔐 AUTH GATE (CRITICAL)
   // ============================================================
   if (!isAuthenticated) {
-    return (
-      <div style={styles.authPage}>
-        
-        {authView === "login" ? (
-          <>
-            <Login
-              onLogin={() => {
-                setIsAuthenticated(true);
-              }}
-            />
-
-            <p style={styles.switchText}>
-              Don't have an account?{" "}
-              <span onClick={() => setAuthView("signup")} style={styles.link}>
-                Signup
-              </span>
-            </p>
-          </>
-        ) : (
-          <>
-            <Signup />
-
-            <p style={styles.switchText}>
-              Already have an account?{" "}
-              <span onClick={() => setAuthView("login")} style={styles.link}>
-                Login
-              </span>
-            </p>
-          </>
-        )}
-
-      </div>
-    );
+    if (authView === "login") {
+      return (
+        <Login
+          onLogin={() => setIsAuthenticated(true)}
+          onSwitchSignup={() => setAuthView("signup")}
+        />
+      );
+    } else {
+      return (
+        <Signup
+          onSwitchLogin={() => setAuthView("login")}
+        />
+      );
+    }
   }
+
+  const getNavBtnStyle = (btnView) => {
+    if (view !== btnView) return styles.navBtn;
+    
+    const base = {
+      padding: "8px 16px",
+      border: "none",
+      borderRadius: "8px",
+      fontSize: "14px",
+      fontWeight: "600",
+      cursor: "pointer",
+      transition: "all 0.2s ease"
+    };
+
+    switch(btnView) {
+      case "single": return { ...base, background: "#eff6ff", color: "#1d4ed8" }; // Blue
+      case "bulk": return { ...base, background: "#f3e8ff", color: "#7e22ce" }; // Purple
+      case "query": return { ...base, background: "#ecfdf5", color: "#047857" }; // Emerald
+      case "grievance": return { ...base, background: "#fff7ed", color: "#c2410c" }; // Orange
+      case "submit_grievance": return { ...base, background: "#fdf2f8", color: "#be185d" }; // Pink
+      case "entitlement": return { ...base, background: "#f0fdfa", color: "#0f766e" }; // Teal
+      default: return { ...base, background: "#f1f5f9", color: "#0f172a" };
+    }
+  };
 
   // ============================================================
   // 🔓 MAIN APP (UNCHANGED LOGIC)
@@ -98,76 +104,36 @@ function App() {
   return (
     <div style={styles.page}>
       
-      {/* ================= HEADER ================= */}
-      <div style={styles.header}>
-        <h1 style={styles.title}>📄 Government RAG Ingestion</h1>
-        <p style={styles.subtitle}>
-          Upload and process structured government documents
-        </p>
+      {/* ================= NAVBAR ================= */}
+      <div style={styles.navbar}>
+        <div style={styles.headerBrand}>
+          <img src={logo} alt="NemhemAI Logo" style={styles.logoSmall} />
+          <h1 style={styles.title}>NemhemAI</h1>
+          <span style={styles.badge}>Gov RAG</span>
+        </div>
 
-        {/* 🔐 LOGOUT BUTTON (NEW) */}
-        <button
-          onClick={() => {
+        <div style={styles.navActions}>
+          <button onClick={() => setView("single")} style={getNavBtnStyle("single")}>Single Upload</button>
+          <button onClick={() => setView("bulk")} style={getNavBtnStyle("bulk")}>Bulk Upload</button>
+          <button onClick={() => setView("query")} style={getNavBtnStyle("query")}>Query</button>
+          <button onClick={() => setView("grievance")} style={getNavBtnStyle("grievance")}>Grievance Officer</button>
+          <button onClick={() => setView("submit_grievance")} style={getNavBtnStyle("submit_grievance")}>Citizen Portal</button>
+          <button onClick={() => setView("entitlement")} style={getNavBtnStyle("entitlement")}>Entitlement Agent</button>
+          
+          <div style={styles.navDivider}></div>
+          
+          <button onClick={handleReset} style={styles.dangerBtn}>Reset</button>
+          <button onClick={() => {
             localStorage.removeItem("token");
             localStorage.removeItem("role");
-
             setIsAuthenticated(false);
-
-            // 🔥 ensures full reset
             window.location.reload();
-          }}
-          style={styles.logoutButton}
-        >
-          Logout
-        </button>
-
-        {/* RESET BUTTON */}
-        <button onClick={handleReset} style={styles.resetButton}>
-          Reset Dashboard
-        </button>
-
-        {/* 🚀 BULK INGESTION BUTTON */}
-        <button 
-          onClick={() => setView("bulk")} 
-          style={styles.bulkButton}
-        >
-          Bulk Ingestion
-        </button>
-
-        {/* 🏛️ GRIEVANCE OFFICER BUTTON */}
-        <button 
-          onClick={() => setView("grievance")} 
-          style={styles.grievanceButton}
-        >
-          Grievance Officer
-        </button>
-
-        {/* 🙋 CITIZEN GRIEVANCE PORTAL BUTTON */}
-        <button 
-          onClick={() => setView("submit_grievance")} 
-          style={styles.citizenButton}
-        >
-          Citizen Portal
-        </button>
-
-        {/* 🔍 QUERY DASHBOARD BUTTON */}
-        <button 
-          onClick={() => setView("query")} 
-          style={styles.queryButton}
-        >
-          Query Dashboard
-        </button>
-
-        {/* 📋 VERIFICATION AGENT BUTTON */}
-        <button 
-          onClick={() => setView("verification")} 
-          style={styles.verificationButton}
-        >
-          Verification Agent
-        </button>
+          }} style={styles.logoutBtn}>Logout</button>
+        </div>
       </div>
 
       {/* ================= MAIN CONTENT ================= */}
+      <div style={styles.mainContent}>
 
       {view === "single" ? (
         <div style={styles.grid}>
@@ -201,9 +167,9 @@ function App() {
 
         <SubmitGrievance />
 
-      ) : view === "verification" ? (
+      ) : view === "entitlement" ? (
 
-        <VerificationDashboard />
+        <EntitlementDashboard />
 
       ) : (
 
@@ -212,6 +178,7 @@ function App() {
         </div>
 
       )}
+      </div>
     </div>
   );
 }
@@ -221,133 +188,120 @@ function App() {
  */
 const styles = {
   page: {
-    padding: "30px",
-    fontFamily: "Segoe UI, sans-serif",
-    background: "#f5f7fb",
-    minHeight: "100vh"
-  },
-
-  // 🔐 AUTH PAGE STYLE
-  authPage: {
+    fontFamily: "'Inter', 'Segoe UI', sans-serif",
+    background: "#f4f7fb",
+    minHeight: "100vh",
     display: "flex",
-    flexDirection: "column",
+    flexDirection: "column"
+  },
+
+  navbar: {
+    display: "flex",
+    justifyContent: "space-between",
     alignItems: "center",
-    justifyContent: "center",
-    height: "100vh",
-    background: "#f5f7fb"
+    background: "#ffffff",
+    padding: "0 32px",
+    height: "72px",
+    borderBottom: "1px solid #e2e8f0",
+    boxShadow: "0 1px 3px rgba(0,0,0,0.04)"
   },
 
-  switchText: {
-    marginTop: "10px",
-    color: "#555"
+  headerBrand: {
+    display: "flex",
+    alignItems: "center",
+    gap: "12px"
   },
 
-  link: {
-    color: "#007bff",
-    cursor: "pointer",
-    fontWeight: "bold"
-  },
-
-  header: {
-    marginBottom: "30px"
+  logoSmall: {
+    width: "36px",
+    height: "36px",
+    filter: "drop-shadow(0px 2px 4px rgba(0,0,0,0.1))"
   },
 
   title: {
-    margin: 0
+    margin: 0,
+    color: "#001f3f",
+    fontSize: "24px",
+    fontWeight: "700",
+    letterSpacing: "0.5px"
   },
 
-  subtitle: {
-    color: "#666"
+  badge: {
+    background: "#e0e7ff",
+    color: "#3730a3",
+    padding: "4px 8px",
+    borderRadius: "6px",
+    fontSize: "12px",
+    fontWeight: "600",
+    marginLeft: "8px"
+  },
+
+  navActions: {
+    display: "flex",
+    alignItems: "center",
+    gap: "8px"
+  },
+
+  navBtn: {
+    padding: "8px 16px",
+    background: "transparent",
+    color: "#475569",
+    border: "none",
+    borderRadius: "8px",
+    fontSize: "14px",
+    fontWeight: "600",
+    cursor: "pointer",
+    transition: "all 0.2s ease"
+  },
+
+  navDivider: {
+    width: "1px",
+    height: "24px",
+    background: "#cbd5e1",
+    margin: "0 8px"
+  },
+
+  dangerBtn: {
+    padding: "8px 16px",
+    background: "#fee2e2",
+    color: "#b91c1c",
+    border: "none",
+    borderRadius: "8px",
+    fontSize: "14px",
+    fontWeight: "600",
+    cursor: "pointer",
+    transition: "all 0.2s ease"
+  },
+
+  logoutBtn: {
+    padding: "8px 16px",
+    background: "#1e293b",
+    color: "#fff",
+    border: "none",
+    borderRadius: "8px",
+    fontSize: "14px",
+    fontWeight: "600",
+    cursor: "pointer",
+    transition: "all 0.2s ease"
+  },
+
+  mainContent: {
+    padding: "32px",
+    flex: 1
   },
 
   grid: {
     display: "grid",
-    gridTemplateColumns: "repeat(auto-fit, minmax(400px, 1fr))",
-    gap: "20px"
+    gridTemplateColumns: "repeat(auto-fit, minmax(480px, 1fr))",
+    gap: "24px"
   },
 
   card: {
     background: "#fff",
-    padding: "20px",
-    borderRadius: "12px",
-    boxShadow: "0 4px 12px rgba(0,0,0,0.08)"
-  },
-
-  resetButton: {
-    marginTop: "10px",
-    padding: "8px 16px",
-    background: "#ff4d4f",
-    color: "#fff",
-    border: "none",
-    borderRadius: "6px",
-    cursor: "pointer"
-  },
-
-  bulkButton: {
-    marginTop: "10px",
-    marginLeft: "10px",
-    padding: "8px 16px",
-    background: "#6f42c1",
-    color: "#fff",
-    border: "none",
-    borderRadius: "6px",
-    cursor: "pointer"
-  },
-
-  grievanceButton: {
-    marginTop: "10px",
-    marginLeft: "10px",
-    padding: "8px 16px",
-    background: "#003366", // Navy Blue
-    color: "#fff",
-    border: "none",
-    borderRadius: "6px",
-    cursor: "pointer"
-  },
-
-  citizenButton: {
-    marginTop: "10px",
-    marginLeft: "10px",
-    padding: "8px 16px",
-    background: "#28a745", // Green
-    color: "#fff",
-    border: "none",
-    borderRadius: "6px",
-    cursor: "pointer"
-  },
-
-  queryButton: {
-    marginTop: "10px",
-    marginLeft: "10px",
-    padding: "8px 16px",
-    background: "#17a2b8",
-    color: "#fff",
-    border: "none",
-    borderRadius: "6px",
-    cursor: "pointer"
-  },
-
-  verificationButton: {
-    marginTop: "10px",
-    marginLeft: "10px",
-    padding: "8px 16px",
-    background: "#fd7e14", // Orange
-    color: "#fff",
-    border: "none",
-    borderRadius: "6px",
-    cursor: "pointer"
-  },
-
-  // 🔐 NEW
-  logoutButton: {
-    marginTop: "10px",
-    marginRight: "10px",
-    padding: "8px 16px",
-    background: "#343a40",
-    color: "#fff",
-    border: "none",
-    borderRadius: "6px",
-    cursor: "pointer"
+    padding: "32px",
+    borderRadius: "16px",
+    boxShadow: "0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -1px rgba(0, 0, 0, 0.03)",
+    border: "1px solid #e2e8f0"
   }
 };
 

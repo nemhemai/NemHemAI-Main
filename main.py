@@ -8,6 +8,9 @@ from app.api.query_routes import router as query_router
 from app.api.extraction_routes import router as extraction_router
 from app.agents.grievance.routes import router as grievance_router
 from app.agents.voice.routes import router as voice_router
+from app.agents.briefing.routes import router as briefing_router
+from app.agents.entitlement.api.routes import router as entitlement_router
+from app.agents.verification.api.routes import router as verification_router
 
 from app.services.query_service import USE_OLLAMA, get_llm
 from app.services.ollama_service import get_ollama_llm
@@ -43,10 +46,13 @@ app.add_middleware(
 
 app.include_router(auth_router, prefix="/api/auth", tags=["Auth"])
 app.include_router(ingestion_router, prefix="/api/ingest", tags=["Ingestion"])
-app.include_router(query_router, prefix="/api", tags=["Query"])
-app.include_router(extraction_router, prefix="/api", tags=["Extraction"])
-app.include_router(grievance_router, prefix="/api/v1/grievances", tags=["Grievances"])
-app.include_router(voice_router, prefix="/api/v1", tags=["Voice Agent"])
+app.include_router(query_router, prefix="/api/v1/query", tags=["Querying"])
+app.include_router(extraction_router, prefix="/api/v1/extraction", tags=["Extraction"])
+app.include_router(grievance_router, prefix="/api/v1/grievances", tags=["Grievance Agent"])
+app.include_router(voice_router, prefix="/api/v1/haptik-webhook", tags=["Voice Agent"])
+app.include_router(briefing_router, prefix="/api/v1/briefings", tags=["Briefing Agent"])
+app.include_router(entitlement_router, prefix="/api", tags=["Entitlement Agent"])
+app.include_router(verification_router, prefix="/api/v1/verification", tags=["Verification Agent"])
 
 
 # -----------------------------------------------------------------------------

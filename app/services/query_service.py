@@ -106,6 +106,25 @@ def run_query(query: str, user: dict) -> dict:
 
     start_time = time.time()
 
+    # 🚀 Check Redis Query & Result Cache
+    from app.memory.redis_cache import query_cache
+    cached_result = query_cache.get(query)
+    if cached_result:
+        latency = int((time.time() - start_time) * 1000)
+        log_query_event({
+            "user_id": user.get("user_id"),
+            "username": user.get("username"),
+            "query": query,
+            "response": cached_result.get("answer_original", ""),
+            "chunks": [],
+            "documents": [],
+            "confidence": cached_result.get("confidence", "low"),
+            "latency": latency,
+            "llm_model": "redis-cache",
+            "status": "success"
+        })
+        return cached_result
+
     if not query or not query.strip():
         log_query_event({
             "user_id": user.get("user_id"),
@@ -186,13 +205,15 @@ def run_query(query: str, user: dict) -> dict:
                 "llm_model": "llama3-ollama" if USE_OLLAMA else "sarvam-1",
                 "status": "success"
             })
-            return {
+            res = {
                 "query": query,
                 "answer_original": response_text,
                 "answer_translated": "",
                 "citations": [],
                 "confidence": "low"
             }
+            query_cache.set(query, res, expire_seconds=3600)
+            return res
 
         # 🧠 Step 2: Generation
         response = generate_answer(llm, query, chunks)
@@ -230,13 +251,15 @@ def run_query(query: str, user: dict) -> dict:
                 "llm_model": "llama3-ollama" if USE_OLLAMA else "sarvam-1",
                 "status": "success"
             })
-            return {
+            res = {
                 "query": query,
                 "answer_original": response_text,
                 "answer_translated": "",
                 "citations": [],
                 "confidence": "low"
             }
+            query_cache.set(query, res, expire_seconds=3600)
+            return res
 
         confidence = response.get("confidence", "low")
         latency = int((time.time() - start_time) * 1000)
@@ -253,6 +276,8 @@ def run_query(query: str, user: dict) -> dict:
             "llm_model": "llama3-ollama" if USE_OLLAMA else "sarvam-1",
             "status": "success"
         })
+
+        query_cache.set(query, response, expire_seconds=3600)
 
         return response
 

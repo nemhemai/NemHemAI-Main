@@ -1,0 +1,28 @@
+# ============================================================
+# requirements.txt  —  NemHem Briefing Agent (briefing_agent.py)
+# Install everything at once:
+#     pip install -r requirements.txt
+# ============================================================
+
+# --- Core: PDF reading + local AI ---------------------------
+pymupdf                       # imported as "fitz" — reads text from PDFs
+ollama                        # talks to the local Ollama model
+
+# --- RAG: smart search over documents -----------------------
+llama-index-core>=0.10        # retrieval engine (modern namespaced package)
+llama-index-llms-ollama       # lets LlamaIndex use an Ollama model
+llama-index-embeddings-ollama # makes the "meaning fingerprints"
+llama-index-vector-stores-qdrant
+qdrant-client                 # the search database
+
+# --- Agentic mode (optional but recommended) ----------------
+# If this is missing, the code automatically falls back to the
+# simple pipeline mode — it will still run.
+praisonaiagents>=1.6          # the multi-agent "team" framework
+
+# --- Serving + background jobs ------------------------------
+fastapi                       # web API
+uvicorn                       # runs the FastAPI server
+pydantic                      # request/response models (pulled in by FastAPI)
+celery                        # background job queue
+redis                         # broker/result backend for Celery

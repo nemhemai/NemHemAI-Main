@@ -122,7 +122,7 @@ def generate_answer(llm, query, chunks, query_lang="en"):
     chunks = filtered
     chunks.sort(key=lambda x: x["_overlap_score"], reverse=True)
 
-    TOP_K = 8
+    TOP_K = 4
     chunks = chunks[:TOP_K]
     
     # 🔥 FIX: Ensure file_name exists for citation building

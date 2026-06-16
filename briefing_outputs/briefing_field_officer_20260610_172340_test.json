@@ -1,0 +1,26 @@
+{
+  "title": "Operational Briefing: Grievance - Water Supply",
+  "prepared_for": "Field Officer",
+  "prepared_by": "NemHem Briefing Agent",
+  "date": "YYYY-MM-DD",
+  "query": "test",
+  "executive_summary": "There is a massive water pipeline that has been reported as compromised, potentially affecting the water supply.",
+  "key_findings": [
+    "A large water pipeline has been identified as possibly damaged or compromised.",
+    "This could lead to disruptions in the water supply."
+  ],
+  "recommended_actions": [
+    "Inspect the pipeline for signs of damage or compromise.",
+    "If damage is found, initiate repairs immediately.",
+    "Establish contingency plans for water distribution if repairs take longer than expected.",
+    "Monitor the situation closely and report any changes."
+  ],
+  "risks_and_flags": [
+    "Failure to address the issue could lead to a significant disruption in the water supply.",
+    "The pipeline may be located in a hazardous or difficult-to-reach area, increasing the risk during inspection and repair."
+  ],
+  "source_documents": [
+    "db_context"
+  ],
+  "confidence": 0.8
+}

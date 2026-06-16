@@ -1,0 +1,965 @@
+{
+  "document_id": 161,
+  "pages": {
+    "1": {
+      "elements": 5,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "161_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "User Guidelines"
+        },
+        {
+          "element_id": "161_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Foreword"
+        }
+      ]
+    },
+    "2": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [],
+      "ocr_conf": 23.25,
+      "issues": [
+        {
+          "element_id": "161_p2_e5",
+          "sequence_order": 5,
+          "page_number": 2,
+          "quality_score": 0.233,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 62,
+          "text_preview": "Rox PeRESLE PHIM Edie iG sBRESEE S SHTML HeLa Hiatt eofF hioats Pillerpdl iefFe LL Hun SHE Sis 323 TOU HERE gir SELLE se"
+        },
+        {
+          "element_id": "161_p2_e6",
+          "sequence_order": 6,
+          "page_number": 2,
+          "quality_score": 0.233,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "HET ik 2 ' 2 2 fi"
+        },
+        {
+          "element_id": "161_p2_e7",
+          "sequence_order": 7,
+          "page_number": 2,
+          "quality_score": 0.233,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": ": of 3 az fig Ae8"
+        },
+        {
+          "element_id": "161_p2_e8",
+          "sequence_order": 8,
+          "page_number": 2,
+          "quality_score": 0.233,
+          "element_type": "heading",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "z 5 2 uF i"
+        },
+        {
+          "element_id": "161_p2_e9",
+          "sequence_order": 9,
+          "page_number": 2,
+          "quality_score": 0.233,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "2 af g3 38 F3 af Ha ay Fy i | '| a i 8]"
+        },
+        {
+          "element_id": "161_p2_e10",
+          "sequence_order": 10,
+          "page_number": 2,
+          "quality_score": 0.233,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "abaze * yadae ea ob ULEtEE epi 3eg = Gag ERGsEsE gcidet ae 2295 SeaR2 SS a ii 5"
+        }
+      ]
+    },
+    "3": {
+      "elements": 6,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "5": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "6": {
+      "elements": 14,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "161_p6_e23",
+          "sequence_order": 23,
+          "page_number": 6,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Hospitalization expense"
+        },
+        {
+          "element_id": "161_p6_e25",
+          "sequence_order": 25,
+          "page_number": 6,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Follow-up care"
+        }
+      ]
+    },
+    "7": {
+      "elements": 7,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "8": {
+      "elements": 14,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "161_p8_e40",
+          "sequence_order": 40,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Registration charges"
+        },
+        {
+          "element_id": "161_p8_e41",
+          "sequence_order": 41,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Bed charges"
+        }
+      ]
+    },
+    "9": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "10": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "11": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "12": {
+      "elements": 6,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "13": {
+      "elements": 8,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "14": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "15": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "17": {
+      "elements": 19,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "161_p17_e120",
+          "sequence_order": 120,
+          "page_number": 17,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "2.1 Introduction"
+        }
+      ]
+    },
+    "18": {
+      "elements": 14,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "161_p18_e138",
+          "sequence_order": 138,
+          "page_number": 18,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "2.2.2 Stratification"
+        }
+      ]
+    },
+    "19": {
+      "elements": 8,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "20": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "21": {
+      "elements": 14,
+      "flagged": 3,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "161_p21_e172",
+          "sequence_order": 172,
+          "page_number": 21,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "First stage"
+        },
+        {
+          "element_id": "161_p21_e173",
+          "sequence_order": 173,
+          "page_number": 21,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Intermediate stage"
+        },
+        {
+          "element_id": "161_p21_e174",
+          "sequence_order": 174,
+          "page_number": 21,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Final stage"
+        }
+      ]
+    },
+    "22": {
+      "elements": 4,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "23": {
+      "elements": 9,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "24": {
+      "elements": 15,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "161_p24_e201",
+          "sequence_order": 201,
+          "page_number": 24,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Inhalation injury"
+        },
+        {
+          "element_id": "161_p24_e206",
+          "sequence_order": 206,
+          "page_number": 24,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "3.2 Cardiology"
+        }
+      ]
+    },
+    "25": {
+      "elements": 16,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "26": {
+      "elements": 13,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "27": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "28": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "29": {
+      "elements": 14,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "161_p29_e266",
+          "sequence_order": 266,
+          "page_number": 29,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "3.12 Neurosurgery"
+        },
+        {
+          "element_id": "161_p29_e275",
+          "sequence_order": 275,
+          "page_number": 29,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "3.14 Ophthalmology"
+        }
+      ]
+    },
+    "30": {
+      "elements": 13,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "161_p30_e286",
+          "sequence_order": 286,
+          "page_number": 30,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "3.17 Orthopedics"
+        }
+      ]
+    },
+    "31": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "32": {
+      "elements": 8,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "161_p32_e305",
+          "sequence_order": 305,
+          "page_number": 32,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "3.22 Polytrauma"
+        }
+      ]
+    },
+    "33": {
+      "elements": 5,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "161_p33_e313",
+          "sequence_order": 313,
+          "page_number": 33,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "3.25 Urology"
+        }
+      ]
+    },
+    "34": {
+      "elements": 3,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "35": {
+      "elements": 14,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "161_p35_e332",
+          "sequence_order": 332,
+          "page_number": 35,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Guidelines"
+        }
+      ]
+    },
+    "36": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "37": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "38": {
+      "elements": 7,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "39": {
+      "elements": 4,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "40": {
+      "elements": 6,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "41": {
+      "elements": 5,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "42": {
+      "elements": 3,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "161_p42_e379",
+          "sequence_order": 379,
+          "page_number": 42,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Illustrative"
+        }
+      ]
+    },
+    "44": {
+      "elements": 7,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "45": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "46": {
+      "elements": 17,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "47": {
+      "elements": 15,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "48": {
+      "elements": 14,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "49": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "50": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "51": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "52": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "53": {
+      "elements": 9,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "54": {
+      "elements": 9,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "55": {
+      "elements": 15,
+      "flagged": 3,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "161_p55_e497",
+          "sequence_order": 497,
+          "page_number": 55,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Abbreviations Used"
+        },
+        {
+          "element_id": "161_p55_e498",
+          "sequence_order": 498,
+          "page_number": 55,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "AB PM-JAY"
+        },
+        {
+          "element_id": "161_p55_e507",
+          "sequence_order": 507,
+          "page_number": 55,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Laparoscopic"
+        }
+      ]
+    },
+    "56": {
+      "elements": 8,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "57": {
+      "elements": 4,
+      "flagged": 4,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "161_p57_e520",
+          "sequence_order": 520,
+          "page_number": 57,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "gttsasdtiat ii"
+        },
+        {
+          "element_id": "161_p57_e521",
+          "sequence_order": 521,
+          "page_number": 57,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "esti Hy"
+        },
+        {
+          "element_id": "161_p57_e522",
+          "sequence_order": 522,
+          "page_number": 57,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Lutinen"
+        },
+        {
+          "element_id": "161_p57_e523",
+          "sequence_order": 523,
+          "page_number": 57,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ee ae"
+        }
+      ]
+    },
+    "58": {
+      "elements": 2,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "59": {
+      "elements": 6,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "161_p59_e527",
+          "sequence_order": 527,
+          "page_number": 59,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "pil &"
+        }
+      ]
+    },
+    "60": {
+      "elements": 2,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "161_p60_e532",
+          "sequence_order": 532,
+          "page_number": 60,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "fn lee"
+        }
+      ]
+    },
+    "61": {
+      "elements": 5,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "161_p61_e536",
+          "sequence_order": 536,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "WE EY"
+        },
+        {
+          "element_id": "161_p61_e538",
+          "sequence_order": 538,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "(i if"
+        }
+      ]
+    },
+    "62": {
+      "elements": 4,
+      "flagged": 2,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "161_p62_e540",
+          "sequence_order": 540,
+          "page_number": 62,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "iy 'A"
+        },
+        {
+          "element_id": "161_p62_e542",
+          "sequence_order": 542,
+          "page_number": 62,
+          "quality_score": 0.3,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "aT a"
+        }
+      ]
+    },
+    "63": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "64": {
+      "elements": 2,
+      "flagged": 1,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "161_p64_e544",
+          "sequence_order": 544,
+          "page_number": 64,
+          "quality_score": 0.3,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "i eh"
+        }
+      ]
+    }
+  }
+}

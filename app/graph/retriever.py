@@ -23,7 +23,7 @@ def retrieve_graph_context(keywords: List[str]) -> str:
     query = """
     UNWIND $keywords AS keyword
     MATCH (n)-[r]-(m)
-    WHERE toLower(n.name) CONTAINS toLower(keyword)
+    WHERE n.name IS NOT NULL AND m.name IS NOT NULL AND toLower(n.name) CONTAINS toLower(keyword)
     RETURN n.name AS Source, type(r) AS Relationship, m.name AS Target, labels(n)[0] AS SourceType, labels(m)[0] AS TargetType
     LIMIT 20
     """

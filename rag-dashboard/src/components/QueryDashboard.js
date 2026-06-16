@@ -18,7 +18,7 @@ function QueryDashboard() {
     setResult(null);
 
     try {
-      const res = await authAxios.post("/api/query", { query });
+      const res = await authAxios.post("/api/v1/query/query", { query });
       setResult(res.data);
     } catch (err) {
       const msg = err.response?.data?.detail || "Query failed";

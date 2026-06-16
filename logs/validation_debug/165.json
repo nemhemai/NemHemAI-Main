@@ -1,0 +1,4105 @@
+{
+  "document_id": 165,
+  "pages": {
+    "1": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [],
+      "ocr_conf": 38.23,
+      "issues": [
+        {
+          "element_id": "165_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.382,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": ">5 = 8 8 §"
+        },
+        {
+          "element_id": "165_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.382,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Ey g g a = > S e g 8"
+        },
+        {
+          "element_id": "165_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.382,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 33,
+          "text_preview": "w a z. a a es % & & z = S fs Fe 3 g s Ee 3 2 3 RE} a g s 3 > 2 = S g =e 2"
+        },
+        {
+          "element_id": "165_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.382,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 47,
+          "text_preview": "gv Z S fa eo 8 g 5 | = ¢ 2 2 0g & x Ey Fa ch 3 2. 5 7S. = g FI g = 3 Eg 3 2 ~~ = x a G g wn S g. 5 3 @ = 2 o"
+        },
+        {
+          "element_id": "165_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.382,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 234,
+          "text_preview": "= yee an Hoa Lh. fe es ze 2 Bos 8 Zc gEau ze SS 8 ZO9OO00 8&F8NE a Gsocepso BF Lee = 8353038 8.0 r¢ ag 833038 SEsSkKS z "
+        },
+        {
+          "element_id": "165_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.382,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "= os om i ze ae 92s BB< mm CS s2o aoe = <2 ae 882 S&z RES"
+        }
+      ]
+    },
+    "2": {
+      "elements": 12,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p2_e7",
+          "sequence_order": 7,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "1. Background"
+        }
+      ]
+    },
+    "3": {
+      "elements": 16,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p3_e24",
+          "sequence_order": 24,
+          "page_number": 3,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "4.2. Eligibility"
+        }
+      ]
+    },
+    "4": {
+      "elements": 17,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "5": {
+      "elements": 19,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p5_e61",
+          "sequence_order": 61,
+          "page_number": 5,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "4.8. Connectivity"
+        }
+      ]
+    },
+    "6": {
+      "elements": 18,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "7": {
+      "elements": 17,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p7_e88",
+          "sequence_order": 88,
+          "page_number": 7,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "4.12.2. DISCOMs"
+        }
+      ]
+    },
+    "8": {
+      "elements": 19,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p8_e122",
+          "sequence_order": 122,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "5.2.2. Implementation"
+        }
+      ]
+    },
+    "9": {
+      "elements": 9,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "10": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "11": {
+      "elements": 15,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "12": {
+      "elements": 15,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "13": {
+      "elements": 9,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "14": {
+      "elements": 17,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "15": {
+      "elements": 13,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "16": {
+      "elements": 14,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "17": {
+      "elements": 7,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "18": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "19": {
+      "elements": 6,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "20": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "21": {
+      "elements": 14,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "22": {
+      "elements": 14,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "23": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "24": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "25": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "26": {
+      "elements": 25,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "27": {
+      "elements": 22,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "28": {
+      "elements": 10,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p28_e373",
+          "sequence_order": 373,
+          "page_number": 28,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Zz iS"
+        },
+        {
+          "element_id": "165_p28_e376",
+          "sequence_order": 376,
+          "page_number": 28,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ae aE"
+        }
+      ]
+    },
+    "29": {
+      "elements": 24,
+      "flagged": 8,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p29_e384",
+          "sequence_order": 384,
+          "page_number": 29,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "pasegral fb3"
+        },
+        {
+          "element_id": "165_p29_e391",
+          "sequence_order": 391,
+          "page_number": 29,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "te aL"
+        },
+        {
+          "element_id": "165_p29_e394",
+          "sequence_order": 394,
+          "page_number": 29,
+          "quality_score": 0.3,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "7 GE"
+        },
+        {
+          "element_id": "165_p29_e395",
+          "sequence_order": 395,
+          "page_number": 29,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "sia 378:"
+        },
+        {
+          "element_id": "165_p29_e396",
+          "sequence_order": 396,
+          "page_number": 29,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "raiay ata"
+        },
+        {
+          "element_id": "165_p29_e398",
+          "sequence_order": 398,
+          "page_number": 29,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Ee dias"
+        },
+        {
+          "element_id": "165_p29_e399",
+          "sequence_order": 399,
+          "page_number": 29,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Baia fee:"
+        },
+        {
+          "element_id": "165_p29_e405",
+          "sequence_order": 405,
+          "page_number": 29,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "°e es"
+        }
+      ]
+    },
+    "30": {
+      "elements": 20,
+      "flagged": 8,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p30_e410",
+          "sequence_order": 410,
+          "page_number": 30,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "feaee f3"
+        },
+        {
+          "element_id": "165_p30_e412",
+          "sequence_order": 412,
+          "page_number": 30,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "PPEGe Be"
+        },
+        {
+          "element_id": "165_p30_e415",
+          "sequence_order": 415,
+          "page_number": 30,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "SB 5B"
+        },
+        {
+          "element_id": "165_p30_e416",
+          "sequence_order": 416,
+          "page_number": 30,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ER FREER"
+        },
+        {
+          "element_id": "165_p30_e418",
+          "sequence_order": 418,
+          "page_number": 30,
+          "quality_score": 0.5,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 4,
+          "text_preview": "<8 $2.28 - &"
+        },
+        {
+          "element_id": "165_p30_e419",
+          "sequence_order": 419,
+          "page_number": 30,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "S Beets"
+        },
+        {
+          "element_id": "165_p30_e420",
+          "sequence_order": 420,
+          "page_number": 30,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "2 ¢83"
+        },
+        {
+          "element_id": "165_p30_e422",
+          "sequence_order": 422,
+          "page_number": 30,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "\"2335"
+        }
+      ]
+    },
+    "31": {
+      "elements": 8,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "32": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "33": {
+      "elements": 12,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p33_e436",
+          "sequence_order": 436,
+          "page_number": 33,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "LESSEE'S:"
+        }
+      ]
+    },
+    "35": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "37": {
+      "elements": 5,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p37_e450",
+          "sequence_order": 450,
+          "page_number": 37,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ee ee"
+        }
+      ]
+    },
+    "38": {
+      "elements": 13,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p38_e455",
+          "sequence_order": 455,
+          "page_number": 38,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Between"
+        },
+        {
+          "element_id": "165_p38_e459",
+          "sequence_order": 459,
+          "page_number": 38,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "WHEREAS:"
+        }
+      ]
+    },
+    "39": {
+      "elements": 5,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p39_e470",
+          "sequence_order": 470,
+          "page_number": 39,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ea gee"
+        }
+      ]
+    },
+    "40": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "41": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "42": {
+      "elements": 2,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "43": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "44": {
+      "elements": 8,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p44_e479",
+          "sequence_order": 479,
+          "page_number": 44,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "BS Egspeeid"
+        },
+        {
+          "element_id": "165_p44_e482",
+          "sequence_order": 482,
+          "page_number": 44,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "gisegbete. §"
+        }
+      ]
+    },
+    "45": {
+      "elements": 35,
+      "flagged": 17,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p45_e485",
+          "sequence_order": 485,
+          "page_number": 45,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "eo kad"
+        },
+        {
+          "element_id": "165_p45_e486",
+          "sequence_order": 486,
+          "page_number": 45,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "RRO ROY"
+        },
+        {
+          "element_id": "165_p45_e489",
+          "sequence_order": 489,
+          "page_number": 45,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "goes?"
+        },
+        {
+          "element_id": "165_p45_e491",
+          "sequence_order": 491,
+          "page_number": 45,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "SESGR BEE8"
+        },
+        {
+          "element_id": "165_p45_e494",
+          "sequence_order": 494,
+          "page_number": 45,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "pee wo"
+        },
+        {
+          "element_id": "165_p45_e496",
+          "sequence_order": 496,
+          "page_number": 45,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Page \"BH"
+        },
+        {
+          "element_id": "165_p45_e497",
+          "sequence_order": 497,
+          "page_number": 45,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "agOSe8 %"
+        },
+        {
+          "element_id": "165_p45_e498",
+          "sequence_order": 498,
+          "page_number": 45,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "eS es"
+        },
+        {
+          "element_id": "165_p45_e499",
+          "sequence_order": 499,
+          "page_number": 45,
+          "quality_score": 0.3,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Te O"
+        },
+        {
+          "element_id": "165_p45_e500",
+          "sequence_order": 500,
+          "page_number": 45,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Re aR"
+        },
+        {
+          "element_id": "165_p45_e501",
+          "sequence_order": 501,
+          "page_number": 45,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "es os"
+        },
+        {
+          "element_id": "165_p45_e507",
+          "sequence_order": 507,
+          "page_number": 45,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Zope ae"
+        },
+        {
+          "element_id": "165_p45_e509",
+          "sequence_order": 509,
+          "page_number": 45,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "oe eS"
+        },
+        {
+          "element_id": "165_p45_e510",
+          "sequence_order": 510,
+          "page_number": 45,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "o>8s =e"
+        },
+        {
+          "element_id": "165_p45_e511",
+          "sequence_order": 511,
+          "page_number": 45,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "gf Fe"
+        },
+        {
+          "element_id": "165_p45_e514",
+          "sequence_order": 514,
+          "page_number": 45,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Baye ed"
+        },
+        {
+          "element_id": "165_p45_e517",
+          "sequence_order": 517,
+          "page_number": 45,
+          "quality_score": 0.3,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "gs 3"
+        }
+      ]
+    },
+    "46": {
+      "elements": 2,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p46_e520",
+          "sequence_order": 520,
+          "page_number": 46,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "se dead"
+        }
+      ]
+    },
+    "47": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "48": {
+      "elements": 112,
+      "flagged": 75,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p48_e524",
+          "sequence_order": 524,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "=a xl?"
+        },
+        {
+          "element_id": "165_p48_e525",
+          "sequence_order": 525,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "$Ee78"
+        },
+        {
+          "element_id": "165_p48_e526",
+          "sequence_order": 526,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "AR2BeS FS"
+        },
+        {
+          "element_id": "165_p48_e528",
+          "sequence_order": 528,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "e362 BG"
+        },
+        {
+          "element_id": "165_p48_e529",
+          "sequence_order": 529,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Eee 2k"
+        },
+        {
+          "element_id": "165_p48_e530",
+          "sequence_order": 530,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "EeeaE FE"
+        },
+        {
+          "element_id": "165_p48_e531",
+          "sequence_order": 531,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "SSRRE 28"
+        },
+        {
+          "element_id": "165_p48_e534",
+          "sequence_order": 534,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "SOgcH 88"
+        },
+        {
+          "element_id": "165_p48_e536",
+          "sequence_order": 536,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Bee ao"
+        },
+        {
+          "element_id": "165_p48_e538",
+          "sequence_order": 538,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "eesaep"
+        },
+        {
+          "element_id": "165_p48_e539",
+          "sequence_order": 539,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "B>e 32"
+        },
+        {
+          "element_id": "165_p48_e543",
+          "sequence_order": 543,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Boe ead"
+        },
+        {
+          "element_id": "165_p48_e546",
+          "sequence_order": 546,
+          "page_number": 48,
+          "quality_score": 0.3,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "3 88"
+        },
+        {
+          "element_id": "165_p48_e549",
+          "sequence_order": 549,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "#8229 ge"
+        },
+        {
+          "element_id": "165_p48_e550",
+          "sequence_order": 550,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "\\s cal"
+        },
+        {
+          "element_id": "165_p48_e552",
+          "sequence_order": 552,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "2¢29 988"
+        },
+        {
+          "element_id": "165_p48_e553",
+          "sequence_order": 553,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "em bed"
+        },
+        {
+          "element_id": "165_p48_e555",
+          "sequence_order": 555,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "28238 ae."
+        },
+        {
+          "element_id": "165_p48_e560",
+          "sequence_order": 560,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ST Geese"
+        },
+        {
+          "element_id": "165_p48_e561",
+          "sequence_order": 561,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "BS 2&3"
+        },
+        {
+          "element_id": "165_p48_e563",
+          "sequence_order": 563,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Oo e428"
+        },
+        {
+          "element_id": "165_p48_e564",
+          "sequence_order": 564,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "423.8"
+        },
+        {
+          "element_id": "165_p48_e568",
+          "sequence_order": 568,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Zzage"
+        },
+        {
+          "element_id": "165_p48_e569",
+          "sequence_order": 569,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "es sh"
+        },
+        {
+          "element_id": "165_p48_e571",
+          "sequence_order": 571,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "en is)"
+        },
+        {
+          "element_id": "165_p48_e572",
+          "sequence_order": 572,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "aces aoe."
+        },
+        {
+          "element_id": "165_p48_e573",
+          "sequence_order": 573,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "22a °"
+        },
+        {
+          "element_id": "165_p48_e575",
+          "sequence_order": 575,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "aqgekh"
+        },
+        {
+          "element_id": "165_p48_e576",
+          "sequence_order": 576,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "g8 Els"
+        },
+        {
+          "element_id": "165_p48_e577",
+          "sequence_order": 577,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "5246 8"
+        },
+        {
+          "element_id": "165_p48_e578",
+          "sequence_order": 578,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "$4292"
+        },
+        {
+          "element_id": "165_p48_e579",
+          "sequence_order": 579,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "258 S48"
+        },
+        {
+          "element_id": "165_p48_e582",
+          "sequence_order": 582,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "a2ee2 8"
+        },
+        {
+          "element_id": "165_p48_e583",
+          "sequence_order": 583,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "aoF BS"
+        },
+        {
+          "element_id": "165_p48_e584",
+          "sequence_order": 584,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Bi: yee"
+        },
+        {
+          "element_id": "165_p48_e585",
+          "sequence_order": 585,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "eegee §"
+        },
+        {
+          "element_id": "165_p48_e586",
+          "sequence_order": 586,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "2884 Bs"
+        },
+        {
+          "element_id": "165_p48_e587",
+          "sequence_order": 587,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ee es"
+        },
+        {
+          "element_id": "165_p48_e589",
+          "sequence_order": 589,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "BEadgs ="
+        },
+        {
+          "element_id": "165_p48_e590",
+          "sequence_order": 590,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "e2@eoe S"
+        },
+        {
+          "element_id": "165_p48_e591",
+          "sequence_order": 591,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "SoS 288"
+        },
+        {
+          "element_id": "165_p48_e592",
+          "sequence_order": 592,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Une286 &"
+        },
+        {
+          "element_id": "165_p48_e593",
+          "sequence_order": 593,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ge 358"
+        },
+        {
+          "element_id": "165_p48_e594",
+          "sequence_order": 594,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "ZES2c6"
+        },
+        {
+          "element_id": "165_p48_e595",
+          "sequence_order": 595,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "8 FRZEE*"
+        },
+        {
+          "element_id": "165_p48_e596",
+          "sequence_order": 596,
+          "page_number": 48,
+          "quality_score": 0.3,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ee 8"
+        },
+        {
+          "element_id": "165_p48_e597",
+          "sequence_order": 597,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "> gee"
+        },
+        {
+          "element_id": "165_p48_e598",
+          "sequence_order": 598,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "aZee e"
+        },
+        {
+          "element_id": "165_p48_e599",
+          "sequence_order": 599,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "B22 26"
+        },
+        {
+          "element_id": "165_p48_e601",
+          "sequence_order": 601,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "e22 8"
+        },
+        {
+          "element_id": "165_p48_e602",
+          "sequence_order": 602,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "z2Zars B2age"
+        },
+        {
+          "element_id": "165_p48_e603",
+          "sequence_order": 603,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Sig es"
+        },
+        {
+          "element_id": "165_p48_e604",
+          "sequence_order": 604,
+          "page_number": 48,
+          "quality_score": 0.3,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "F 2B"
+        },
+        {
+          "element_id": "165_p48_e605",
+          "sequence_order": 605,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "seca &"
+        },
+        {
+          "element_id": "165_p48_e606",
+          "sequence_order": 606,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ae 338"
+        },
+        {
+          "element_id": "165_p48_e607",
+          "sequence_order": 607,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "3224 ¢"
+        },
+        {
+          "element_id": "165_p48_e608",
+          "sequence_order": 608,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "SO EES"
+        },
+        {
+          "element_id": "165_p48_e610",
+          "sequence_order": 610,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "SBE Ss"
+        },
+        {
+          "element_id": "165_p48_e611",
+          "sequence_order": 611,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Beoes"
+        },
+        {
+          "element_id": "165_p48_e614",
+          "sequence_order": 614,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "2 Bak"
+        },
+        {
+          "element_id": "165_p48_e615",
+          "sequence_order": 615,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "223 é"
+        },
+        {
+          "element_id": "165_p48_e619",
+          "sequence_order": 619,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "BSZece sebTe"
+        },
+        {
+          "element_id": "165_p48_e620",
+          "sequence_order": 620,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "SBRBE"
+        },
+        {
+          "element_id": "165_p48_e621",
+          "sequence_order": 621,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "ebeoY"
+        },
+        {
+          "element_id": "165_p48_e622",
+          "sequence_order": 622,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "pages"
+        },
+        {
+          "element_id": "165_p48_e623",
+          "sequence_order": 623,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Bead §&"
+        },
+        {
+          "element_id": "165_p48_e624",
+          "sequence_order": 624,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Ree eS"
+        },
+        {
+          "element_id": "165_p48_e625",
+          "sequence_order": 625,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "cs ea"
+        },
+        {
+          "element_id": "165_p48_e626",
+          "sequence_order": 626,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "BS2ssoe e€es6&"
+        },
+        {
+          "element_id": "165_p48_e627",
+          "sequence_order": 627,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "0 EGE?"
+        },
+        {
+          "element_id": "165_p48_e628",
+          "sequence_order": 628,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "B28 A¢"
+        },
+        {
+          "element_id": "165_p48_e630",
+          "sequence_order": 630,
+          "page_number": 48,
+          "quality_score": 0.3,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Ss 2"
+        },
+        {
+          "element_id": "165_p48_e631",
+          "sequence_order": 631,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "2602."
+        },
+        {
+          "element_id": "165_p48_e632",
+          "sequence_order": 632,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "@efeée e822"
+        },
+        {
+          "element_id": "165_p48_e633",
+          "sequence_order": 633,
+          "page_number": 48,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "23 oS"
+        }
+      ]
+    },
+    "49": {
+      "elements": 9,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "50": {
+      "elements": 56,
+      "flagged": 29,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p50_e645",
+          "sequence_order": 645,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ss es"
+        },
+        {
+          "element_id": "165_p50_e650",
+          "sequence_order": 650,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "BESS ="
+        },
+        {
+          "element_id": "165_p50_e654",
+          "sequence_order": 654,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "B28 23558"
+        },
+        {
+          "element_id": "165_p50_e656",
+          "sequence_order": 656,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "$50,828"
+        },
+        {
+          "element_id": "165_p50_e658",
+          "sequence_order": 658,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "oe eais"
+        },
+        {
+          "element_id": "165_p50_e661",
+          "sequence_order": 661,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "g8e@O8"
+        },
+        {
+          "element_id": "165_p50_e662",
+          "sequence_order": 662,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "28a2EsE6"
+        },
+        {
+          "element_id": "165_p50_e664",
+          "sequence_order": 664,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "gESSEa RS"
+        },
+        {
+          "element_id": "165_p50_e665",
+          "sequence_order": 665,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "eh or"
+        },
+        {
+          "element_id": "165_p50_e666",
+          "sequence_order": 666,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "52668 a"
+        },
+        {
+          "element_id": "165_p50_e667",
+          "sequence_order": 667,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "B282,28"
+        },
+        {
+          "element_id": "165_p50_e670",
+          "sequence_order": 670,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ae oe"
+        },
+        {
+          "element_id": "165_p50_e671",
+          "sequence_order": 671,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Ea gE"
+        },
+        {
+          "element_id": "165_p50_e673",
+          "sequence_order": 673,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Se eS"
+        },
+        {
+          "element_id": "165_p50_e675",
+          "sequence_order": 675,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "SEBES 3"
+        },
+        {
+          "element_id": "165_p50_e676",
+          "sequence_order": 676,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "g2agEe f"
+        },
+        {
+          "element_id": "165_p50_e679",
+          "sequence_order": 679,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "259-8 4"
+        },
+        {
+          "element_id": "165_p50_e680",
+          "sequence_order": 680,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "B37 e¢88"
+        },
+        {
+          "element_id": "165_p50_e681",
+          "sequence_order": 681,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "28 63"
+        },
+        {
+          "element_id": "165_p50_e682",
+          "sequence_order": 682,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "2e2e¢3"
+        },
+        {
+          "element_id": "165_p50_e687",
+          "sequence_order": 687,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "SERB EE"
+        },
+        {
+          "element_id": "165_p50_e688",
+          "sequence_order": 688,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "BZBEESRS"
+        },
+        {
+          "element_id": "165_p50_e689",
+          "sequence_order": 689,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "3eg788"
+        },
+        {
+          "element_id": "165_p50_e690",
+          "sequence_order": 690,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "2852 §"
+        },
+        {
+          "element_id": "165_p50_e691",
+          "sequence_order": 691,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "GORE 2"
+        },
+        {
+          "element_id": "165_p50_e693",
+          "sequence_order": 693,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "©8286 Fa"
+        },
+        {
+          "element_id": "165_p50_e694",
+          "sequence_order": 694,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "BER ERG"
+        },
+        {
+          "element_id": "165_p50_e695",
+          "sequence_order": 695,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "$228 &"
+        },
+        {
+          "element_id": "165_p50_e696",
+          "sequence_order": 696,
+          "page_number": 50,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "2828 §"
+        }
+      ]
+    },
+    "51": {
+      "elements": 11,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p51_e703",
+          "sequence_order": 703,
+          "page_number": 51,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "81 Insurance"
+        }
+      ]
+    },
+    "52": {
+      "elements": 13,
+      "flagged": 10,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p52_e711",
+          "sequence_order": 711,
+          "page_number": 52,
+          "quality_score": 0.3,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "FO 8"
+        },
+        {
+          "element_id": "165_p52_e712",
+          "sequence_order": 712,
+          "page_number": 52,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "rea oe"
+        },
+        {
+          "element_id": "165_p52_e713",
+          "sequence_order": 713,
+          "page_number": 52,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ee rug"
+        },
+        {
+          "element_id": "165_p52_e714",
+          "sequence_order": 714,
+          "page_number": 52,
+          "quality_score": 0.3,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "7 AO"
+        },
+        {
+          "element_id": "165_p52_e715",
+          "sequence_order": 715,
+          "page_number": 52,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Z~Oog"
+        },
+        {
+          "element_id": "165_p52_e716",
+          "sequence_order": 716,
+          "page_number": 52,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Es ge"
+        },
+        {
+          "element_id": "165_p52_e717",
+          "sequence_order": 717,
+          "page_number": 52,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "eg as"
+        },
+        {
+          "element_id": "165_p52_e719",
+          "sequence_order": 719,
+          "page_number": 52,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "as ae"
+        },
+        {
+          "element_id": "165_p52_e720",
+          "sequence_order": 720,
+          "page_number": 52,
+          "quality_score": 0.3,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "En a"
+        },
+        {
+          "element_id": "165_p52_e721",
+          "sequence_order": 721,
+          "page_number": 52,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "pw a="
+        }
+      ]
+    },
+    "53": {
+      "elements": 4,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p53_e725",
+          "sequence_order": 725,
+          "page_number": 53,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Bo RS"
+        }
+      ]
+    },
+    "54": {
+      "elements": 6,
+      "flagged": 3,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p54_e729",
+          "sequence_order": 729,
+          "page_number": 54,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "8B B58"
+        },
+        {
+          "element_id": "165_p54_e730",
+          "sequence_order": 730,
+          "page_number": 54,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Ff g8"
+        },
+        {
+          "element_id": "165_p54_e731",
+          "sequence_order": 731,
+          "page_number": 54,
+          "quality_score": 0.3,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "a Es"
+        }
+      ]
+    },
+    "55": {
+      "elements": 16,
+      "flagged": 7,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p55_e734",
+          "sequence_order": 734,
+          "page_number": 55,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "EE2Z<"
+        },
+        {
+          "element_id": "165_p55_e737",
+          "sequence_order": 737,
+          "page_number": 55,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "BSS Ros"
+        },
+        {
+          "element_id": "165_p55_e741",
+          "sequence_order": 741,
+          "page_number": 55,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ee g2ee8kes"
+        },
+        {
+          "element_id": "165_p55_e744",
+          "sequence_order": 744,
+          "page_number": 55,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Ba es."
+        },
+        {
+          "element_id": "165_p55_e745",
+          "sequence_order": 745,
+          "page_number": 55,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "SES Ee"
+        },
+        {
+          "element_id": "165_p55_e746",
+          "sequence_order": 746,
+          "page_number": 55,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "5 29%"
+        },
+        {
+          "element_id": "165_p55_e748",
+          "sequence_order": 748,
+          "page_number": 55,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "bites"
+        }
+      ]
+    },
+    "56": {
+      "elements": 6,
+      "flagged": 4,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p56_e750",
+          "sequence_order": 750,
+          "page_number": 56,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "SLLEELH 2&yg3e"
+        },
+        {
+          "element_id": "165_p56_e751",
+          "sequence_order": 751,
+          "page_number": 56,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "as oi"
+        },
+        {
+          "element_id": "165_p56_e752",
+          "sequence_order": 752,
+          "page_number": 56,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "bad e=k"
+        },
+        {
+          "element_id": "165_p56_e753",
+          "sequence_order": 753,
+          "page_number": 56,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "age ="
+        }
+      ]
+    },
+    "57": {
+      "elements": 10,
+      "flagged": 3,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p57_e756",
+          "sequence_order": 756,
+          "page_number": 57,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "rac SEETEE"
+        },
+        {
+          "element_id": "165_p57_e760",
+          "sequence_order": 760,
+          "page_number": 57,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "gem ¢"
+        },
+        {
+          "element_id": "165_p57_e761",
+          "sequence_order": 761,
+          "page_number": 57,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Tate tea84"
+        }
+      ]
+    },
+    "58": {
+      "elements": 19,
+      "flagged": 11,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p58_e766",
+          "sequence_order": 766,
+          "page_number": 58,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "aaleail"
+        },
+        {
+          "element_id": "165_p58_e768",
+          "sequence_order": 768,
+          "page_number": 58,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "= HHL"
+        },
+        {
+          "element_id": "165_p58_e769",
+          "sequence_order": 769,
+          "page_number": 58,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "brett"
+        },
+        {
+          "element_id": "165_p58_e770",
+          "sequence_order": 770,
+          "page_number": 58,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Healy"
+        },
+        {
+          "element_id": "165_p58_e772",
+          "sequence_order": 772,
+          "page_number": 58,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "aie atte"
+        },
+        {
+          "element_id": "165_p58_e774",
+          "sequence_order": 774,
+          "page_number": 58,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "AH aa"
+        },
+        {
+          "element_id": "165_p58_e776",
+          "sequence_order": 776,
+          "page_number": 58,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "HHliiad"
+        },
+        {
+          "element_id": "165_p58_e777",
+          "sequence_order": 777,
+          "page_number": 58,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Heat +"
+        },
+        {
+          "element_id": "165_p58_e778",
+          "sequence_order": 778,
+          "page_number": 58,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "He cE"
+        },
+        {
+          "element_id": "165_p58_e779",
+          "sequence_order": 779,
+          "page_number": 58,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "eae caiate"
+        },
+        {
+          "element_id": "165_p58_e780",
+          "sequence_order": 780,
+          "page_number": 58,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "THT |"
+        }
+      ]
+    },
+    "59": {
+      "elements": 23,
+      "flagged": 10,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p59_e787",
+          "sequence_order": 787,
+          "page_number": 59,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "gn Ba"
+        },
+        {
+          "element_id": "165_p59_e789",
+          "sequence_order": 789,
+          "page_number": 59,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "#22 3"
+        },
+        {
+          "element_id": "165_p59_e792",
+          "sequence_order": 792,
+          "page_number": 59,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "22m B"
+        },
+        {
+          "element_id": "165_p59_e795",
+          "sequence_order": 795,
+          "page_number": 59,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "FES 88"
+        },
+        {
+          "element_id": "165_p59_e796",
+          "sequence_order": 796,
+          "page_number": 59,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "aa) S"
+        },
+        {
+          "element_id": "165_p59_e797",
+          "sequence_order": 797,
+          "page_number": 59,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "bar 2"
+        },
+        {
+          "element_id": "165_p59_e799",
+          "sequence_order": 799,
+          "page_number": 59,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Be oe"
+        },
+        {
+          "element_id": "165_p59_e802",
+          "sequence_order": 802,
+          "page_number": 59,
+          "quality_score": 0.3,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Bp 2"
+        },
+        {
+          "element_id": "165_p59_e803",
+          "sequence_order": 803,
+          "page_number": 59,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Es gS"
+        },
+        {
+          "element_id": "165_p59_e804",
+          "sequence_order": 804,
+          "page_number": 59,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ee gz"
+        }
+      ]
+    },
+    "60": {
+      "elements": 16,
+      "flagged": 7,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p60_e808",
+          "sequence_order": 808,
+          "page_number": 60,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "SEZSS"
+        },
+        {
+          "element_id": "165_p60_e810",
+          "sequence_order": 810,
+          "page_number": 60,
+          "quality_score": 0.3,
+          "element_type": "section",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "52 4"
+        },
+        {
+          "element_id": "165_p60_e813",
+          "sequence_order": 813,
+          "page_number": 60,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "eS ime?"
+        },
+        {
+          "element_id": "165_p60_e814",
+          "sequence_order": 814,
+          "page_number": 60,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "sh sBee"
+        },
+        {
+          "element_id": "165_p60_e818",
+          "sequence_order": 818,
+          "page_number": 60,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Sessa"
+        },
+        {
+          "element_id": "165_p60_e821",
+          "sequence_order": 821,
+          "page_number": 60,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "FREES 3"
+        },
+        {
+          "element_id": "165_p60_e822",
+          "sequence_order": 822,
+          "page_number": 60,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Seier 8"
+        }
+      ]
+    },
+    "61": {
+      "elements": 42,
+      "flagged": 23,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p61_e824",
+          "sequence_order": 824,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "28226 83"
+        },
+        {
+          "element_id": "165_p61_e826",
+          "sequence_order": 826,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "s&s Pa"
+        },
+        {
+          "element_id": "165_p61_e828",
+          "sequence_order": 828,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "2278 e586"
+        },
+        {
+          "element_id": "165_p61_e831",
+          "sequence_order": 831,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Bees Se"
+        },
+        {
+          "element_id": "165_p61_e833",
+          "sequence_order": 833,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "SEE ="
+        },
+        {
+          "element_id": "165_p61_e835",
+          "sequence_order": 835,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "S>EBS 6"
+        },
+        {
+          "element_id": "165_p61_e838",
+          "sequence_order": 838,
+          "page_number": 61,
+          "quality_score": 0.3,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "aa 3"
+        },
+        {
+          "element_id": "165_p61_e839",
+          "sequence_order": 839,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Tee @"
+        },
+        {
+          "element_id": "165_p61_e840",
+          "sequence_order": 840,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Peet LE"
+        },
+        {
+          "element_id": "165_p61_e842",
+          "sequence_order": 842,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "eoen8"
+        },
+        {
+          "element_id": "165_p61_e848",
+          "sequence_order": 848,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "efsigs ae"
+        },
+        {
+          "element_id": "165_p61_e850",
+          "sequence_order": 850,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Seg? 2"
+        },
+        {
+          "element_id": "165_p61_e851",
+          "sequence_order": 851,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "ft24¢8"
+        },
+        {
+          "element_id": "165_p61_e852",
+          "sequence_order": 852,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "mee Be"
+        },
+        {
+          "element_id": "165_p61_e853",
+          "sequence_order": 853,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "BBS ER"
+        },
+        {
+          "element_id": "165_p61_e855",
+          "sequence_order": 855,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "sg8 Fs"
+        },
+        {
+          "element_id": "165_p61_e856",
+          "sequence_order": 856,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "EE 2338"
+        },
+        {
+          "element_id": "165_p61_e858",
+          "sequence_order": 858,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "a geecige"
+        },
+        {
+          "element_id": "165_p61_e859",
+          "sequence_order": 859,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "eae Re"
+        },
+        {
+          "element_id": "165_p61_e860",
+          "sequence_order": 860,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "FeERERE"
+        },
+        {
+          "element_id": "165_p61_e862",
+          "sequence_order": 862,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Bg2e8"
+        },
+        {
+          "element_id": "165_p61_e863",
+          "sequence_order": 863,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "BS 8s"
+        },
+        {
+          "element_id": "165_p61_e864",
+          "sequence_order": 864,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "8B 28"
+        }
+      ]
+    },
+    "62": {
+      "elements": 27,
+      "flagged": 21,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p62_e866",
+          "sequence_order": 866,
+          "page_number": 62,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Oe eé"
+        },
+        {
+          "element_id": "165_p62_e868",
+          "sequence_order": 868,
+          "page_number": 62,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Q, es"
+        },
+        {
+          "element_id": "165_p62_e869",
+          "sequence_order": 869,
+          "page_number": 62,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "aoe¢¢ 8"
+        },
+        {
+          "element_id": "165_p62_e870",
+          "sequence_order": 870,
+          "page_number": 62,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "BoB o"
+        },
+        {
+          "element_id": "165_p62_e871",
+          "sequence_order": 871,
+          "page_number": 62,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "FREER"
+        },
+        {
+          "element_id": "165_p62_e872",
+          "sequence_order": 872,
+          "page_number": 62,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "€yg78"
+        },
+        {
+          "element_id": "165_p62_e873",
+          "sequence_order": 873,
+          "page_number": 62,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "3.5098"
+        },
+        {
+          "element_id": "165_p62_e876",
+          "sequence_order": 876,
+          "page_number": 62,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "oe eB"
+        },
+        {
+          "element_id": "165_p62_e877",
+          "sequence_order": 877,
+          "page_number": 62,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Pay ied"
+        },
+        {
+          "element_id": "165_p62_e879",
+          "sequence_order": 879,
+          "page_number": 62,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "seas @"
+        },
+        {
+          "element_id": "165_p62_e880",
+          "sequence_order": 880,
+          "page_number": 62,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ef es"
+        },
+        {
+          "element_id": "165_p62_e881",
+          "sequence_order": 881,
+          "page_number": 62,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "See ls"
+        },
+        {
+          "element_id": "165_p62_e882",
+          "sequence_order": 882,
+          "page_number": 62,
+          "quality_score": 0.3,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "BB a"
+        },
+        {
+          "element_id": "165_p62_e883",
+          "sequence_order": 883,
+          "page_number": 62,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Bea ae."
+        },
+        {
+          "element_id": "165_p62_e885",
+          "sequence_order": 885,
+          "page_number": 62,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "B38 6"
+        },
+        {
+          "element_id": "165_p62_e886",
+          "sequence_order": 886,
+          "page_number": 62,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Be, ges"
+        },
+        {
+          "element_id": "165_p62_e887",
+          "sequence_order": 887,
+          "page_number": 62,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Es ei"
+        },
+        {
+          "element_id": "165_p62_e888",
+          "sequence_order": 888,
+          "page_number": 62,
+          "quality_score": 0.3,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "SB é"
+        },
+        {
+          "element_id": "165_p62_e889",
+          "sequence_order": 889,
+          "page_number": 62,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Bue eeu"
+        },
+        {
+          "element_id": "165_p62_e890",
+          "sequence_order": 890,
+          "page_number": 62,
+          "quality_score": 0.3,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "BS z"
+        },
+        {
+          "element_id": "165_p62_e891",
+          "sequence_order": 891,
+          "page_number": 62,
+          "quality_score": 0.3,
+          "element_type": "section",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "32 2"
+        }
+      ]
+    },
+    "63": {
+      "elements": 14,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p63_e894",
+          "sequence_order": 894,
+          "page_number": 63,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "14.1 Indemnity"
+        }
+      ]
+    },
+    "64": {
+      "elements": 4,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p64_e908",
+          "sequence_order": 908,
+          "page_number": 64,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "EOS FREESE"
+        }
+      ]
+    },
+    "65": {
+      "elements": 9,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p65_e914",
+          "sequence_order": 914,
+          "page_number": 65,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ISI Assignments"
+        }
+      ]
+    },
+    "66": {
+      "elements": 31,
+      "flagged": 15,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p66_e920",
+          "sequence_order": 920,
+          "page_number": 66,
+          "quality_score": 0.3,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "S am"
+        },
+        {
+          "element_id": "165_p66_e921",
+          "sequence_order": 921,
+          "page_number": 66,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ESE Z2ESREF"
+        },
+        {
+          "element_id": "165_p66_e922",
+          "sequence_order": 922,
+          "page_number": 66,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ce, 8"
+        },
+        {
+          "element_id": "165_p66_e923",
+          "sequence_order": 923,
+          "page_number": 66,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Sere sipgee"
+        },
+        {
+          "element_id": "165_p66_e926",
+          "sequence_order": 926,
+          "page_number": 66,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ene 2.8"
+        },
+        {
+          "element_id": "165_p66_e929",
+          "sequence_order": 929,
+          "page_number": 66,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "oF 2686"
+        },
+        {
+          "element_id": "165_p66_e936",
+          "sequence_order": 936,
+          "page_number": 66,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "ekenf&"
+        },
+        {
+          "element_id": "165_p66_e937",
+          "sequence_order": 937,
+          "page_number": 66,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "= ESEeegs"
+        },
+        {
+          "element_id": "165_p66_e941",
+          "sequence_order": 941,
+          "page_number": 66,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "fgagzia 28"
+        },
+        {
+          "element_id": "165_p66_e944",
+          "sequence_order": 944,
+          "page_number": 66,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Saaee: bd"
+        },
+        {
+          "element_id": "165_p66_e945",
+          "sequence_order": 945,
+          "page_number": 66,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "S&e* 3"
+        },
+        {
+          "element_id": "165_p66_e946",
+          "sequence_order": 946,
+          "page_number": 66,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "2558235 ="
+        },
+        {
+          "element_id": "165_p66_e947",
+          "sequence_order": 947,
+          "page_number": 66,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "SEREESE"
+        },
+        {
+          "element_id": "165_p66_e948",
+          "sequence_order": 948,
+          "page_number": 66,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ee r*"
+        },
+        {
+          "element_id": "165_p66_e949",
+          "sequence_order": 949,
+          "page_number": 66,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "eeghiee i="
+        }
+      ]
+    },
+    "67": {
+      "elements": 2,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "68": {
+      "elements": 7,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p68_e953",
+          "sequence_order": 953,
+          "page_number": 68,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "fe mi"
+        },
+        {
+          "element_id": "165_p68_e958",
+          "sequence_order": 958,
+          "page_number": 68,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "E B80"
+        }
+      ]
+    },
+    "69": {
+      "elements": 13,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p69_e961",
+          "sequence_order": 961,
+          "page_number": 69,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "17.7 Language"
+        }
+      ]
+    },
+    "70": {
+      "elements": 3,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "71": {
+      "elements": 3,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p71_e976",
+          "sequence_order": 976,
+          "page_number": 71,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "3S Ee"
+        }
+      ]
+    },
+    "72": {
+      "elements": 13,
+      "flagged": 8,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "165_p72_e981",
+          "sequence_order": 981,
+          "page_number": 72,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "SRae 8"
+        },
+        {
+          "element_id": "165_p72_e984",
+          "sequence_order": 984,
+          "page_number": 72,
+          "quality_score": 0.3,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Fe a"
+        },
+        {
+          "element_id": "165_p72_e985",
+          "sequence_order": 985,
+          "page_number": 72,
+          "quality_score": 0.3,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "6 Ba"
+        },
+        {
+          "element_id": "165_p72_e986",
+          "sequence_order": 986,
+          "page_number": 72,
+          "quality_score": 0.3,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "So 8"
+        },
+        {
+          "element_id": "165_p72_e987",
+          "sequence_order": 987,
+          "page_number": 72,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Be 1S:"
+        },
+        {
+          "element_id": "165_p72_e988",
+          "sequence_order": 988,
+          "page_number": 72,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "$3 fo"
+        },
+        {
+          "element_id": "165_p72_e989",
+          "sequence_order": 989,
+          "page_number": 72,
+          "quality_score": 0.3,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "a eB"
+        },
+        {
+          "element_id": "165_p72_e990",
+          "sequence_order": 990,
+          "page_number": 72,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "rn anal"
+        }
+      ]
+    },
+    "73": {
+      "elements": 3,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    }
+  }
+}

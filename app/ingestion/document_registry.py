@@ -2,6 +2,7 @@
 
 import os
 import uuid
+import json
 
 from app.utils.hash_utils import calculate_sha256
 from app.core.database import get_db_conn, release_db_conn
@@ -113,9 +114,10 @@ def register_document(file_path, metadata):
                 primary_language,
                 version_label,
                 user_id,
-                uploaded_by
+                uploaded_by,
+                metadata
             )
-            VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)
+            VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)
             RETURNING document_id;
             """,
             (
@@ -139,7 +141,10 @@ def register_document(file_path, metadata):
                 metadata.get("user_id"),
 
                 # 👤 DISPLAY SNAPSHOT
-                metadata.get("uploaded_by")
+                metadata.get("uploaded_by"),
+                
+                # 📦 RAW METADATA
+                json.dumps(metadata)
             )
         )
 

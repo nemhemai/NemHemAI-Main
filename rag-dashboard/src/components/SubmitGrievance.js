@@ -79,40 +79,44 @@ const SubmitGrievance = () => {
       {error && <div style={styles.errorBadge}>{error}</div>}
 
       <form onSubmit={handleSubmit} style={styles.form}>
-        <div style={styles.formGroup}>
-          <label style={styles.label}>Category</label>
-          <select 
-            value={category} 
-            onChange={(e) => setCategory(e.target.value)}
-            style={styles.input}
-          >
-            <option value="Sanitation">Sanitation</option>
-            <option value="Water Supply">Water Supply</option>
-            <option value="Roads">Roads / Potholes</option>
-            <option value="Electricity">Electricity</option>
-            <option value="Other">Other</option>
-          </select>
-        </div>
+        <div style={styles.section}>
+          <div style={styles.formGroup}>
+            <label style={styles.label}>Category</label>
+            <select 
+              value={category} 
+              onChange={(e) => setCategory(e.target.value)}
+              style={styles.input}
+            >
+              <option value="Sanitation">Sanitation</option>
+              <option value="Water Supply">Water Supply</option>
+              <option value="Roads">Roads / Potholes</option>
+              <option value="Electricity">Electricity</option>
+              <option value="Other">Other</option>
+            </select>
+          </div>
 
-        <div style={styles.formGroup}>
-          <label style={styles.label}>Description</label>
-          <textarea
-            value={description}
-            onChange={(e) => setDescription(e.target.value)}
-            placeholder="Please describe your issue in detail (optional if attaching a picture)..."
-            style={{...styles.input, height: "120px", resize: "vertical"}}
-            required={!imageFile}
-          />
-        </div>
+          <div style={styles.formGroup}>
+            <label style={styles.label}>Description</label>
+            <textarea
+              value={description}
+              onChange={(e) => setDescription(e.target.value)}
+              placeholder="Please describe your issue in detail (optional if attaching a picture)..."
+              style={{...styles.input, height: "120px", resize: "vertical"}}
+              required={!imageFile}
+            />
+          </div>
 
-        <div style={styles.formGroup}>
-          <label style={styles.label}>Add a pic with a geo tag</label>
-          <input
-            type="file"
-            accept="image/*"
-            onChange={(e) => setImageFile(e.target.files[0])}
-            style={styles.input}
-          />
+          <div style={styles.formGroup}>
+            <label style={styles.label}>Add a pic with a geo tag</label>
+            <div style={styles.fileUploadWrapper}>
+              <input
+                type="file"
+                accept="image/*"
+                onChange={(e) => setImageFile(e.target.files[0])}
+                style={styles.fileInput}
+              />
+            </div>
+          </div>
         </div>
 
         <button type="submit" disabled={loading || (!description.trim() && !imageFile)} style={styles.submitButton}>
@@ -120,24 +124,26 @@ const SubmitGrievance = () => {
         </button>
       </form>
 
-      <hr style={{margin: '32px 0', border: 'none', borderTop: '1px solid #e5e7eb'}} />
+      <hr style={{margin: '0', border: 'none', borderTop: '1px solid #e5e7eb'}} />
       
-      <h2 style={{...styles.title, fontSize: '20px'}}>🔍 Track Your Grievance</h2>
-      <p style={{...styles.subtitle, marginBottom: '16px'}}>Enter your unique Ticket ID to check the status and read the official response.</p>
-      
-      <form onSubmit={handleTrack} style={{display: 'flex', gap: '10px'}}>
-        <input 
-          type="text" 
-          placeholder="Enter Ticket ID (e.g. 123e4567-...)" 
-          value={trackId} 
-          onChange={(e) => setTrackId(e.target.value)}
-          style={{...styles.input, flex: 1}}
-          required
-        />
-        <button type="submit" disabled={trackLoading} style={{...styles.submitButton, marginTop: 0}}>
-          {trackLoading ? "Searching..." : "Track"}
-        </button>
-      </form>
+      <div style={styles.section}>
+        <h2 style={{...styles.title, fontSize: '20px'}}>🔍 Track Your Grievance</h2>
+        <p style={{...styles.subtitle, marginBottom: '16px'}}>Enter your unique Ticket ID to check the status and read the official response.</p>
+        
+        <form onSubmit={handleTrack} style={{display: 'flex', gap: '10px'}}>
+          <input 
+            type="text" 
+            placeholder="Enter Ticket ID (e.g. 123e4567-...)" 
+            value={trackId} 
+            onChange={(e) => setTrackId(e.target.value)}
+            style={{...styles.input, flex: 1}}
+            required
+          />
+          <button type="submit" disabled={trackLoading} style={{...styles.submitButton, marginTop: 0}}>
+            {trackLoading ? "Searching..." : "Track"}
+          </button>
+        </form>
+      </div>
 
       {trackError && <div style={{...styles.errorBadge, marginTop: '16px'}}>{trackError}</div>}
 
@@ -173,20 +179,35 @@ const SubmitGrievance = () => {
 const styles = {
   card: {
     backgroundColor: "#ffffff",
-    padding: "24px",
-    borderRadius: "12px",
-    boxShadow: "0 4px 12px rgba(0,0,0,0.08)",
-    maxWidth: "600px",
+    padding: "32px",
+    borderRadius: "16px",
+    boxShadow: "0 4px 6px -1px rgba(0,0,0,0.05)",
+    border: "1px solid #e2e8f0",
+    width: "100%",
+    maxWidth: "800px",
     margin: "0 auto",
-    fontFamily: "'Segoe UI', sans-serif"
+    display: "flex",
+    flexDirection: "column",
+    gap: "24px"
+  },
+  section: {
+    border: "1px solid #e2e8f0",
+    borderRadius: "12px",
+    padding: "24px",
+    background: "#f8fafc",
+    display: "flex",
+    flexDirection: "column",
+    gap: "16px"
   },
   title: {
-    margin: "0 0 8px 0",
-    color: "#003366"
+    margin: "0",
+    color: "#0f172a",
+    fontSize: "24px",
+    fontWeight: "700"
   },
   subtitle: {
-    margin: "0 0 20px 0",
-    color: "#6b7280",
+    margin: "0",
+    color: "#64748b",
     fontSize: "14px"
   },
   form: {
@@ -197,47 +218,65 @@ const styles = {
   formGroup: {
     display: "flex",
     flexDirection: "column",
-    gap: "6px"
+    gap: "8px"
   },
   label: {
     fontSize: "14px",
     fontWeight: "600",
-    color: "#374151"
+    color: "#1e293b"
   },
   input: {
-    padding: "10px",
-    borderRadius: "6px",
-    border: "1px solid #d1d5db",
-    fontSize: "15px",
+    padding: "14px 16px",
+    borderRadius: "8px",
+    border: "1.5px solid #cbd5e1",
+    fontSize: "14px",
+    background: "#fff",
+    outline: "none",
+    transition: "border-color 0.2s",
     width: "100%",
     boxSizing: "border-box"
   },
+  fileUploadWrapper: {
+    display: "flex",
+    flexDirection: "column",
+    gap: "8px"
+  },
+  fileInput: {
+    padding: "10px",
+    border: "1px dashed #cbd5e1",
+    borderRadius: "8px",
+    background: "#fff",
+    cursor: "pointer"
+  },
   submitButton: {
-    backgroundColor: "#003366",
-    color: "white",
+    padding: "16px",
+    borderRadius: "12px",
     border: "none",
-    padding: "12px",
-    borderRadius: "6px",
-    fontSize: "16px",
+    background: "#003366",
+    color: "#fff",
     fontWeight: "600",
+    fontSize: "16px",
     cursor: "pointer",
-    marginTop: "8px"
+    boxShadow: "0 4px 12px rgba(0, 51, 102, 0.2)",
+    transition: "all 0.2s ease"
   },
   successBadge: {
-    backgroundColor: "#d1fae5",
-    color: "#065f46",
+    backgroundColor: "#f0fdf4",
+    color: "#15803d",
     padding: "12px",
-    borderRadius: "6px",
-    marginBottom: "16px",
-    fontSize: "14px"
+    borderRadius: "8px",
+    border: "1px solid #dcfce7",
+    fontSize: "14px",
+    margin: 0
   },
   errorBadge: {
-    backgroundColor: "#fee2e2",
-    color: "#991b1b",
+    backgroundColor: "#fef2f2",
+    color: "#ef4444",
     padding: "12px",
-    borderRadius: "6px",
-    marginBottom: "16px",
-    fontSize: "14px"
+    borderRadius: "8px",
+    border: "1px solid #fee2e2",
+    fontSize: "14px",
+    margin: 0
   }
 };
 

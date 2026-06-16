@@ -45,6 +45,7 @@ USAGE:
 
 from __future__ import annotations
 
+from functools import lru_cache
 from scipy import sparse
 from app.core.config import settings
 import logging
@@ -218,7 +219,6 @@ def encode_batch(
             all_sparse.extend(
                 [sparse_to_dict(s) for s in sparse]
             )
-            #print("Sample sparse after fix:", all_sparse[0])
 
         except Exception as exc:
             logger.warning(
@@ -251,6 +251,15 @@ def encode_batch(
 
     return np.array(all_dense, dtype=np.float32), all_sparse
 
+
+@lru_cache(maxsize=1024)
+def _global_cached_embed_query(query: str, model) -> tuple[np.ndarray, dict]:
+    dense_vecs, sparse_vecs = encode_batch(
+        [query],
+        model,
+        batch_size=1
+    )
+    return dense_vecs[0], sparse_vecs[0]
 
 # ──────────────────────────────────────────────────────────────────────────────
 # MAIN EMBEDDER CLASS
@@ -318,19 +327,23 @@ class EmbeddingEngine:
             self._model = load_model()
         return self._model
     
-    def embed_query(self, query: str) -> tuple[np.ndarray, dict]:
-        """
-        Encode a single query into dense + sparse vectors.
-        Used during retrieval phase.
-        """
-
+    from functools import lru_cache
+    
+    @lru_cache(maxsize=1024)
+    def _cached_embed_query(self, query: str) -> tuple[np.ndarray, dict]:
         dense_vecs, sparse_vecs = encode_batch(
             [query],
             self.model,
             batch_size=1
         )
-
         return dense_vecs[0], sparse_vecs[0]
+
+    def embed_query(self, query: str) -> tuple[np.ndarray, dict]:
+        """
+        Encode a single query into dense + sparse vectors.
+        Used during retrieval phase.
+        """
+        return self._cached_embed_query(query)
     
     def rerank(self, query: str, texts: list[str], top_k: int):
         """

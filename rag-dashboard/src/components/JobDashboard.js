@@ -158,7 +158,7 @@ function JobDashboard({ currentJobId, resetTrigger }) {
   return (
     <div style={styles.page}>
       <div style={styles.container}>
-        <h2 style={styles.heading}>📂 Job Dashboard</h2>
+        <h2 style={styles.heading}>Job Dashboard</h2>
 
         <div style={styles.jobList}>
           {safeJobs.length === 0 && (
@@ -244,50 +244,40 @@ function JobDashboard({ currentJobId, resetTrigger }) {
 }
 
 const styles = {
-  page: {
-    display: "flex",
-    justifyContent: "center",
-    padding: "30px",
-    minHeight: "100vh",
-    background: "#f4f6f9" // ✅ removed gradient
-  },
+  page: {}, // Removed layout wrappers as App.js card handles it
 
   container: {
-    width: "900px",
-    padding: "25px",
-    borderRadius: "8px",
-    background: "#ffffff", // ✅ solid card
-    border: "1px solid #dcdfe6",
-    boxShadow: "0 2px 8px rgba(0,0,0,0.08)",
     display: "flex",
     flexDirection: "column",
-    gap: "16px"
+    gap: "24px"
   },
 
   heading: {
-    color: "#1e293b",
-    fontSize: "20px",
-    fontWeight: "600"
+    color: "#0f172a",
+    fontSize: "24px",
+    fontWeight: "700",
+    margin: "0 0 8px 0"
   },
 
   jobList: {
     display: "flex",
     flexDirection: "column",
-    border: "1px solid #e0e0e0",
-    borderRadius: "6px",
-    overflow: "hidden"
+    border: "1px solid #e2e8f0",
+    borderRadius: "12px",
+    overflow: "hidden",
+    background: "#f8fafc"
   },
 
   jobItem: {
-    padding: "12px 14px",
-    background: "#ffffff",
-    borderBottom: "1px solid #e0e0e0",
+    padding: "16px 20px",
+    background: "#fff",
+    borderBottom: "1px solid #e2e8f0",
     cursor: "pointer",
     transition: "background 0.2s ease"
   },
 
   activeJob: {
-    background: "#e8f0fe" // subtle selection (gov style)
+    background: "#f1f5f9" // subtle selection
   },
 
   jobHeader: {
@@ -297,70 +287,82 @@ const styles = {
   },
 
   title: {
-    color: "#1e293b",
+    color: "#0f172a",
     fontWeight: "600",
-    fontSize: "14px"
+    fontSize: "15px",
+    marginBottom: "4px"
   },
 
   subText: {
-    fontSize: "11px",
-    color: "#6b7280"
+    fontSize: "12px",
+    color: "#64748b",
+    fontFamily: "monospace"
   },
 
   statusWrapper: {
     display: "flex",
     alignItems: "center",
-    gap: "6px"
+    gap: "8px"
   },
 
   icon: {
-    fontSize: "13px"
+    fontSize: "14px"
   },
 
   badge: {
     color: "#fff",
-    padding: "4px 10px",
-    borderRadius: "12px",
-    fontSize: "11px",
-    fontWeight: "600"
+    padding: "6px 12px",
+    borderRadius: "20px",
+    fontSize: "12px",
+    fontWeight: "600",
+    letterSpacing: "0.5px",
+    textTransform: "uppercase"
   },
 
   progressBar: {
-    marginTop: "8px",
-    height: "5px",
-    borderRadius: "4px",
-    background: "#e5e7eb"
+    marginTop: "12px",
+    height: "6px",
+    borderRadius: "6px",
+    background: "#e2e8f0",
+    overflow: "hidden"
   },
 
   progressFill: {
     height: "100%",
-    background: "#4a6fa5", // muted govt blue
-    transition: "width 0.4s ease"
+    background: "linear-gradient(90deg, #003366, #0055a4)",
+    transition: "width 0.5s ease-out"
   },
 
   retryButton: {
-    marginTop: "8px",
-    padding: "4px 8px",
-    borderRadius: "4px",
-    border: "1px solid #c62828",
-    background: "#fff",
-    color: "#c62828",
+    marginTop: "12px",
+    padding: "6px 16px",
+    borderRadius: "6px",
+    border: "1.5px solid #dc2626",
+    background: "#fef2f2",
+    color: "#dc2626",
     cursor: "pointer",
-    fontSize: "12px"
+    fontSize: "13px",
+    fontWeight: "600",
+    transition: "all 0.2s ease",
+    "&:hover": {
+      background: "#fee2e2"
+    }
   },
 
   statusBox: {
-    marginTop: "10px",
-    padding: "12px",
-    borderRadius: "6px",
-    border: "1px solid #e0e0e0",
-    background: "#fafafa"
+    marginTop: "16px",
+    padding: "20px",
+    borderRadius: "12px",
+    border: "1px solid #e2e8f0",
+    background: "#f8fafc"
   },
 
   emptyState: {
     textAlign: "center",
-    color: "#6b7280",
-    padding: "16px"
+    color: "#64748b",
+    padding: "32px",
+    fontSize: "14px",
+    fontWeight: "500"
   }
 };
 

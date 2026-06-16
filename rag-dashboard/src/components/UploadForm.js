@@ -93,11 +93,12 @@ function UploadForm({ setJobId }) {
         <div style={styles.section}>
           <h4 style={styles.sectionTitle}>File Upload</h4>
 
-          <input type="file" onChange={handleFileChange} />
-
-          {form.file && (
-            <p style={styles.fileName}>{form.file.name}</p>
-          )}
+          <div style={styles.fileUploadWrapper}>
+            <input type="file" onChange={handleFileChange} style={styles.fileInput} />
+            {form.file && (
+              <p style={styles.fileName}>Selected: {form.file.name}</p>
+            )}
+          </div>
         </div>
 
         {/* BASIC */}
@@ -118,7 +119,7 @@ function UploadForm({ setJobId }) {
             <input style={styles.input} name="issuing_authority" placeholder="Issuing Authority" value={form.issuing_authority} onChange={handleChange} required />
             <input style={styles.input} name="department_code" placeholder="Department Code" value={form.department_code} onChange={handleChange} />
 
-            <select style={styles.input} name="jurisdiction" value={form.jurisdiction} onChange={handleChange}>
+            <select style={styles.select} name="jurisdiction" value={form.jurisdiction} onChange={handleChange}>
               <option value="central">Central</option>
               <option value="state">State</option>
               <option value="municipal">Municipal</option>
@@ -133,14 +134,14 @@ function UploadForm({ setJobId }) {
           <h4 style={styles.sectionTitle}>Classification</h4>
 
           <div style={styles.grid}>
-            <select style={styles.input} name="document_type" value={form.document_type} onChange={handleChange}>
+            <select style={styles.select} name="document_type" value={form.document_type} onChange={handleChange}>
               <option value="policy">Policy</option>
               <option value="act">Act</option>
               <option value="rule">Rule</option>
               <option value="notification">Notification</option>
             </select>
 
-            <select style={styles.input} name="security_level" value={form.security_level} onChange={handleChange}>
+            <select style={styles.select} name="security_level" value={form.security_level} onChange={handleChange}>
               <option value="public">Public</option>
               <option value="internal">Internal</option>
               <option value="confidential">Confidential</option>
@@ -169,7 +170,7 @@ function UploadForm({ setJobId }) {
         {error && <p style={styles.error}>{error}</p>}
         {success && <p style={styles.success}>{success}</p>}
 
-        <button style={styles.button} type="submit" disabled={loading}>
+        <button style={{ ...styles.button, ...(loading ? styles.buttonDisabled : {}) }} type="submit" disabled={loading}>
           {loading ? "Processing..." : "Upload & Process"}
         </button>
 
@@ -179,83 +180,125 @@ function UploadForm({ setJobId }) {
 }
 
 const styles = {
-  page: {
-    display: "flex",
-    justifyContent: "center",
-    padding: "30px",
-    minHeight: "100vh",
-    background: "#f4f6f9"
-  },
+  page: {}, // Removed layout wrappers as App.js card handles it
 
   container: {
-    width: "100%",
-    padding: "25px",
-    borderRadius: "8px",
-    background: "#ffffff",
-    border: "1px solid #dcdfe6",
-    boxShadow: "0 2px 8px rgba(0,0,0,0.08)",
     display: "flex",
     flexDirection: "column",
-    gap: "18px"
+    gap: "24px"
   },
 
   heading: {
-    fontSize: "20px",
-    fontWeight: "600",
-    color: "#1e293b"
+    fontSize: "24px",
+    fontWeight: "700",
+    color: "#0f172a",
+    margin: "0 0 8px 0"
   },
 
   section: {
-    border: "1px solid #e0e0e0",
-    borderRadius: "6px",
-    padding: "16px",
-    background: "#fafafa"
+    border: "1px solid #e2e8f0",
+    borderRadius: "12px",
+    padding: "24px",
+    background: "#f8fafc"
   },
 
   sectionTitle: {
-    marginBottom: "10px",
-    fontSize: "14px",
+    marginBottom: "16px",
+    fontSize: "16px",
     fontWeight: "600",
-    color: "#333"
+    color: "#1e293b",
+    margin: "0 0 16px 0"
+  },
+
+  fileUploadWrapper: {
+    display: "flex",
+    flexDirection: "column",
+    gap: "8px"
+  },
+
+  fileInput: {
+    padding: "10px",
+    border: "1px dashed #cbd5e1",
+    borderRadius: "8px",
+    background: "#fff",
+    cursor: "pointer"
   },
 
   grid: {
     display: "grid",
     gridTemplateColumns: "1fr 1fr",
-    gap: "12px"
+    gap: "16px"
   },
 
   input: {
-    padding: "10px",
-    borderRadius: "6px",
-    border: "1px solid #cfd6dd",
-    fontSize: "14px"
+    padding: "14px 16px",
+    borderRadius: "8px",
+    border: "1.5px solid #cbd5e1",
+    fontSize: "14px",
+    background: "#fff",
+    outline: "none",
+    transition: "border-color 0.2s",
+    boxSizing: "border-box",
+    width: "100%"
   },
 
-  button: {
-    padding: "12px",
-    borderRadius: "6px",
-    border: "none",
-    background: "#1f3a5f",
-    color: "#fff",
-    fontWeight: "600",
+  select: {
+    padding: "14px 16px",
+    borderRadius: "8px",
+    border: "1.5px solid #cbd5e1",
+    fontSize: "14px",
+    background: "#fff",
+    outline: "none",
+    transition: "border-color 0.2s",
+    boxSizing: "border-box",
+    width: "100%",
     cursor: "pointer"
   },
 
+  button: {
+    padding: "16px",
+    borderRadius: "12px",
+    border: "none",
+    background: "#003366",
+    color: "#fff",
+    fontWeight: "600",
+    fontSize: "16px",
+    cursor: "pointer",
+    boxShadow: "0 4px 12px rgba(0, 51, 102, 0.2)",
+    transition: "all 0.2s ease",
+    marginTop: "8px"
+  },
+
+  buttonDisabled: {
+    opacity: 0.7,
+    cursor: "not-allowed"
+  },
+
   error: {
-    color: "#c62828",
-    fontSize: "13px"
+    color: "#ef4444",
+    fontSize: "14px",
+    background: "#fef2f2",
+    padding: "12px",
+    borderRadius: "8px",
+    border: "1px solid #fee2e2",
+    margin: 0
   },
 
   success: {
-    color: "#2e7d32",
-    fontSize: "13px"
+    color: "#15803d",
+    fontSize: "14px",
+    background: "#f0fdf4",
+    padding: "12px",
+    borderRadius: "8px",
+    border: "1px solid #dcfce7",
+    margin: 0
   },
 
   fileName: {
-    fontSize: "12px",
-    color: "#555",
-    marginTop: "5px"
+    fontSize: "13px",
+    color: "#64748b",
+    margin: "4px 0 0 0",
+    fontWeight: "500"
   }
 };
 

@@ -1,0 +1,70 @@
+{
+  "document_id": 164,
+  "pages": {
+    "1": {
+      "elements": 4,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "2": {
+      "elements": 6,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "164_p2_e5",
+          "sequence_order": 5,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "SSeSUS s~"
+        },
+        {
+          "element_id": "164_p2_e6",
+          "sequence_order": 6,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "'4 a4"
+        }
+      ]
+    },
+    "3": {
+      "elements": 4,
+      "flagged": 1,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "164_p3_e10",
+          "sequence_order": 10,
+          "page_number": 3,
+          "quality_score": 0.3,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "a Es"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "passport_0000",
+  "created_at": "2026-06-08T13:48:09.090528Z",
+  "identity": {
+    "document_type": "PASSPORT",
+    "surname": "YOHANNAN",
+    "given_name": "ZASHIL",
+    "passport_number": "F6768032",
+    "gender": "MALE",
+    "dob": "29/09/1972",
+    "place_of_birth": "BHIWANDI",
+    "place_of_issue": "HAPUR",
+    "issue_date": "12/12/2018",
+    "expiry_date": "23/08/2034",
+    "generated_at": "2026-06-08T13:48:08.180838Z"
+  },
+  "files": {
+    "image": "government_test_assets\\passport\\images\\passport_0000.png",
+    "pdf": "government_test_assets\\passport\\pdfs\\passport_0000.pdf",
+    "face_image": "government_test_assets\\passport\\face_images\\passport_0000_face.png",
+    "augmented_variants": [
+      {
+        "variant": "blurred",
+        "path": "government_test_assets\\aadhaar\\augmented\\passport_0000_blurred.png"
+      },
+      {
+        "variant": "rotated",
+        "path": "government_test_assets\\aadhaar\\augmented\\passport_0000_rotated.png"
+      },
+      {
+        "variant": "low_light",
+        "path": "government_test_assets\\aadhaar\\augmented\\passport_0000_low_light.png"
+      },
+      {
+        "variant": "over_exposed",
+        "path": "government_test_assets\\aadhaar\\augmented\\passport_0000_over_exposed.png"
+      },
+      {
+        "variant": "under_exposed",
+        "path": "government_test_assets\\aadhaar\\augmented\\passport_0000_under_exposed.png"
+      },
+      {
+        "variant": "flash_hotspot",
+        "path": "government_test_assets\\aadhaar\\augmented\\passport_0000_flash_hotspot.png"
+      },
+      {
+        "variant": "underexposed_flash",
+        "path": "government_test_assets\\aadhaar\\augmented\\passport_0000_underexposed_flash.png"
+      },
+      {
+        "variant": "overexposed_flash",
+        "path": "government_test_assets\\aadhaar\\augmented\\passport_0000_overexposed_flash.png"
+      },
+      {
+        "variant": "mobile_photo",
+        "path": "government_test_assets\\aadhaar\\augmented\\passport_0000_mobile_photo.png"
+      },
+      {
+        "variant": "cropped",
+        "path": "government_test_assets\\aadhaar\\augmented\\passport_0000_cropped.png"
+      },
+      {
+        "variant": "compressed",
+        "path": "government_test_assets\\aadhaar\\augmented\\passport_0000_compressed.png"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NemHemAI - Government Document Verification Platform</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <!-- FontAwesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+    <style>
+        :root {
+            --bg-color: #0b0f19;
+            --panel-bg: rgba(17, 24, 39, 0.7);
+            --border-color: rgba(255, 255, 255, 0.08);
+            --primary: #6366f1;
+            --primary-glow: rgba(99, 102, 241, 0.15);
+            --success: #10b981;
+            --success-glow: rgba(16, 185, 129, 0.15);
+            --warning: #f59e0b;
+            --warning-glow: rgba(245, 158, 11, 0.15);
+            --danger: #ef4444;
+            --danger-glow: rgba(239, 68, 68, 0.15);
+            --text-main: #f3f4f6;
+            --text-muted: #9ca3af;
+            --transition-speed: 0.3s;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Outfit', sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            min-height: 100vh;
+            overflow-x: hidden;
+            background-image: 
+                radial-gradient(circle at 10% 20%, rgba(99, 102, 241, 0.08) 0%, transparent 40%),
+                radial-gradient(circle at 90% 80%, rgba(16, 185, 129, 0.05) 0%, transparent 40%);
+        }
+
+        header {
+            border-bottom: 1px solid var(--border-color);
+            backdrop-filter: blur(12px);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+            background: rgba(11, 15, 25, 0.8);
+            padding: 1rem 2rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            font-weight: 700;
+            font-size: 1.5rem;
+            color: #fff;
+            letter-spacing: -0.5px;
+        }
+
+        .logo i {
+            color: var(--primary);
+            text-shadow: 0 0 12px var(--primary);
+        }
+
+        .badge-dev {
+            font-size: 0.75rem;
+            font-weight: 500;
+            background: var(--primary-glow);
+            color: var(--primary);
+            border: 1px solid rgba(99, 102, 241, 0.3);
+            padding: 0.2rem 0.6rem;
+            border-radius: 9999px;
+            text-transform: uppercase;
+        }
+
+        main {
+            max-width: 1400px;
+            margin: 2rem auto;
+            padding: 0 1.5rem;
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 2rem;
+        }
+
+        @media (min-width: 1024px) {
+            main {
+                grid-template-columns: 380px 1fr;
+            }
+        }
+
+        .panel {
+            background: var(--panel-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            padding: 1.5rem;
+            backdrop-filter: blur(16px);
+            box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+        }
+
+        .upload-section {
+            display: flex;
+            flex-direction: column;
+            gap: 1.5rem;
+        }
+
+        .section-title {
+            font-size: 1.1rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            color: #fff;
+        }
+
+        .section-title i {
+            color: var(--primary);
+        }
+
+        .dropzone {
+            border: 2px dashed rgba(255, 255, 255, 0.15);
+            border-radius: 12px;
+            padding: 2.5rem 1.5rem;
+            text-align: center;
+            cursor: pointer;
+            transition: all var(--transition-speed);
+            background: rgba(255, 255, 255, 0.02);
+            position: relative;
+        }
+
+        .dropzone:hover {
+            border-color: var(--primary);
+            background: rgba(99, 102, 241, 0.03);
+            box-shadow: 0 0 15px rgba(99, 102, 241, 0.1);
+        }
+
+        .dropzone i {
+            font-size: 2.5rem;
+            color: var(--primary);
+            margin-bottom: 1rem;
+            transition: transform var(--transition-speed);
+        }
+
+        .dropzone:hover i {
+            transform: translateY(-5px);
+        }
+
+        .dropzone p {
+            font-size: 0.95rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .dropzone span {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+        }
+
+        #file-input {
+            display: none;
+        }
+
+        /* Pipeline Visualizer */
+        .pipeline-tracker {
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+            position: relative;
+            margin-top: 1rem;
+        }
+
+        .pipeline-step {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            padding: 0.75rem 1rem;
+            border-radius: 8px;
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid rgba(255, 255, 255, 0.03);
+            transition: all 0.4s ease;
+        }
+
+        .pipeline-step.active {
+            border-color: rgba(99, 102, 241, 0.4);
+            background: rgba(99, 102, 241, 0.06);
+            box-shadow: 0 0 10px rgba(99, 102, 241, 0.05);
+        }
+
+        .pipeline-step.success {
+            border-color: rgba(16, 185, 129, 0.4);
+            background: rgba(16, 185, 129, 0.06);
+        }
+
+        .pipeline-step.failed {
+            border-color: rgba(239, 68, 68, 0.4);
+            background: rgba(239, 68, 68, 0.06);
+        }
+
+        .step-icon {
+            width: 32px;
+            height: 32px;
+            border-radius: 50%;
+            background: rgba(255, 255, 255, 0.05);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.85rem;
+            color: var(--text-muted);
+            transition: all 0.4s;
+        }
+
+        .pipeline-step.active .step-icon {
+            background: var(--primary);
+            color: #fff;
+            box-shadow: 0 0 10px var(--primary);
+        }
+
+        .pipeline-step.success .step-icon {
+            background: var(--success);
+            color: #fff;
+            box-shadow: 0 0 10px var(--success);
+        }
+
+        .pipeline-step.failed .step-icon {
+            background: var(--danger);
+            color: #fff;
+            box-shadow: 0 0 10px var(--danger);
+        }
+
+        .step-info {
+            flex-grow: 1;
+        }
+
+        .step-name {
+            font-size: 0.9rem;
+            font-weight: 500;
+        }
+
+        .step-status {
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            margin-top: 0.1rem;
+        }
+
+        .pipeline-step.success .step-status {
+            color: var(--success);
+        }
+        .pipeline-step.failed .step-status {
+            color: var(--danger);
+        }
+
+        /* Results dashboard */
+        .dashboard-layout {
+            display: flex;
+            flex-direction: column;
+            gap: 2rem;
+        }
+
+        .welcome-screen {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 400px;
+            text-align: center;
+            color: var(--text-muted);
+            border: 1px dashed rgba(255, 255, 255, 0.05);
+            border-radius: 12px;
+            padding: 2rem;
+        }
+
+        .welcome-screen i {
+            font-size: 4rem;
+            margin-bottom: 1.5rem;
+            color: rgba(255, 255, 255, 0.1);
+        }
+
+        .welcome-screen h3 {
+            color: #fff;
+            margin-bottom: 0.5rem;
+        }
+
+        .results-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 1.5rem;
+        }
+
+        @media (min-width: 1280px) {
+            .results-grid {
+                grid-template-columns: 1fr 1.2fr;
+            }
+        }
+
+        /* Decision Callout card */
+        .decision-card {
+            grid-column: 1 / -1;
+            padding: 1.5rem;
+            border-radius: 12px;
+            border-left: 5px solid var(--primary);
+            background: rgba(255, 255, 255, 0.02);
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .decision-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            width: 300px;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.015));
+            pointer-events: none;
+        }
+
+        .decision-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .decision-badge {
+            font-size: 1.1rem;
+            font-weight: 700;
+            padding: 0.4rem 1.2rem;
+            border-radius: 6px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .badge-approved {
+            background: var(--success-glow);
+            color: var(--success);
+            border: 1px solid rgba(16, 185, 129, 0.3);
+            box-shadow: 0 0 15px rgba(16, 185, 129, 0.1);
+        }
+
+        .badge-rejected {
+            background: var(--danger-glow);
+            color: var(--danger);
+            border: 1px solid rgba(239, 68, 68, 0.3);
+            box-shadow: 0 0 15px rgba(239, 68, 68, 0.1);
+        }
+
+        .badge-review {
+            background: var(--warning-glow);
+            color: var(--warning);
+            border: 1px solid rgba(245, 158, 11, 0.3);
+            box-shadow: 0 0 15px rgba(245, 158, 11, 0.1);
+        }
+
+        .confidence-meter {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+
+        .confidence-val {
+            font-weight: 700;
+            font-size: 1.25rem;
+            color: #fff;
+        }
+
+        .reasons-list {
+            margin-top: 0.5rem;
+            list-style: none;
+            padding-left: 0;
+            display: flex;
+            flex-direction: column;
+            gap: 0.4rem;
+        }
+
+        .reasons-list li {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            display: flex;
+            align-items: flex-start;
+            gap: 0.5rem;
+        }
+
+        .reasons-list li i {
+            margin-top: 2px;
+        }
+
+        /* Image Display Component */
+        .image-viewer {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .tabs-header {
+            display: flex;
+            gap: 0.5rem;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 0.5rem;
+        }
+
+        .tab-btn {
+            background: transparent;
+            border: none;
+            color: var(--text-muted);
+            padding: 0.5rem 1rem;
+            cursor: pointer;
+            font-size: 0.85rem;
+            font-weight: 500;
+            border-radius: 6px;
+            transition: all var(--transition-speed);
+        }
+
+        .tab-btn:hover {
+            color: #fff;
+            background: rgba(255, 255, 255, 0.03);
+        }
+
+        .tab-btn.active {
+            color: #fff;
+            background: var(--primary-glow);
+            border: 1px solid rgba(99, 102, 241, 0.2);
+        }
+
+        .image-container {
+            background: rgba(0, 0, 0, 0.2);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            overflow: hidden;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            aspect-ratio: 4/3;
+            position: relative;
+        }
+
+        .image-container img {
+            max-width: 100%;
+            max-height: 100%;
+            object-fit: contain;
+        }
+
+        /* Data grids and lists */
+        .data-card {
+            background: rgba(255, 255, 255, 0.015);
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            padding: 1.25rem;
+        }
+
+        .card-header {
+            font-size: 0.95rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            color: #fff;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .fields-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .fields-table th, .fields-table td {
+            text-align: left;
+            padding: 0.6rem 0.8rem;
+            font-size: 0.9rem;
+        }
+
+        .fields-table tr {
+            border-bottom: 1px solid rgba(255, 255, 255, 0.03);
+        }
+
+        .fields-table tr:last-child {
+            border-bottom: none;
+        }
+
+        .fields-table td.field-key {
+            color: var(--text-muted);
+            width: 40%;
+            text-transform: capitalize;
+        }
+
+        .fields-table td.field-val {
+            font-weight: 500;
+            color: #fff;
+            word-break: break-all;
+        }
+
+        /* Checks grid */
+        .checks-list {
+            display: flex;
+            flex-direction: column;
+            gap: 0.6rem;
+        }
+
+        .check-item {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0.6rem 0.8rem;
+            border-radius: 8px;
+            background: rgba(255, 255, 255, 0.01);
+            border: 1px solid rgba(255, 255, 255, 0.02);
+            font-size: 0.85rem;
+        }
+
+        .check-left {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+        }
+
+        .check-status-icon {
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.7rem;
+        }
+
+        .check-status-icon.passed {
+            background: rgba(16, 185, 129, 0.1);
+            color: var(--success);
+        }
+        .check-status-icon.failed {
+            background: rgba(239, 68, 68, 0.1);
+            color: var(--danger);
+        }
+
+        .check-label {
+            font-weight: 500;
+            color: #fff;
+            text-transform: capitalize;
+        }
+
+        .check-detail {
+            color: var(--text-muted);
+            font-size: 0.75rem;
+            margin-top: 0.1rem;
+        }
+
+        /* Fraud Signals Grid */
+        .fraud-signals-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+            gap: 1rem;
+        }
+
+        .fraud-signal-box {
+            background: rgba(255, 255, 255, 0.01);
+            border: 1px solid rgba(255, 255, 255, 0.02);
+            border-radius: 10px;
+            padding: 0.8rem;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 0.4rem;
+        }
+
+        .fraud-signal-box.flagged {
+            border-color: rgba(239, 68, 68, 0.3);
+            background: rgba(239, 68, 68, 0.02);
+        }
+        .fraud-signal-box.clean {
+            border-color: rgba(16, 185, 129, 0.3);
+            background: rgba(16, 185, 129, 0.02);
+        }
+
+        .signal-icon {
+            font-size: 1.25rem;
+            margin-bottom: 0.2rem;
+        }
+
+        .fraud-signal-box.flagged .signal-icon {
+            color: var(--danger);
+        }
+        .fraud-signal-box.clean .signal-icon {
+            color: var(--success);
+        }
+
+        .signal-name {
+            font-size: 0.75rem;
+            font-weight: 500;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .signal-status {
+            font-size: 0.8rem;
+            font-weight: 600;
+            color: #fff;
+        }
+
+        /* Raw Text Area */
+        .raw-text-box {
+            grid-column: 1 / -1;
+        }
+
+        .raw-text-content {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.8rem;
+            background: rgba(0, 0, 0, 0.3);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 1rem;
+            max-height: 200px;
+            overflow-y: auto;
+            white-space: pre-wrap;
+            color: var(--text-muted);
+        }
+
+        /* Loading spinner */
+        .spinner {
+            border: 3px solid rgba(255, 255, 255, 0.1);
+            width: 24px;
+            height: 24px;
+            border-radius: 50%;
+            border-left-color: var(--primary);
+            animation: spin 1s linear infinite;
+            display: inline-block;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="logo">
+            <i class="fa-solid fa-shield-halved"></i>
+            <span>NemHemAI</span>
+            <span class="badge-dev">Verify AI</span>
+        </div>
+        <div>
+            <span id="system-time" style="font-size: 0.85rem; color: var(--text-muted); font-family: 'JetBrains Mono', monospace;"></span>
+        </div>
+    </header>
+
+    <main>
+        <!-- Left Sidebar: Controls & Live Pipeline Progress -->
+        <div class="upload-section">
+            <div class="panel">
+                <h2 class="section-title">
+                    <i class="fa-solid fa-file-arrow-up"></i>
+                    <span>Document Ingestion</span>
+                </h2>
+                
+                <div class="dropzone" id="dropzone">
+                    <input type="file" id="file-input" accept=".jpg,.jpeg,.png,.pdf">
+                    <i class="fa-solid fa-cloud-arrow-up"></i>
+                    <p>Drag & drop document here</p>
+                    <span>Supports PDF, JPEG, PNG (max 10MB)</span>
+                </div>
+            </div>
+
+            <div class="panel">
+                <h2 class="section-title">
+                    <i class="fa-solid fa-gears"></i>
+                    <span>Agent Workflow Status</span>
+                </h2>
+
+                <div class="pipeline-tracker" id="pipeline">
+                    <div class="pipeline-step" id="step-upload">
+                        <div class="step-icon"><i class="fa-solid fa-arrow-up-from-bracket"></i></div>
+                        <div class="step-info">
+                            <div class="step-name">File Upload</div>
+                            <div class="step-status">Pending document upload</div>
+                        </div>
+                    </div>
+                    
+                    <div class="pipeline-step" id="step-normalize">
+                        <div class="step-icon"><i class="fa-solid fa-wand-magic-sparkles"></i></div>
+                        <div class="step-info">
+                            <div class="step-name">Normalization</div>
+                            <div class="step-status">Awaiting upload</div>
+                        </div>
+                    </div>
+                    
+                    <div class="pipeline-step" id="step-preprocess">
+                        <div class="step-icon"><i class="fa-solid fa-crop-simple"></i></div>
+                        <div class="step-info">
+                            <div class="step-name">Image Preprocessing</div>
+                            <div class="step-status">Awaiting upload</div>
+                        </div>
+                    </div>
+                    
+                    <div class="pipeline-step" id="step-ocr">
+                        <div class="step-icon"><i class="fa-solid fa-eye"></i></div>
+                        <div class="step-info">
+                            <div class="step-name">OCR Text Extraction</div>
+                            <div class="step-status">Awaiting upload</div>
+                        </div>
+                    </div>
+
+                    <div class="pipeline-step" id="step-classify">
+                        <div class="step-icon"><i class="fa-solid fa-tags"></i></div>
+                        <div class="step-info">
+                            <div class="step-name">Document Classifier</div>
+                            <div class="step-status">Awaiting upload</div>
+                        </div>
+                    </div>
+
+                    <div class="pipeline-step" id="step-parser">
+                        <div class="step-icon"><i class="fa-solid fa-indent"></i></div>
+                        <div class="step-info">
+                            <div class="step-name">Field Parser</div>
+                            <div class="step-status">Awaiting upload</div>
+                        </div>
+                    </div>
+                    
+                    <div class="pipeline-step" id="step-verify">
+                        <div class="step-icon"><i class="fa-solid fa-list-check"></i></div>
+                        <div class="step-info">
+                            <div class="step-name">Verification Rules</div>
+                            <div class="step-status">Awaiting upload</div>
+                        </div>
+                    </div>
+
+                    <div class="pipeline-step" id="step-cross">
+                        <div class="step-icon"><i class="fa-solid fa-diagram-project"></i></div>
+                        <div class="step-info">
+                            <div class="step-name">Cross Validation</div>
+                            <div class="step-status">Awaiting upload</div>
+                        </div>
+                    </div>
+                    
+                    <div class="pipeline-step" id="step-fraud">
+                        <div class="step-icon"><i class="fa-solid fa-magnifying-glass-chart"></i></div>
+                        <div class="step-info">
+                            <div class="step-name">Fraud Detection</div>
+                            <div class="step-status">Awaiting upload</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Right Content: Live Results Dashboard -->
+        <div class="dashboard-layout">
+            <!-- Initial state -->
+            <div class="welcome-screen" id="welcome-screen">
+                <i class="fa-solid fa-fingerprint"></i>
+                <h3>Government ID verification dashboard</h3>
+                <p>Upload a document on the left to begin automated extraction, validation, and fraud screening.</p>
+            </div>
+
+            <!-- Analysis results (hidden by default) -->
+            <div class="results-grid" id="results-grid" style="display: none;">
+                <!-- Final decision card (Approved, Rejected, Review) -->
+                <div class="decision-card" id="decision-card">
+                    <div class="decision-header">
+                        <div class="decision-badge" id="decision-badge">Approved</div>
+                        <div class="confidence-meter">
+                            <span style="font-size: 0.85rem; color: var(--text-muted);">Platform Confidence:</span>
+                            <span class="confidence-val" id="confidence-val">98%</span>
+                        </div>
+                    </div>
+                    <ul class="reasons-list" id="reasons-list">
+                        <!-- Reasons list item populated dynamically -->
+                    </ul>
+                </div>
+
+                <!-- Column 1: Image viewer & parsed details -->
+                <div class="image-viewer">
+                    <div class="panel">
+                        <div class="tabs-header">
+                            <button class="tab-btn active" data-tab="original">Original</button>
+                            <button class="tab-btn" data-tab="normalized">Normalized</button>
+                            <button class="tab-btn" data-tab="preprocessed">Preprocessed</button>
+                        </div>
+                        <div class="image-container" style="margin-top: 1rem;">
+                            <img src="" alt="Document View" id="doc-image">
+                        </div>
+                    </div>
+
+                    <div class="panel">
+                        <div class="card-header">
+                            <span>Extracted Visual Fields</span>
+                            <i class="fa-solid fa-database" style="color: var(--primary);"></i>
+                        </div>
+                        <table class="fields-table" id="fields-table">
+                            <!-- Populated dynamically -->
+                        </table>
+                    </div>
+                </div>
+
+                <!-- Column 2: Validation details & Fraud signals -->
+                <div class="dashboard-layout">
+                    <div class="panel">
+                        <div class="card-header">
+                            <span>Rule Verification & Cross-Validation</span>
+                            <i class="fa-solid fa-circle-check" style="color: var(--success);"></i>
+                        </div>
+                        <div class="checks-list" id="checks-list">
+                            <!-- Populated dynamically -->
+                        </div>
+                    </div>
+
+                    <div class="panel">
+                        <div class="card-header">
+                            <span>Fraud & Image Quality Signals</span>
+                            <i class="fa-solid fa-triangle-exclamation" id="fraud-card-icon" style="color: var(--success);"></i>
+                        </div>
+                        <div class="fraud-signals-grid" id="fraud-grid">
+                            <!-- Populated dynamically -->
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Full Width Raw OCR text -->
+                <div class="panel raw-text-box">
+                    <div class="card-header">
+                        <span>Extracted Raw Text</span>
+                        <i class="fa-solid fa-align-left" style="color: var(--text-muted);"></i>
+                    </div>
+                    <div class="raw-text-content" id="raw-text-content">
+                        <!-- Populated dynamically -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        // Set system clock
+        function updateClock() {
+            const now = new Date();
+            document.getElementById('system-time').innerText = now.toISOString().replace('T', ' ').substring(0, 19) + ' UTC';
+        }
+        setInterval(updateClock, 1000);
+        updateClock();
+
+        // DOM elements
+        const dropzone = document.getElementById('dropzone');
+        const fileInput = document.getElementById('file-input');
+        const welcomeScreen = document.getElementById('welcome-screen');
+        const resultsGrid = document.getElementById('results-grid');
+        
+        // Image Tabs logic
+        let imagePaths = {
+            original: '',
+            normalized: '',
+            preprocessed: ''
+        };
+
+        document.querySelectorAll('.tab-btn').forEach(btn => {
+            btn.addEventListener('click', function() {
+                document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+                this.classList.add('active');
+                const tab = this.getAttribute('data-tab');
+                document.getElementById('doc-image').src = imagePaths[tab] || '';
+            });
+        });
+
+        // Click / Drop listeners
+        dropzone.addEventListener('click', () => fileInput.click());
+
+        dropzone.addEventListener('dragover', (e) => {
+            e.preventDefault();
+            dropzone.style.borderColor = 'var(--primary)';
+        });
+
+        dropzone.addEventListener('dragleave', () => {
+            dropzone.style.borderColor = 'rgba(255, 255, 255, 0.15)';
+        });
+
+        dropzone.addEventListener('drop', (e) => {
+            e.preventDefault();
+            dropzone.style.borderColor = 'rgba(255, 255, 255, 0.15)';
+            if (e.dataTransfer.files.length > 0) {
+                handleFileUpload(e.dataTransfer.files[0]);
+            }
+        });
+
+        fileInput.addEventListener('change', (e) => {
+            if (e.target.files.length > 0) {
+                handleFileUpload(e.target.files[0]);
+            }
+        });
+
+        // API Endpoint helpers
+        async function handleFileUpload(file) {
+            // Reset visual states
+            welcomeScreen.style.display = 'none';
+            resultsGrid.style.display = 'none';
+            resetPipelineSteps();
+
+            // Step 1: Uploading
+            updateStep('step-upload', 'active', 'Uploading document...');
+            
+            const formData = new FormData();
+            formData.append('file', file);
+
+            try {
+                const response = await fetch('/api/v1/verify-pipeline', {
+                    method: 'POST',
+                    body: formData
+                });
+
+                if (!response.ok) {
+                    const error = await response.json();
+                    throw new Error(error.message || 'Verification pipeline failed');
+                }
+
+                const data = await response.json();
+                
+                // Trigger simulated pipeline playback for rich aesthetics
+                playbackPipeline(data);
+
+            } catch (err) {
+                console.error(err);
+                updateStep('step-upload', 'failed', err.message);
+                alert('Pipeline Error: ' + err.message);
+            }
+        }
+
+        function resetPipelineSteps() {
+            const steps = ['step-upload', 'step-normalize', 'step-preprocess', 'step-ocr', 'step-classify', 'step-parser', 'step-verify', 'step-cross', 'step-fraud'];
+            steps.forEach(id => {
+                const el = document.getElementById(id);
+                el.className = 'pipeline-step';
+                el.querySelector('.step-status').innerText = 'Awaiting run';
+            });
+        }
+
+        function updateStep(id, status, text) {
+            const el = document.getElementById(id);
+            if (!el) return;
+            el.className = `pipeline-step ${status}`;
+            el.querySelector('.step-status').innerText = text;
+        }
+
+        // Simulates visual processing sequence for wow factor
+        async function playbackPipeline(data) {
+            const sleep = (ms) => new Promise(r => setTimeout(r, ms));
+
+            // Upload complete
+            updateStep('step-upload', 'success', 'Uploaded successfully');
+            await sleep(400);
+
+            // Normalization
+            updateStep('step-normalize', 'active', 'Converting document layout...');
+            await sleep(600);
+            updateStep('step-normalize', 'success', `Layout normal: ${data.document_type}`);
+            
+            // Preprocessing
+            updateStep('step-preprocess', 'active', 'Denoising, CLAHE and contrast boost...');
+            await sleep(600);
+            updateStep('step-preprocess', 'success', 'Contrast enhancement complete');
+
+            // OCR
+            updateStep('step-ocr', 'active', 'PaddleOCR text extraction active...');
+            await sleep(800);
+            const lineCount = data.raw_text ? data.raw_text.split('\n').length : 0;
+            updateStep('step-ocr', 'success', `Extracted ${lineCount} text blocks`);
+
+            // Classify
+            updateStep('step-classify', 'active', 'Classifying document template...');
+            await sleep(500);
+            updateStep('step-classify', 'success', `Identified: ${data.document_type}`);
+
+            // Parser
+            updateStep('step-parser', 'active', 'Extracting regex key fields...');
+            await sleep(500);
+            const fieldCount = Object.keys(data.extracted_fields).length;
+            updateStep('step-parser', 'success', `Extracted ${fieldCount} key-value fields`);
+
+            // Verification
+            updateStep('step-verify', 'active', 'Running check sums & validation rules...');
+            await sleep(600);
+            const verified = data.verification_result.verified;
+            updateStep('step-verify', verified ? 'success' : 'failed', verified ? 'Rules checks passed' : 'Validation checks failed');
+
+            // Cross validation
+            updateStep('step-cross', 'active', 'Cross referencing visual metadata against database registry...');
+            await sleep(700);
+            const crossPassed = Object.values(data.cross_validation_result).every(c => c.passed);
+            updateStep('step-cross', crossPassed ? 'success' : 'failed', crossPassed ? 'Entity identity matches registry' : 'Registry match warnings detected');
+
+            // Fraud
+            updateStep('step-fraud', 'active', 'Analysing OpenCV image quality & fraud signals...');
+            await sleep(700);
+            const fraudScore = data.fraud_result.fraud_score;
+            const fraudRisk = data.fraud_result.fraud_risk;
+            updateStep('step-fraud', fraudRisk === 'HIGH' ? 'failed' : (fraudRisk === 'MEDIUM' ? 'active' : 'success'), `Fraud Risk: ${fraudRisk} (${Math.round(fraudScore*100)}%)`);
+
+            // Render Dashboard UI
+            renderDashboard(data);
+        }
+
+        function renderDashboard(data) {
+            // Setup image sources
+            imagePaths.original = `/api/v1/storage/${data.filename.startsWith('/') ? '' : 'uploads/'}${data.filename}`;
+            if (data.normalized_image_path) {
+                const normPath = data.normalized_image_path.replace(/\\/g, '/');
+                imagePaths.normalized = `/api/v1/storage/normalized/${normPath.substring(normPath.lastIndexOf('/') + 1)}`;
+            }
+            if (data.preprocessed_image_path) {
+                const prepPath = data.preprocessed_image_path.replace(/\\/g, '/');
+                imagePaths.preprocessed = `/api/v1/storage/processed/${prepPath.substring(prepPath.lastIndexOf('/') + 1)}`;
+            }
+
+            // Set default active tab to original
+            document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+            document.querySelector('.tab-btn[data-tab="original"]').classList.add('active');
+            document.getElementById('doc-image').src = imagePaths.original;
+
+            // Render Decision Card
+            const decCard = document.getElementById('decision-card');
+            const decBadge = document.getElementById('decision-badge');
+            const confVal = document.getElementById('confidence-val');
+            const reasonsList = document.getElementById('reasons-list');
+
+            const decision = data.decision_result.decision;
+            decBadge.innerText = decision;
+            confVal.innerText = `${Math.round(data.decision_result.confidence * 100)}%`;
+
+            if (decision === 'APPROVED') {
+                decCard.style.borderLeftColor = 'var(--success)';
+                decBadge.className = 'decision-badge badge-approved';
+                decBadge.innerHTML = '<i class="fa-solid fa-circle-check"></i> APPROVED';
+            } else if (decision === 'REJECTED') {
+                decCard.style.borderLeftColor = 'var(--danger)';
+                decBadge.className = 'decision-badge badge-rejected';
+                decBadge.innerHTML = '<i class="fa-solid fa-circle-xmark"></i> REJECTED';
+            } else {
+                decCard.style.borderLeftColor = 'var(--warning)';
+                decBadge.className = 'decision-badge badge-review';
+                decBadge.innerHTML = '<i class="fa-solid fa-triangle-exclamation"></i> MANUAL REVIEW';
+            }
+
+            // Reasons list
+            reasonsList.innerHTML = '';
+            const reasons = data.decision_result.reasons || [];
+            reasons.forEach(r => {
+                const li = document.createElement('li');
+                li.innerHTML = `<i class="fa-solid fa-chevron-right" style="color: var(--primary); font-size: 0.75rem;"></i> <span>${r}</span>`;
+                reasonsList.appendChild(li);
+            });
+
+            // Fields Table
+            const fieldsTable = document.getElementById('fields-table');
+            fieldsTable.innerHTML = '';
+            
+            // Add Document Type Row
+            const typeRow = document.createElement('tr');
+            typeRow.innerHTML = `<td class="field-key">Document Type</td><td class="field-val" style="color: var(--primary);">${data.document_type}</td>`;
+            fieldsTable.appendChild(typeRow);
+
+            const fields = data.extracted_fields || {};
+            Object.keys(fields).forEach(key => {
+                // Ignore raw MRZ lines in visual table
+                if (key.includes('mrz_line')) return;
+                const row = document.createElement('tr');
+                row.innerHTML = `<td class="field-key">${key.replace(/_/g, ' ')}</td><td class="field-val">${fields[key]}</td>`;
+                fieldsTable.appendChild(row);
+            });
+
+            // Rules Verification List
+            const checksList = document.getElementById('checks-list');
+            checksList.innerHTML = '';
+
+            // 1. Backend Verification Checks
+            const verifyChecks = data.verification_result.verification_details || {};
+            Object.keys(verifyChecks).forEach(checkKey => {
+                const check = verifyChecks[checkKey];
+                const passed = check.passed;
+                const item = document.createElement('div');
+                item.className = 'check-item';
+                item.innerHTML = `
+                    <div class="check-left">
+                        <div class="check-status-icon ${passed ? 'passed' : 'failed'}">
+                            <i class="fa-solid ${passed ? 'fa-check' : 'fa-xmark'}"></i>
+                        </div>
+                        <div>
+                            <div class="check-label">${checkKey.replace(/_/g, ' ')}</div>
+                            <div class="check-detail">${check.detail}</div>
+                        </div>
+                    </div>
+                `;
+                checksList.appendChild(item);
+            });
+
+            // 2. Cross Validation Checks
+            const crossChecks = data.cross_validation_result || {};
+            Object.keys(crossChecks).forEach(checkKey => {
+                const check = crossChecks[checkKey];
+                const passed = check.passed;
+                const item = document.createElement('div');
+                item.className = 'check-item';
+                item.innerHTML = `
+                    <div class="check-left">
+                        <div class="check-status-icon ${passed ? 'passed' : 'failed'}">
+                            <i class="fa-solid ${passed ? 'fa-check' : 'fa-xmark'}"></i>
+                        </div>
+                        <div>
+                            <div class="check-label" style="color: #6366f1;">${checkKey.replace(/_/g, ' ')}</div>
+                            <div class="check-detail">${check.detail}</div>
+                        </div>
+                    </div>
+                `;
+                checksList.appendChild(item);
+            });
+
+            // Fraud signals Grid
+            const fraudGrid = document.getElementById('fraud-grid');
+            fraudGrid.innerHTML = '';
+            const fraudSignals = data.fraud_result.signals || {};
+            const fraudRisk = data.fraud_result.fraud_risk;
+
+            // Update header warning icon based on fraud level
+            const warningIcon = document.getElementById('fraud-card-icon');
+            if (fraudRisk === 'HIGH') {
+                warningIcon.className = 'fa-solid fa-triangle-exclamation';
+                warningIcon.style.color = 'var(--danger)';
+            } else if (fraudRisk === 'MEDIUM') {
+                warningIcon.className = 'fa-solid fa-triangle-exclamation';
+                warningIcon.style.color = 'var(--warning)';
+            } else {
+                warningIcon.className = 'fa-solid fa-circle-check';
+                warningIcon.style.color = 'var(--success)';
+            }
+
+            Object.keys(fraudSignals).forEach(sigKey => {
+                const signal = fraudSignals[sigKey];
+                const flagged = signal.flagged;
+                
+                // Face presence is opposite (flagged means "no face" or it's flagged as true when face found. Let's adapt based on keys)
+                // In Python service: face_presence.flagged = face_count > 0 (True means face found, which is a good check)
+                let isTamper = flagged;
+                let statusText = flagged ? 'Flagged' : 'Clean';
+                
+                if (sigKey === 'face_presence') {
+                    isTamper = !flagged; // Flagged = face found (True = good). If not flagged = no face (bad).
+                    statusText = flagged ? `${signal.face_count} Found` : 'No Face';
+                }
+
+                const box = document.createElement('div');
+                box.className = `fraud-signal-box ${isTamper ? 'flagged' : 'clean'}`;
+                box.innerHTML = `
+                    <i class="fa-solid ${isTamper ? 'fa-circle-exclamation' : 'fa-circle-check'} signal-icon"></i>
+                    <div class="signal-name">${sigKey.replace(/_/g, ' ')}</div>
+                    <div class="signal-status">${statusText}</div>
+                `;
+                fraudGrid.appendChild(box);
+            });
+
+            // Raw Text Content
+            document.getElementById('raw-text-content').innerText = data.raw_text || 'No text extracted.';
+
+            // Reveal grid
+            resultsGrid.style.display = 'grid';
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,77 @@
+{
+  "total_briefings": 8,
+  "role_patterns": {
+    "field_officer": [
+      "Briefing for grievance: Water Supply - \"There is a massive water pipeline that h",
+      "test",
+      "Briefing for grievance: Water Supply - \"There is a massive water pipeline that h",
+      "test",
+      "Briefing for grievance: Water Supply - \"There is a massive water pipeline that h",
+      "Briefing for grievance: Water Supply - \"There is a massive water pipeline that h",
+      "Briefing for grievance: Water Supply - \"There is a massive water pipeline that h",
+      "Briefing for grievance: Electricity - Our entire neighborhood in Sector 4 has be"
+    ]
+  },
+  "successful_templates": [],
+  "query_history": [
+    {
+      "query": "Briefing for grievance: Water Supply - \"There is a massive water pipeline that has burst right on th",
+      "role": "field_officer",
+      "doc_count": 2,
+      "confidence": 0.85,
+      "timestamp": "2026-06-10T17:19:09.881393"
+    },
+    {
+      "query": "test",
+      "role": "field_officer",
+      "doc_count": 1,
+      "confidence": 0.8,
+      "timestamp": "2026-06-10T17:23:40.316051"
+    },
+    {
+      "query": "Briefing for grievance: Water Supply - \"There is a massive water pipeline that has burst right on th",
+      "role": "field_officer",
+      "doc_count": 4,
+      "confidence": 0.8,
+      "timestamp": "2026-06-10T17:41:18.864994"
+    },
+    {
+      "query": "test",
+      "role": "field_officer",
+      "doc_count": 1,
+      "confidence": 0.5,
+      "timestamp": "2026-06-10T17:46:26.404220"
+    },
+    {
+      "query": "Briefing for grievance: Water Supply - \"There is a massive water pipeline that has burst right on th",
+      "role": "field_officer",
+      "doc_count": 3,
+      "confidence": 0.8,
+      "timestamp": "2026-06-10T17:49:30.318731"
+    },
+    {
+      "query": "Briefing for grievance: Water Supply - \"There is a massive water pipeline that has burst right on th",
+      "role": "field_officer",
+      "doc_count": 3,
+      "confidence": 0.95,
+      "timestamp": "2026-06-10T17:55:13.949229"
+    },
+    {
+      "query": "Briefing for grievance: Water Supply - \"There is a massive water pipeline that has burst right on th",
+      "role": "field_officer",
+      "doc_count": 3,
+      "confidence": 0.95,
+      "timestamp": "2026-06-15T18:10:22.788254"
+    },
+    {
+      "query": "Briefing for grievance: Electricity - Our entire neighborhood in Sector 4 has been without power for",
+      "role": "field_officer",
+      "doc_count": 1,
+      "confidence": 0.95,
+      "timestamp": "2026-06-15T18:27:27.026776"
+    }
+  ],
+  "feedback": [],
+  "boost_patterns": {},
+  "bad_patterns": {}
+}

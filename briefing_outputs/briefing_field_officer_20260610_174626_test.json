@@ -1,0 +1,17 @@
+{
+  "title": "Water Supply Pipeline Test",
+  "prepared_for": [
+    "field_officer"
+  ],
+  "prepared_by": "NemHem Briefing Agent",
+  "date": "2023-12-01",
+  "query": "test",
+  "executive_summary": "NA",
+  "key_findings": [],
+  "recommended_actions": [],
+  "risks_and_flags": [],
+  "source_documents": [
+    "db_context"
+  ],
+  "confidence": 0.5
+}

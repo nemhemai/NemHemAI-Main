@@ -1,0 +1,111 @@
+{
+  "document_id": 162,
+  "pages": {
+    "1": {
+      "elements": 24,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "162_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Generic"
+        }
+      ]
+    },
+    "2": {
+      "elements": 23,
+      "flagged": 5,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "162_p2_e41",
+          "sequence_order": 41,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Aadhaar Card*"
+        },
+        {
+          "element_id": "162_p2_e43",
+          "sequence_order": 43,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Driving License"
+        },
+        {
+          "element_id": "162_p2_e44",
+          "sequence_order": 44,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "MNREGA Card"
+        },
+        {
+          "element_id": "162_p2_e45",
+          "sequence_order": 45,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "PAN Card."
+        },
+        {
+          "element_id": "162_p2_e46",
+          "sequence_order": 46,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "*Mandatory"
+        }
+      ]
+    },
+    "3": {
+      "elements": 27,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "4": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    }
+  }
+}

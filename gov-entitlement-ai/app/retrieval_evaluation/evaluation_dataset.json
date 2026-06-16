@@ -1,0 +1,601 @@
+[
+  {
+    "query": "Define treatment method technique",
+    "type": "definition",
+    "expected_keywords": [
+      "treatment",
+      "method",
+      "technique"
+    ],
+    "expected_sections": [
+      "1."
+    ],
+    "relevant_chunk_ids": [
+      "12_c0022"
+    ],
+    "document_id": 12
+  },
+  {
+    "query": "What is tipping support price?",
+    "type": "definition",
+    "expected_keywords": [
+      "tipping",
+      "support",
+      "price"
+    ],
+    "expected_sections": [
+      "1."
+    ],
+    "relevant_chunk_ids": [
+      "12_c0020"
+    ],
+    "document_id": 12
+  },
+  {
+    "query": "What is words figure vide?",
+    "type": "definition",
+    "expected_keywords": [
+      "words",
+      "figure",
+      "vide"
+    ],
+    "expected_sections": [
+      "1."
+    ],
+    "relevant_chunk_ids": [
+      "12_c0003"
+    ],
+    "document_id": 12
+  },
+  {
+    "query": "What does aerobic composting controlled mean?",
+    "type": "definition",
+    "expected_keywords": [
+      "aerobic",
+      "composting",
+      "controlled"
+    ],
+    "expected_sections": [
+      "1."
+    ],
+    "relevant_chunk_ids": [
+      "12_c0002"
+    ],
+    "document_id": 12
+  },
+  {
+    "query": "Define operator facility person",
+    "type": "definition",
+    "expected_keywords": [
+      "operator",
+      "facility",
+      "person"
+    ],
+    "expected_sections": [
+      "1."
+    ],
+    "relevant_chunk_ids": [
+      "12_c0013"
+    ],
+    "document_id": 12
+  },
+  {
+    "query": "What is the penalty for primary care services?",
+    "type": "enforcement",
+    "expected_keywords": [
+      "primary",
+      "care",
+      "services"
+    ],
+    "expected_sections": [
+      "3."
+    ],
+    "relevant_chunk_ids": [
+      "8_c0014"
+    ],
+    "document_id": 8
+  },
+  {
+    "query": "What is the penalty for mitigating loss control?",
+    "type": "enforcement",
+    "expected_keywords": [
+      "mitigating",
+      "loss",
+      "control"
+    ],
+    "expected_sections": [
+      "2.4"
+    ],
+    "relevant_chunk_ids": [
+      "5_c0043"
+    ],
+    "document_id": 5
+  },
+  {
+    "query": "Action for violation of urban health care",
+    "type": "enforcement",
+    "expected_keywords": [
+      "urban",
+      "health",
+      "care"
+    ],
+    "expected_sections": [
+      "4."
+    ],
+    "relevant_chunk_ids": [
+      "8_c0045"
+    ],
+    "document_id": 8
+  },
+  {
+    "query": "What is the penalty for objective ward level?",
+    "type": "enforcement",
+    "expected_keywords": [
+      "objective",
+      "ward",
+      "level"
+    ],
+    "expected_sections": [
+      "17.1"
+    ],
+    "relevant_chunk_ids": [
+      "2_c0330"
+    ],
+    "document_id": 2
+  },
+  {
+    "query": "What happens if secondary care services is not followed?",
+    "type": "enforcement",
+    "expected_keywords": [
+      "secondary",
+      "care",
+      "services"
+    ],
+    "expected_sections": [
+      "3."
+    ],
+    "relevant_chunk_ids": [
+      "8_c0015"
+    ],
+    "document_id": 8
+  },
+  {
+    "query": "What happens if incident reporting is not followed?",
+    "type": "enforcement",
+    "expected_keywords": [
+      "incident",
+      "reporting"
+    ],
+    "expected_sections": [
+      "2.4"
+    ],
+    "relevant_chunk_ids": [
+      "5_c0038"
+    ],
+    "document_id": 5
+  },
+  {
+    "query": "What is the penalty for urban health care?",
+    "type": "enforcement",
+    "expected_keywords": [
+      "urban",
+      "health",
+      "care"
+    ],
+    "expected_sections": [
+      "4."
+    ],
+    "relevant_chunk_ids": [
+      "8_c0035"
+    ],
+    "document_id": 8
+  },
+  {
+    "query": "What happens if development mithi river is not followed?",
+    "type": "enforcement",
+    "expected_keywords": [
+      "development",
+      "mithi",
+      "river"
+    ],
+    "expected_sections": [
+      "6."
+    ],
+    "relevant_chunk_ids": [
+      "2_c0106"
+    ],
+    "document_id": 2
+  },
+  {
+    "query": "What is the process for approved applications?",
+    "type": "general",
+    "expected_keywords": [
+      "approved",
+      "applications"
+    ],
+    "expected_sections": [
+      "5."
+    ],
+    "relevant_chunk_ids": [
+      "1_c0017"
+    ],
+    "document_id": 1
+  },
+  {
+    "query": "Explain aaple sarkar portal",
+    "type": "general",
+    "expected_keywords": [
+      "aaple",
+      "sarkar",
+      "portal"
+    ],
+    "expected_sections": [
+      "1."
+    ],
+    "relevant_chunk_ids": [
+      "1_c0000"
+    ],
+    "document_id": 1
+  },
+  {
+    "query": "What are the guidelines for health management information?",
+    "type": "general",
+    "expected_keywords": [
+      "health",
+      "management",
+      "information"
+    ],
+    "expected_sections": [
+      "3."
+    ],
+    "relevant_chunk_ids": [
+      "8_c0011"
+    ],
+    "document_id": 8
+  },
+  {
+    "query": "What are the guidelines for national governance division?",
+    "type": "general",
+    "expected_keywords": [
+      "national",
+      "governance",
+      "division"
+    ],
+    "expected_sections": [
+      "SELECTION CRITERIA FOR TE"
+    ],
+    "relevant_chunk_ids": [
+      "13_c0007"
+    ],
+    "document_id": 13
+  },
+  {
+    "query": "What is the process for urban health care?",
+    "type": "general",
+    "expected_keywords": [
+      "urban",
+      "health",
+      "care"
+    ],
+    "expected_sections": [
+      "4."
+    ],
+    "relevant_chunk_ids": [
+      "8_c0026"
+    ],
+    "document_id": 8
+  },
+  {
+    "query": "What are the guidelines for objective ward level?",
+    "type": "general",
+    "expected_keywords": [
+      "objective",
+      "ward",
+      "level"
+    ],
+    "expected_sections": [
+      "19."
+    ],
+    "relevant_chunk_ids": [
+      "2_c0333"
+    ],
+    "document_id": 2
+  },
+  {
+    "query": "What are the guidelines for aaple sarkar portal?",
+    "type": "general",
+    "expected_keywords": [
+      "aaple",
+      "sarkar",
+      "portal"
+    ],
+    "expected_sections": [
+      "3."
+    ],
+    "relevant_chunk_ids": [
+      "1_c0002"
+    ],
+    "document_id": 1
+  },
+  {
+    "query": "What are the guidelines for schemes applied?",
+    "type": "general",
+    "expected_keywords": [
+      "schemes",
+      "applied"
+    ],
+    "expected_sections": [
+      "5."
+    ],
+    "relevant_chunk_ids": [
+      "1_c0004"
+    ],
+    "document_id": 1
+  },
+  {
+    "query": "Explain urban health care",
+    "type": "general",
+    "expected_keywords": [
+      "urban",
+      "health",
+      "care"
+    ],
+    "expected_sections": [
+      "4."
+    ],
+    "relevant_chunk_ids": [
+      "8_c0049"
+    ],
+    "document_id": 8
+  },
+  {
+    "query": "What are the guidelines for executive summary?",
+    "type": "general",
+    "expected_keywords": [
+      "executive",
+      "summary"
+    ],
+    "expected_sections": [
+      "OTHER CONTRIBUTORS:"
+    ],
+    "relevant_chunk_ids": [
+      "11_c0002"
+    ],
+    "document_id": 11
+  },
+  {
+    "query": "Explain standards treated leachates",
+    "type": "general",
+    "expected_keywords": [
+      "standards",
+      "treated",
+      "leachates"
+    ],
+    "expected_sections": [
+      "SCHEDULE II"
+    ],
+    "relevant_chunk_ids": [
+      "12_c0063"
+    ],
+    "document_id": 12
+  },
+  {
+    "query": "What are the guidelines for function public health?",
+    "type": "general",
+    "expected_keywords": [
+      "function",
+      "public",
+      "health"
+    ],
+    "expected_sections": [
+      "PUBLIC HEALTH LABORATORY "
+    ],
+    "relevant_chunk_ids": [
+      "10_c0832"
+    ],
+    "document_id": 10
+  },
+  {
+    "query": "What is the process for global landscape?",
+    "type": "general",
+    "expected_keywords": [
+      "global",
+      "landscape"
+    ],
+    "expected_sections": [
+      "3."
+    ],
+    "relevant_chunk_ids": [
+      "11_c0028"
+    ],
+    "document_id": 11
+  },
+  {
+    "query": "What is the process for aaple sarkar portal?",
+    "type": "general",
+    "expected_keywords": [
+      "aaple",
+      "sarkar",
+      "portal"
+    ],
+    "expected_sections": [
+      "2."
+    ],
+    "relevant_chunk_ids": [
+      "1_c0001"
+    ],
+    "document_id": 1
+  },
+  {
+    "query": "Explain safety resilience sustainability",
+    "type": "general",
+    "expected_keywords": [
+      "safety",
+      "resilience",
+      "sustainability"
+    ],
+    "expected_sections": [
+      "Part 1: Key Principles"
+    ],
+    "relevant_chunk_ids": [
+      "5_c0021"
+    ],
+    "document_id": 5
+  },
+  {
+    "query": "What are the guidelines for urban health care?",
+    "type": "general",
+    "expected_keywords": [
+      "urban",
+      "health",
+      "care"
+    ],
+    "expected_sections": [
+      "13.6"
+    ],
+    "relevant_chunk_ids": [
+      "8_c0068"
+    ],
+    "document_id": 8
+  },
+  {
+    "query": "Explain national governance division",
+    "type": "general",
+    "expected_keywords": [
+      "national",
+      "governance",
+      "division"
+    ],
+    "expected_sections": [
+      "HOW TO APPLY FOR TECHNICA"
+    ],
+    "relevant_chunk_ids": [
+      "13_c0006"
+    ],
+    "document_id": 13
+  },
+  {
+    "query": "What are the guidelines for content authentication?",
+    "type": "general",
+    "expected_keywords": [
+      "content",
+      "authentication"
+    ],
+    "expected_sections": [
+      "2.3"
+    ],
+    "relevant_chunk_ids": [
+      "5_c0030"
+    ],
+    "document_id": 5
+  },
+  {
+    "query": "Explain criteria specifications land",
+    "type": "general",
+    "expected_keywords": [
+      "criteria",
+      "specifications",
+      "land"
+    ],
+    "expected_sections": [
+      "SCHEDULE I"
+    ],
+    "relevant_chunk_ids": [
+      "12_c0054"
+    ],
+    "document_id": 12
+  },
+  {
+    "query": "What is the process for proposed scope mission?",
+    "type": "general",
+    "expected_keywords": [
+      "proposed",
+      "scope",
+      "mission"
+    ],
+    "expected_sections": [
+      "5."
+    ],
+    "relevant_chunk_ids": [
+      "11_c0038"
+    ],
+    "document_id": 11
+  },
+  {
+    "query": "What are the guidelines for surface transport?",
+    "type": "general",
+    "expected_keywords": [
+      "surface",
+      "transport"
+    ],
+    "expected_sections": [
+      "6."
+    ],
+    "relevant_chunk_ids": [
+      "2_c0141"
+    ],
+    "document_id": 2
+  },
+  {
+    "query": "What is the process for tech workforce?",
+    "type": "general",
+    "expected_keywords": [
+      "tech",
+      "workforce"
+    ],
+    "expected_sections": [
+      "4."
+    ],
+    "relevant_chunk_ids": [
+      "11_c0031"
+    ],
+    "document_id": 11
+  },
+  {
+    "query": "What is the process for national health policy?",
+    "type": "general",
+    "expected_keywords": [
+      "national",
+      "health",
+      "policy"
+    ],
+    "expected_sections": [
+      "1."
+    ],
+    "relevant_chunk_ids": [
+      "8_c0001"
+    ],
+    "document_id": 8
+  },
+  {
+    "query": "What is the process for schemes applied?",
+    "type": "general",
+    "expected_keywords": [
+      "schemes",
+      "applied"
+    ],
+    "expected_sections": [
+      "4."
+    ],
+    "relevant_chunk_ids": [
+      "1_c0003"
+    ],
+    "document_id": 1
+  },
+  {
+    "query": "What is the process for projects under water?",
+    "type": "general",
+    "expected_keywords": [
+      "projects",
+      "under",
+      "water"
+    ],
+    "expected_sections": [
+      "WATER SUPPLY"
+    ],
+    "relevant_chunk_ids": [
+      "2_c0070"
+    ],
+    "document_id": 2
+  }
+]

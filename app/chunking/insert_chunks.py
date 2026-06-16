@@ -83,6 +83,14 @@ def insert_chunks(conn: Any, chunks: list[dict]) -> None:
     try:
         with conn.cursor() as cur:
             execute_values(cur, query, rows)
+            
+            # 🔥 Populating full-text search tokens
+            cur.execute("""
+                UPDATE document_chunks 
+                SET fts_tokens = to_tsvector('english', coalesce(text, '')) 
+                WHERE fts_tokens IS NULL AND document_id = %s;
+            """, (chunks[0]["document_id"],))
+            
         conn.commit()
         logger.info(f"Inserted {len(rows)} chunks into document_chunks")
     except Exception as exc:

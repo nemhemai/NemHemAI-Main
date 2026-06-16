@@ -1,0 +1,1907 @@
+{
+  "document_id": 160,
+  "pages": {
+    "1": {
+      "elements": 3,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "September 2024"
+        }
+      ]
+    },
+    "3": {
+      "elements": 3,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p3_e5",
+          "sequence_order": 5,
+          "page_number": 3,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Scheme Guidelines"
+        }
+      ]
+    },
+    "5": {
+      "elements": 11,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p5_e6",
+          "sequence_order": 6,
+          "page_number": 5,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Preface"
+        }
+      ]
+    },
+    "7": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "9": {
+      "elements": 2,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "10": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "11": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "12": {
+      "elements": 2,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p12_e22",
+          "sequence_order": 22,
+          "page_number": 12,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Abbreviations"
+        }
+      ]
+    },
+    "13": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "15": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "16": {
+      "elements": 8,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p16_e42",
+          "sequence_order": 42,
+          "page_number": 16,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "2. Coverage"
+        }
+      ]
+    },
+    "17": {
+      "elements": 9,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "18": {
+      "elements": 9,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "19": {
+      "elements": 9,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "20": {
+      "elements": 29,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "21": {
+      "elements": 7,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "22": {
+      "elements": 5,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "23": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "24": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "25": {
+      "elements": 9,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "26": {
+      "elements": 7,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "27": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "28": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "29": {
+      "elements": 4,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "30": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "31": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "32": {
+      "elements": 6,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "33": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "34": {
+      "elements": 6,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "35": {
+      "elements": 7,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "36": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "37": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "38": {
+      "elements": 8,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "39": {
+      "elements": 7,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "40": {
+      "elements": 2,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "41": {
+      "elements": 14,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "42": {
+      "elements": 9,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "43": {
+      "elements": 7,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p43_e240",
+          "sequence_order": 240,
+          "page_number": 43,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Notes:"
+        }
+      ]
+    },
+    "44": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "45": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "46": {
+      "elements": 20,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "47": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "48": {
+      "elements": 9,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "49": {
+      "elements": 9,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "50": {
+      "elements": 6,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "51": {
+      "elements": 15,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "52": {
+      "elements": 11,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p52_e334",
+          "sequence_order": 334,
+          "page_number": 52,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Note:"
+        }
+      ]
+    },
+    "53": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "54": {
+      "elements": 9,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "55": {
+      "elements": 7,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "56": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "57": {
+      "elements": 8,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "58": {
+      "elements": 20,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "59": {
+      "elements": 7,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "60": {
+      "elements": 16,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p60_e417",
+          "sequence_order": 417,
+          "page_number": 60,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Annexure-1A"
+        }
+      ]
+    },
+    "61": {
+      "elements": 17,
+      "flagged": 5,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p61_e445",
+          "sequence_order": 445,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "First Party"
+        },
+        {
+          "element_id": "160_p61_e446",
+          "sequence_order": 446,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Second Party"
+        },
+        {
+          "element_id": "160_p61_e447",
+          "sequence_order": 447,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Witness:__"
+        },
+        {
+          "element_id": "160_p61_e448",
+          "sequence_order": 448,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Name:"
+        },
+        {
+          "element_id": "160_p61_e449",
+          "sequence_order": 449,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Designation:"
+        }
+      ]
+    },
+    "62": {
+      "elements": 11,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p62_e450",
+          "sequence_order": 450,
+          "page_number": 62,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Annexure-1B"
+        }
+      ]
+    },
+    "63": {
+      "elements": 8,
+      "flagged": 3,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p63_e466",
+          "sequence_order": 466,
+          "page_number": 63,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Name: __"
+        },
+        {
+          "element_id": "160_p63_e467",
+          "sequence_order": 467,
+          "page_number": 63,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "(First Party)"
+        },
+        {
+          "element_id": "160_p63_e468",
+          "sequence_order": 468,
+          "page_number": 63,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "(Second Party)"
+        }
+      ]
+    },
+    "64": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "65": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "66": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "67": {
+      "elements": 9,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "68": {
+      "elements": 2,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "69": {
+      "elements": 17,
+      "flagged": 4,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p69_e512",
+          "sequence_order": 512,
+          "page_number": 69,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Annexure-2A"
+        },
+        {
+          "element_id": "160_p69_e526",
+          "sequence_order": 526,
+          "page_number": 69,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Signature:"
+        },
+        {
+          "element_id": "160_p69_e527",
+          "sequence_order": 527,
+          "page_number": 69,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Date:"
+        },
+        {
+          "element_id": "160_p69_e528",
+          "sequence_order": 528,
+          "page_number": 69,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Place:"
+        }
+      ]
+    },
+    "70": {
+      "elements": 3,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p70_e529",
+          "sequence_order": 529,
+          "page_number": 70,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Annexure-2B"
+        }
+      ]
+    },
+    "71": {
+      "elements": 4,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p71_e532",
+          "sequence_order": 532,
+          "page_number": 71,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Annexure-2C"
+        }
+      ]
+    },
+    "72": {
+      "elements": 5,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p72_e536",
+          "sequence_order": 536,
+          "page_number": 72,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Annexure-3"
+        }
+      ]
+    },
+    "73": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "74": {
+      "elements": 11,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p74_e551",
+          "sequence_order": 551,
+          "page_number": 74,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Mobile Number:"
+        }
+      ]
+    },
+    "75": {
+      "elements": 6,
+      "flagged": 3,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p75_e553",
+          "sequence_order": 553,
+          "page_number": 75,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Annexure-4"
+        },
+        {
+          "element_id": "160_p75_e557",
+          "sequence_order": 557,
+          "page_number": 75,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Signature"
+        },
+        {
+          "element_id": "160_p75_e558",
+          "sequence_order": 558,
+          "page_number": 75,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "(Secretary/Mission Director)"
+        }
+      ]
+    },
+    "76": {
+      "elements": 2,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "77": {
+      "elements": 2,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "78": {
+      "elements": 3,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "79": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "80": {
+      "elements": 33,
+      "flagged": 5,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p80_e571",
+          "sequence_order": 571,
+          "page_number": 80,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Joint"
+        },
+        {
+          "element_id": "160_p80_e572",
+          "sequence_order": 572,
+          "page_number": 80,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Female"
+        },
+        {
+          "element_id": "160_p80_e576",
+          "sequence_order": 576,
+          "page_number": 80,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Housing"
+        },
+        {
+          "element_id": "160_p80_e577",
+          "sequence_order": 577,
+          "page_number": 80,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Infrastructure"
+        },
+        {
+          "element_id": "160_p80_e578",
+          "sequence_order": 578,
+          "page_number": 80,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Other"
+        }
+      ]
+    },
+    "81": {
+      "elements": 32,
+      "flagged": 15,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p81_e600",
+          "sequence_order": 600,
+          "page_number": 81,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Infrastructure details"
+        },
+        {
+          "element_id": "160_p81_e604",
+          "sequence_order": 604,
+          "page_number": 81,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Internal Infrastructure"
+        },
+        {
+          "element_id": "160_p81_e605",
+          "sequence_order": 605,
+          "page_number": 81,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Roads"
+        },
+        {
+          "element_id": "160_p81_e606",
+          "sequence_order": 606,
+          "page_number": 81,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ii) Drainage"
+        },
+        {
+          "element_id": "160_p81_e607",
+          "sequence_order": 607,
+          "page_number": 81,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ii) Electricity"
+        },
+        {
+          "element_id": "160_p81_e611",
+          "sequence_order": 611,
+          "page_number": 81,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Social Infrastructure"
+        },
+        {
+          "element_id": "160_p81_e612",
+          "sequence_order": 612,
+          "page_number": 81,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Health Centre"
+        },
+        {
+          "element_id": "160_p81_e613",
+          "sequence_order": 613,
+          "page_number": 81,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ii) Anganwadi"
+        },
+        {
+          "element_id": "160_p81_e614",
+          "sequence_order": 614,
+          "page_number": 81,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ii) Creche"
+        },
+        {
+          "element_id": "160_p81_e617",
+          "sequence_order": 617,
+          "page_number": 81,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Neighbourhood Commercial-"
+        },
+        {
+          "element_id": "160_p81_e618",
+          "sequence_order": 618,
+          "page_number": 81,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Street Shops"
+        },
+        {
+          "element_id": "160_p81_e623",
+          "sequence_order": 623,
+          "page_number": 81,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Water Supply"
+        },
+        {
+          "element_id": "160_p81_e624",
+          "sequence_order": 624,
+          "page_number": 81,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ii) Sewerage"
+        },
+        {
+          "element_id": "160_p81_e625",
+          "sequence_order": 625,
+          "page_number": 81,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ii) Road"
+        },
+        {
+          "element_id": "160_p81_e627",
+          "sequence_order": 627,
+          "page_number": 81,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "External Electrification"
+        }
+      ]
+    },
+    "82": {
+      "elements": 14,
+      "flagged": 3,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p82_e638",
+          "sequence_order": 638,
+          "page_number": 82,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "AMRUT"
+        },
+        {
+          "element_id": "160_p82_e641",
+          "sequence_order": 641,
+          "page_number": 82,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "PMVishwakarma"
+        },
+        {
+          "element_id": "160_p82_e642",
+          "sequence_order": 642,
+          "page_number": 82,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "PMSVANidhi"
+        }
+      ]
+    },
+    "83": {
+      "elements": 26,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p83_e646",
+          "sequence_order": 646,
+          "page_number": 83,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Annexure-5C"
+        }
+      ]
+    },
+    "84": {
+      "elements": 22,
+      "flagged": 5,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p84_e686",
+          "sequence_order": 686,
+          "page_number": 84,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "beneficiaries? Yes/No"
+        },
+        {
+          "element_id": "160_p84_e689",
+          "sequence_order": 689,
+          "page_number": 84,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "beneficiaries"
+        },
+        {
+          "element_id": "160_p84_e690",
+          "sequence_order": 690,
+          "page_number": 84,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Person with"
+        },
+        {
+          "element_id": "160_p84_e691",
+          "sequence_order": 691,
+          "page_number": 84,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Disability"
+        },
+        {
+          "element_id": "160_p84_e693",
+          "sequence_order": 693,
+          "page_number": 84,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ciaries covered"
+        }
+      ]
+    },
+    "85": {
+      "elements": 24,
+      "flagged": 6,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p85_e695",
+          "sequence_order": 695,
+          "page_number": 85,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "constructed/"
+        },
+        {
+          "element_id": "160_p85_e696",
+          "sequence_order": 696,
+          "page_number": 85,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "acquired"
+        },
+        {
+          "element_id": "160_p85_e697",
+          "sequence_order": 697,
+          "page_number": 85,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Please specify"
+        },
+        {
+          "element_id": "160_p85_e698",
+          "sequence_order": 698,
+          "page_number": 85,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ownership (any"
+        },
+        {
+          "element_id": "160_p85_e699",
+          "sequence_order": 699,
+          "page_number": 85,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "of these)"
+        },
+        {
+          "element_id": "160_p85_e700",
+          "sequence_order": 700,
+          "page_number": 85,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Transgender"
+        }
+      ]
+    },
+    "86": {
+      "elements": 18,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p86_e723",
+          "sequence_order": 723,
+          "page_number": 86,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Sewerage (Yes/No)"
+        },
+        {
+          "element_id": "160_p86_e724",
+          "sequence_order": 724,
+          "page_number": 86,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Road (Yes/No)"
+        }
+      ]
+    },
+    "87": {
+      "elements": 2,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "88": {
+      "elements": 4,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p88_e738",
+          "sequence_order": 738,
+          "page_number": 88,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Annexure-5D"
+        }
+      ]
+    },
+    "89": {
+      "elements": 3,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p89_e744",
+          "sequence_order": 744,
+          "page_number": 89,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "(Commissioner/EO)"
+        }
+      ]
+    },
+    "90": {
+      "elements": 5,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p90_e745",
+          "sequence_order": 745,
+          "page_number": 90,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Annexure 6"
+        }
+      ]
+    },
+    "91": {
+      "elements": 28,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p91_e753",
+          "sequence_order": 753,
+          "page_number": 91,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Dormitory"
+        },
+        {
+          "element_id": "160_p91_e775",
+          "sequence_order": 775,
+          "page_number": 91,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Infrastructure Details:"
+        }
+      ]
+    },
+    "92": {
+      "elements": 2,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "93": {
+      "elements": 4,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p93_e780",
+          "sequence_order": 780,
+          "page_number": 93,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Annexure-7"
+        }
+      ]
+    },
+    "94": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "95": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "96": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "97": {
+      "elements": 10,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p97_e795",
+          "sequence_order": 795,
+          "page_number": 97,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Domain Id:"
+        }
+      ]
+    },
+    "98": {
+      "elements": 4,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p98_e797",
+          "sequence_order": 797,
+          "page_number": 98,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Annexure-8"
+        }
+      ]
+    },
+    "99": {
+      "elements": 4,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "100": {
+      "elements": 9,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p100_e806",
+          "sequence_order": 806,
+          "page_number": 100,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Annexure-9"
+        }
+      ]
+    },
+    "101": {
+      "elements": 15,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p101_e827",
+          "sequence_order": 827,
+          "page_number": 101,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "GEO-TAGGING STAGES:"
+        }
+      ]
+    },
+    "102": {
+      "elements": 10,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p102_e829",
+          "sequence_order": 829,
+          "page_number": 102,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Annexure-10A"
+        }
+      ]
+    },
+    "103": {
+      "elements": 4,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p103_e839",
+          "sequence_order": 839,
+          "page_number": 103,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Annexure-10B"
+        }
+      ]
+    },
+    "104": {
+      "elements": 14,
+      "flagged": 4,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p104_e843",
+          "sequence_order": 843,
+          "page_number": 104,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Summary:"
+        },
+        {
+          "element_id": "160_p104_e850",
+          "sequence_order": 850,
+          "page_number": 104,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Authorized Signatory"
+        },
+        {
+          "element_id": "160_p104_e851",
+          "sequence_order": 851,
+          "page_number": 104,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Name __"
+        },
+        {
+          "element_id": "160_p104_e852",
+          "sequence_order": 852,
+          "page_number": 104,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Designation __"
+        }
+      ]
+    },
+    "105": {
+      "elements": 6,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "106": {
+      "elements": 12,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p106_e863",
+          "sequence_order": 863,
+          "page_number": 106,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Annexure-12A"
+        }
+      ]
+    },
+    "107": {
+      "elements": 7,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p107_e875",
+          "sequence_order": 875,
+          "page_number": 107,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Annexure-12B"
+        }
+      ]
+    },
+    "108": {
+      "elements": 14,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p108_e882",
+          "sequence_order": 882,
+          "page_number": 108,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Annexure-13"
+        },
+        {
+          "element_id": "160_p108_e885",
+          "sequence_order": 885,
+          "page_number": 108,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Composition"
+        }
+      ]
+    },
+    "109": {
+      "elements": 14,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p109_e896",
+          "sequence_order": 896,
+          "page_number": 109,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Annexure-14"
+        }
+      ]
+    },
+    "112": {
+      "elements": 3,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "160_p112_e912",
+          "sequence_order": 912,
+          "page_number": 112,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "pmay_urban"
+        }
+      ]
+    }
+  }
+}

@@ -3,7 +3,7 @@ import json
 import os
 from typing import List, Dict
 
-# Parse REDIS_URL from .env or default
+# Parse REDIS_URL from .env or default (Updated connection state)
 REDIS_URL = os.getenv("REDIS_URL", "redis://localhost:6379/0")
 
 class CitizenMemory:
