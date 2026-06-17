@@ -11,7 +11,7 @@ from app.memory.redis_memory import memory_store
 logger = logging.getLogger(__name__)
 
 OLLAMA_API_URL = "http://localhost:11434/api/generate"
-MODEL_NAME = "qwen2.5-coder:7b"
+MODEL_NAME = "llama3.2:3b"
 
 DRAFT_PROMPT = """
 You are a highly professional, empathetic Government AI assistant.

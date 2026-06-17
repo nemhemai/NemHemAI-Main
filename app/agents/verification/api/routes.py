@@ -92,7 +92,7 @@ async def verify_pipeline(
         if preprocessed_image_path:
             preprocessed_image_path = os.path.abspath(preprocessed_image_path)
         
-        # 4. OCR Text Extraction (PaddleOCR)
+        # 4. OCR Text Extraction (PyTesseract)
         ocr_res = OCRService.extract_text(processed_pages)
         raw_text = ocr_res["extracted_text"]
         

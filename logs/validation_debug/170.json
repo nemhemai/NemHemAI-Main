@@ -1,0 +1,254 @@
+{
+  "document_id": 170,
+  "pages": {
+    "1": {
+      "elements": 2,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "2": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [
+        "corrupted_text",
+        "low_content"
+      ],
+      "ocr_conf": 22.24,
+      "issues": [
+        {
+          "element_id": "170_p2_e2",
+          "sequence_order": 2,
+          "page_number": 2,
+          "quality_score": 0.133,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ered' fa"
+        },
+        {
+          "element_id": "170_p2_e3",
+          "sequence_order": 3,
+          "page_number": 2,
+          "quality_score": 0.222,
+          "element_type": "section",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "\"PERE EE 2 |"
+        },
+        {
+          "element_id": "170_p2_e4",
+          "sequence_order": 4,
+          "page_number": 2,
+          "quality_score": 0.222,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "sek ea pi be"
+        },
+        {
+          "element_id": "170_p2_e5",
+          "sequence_order": 5,
+          "page_number": 2,
+          "quality_score": 0.133,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "obese gg!"
+        },
+        {
+          "element_id": "170_p2_e6",
+          "sequence_order": 6,
+          "page_number": 2,
+          "quality_score": 0.133,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "pepo;"
+        },
+        {
+          "element_id": "170_p2_e7",
+          "sequence_order": 7,
+          "page_number": 2,
+          "quality_score": 0.133,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "PEER bl"
+        },
+        {
+          "element_id": "170_p2_e8",
+          "sequence_order": 8,
+          "page_number": 2,
+          "quality_score": 0.067,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "F zi"
+        }
+      ]
+    },
+    "3": {
+      "elements": 9,
+      "flagged": 4,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "170_p3_e11",
+          "sequence_order": 11,
+          "page_number": 3,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "with larger"
+        },
+        {
+          "element_id": "170_p3_e12",
+          "sequence_order": 12,
+          "page_number": 3,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Residential Premises"
+        },
+        {
+          "element_id": "170_p3_e13",
+          "sequence_order": 13,
+          "page_number": 3,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Re-enacted"
+        },
+        {
+          "element_id": "170_p3_e14",
+          "sequence_order": 14,
+          "page_number": 3,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Act, 1979"
+        }
+      ]
+    },
+    "4": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "5": {
+      "elements": 18,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "6": {
+      "elements": 25,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "7": {
+      "elements": 21,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "8": {
+      "elements": 18,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "9": {
+      "elements": 16,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "10": {
+      "elements": 19,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "11": {
+      "elements": 12,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "170_p11_e145",
+          "sequence_order": 145,
+          "page_number": 11,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "MISCELLANEOUS"
+        }
+      ]
+    },
+    "12": {
+      "elements": 14,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "13": {
+      "elements": 14,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "14": {
+      "elements": 7,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    }
+  }
+}

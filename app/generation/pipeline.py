@@ -60,15 +60,12 @@ def get_system_prompt(query_analysis: dict) -> str:
     ))
 
     # Append language instruction to system prompt
-    return (
-        system
-        + "\n"
-        + "IMPORTANT:\n"
-        + "You MUST respond ONLY in the user's language.\n"
-        + "Do NOT switch to English.\n"
-        + lang_line
-        + "\n"
-    )
+    lang_instruction = "IMPORTANT:\nYou MUST respond ONLY in the user's language.\n"
+    if lang != "en":
+        lang_instruction += "Do NOT switch to English.\n"
+    lang_instruction += f"{lang_line}\n"
+
+    return system + "\n" + lang_instruction
 
 
 def query_overlap_score(chunk_text: str, query: str) -> float:
