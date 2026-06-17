@@ -1,8 +1,7 @@
 import uuid
 import time
 import cv2
-import pytesseract
-from pytesseract import Output
+from rapidocr_onnxruntime import RapidOCR
 
 from app.agents.verification.core.logger import logger
 from app.agents.verification.core.exceptions import AppException
@@ -13,35 +12,39 @@ from app.agents.verification.core.exceptions import AppException
 
 class OCRService:
 
+    # Initialize the engine once for maximum speed (Singleton pattern)
+    _engine = None
+
+    @classmethod
+    def get_engine(cls):
+        if cls._engine is None:
+            # Loads PaddleOCR models running strictly on ONNX (CPU optimized)
+            cls._engine = RapidOCR()
+        return cls._engine
+
     @staticmethod
-    def extract_text(
-        processed_pages: list
-    ):
+    def extract_text(processed_pages: list):
 
         start_time = time.time()
 
-        logger.info(
-            "OCR extraction started (PyTesseract)"
-        )
+        logger.info("OCR extraction started (RapidOCR)")
 
         all_lines = []
         full_text = ""
+        
+        # Fetch the initialized ONNX engine
+        engine = OCRService.get_engine()
 
         for page in processed_pages:
 
-            image_path = (
-                page.get("processed_path") or page.get("normalized_path")
-            )
+            image_path = page.get("processed_path") or page.get("normalized_path")
 
             try:
-
                 # =====================================
                 # IMAGE INFO
                 # =====================================
 
-                img = cv2.imread(
-                    image_path
-                )
+                img = cv2.imread(image_path)
 
                 if img is None:
                     raise AppException(
@@ -56,108 +59,48 @@ class OCRService:
                     height=img.shape[0]
                 )
 
-                logger.info(
-                    "Before OCR",
-                    image_path=image_path
-                )
+                logger.info("Before OCR", image_path=image_path)
 
                 # =====================================
-                # OCR WITH PYTESSERACT
+                # OCR WITH RAPID OCR (Paddle ONNX)
                 # =====================================
-
-                data = pytesseract.image_to_data(img, output_type=Output.DICT)
                 
-                # Reconstruct lines from words
-                current_line = []
-                current_line_num = -1
-                current_conf = []
+                # result is a list of lines, elapse is processing time
+                result, elapse = engine(img)
 
-                n_boxes = len(data['level'])
-                for i in range(n_boxes):
-                    if data['level'][i] == 5: # Word level
-                        text = data['text'][i].strip()
-                        conf = float(data['conf'][i])
-                        line_num = data['line_num'][i]
-                        block_num = data['block_num'][i]
-                        par_num = data['par_num'][i]
+                if result:
+                    for line_data in result:
+                        # line_data format: [bounding_box, text, confidence]
+                        text = line_data[1].strip()
+                        conf = float(line_data[2])
                         
-                        # Use a composite key for line identification
-                        line_id = f"{block_num}_{par_num}_{line_num}"
+                        if text:
+                            all_lines.append({
+                                "text": text,
+                                "confidence": conf
+                            })
+                            full_text += text + "\n"
 
-                        if text and conf > -1:
-                            if line_id != current_line_num and current_line:
-                                # Save previous line
-                                line_text = " ".join(current_line)
-                                avg_conf = sum(current_conf) / len(current_conf) / 100.0
-                                all_lines.append({
-                                    "text": line_text,
-                                    "confidence": avg_conf
-                                })
-                                full_text += line_text + "\n"
-                                
-                                # Reset for new line
-                                current_line = []
-                                current_conf = []
-                            
-                            current_line_num = line_id
-                            current_line.append(text)
-                            current_conf.append(conf)
-
-                # Add the last line if exists
-                if current_line:
-                    line_text = " ".join(current_line)
-                    avg_conf = sum(current_conf) / len(current_conf) / 100.0
-                    all_lines.append({
-                        "text": line_text,
-                        "confidence": avg_conf
-                    })
-                    full_text += line_text + "\n"
-
-                logger.info(
-                    "After OCR",
-                    image_path=image_path
-                )
+                logger.info("After OCR", image_path=image_path)
 
             except Exception as e:
-
-                print(
-                    "\nOCR ERROR:\n",
-                    str(e)
-                )
-
+                print("\nOCR ERROR:\n", str(e))
                 raise AppException(
                     message=str(e),
                     error_code="OCR_FAILED",
                     status_code=500
                 )
 
-        total_time = (
-            time.time() - start_time
-        )
+        total_time = time.time() - start_time
 
         logger.info(
             "OCR extraction complete",
-            total_lines=len(
-                all_lines
-            ),
+            total_lines=len(all_lines),
             time_taken=total_time
         )
 
         return {
-
-            "request_id": str(
-                uuid.uuid4()
-            ),
-
-            "total_pages": len(
-                processed_pages
-            ),
-
-            "extracted_text": (
-                full_text.strip()
-            ),
-
-            "ocr_lines": all_lines,
-
-            "status": "SUCCESS"
+            "request_id": str(uuid.uuid4()),
+            "lines": all_lines,
+            "full_text": full_text.strip()
         }

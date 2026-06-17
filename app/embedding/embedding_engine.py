@@ -61,7 +61,7 @@ logger = logging.getLogger(__name__)
 
 EMBEDDING_MODEL = settings.EMBED_MODEL_PATH
 DENSE_DIM            = 1024             # BGE-M3 dense output dimension
-DEFAULT_BATCH_SIZE   = 4               # chunks per encode call (reduced from 32 to prevent OOM)
+DEFAULT_BATCH_SIZE   = 8               # optimized for 16GB RAM PC (balanced speed/memory)
 MAX_INPUT_TOKENS     = 512              # hard cap passed to FlagEmbedding
 #MIN_QUALITY_TO_EMBED = 0.0              # embed everything (filter at retrieval)
 
@@ -98,6 +98,19 @@ def load_model() -> Any:
     logger.info(f"Loading local BGE-M3 model from {EMBEDDING_MODEL}")
 
     t0 = time.time()
+    
+    import torch
+    import gc
+    import psutil
+    import os
+
+    # Aggressive garbage collection to free memory before loading large model
+    gc.collect()
+
+    # Limit PyTorch threads to avoid CPU/Memory thrashing
+    physical_cores = psutil.cpu_count(logical=False) or 4
+    torch.set_num_threads(physical_cores)
+    os.environ["OMP_NUM_THREADS"] = str(physical_cores)
 
     _MODEL_INSTANCE = BGEM3FlagModel(
         EMBEDDING_MODEL,

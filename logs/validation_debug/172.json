@@ -1,0 +1,290 @@
+{
+  "document_id": 172,
+  "pages": {
+    "1": {
+      "elements": 26,
+      "flagged": 8,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "172_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "PREAMBLE."
+        },
+        {
+          "element_id": "172_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "SECTIONS."
+        },
+        {
+          "element_id": "172_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Definitions."
+        },
+        {
+          "element_id": "172_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "CHAPTER II"
+        },
+        {
+          "element_id": "172_p1_e16",
+          "sequence_order": 16,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "CONTENTS"
+        },
+        {
+          "element_id": "172_p1_e17",
+          "sequence_order": 17,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "CHAPTER I"
+        },
+        {
+          "element_id": "172_p1_e18",
+          "sequence_order": 18,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "PRELIMINARY"
+        },
+        {
+          "element_id": "172_p1_e23",
+          "sequence_order": 23,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "CHAPTER IV"
+        }
+      ]
+    },
+    "2": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": 21.79,
+      "issues": [
+        {
+          "element_id": "172_p2_e26",
+          "sequence_order": 26,
+          "page_number": 2,
+          "quality_score": 0.131,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "PL g2"
+        },
+        {
+          "element_id": "172_p2_e27",
+          "sequence_order": 27,
+          "page_number": 2,
+          "quality_score": 0.218,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "5 a zO8 a z"
+        }
+      ]
+    },
+    "3": {
+      "elements": 24,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "172_p3_e35",
+          "sequence_order": 35,
+          "page_number": 3,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "CHAPTER I"
+        },
+        {
+          "element_id": "172_p3_e36",
+          "sequence_order": 36,
+          "page_number": 3,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "PRELIMINARY"
+        }
+      ]
+    },
+    "4": {
+      "elements": 20,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "5": {
+      "elements": 18,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "6": {
+      "elements": 14,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "7": {
+      "elements": 15,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "8": {
+      "elements": 16,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "172_p8_e127",
+          "sequence_order": 127,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "CHAPTER V"
+        }
+      ]
+    },
+    "9": {
+      "elements": 16,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "172_p9_e135",
+          "sequence_order": 135,
+          "page_number": 9,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "CHAPTER VI"
+        },
+        {
+          "element_id": "172_p9_e136",
+          "sequence_order": 136,
+          "page_number": 9,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "MISCELLANEOUS"
+        }
+      ]
+    },
+    "10": {
+      "elements": 17,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "172_p10_e156",
+          "sequence_order": 156,
+          "page_number": 10,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "SCHEDULE"
+        }
+      ]
+    },
+    "11": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    }
+  }
+}
