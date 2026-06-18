@@ -79,12 +79,12 @@ def dense_search(
             c.avg_quality_score,
             e.sparse_vector,
             d.file_name AS document_name,
-            1 - (e.embedding <=> %s::vector) AS dense_score
+            1 - (e.embedding::halfvec(1024) <=> %s::halfvec(1024)) AS dense_score
         FROM document_embeddings e
         JOIN document_chunks c USING (chunk_id)
         LEFT JOIN documents d ON c.document_id = d.document_id
         WHERE {where_clause}
-        ORDER BY e.embedding <=> %s::vector
+        ORDER BY e.embedding::halfvec(1024) <=> %s::halfvec(1024)
         LIMIT %s
     """
 

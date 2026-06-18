@@ -1,0 +1,132 @@
+{
+  "document_id": 173,
+  "pages": {
+    "1": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": 90.24,
+      "issues": []
+    },
+    "2": {
+      "elements": 2,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "3": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "4": {
+      "elements": 6,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "5": {
+      "elements": 6,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "173_p5_e20",
+          "sequence_order": 20,
+          "page_number": 5,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "PARISHAD"
+        }
+      ]
+    },
+    "6": {
+      "elements": 7,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "173_p6_e27",
+          "sequence_order": 27,
+          "page_number": 6,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "C) 0BSJttRVATIONS:"
+        }
+      ]
+    },
+    "7": {
+      "elements": 6,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "8": {
+      "elements": 6,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "9": {
+      "elements": 8,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "173_p9_e44",
+          "sequence_order": 44,
+          "page_number": 9,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ii) Contd.."
+        },
+        {
+          "element_id": "173_p9_e48",
+          "sequence_order": 48,
+          "page_number": 9,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ssa&&mms *"
+        }
+      ]
+    },
+    "10": {
+      "elements": 2,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    }
+  }
+}

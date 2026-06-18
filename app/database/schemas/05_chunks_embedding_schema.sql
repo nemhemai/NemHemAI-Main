@@ -105,17 +105,15 @@ END$$;
 -- ============================================================================
 -- 4. INDEX: Dense Vector Search (CRITICAL)
 -- ----------------------------------------------------------------------------
--- IVF Flat index for approximate nearest neighbor search
--- vector_cosine_ops → cosine similarity
---
--- lists parameter tuning:
---   small dataset  → 100
---   large dataset  → 1000+
+-- HNSW index for high-speed approximate nearest neighbor search.
+-- Uses scalar quantization (halfvec) to cut memory usage in half.
 -- ============================================================================
+DROP INDEX IF EXISTS idx_document_embeddings_dense;
+
 CREATE INDEX IF NOT EXISTS idx_document_embeddings_dense
 ON document_embeddings
-USING ivfflat (embedding vector_cosine_ops)
-WITH (lists = 100);
+USING hnsw ((embedding::halfvec(1024)) halfvec_cosine_ops)
+WITH (m = 16, ef_construction = 64);
 
 
 -- ============================================================================

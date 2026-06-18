@@ -1,5 +1,6 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.staticfiles import StaticFiles
 import uvicorn
 
 from app.api.auth_routes import router as auth_router
@@ -43,6 +44,9 @@ app.add_middleware(
 # -----------------------------------------------------------------------------
 # Route Registration
 # -----------------------------------------------------------------------------
+
+# Mount static files for PDFs
+app.mount("/docs", StaticFiles(directory="storage"), name="docs")
 
 app.include_router(auth_router, prefix="/api/auth", tags=["Auth"])
 app.include_router(ingestion_router, prefix="/api/ingest", tags=["Ingestion"])
