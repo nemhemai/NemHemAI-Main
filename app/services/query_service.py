@@ -161,7 +161,7 @@ def run_query(query: str, user: dict) -> dict:
 
     try:
         # 🔍 Step 1: Retrieval
-        chunks = retriever.retrieve(conn, query)
+        chunks = retriever.retrieve(conn, query, use_rerank=False)
 
         print("TOP SCORE DEBUG:", chunks[0:5] if chunks else "NO CHUNKS")
 

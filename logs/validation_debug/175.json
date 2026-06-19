@@ -1,0 +1,178 @@
+{
+  "document_id": 175,
+  "pages": {
+    "1": {
+      "elements": 5,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "2": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": 29.4,
+      "issues": [
+        {
+          "element_id": "175_p2_e5",
+          "sequence_order": 5,
+          "page_number": 2,
+          "quality_score": 0.294,
+          "element_type": "table",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "reeby if, CHE Hip"
+        }
+      ]
+    },
+    "3": {
+      "elements": 16,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "4": {
+      "elements": 26,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "175_p4_e29",
+          "sequence_order": 29,
+          "page_number": 4,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Mixed-use developments"
+        }
+      ]
+    },
+    "5": {
+      "elements": 5,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "6": {
+      "elements": 7,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "7": {
+      "elements": 17,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "8": {
+      "elements": 13,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "9": {
+      "elements": 16,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "10": {
+      "elements": 17,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "11": {
+      "elements": 13,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "12": {
+      "elements": 12,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "175_p12_e145",
+          "sequence_order": 145,
+          "page_number": 12,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Lighting Tax"
+        }
+      ]
+    },
+    "13": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "14": {
+      "elements": 2,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "15": {
+      "elements": 22,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "175_p15_e172",
+          "sequence_order": 172,
+          "page_number": 15,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Key Takeaways:"
+        },
+        {
+          "element_id": "175_p15_e181",
+          "sequence_order": 181,
+          "page_number": 15,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "curre"
+        }
+      ]
+    }
+  }
+}
