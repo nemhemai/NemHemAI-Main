@@ -165,21 +165,23 @@ def generate_answer(llm, query, chunks, query_lang="en"):
 
         if not validation["is_valid"]:
             print("WARN: VALIDATION FAILED:", validation["reason"])
+            citations = build_citations(chunks, list(range(1, len(chunks) + 1)))
             return {
                 "query": query,
                 "answer_original": "Answer could not be reliably generated from documents",
                 "answer_translated": "",
-                "citations": [],
+                "citations": citations[:3],
                 "confidence": "low",
                 "error": validation["reason"]
             }
 
         if "not available in the provided documents" in answer.lower():
+            citations = build_citations(chunks, list(range(1, len(chunks) + 1)))
             return {
                 "query": query,
                 "answer_original": "No relevant information found in documents",
                 "answer_translated": "",
-                "citations": [],
+                "citations": citations[:3],
                 "confidence": "low"
             }
 

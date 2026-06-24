@@ -1,0 +1,411 @@
+{
+  "document_id": 33,
+  "pages": {
+    "1": {
+      "elements": 12,
+      "flagged": 12,
+      "flags": [
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "33_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Frequently Asked Questions"
+        },
+        {
+          "element_id": "33_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Generic"
+        },
+        {
+          "element_id": "33_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "1. \u0007What is the Scheme? This is a Central Sector Scheme to facilitate  street vendors to access affordable working  capi"
+        },
+        {
+          "element_id": "33_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 53,
+          "text_preview": "2. \u0007What is the rationale of the Scheme? The COVID-19 pandemic and consequent  lockdowns have adversely impacted the  li"
+        },
+        {
+          "element_id": "33_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "3. \u0007What are the objectives of the Scheme? (i) \u0007To facilitate working capital loan up to  `10,000 at subsidized rate of "
+        },
+        {
+          "element_id": "33_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 44,
+          "text_preview": "4. \u0007What are the salient features of the Scheme? (i) \u0007Initial working capital of up to `10,000/- (ii) \u0007Interest subsidy "
+        },
+        {
+          "element_id": "33_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "5. Who is the target beneficiary for the  Scheme? Street vendors/ hawkers vending in urban areas,  as on or before March"
+        },
+        {
+          "element_id": "33_p1_e7",
+          "sequence_order": 7,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 81,
+          "text_preview": "6. \u0007Who is a Street Vendor/hawker? Any person engaged in vending of articles,  goods, wares, food items or merchandise o"
+        },
+        {
+          "element_id": "33_p1_e8",
+          "sequence_order": 8,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "7. \u0007Which lending institutions will provide credit? Scheduled Commercial Banks, Regional Rural  Banks, Small Finance Ban"
+        },
+        {
+          "element_id": "33_p1_e9",
+          "sequence_order": 9,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "8. \u0007What is the tenure of the Scheme? The Scheme shall be implemented up to March,  2022."
+        },
+        {
+          "element_id": "33_p1_e10",
+          "sequence_order": 10,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "PM Street Vendor’s  AtmaNirbhar Nidhi (PM SVANidhi)"
+        },
+        {
+          "element_id": "33_p1_e11",
+          "sequence_order": 11,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "A Special Micro-Credit Facility for Street Vendors"
+        }
+      ]
+    },
+    "2": {
+      "elements": 10,
+      "flagged": 10,
+      "flags": [
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "33_p2_e12",
+          "sequence_order": 12,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "1. What is the amount of initial working capital  loan? The Initial working capital loan is upto `10,000/-  for a tenure"
+        },
+        {
+          "element_id": "33_p2_e13",
+          "sequence_order": 13,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 58,
+          "text_preview": "2. I have an Identity Card /Certificate of  Vending. How can I apply for the loan? You can approach a Banking Correspond"
+        },
+        {
+          "element_id": "33_p2_e14",
+          "sequence_order": 14,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "3. How will I know that I am in the surveyed  list?  You can access this information on the website  of PMSVANidhi (pmsv"
+        },
+        {
+          "element_id": "33_p2_e15",
+          "sequence_order": 15,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 78,
+          "text_preview": "4. My name is in the list of surveyed vendors,  but I do not have either Identity Card or  Certificate of Vending? Can I"
+        },
+        {
+          "element_id": "33_p2_e16",
+          "sequence_order": 16,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "5. I stay in the surrounding rural area and  vend in the city. Am I eligible for the Scheme?  If yes, what is the proces"
+        },
+        {
+          "element_id": "33_p2_e17",
+          "sequence_order": 17,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "FAQs for Beneficiaries"
+        },
+        {
+          "element_id": "33_p2_e18",
+          "sequence_order": 18,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 128,
+          "text_preview": "6. I am a vendor from the city but not included  in the survey. How can I avail benefits of the  Scheme? The Scheme is a"
+        },
+        {
+          "element_id": "33_p2_e19",
+          "sequence_order": 19,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 37,
+          "text_preview": "You can also request ULB through a simple  application on white paper to conduct local  enquiry to ascertain the genuine"
+        },
+        {
+          "element_id": "33_p2_e20",
+          "sequence_order": 20,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "7. What are the KYC documents required in  addition to CoV/ ID / LoR?  I. Aadhaar Card* II. Voter Identity Card* III. Dr"
+        },
+        {
+          "element_id": "33_p2_e21",
+          "sequence_order": 21,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "*Mandatory"
+        }
+      ]
+    },
+    "3": {
+      "elements": 13,
+      "flagged": 13,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "33_p3_e22",
+          "sequence_order": 22,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 69,
+          "text_preview": "8. What is the rate and amount of interest  subsidy? The rate of interest subsidy 7%. The interest  subsidy amount will "
+        },
+        {
+          "element_id": "33_p3_e23",
+          "sequence_order": 23,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "9. Do I need to give any collateral to avail this  loan? No collateral security is required."
+        },
+        {
+          "element_id": "33_p3_e24",
+          "sequence_order": 24,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 60,
+          "text_preview": "10. What is the amount of incentive for digital  transactions? The on-boarded vendors would be provided  with a monthly "
+        },
+        {
+          "element_id": "33_p3_e25",
+          "sequence_order": 25,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Each transaction > `25 will be counted."
+        },
+        {
+          "element_id": "33_p3_e26",
+          "sequence_order": 26,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 47,
+          "text_preview": "11. I am not familiar with digital transactions.  Will there be any capacity building for doing  that? An agent from MFI"
+        },
+        {
+          "element_id": "33_p3_e27",
+          "sequence_order": 27,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 36,
+          "text_preview": "12. Is there any incentive for timely/ early  repayment of loan? Yes, on timely/ early repayment of loan of initial  wor"
+        },
+        {
+          "element_id": "33_p3_e28",
+          "sequence_order": 28,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "13. Is there any penalty for repayment of loan  before the scheduled date?  There is no penalty for pre-closure of the l"
+        },
+        {
+          "element_id": "33_p3_e29",
+          "sequence_order": 29,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 34,
+          "text_preview": "14. How can I enhance my chances of availing  this loan? You may become a part of Common Interest  Group (CIG) formed by"
+        },
+        {
+          "element_id": "33_p3_e30",
+          "sequence_order": 30,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "15. \u0007Who all can I approach to avail the facility? You may meet a member of SHG or ALF or CLF  or call toll free number."
+        },
+        {
+          "element_id": "33_p3_e31",
+          "sequence_order": 31,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "16. Will I get Identity Card for use? Yes, you will be issued Provisional Identity Card  on approval of loan and permane"
+        },
+        {
+          "element_id": "33_p3_e32",
+          "sequence_order": 32,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 48,
+          "text_preview": "17. How long it will take to get the loan  approved? Complete process will be automated through  a Mobile App and Web Po"
+        },
+        {
+          "element_id": "33_p3_e33",
+          "sequence_order": 33,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "18. \u0007Who should I contact for grievances? In case of any grievance, you may contact the  following officer in the Minist"
+        },
+        {
+          "element_id": "33_p3_e34",
+          "sequence_order": 34,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "Director (NULM),  Room no.334-C,  Ministry of Housing & Urban Affairs, Nirman Bhawan,  Maulana Azad Road, New Delhi – 11"
+        }
+      ]
+    },
+    "4": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "33_p4_e35",
+          "sequence_order": 35,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Website: mohua.gov.in • Email: dir-nulm@gov.in"
+        }
+      ]
+    }
+  }
+}

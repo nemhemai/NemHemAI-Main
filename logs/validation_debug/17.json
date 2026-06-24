@@ -1,0 +1,4602 @@
+{
+  "document_id": 17,
+  "pages": {
+    "1": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "पुणे महानगरपालिका  सन २०२६-२७ चे ऄंदाजपत्रक"
+        },
+        {
+          "element_id": "17_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "नवि ककशोर राम  महापालिका अयुक्त  पुणे महानगरपालिका"
+        }
+      ]
+    },
+    "2": {
+      "elements": 2,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p2_e2",
+          "sequence_order": 2,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "पाणीपुरवठा"
+        }
+      ]
+    },
+    "3": {
+      "elements": 21,
+      "flagged": 21,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p3_e4",
+          "sequence_order": 4,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "पाणीपुरवठा- सन २०२६-२७ मध्ये  करावयाचे प्रस्तालवत महत्वाचे प्रकल्प/योजना"
+        },
+        {
+          "element_id": "17_p3_e5",
+          "sequence_order": 5,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "ऄ. क्र"
+        },
+        {
+          "element_id": "17_p3_e6",
+          "sequence_order": 6,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "क्षेत्राचे/  गावाचे नाव"
+        },
+        {
+          "element_id": "17_p3_e7",
+          "sequence_order": 7,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "पाण्या च्या  टाकयां ची  संख्या"
+        },
+        {
+          "element_id": "17_p3_e8",
+          "sequence_order": 8,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "पाणीपुरवठा  िाइन  लवकलसत  (कक.मी.)"
+        },
+        {
+          "element_id": "17_p3_e9",
+          "sequence_order": 9,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "कामाची  सद्यलस्थती"
+        },
+        {
+          "element_id": "17_p3_e10",
+          "sequence_order": 10,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "१  बावधान बु.  ५  ३५ कक.मी.  काम सुरु"
+        },
+        {
+          "element_id": "17_p3_e11",
+          "sequence_order": 11,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "२  सुस  व  म्हाळुंगे"
+        },
+        {
+          "element_id": "17_p3_e12",
+          "sequence_order": 12,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "६  ७७ कक.मी.  काम सुरु"
+        },
+        {
+          "element_id": "17_p3_e13",
+          "sequence_order": 13,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "३  िोहगाव  वाघोिी"
+        },
+        {
+          "element_id": "17_p3_e14",
+          "sequence_order": 14,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "१३  ४५० कक.मी. काम सुरु"
+        },
+        {
+          "element_id": "17_p3_e15",
+          "sequence_order": 15,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "४  शेवाळेवाडी  ३  ३३.५०  कक.मी."
+        },
+        {
+          "element_id": "17_p3_e16",
+          "sequence_order": 16,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "काम  प्रस्तालवत  ५  केशवनगर  मुंढवा"
+        },
+        {
+          "element_id": "17_p3_e17",
+          "sequence_order": 17,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "१  १६.५०  कक.मी."
+        },
+        {
+          "element_id": "17_p3_e18",
+          "sequence_order": 18,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "काम  प्रस्तालवत"
+        },
+        {
+          "element_id": "17_p3_e19",
+          "sequence_order": 19,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "नव्याने समालवष्ट ३२ गावांसाठी समान पाणीपुरवठा"
+        },
+        {
+          "element_id": "17_p3_e20",
+          "sequence_order": 20,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "योजना"
+        },
+        {
+          "element_id": "17_p3_e21",
+          "sequence_order": 21,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "समान पाणीपुरवठा प्रकल्पांतगगत सवग ८० साठवण"
+        },
+        {
+          "element_id": "17_p3_e22",
+          "sequence_order": 22,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 37,
+          "text_preview": "टाकया कायागलववत करण्याचे ईकिष्ट; ईवगररत सुमारे  १०० कक.मी. नवीन लवतरण जाळे व ३५ हजार  जिमापक बसलवण्याचे लनयोजन.    पुणे"
+        },
+        {
+          "element_id": "17_p3_e23",
+          "sequence_order": 23,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "कायागलववत करण्याचे िक्ष्य.    नव्याने समालवष्ट ३२ गावांसाठी समान पाणीपुरवठा"
+        },
+        {
+          "element_id": "17_p3_e24",
+          "sequence_order": 24,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "योजना राबलवणे"
+        }
+      ]
+    },
+    "4": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p4_e25",
+          "sequence_order": 25,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "पाणीपुरवठा- सन २०२६-२७ मध्ये करावयाचे प्रस्तालवत महत्वाचे प्रकल्प/योजना"
+        },
+        {
+          "element_id": "17_p4_e26",
+          "sequence_order": 26,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "शहरातीि जिस्रोतांचे संरक्षण व ईपिब्ध जिसाठ्यात वाढ करण्यासाठी तिावांचे पुनरुज्जीवन,"
+        },
+        {
+          "element_id": "17_p4_e27",
+          "sequence_order": 27,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "मजबुतीकरण तसेच साठवण क्षमतेत वाढ करण्याची कामे हाती घेणे.    महानगरपालिकेच्या पाणीपुरवठ्यावरचा ताण कमी करण्यासाठी नागरर"
+        },
+        {
+          "element_id": "17_p4_e28",
+          "sequence_order": 28,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 36,
+          "text_preview": "भूजिाचा (Ground Water) वापर करण्यास प्रोत्साहन देणे.    जिशुद्धीकरण प्रकल्पांमध्ये किल्टर बॅकवॉश व किॅररिायर पाण्याचे प"
+        },
+        {
+          "element_id": "17_p4_e29",
+          "sequence_order": 29,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 49,
+          "text_preview": "जिशुद्धीकरण प्रकक्रयेदरम्यान होणारे पाण्याचे नुकसान कमी करणे तसेच कच्च्या पाण्याचा वापर कमी  करणे.  जिशुद्धीकरण केंद्रे"
+        },
+        {
+          "element_id": "17_p4_e30",
+          "sequence_order": 30,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "वीज बचत करणे तसेच पयागवरणपूरक उजाग लनर्ममतीस प्रोत्साहन देणे."
+        }
+      ]
+    },
+    "5": {
+      "elements": 4,
+      "flagged": 4,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p5_e31",
+          "sequence_order": 31,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "मिलनःसारण  २"
+        },
+        {
+          "element_id": "17_p5_e32",
+          "sequence_order": 32,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "(भांडविी तरतूद र.रु. ७१३.६४ कोटी +"
+        },
+        {
+          "element_id": "17_p5_e33",
+          "sequence_order": 33,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "महसुिी तरतूद र.रु. ५०२.८४ कोटी ="
+        },
+        {
+          "element_id": "17_p5_e34",
+          "sequence_order": 34,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "एकूण र.रु. १२१६.४८ कोटी)"
+        }
+      ]
+    },
+    "6": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p6_e35",
+          "sequence_order": 35,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "मिलनःसारण प्रकल्प- सन २०२६-२०२७ चे दृष्टीक्षेपातीि ऄंदाजपत्रकातीि संलक्षप्त  मालहती"
+        },
+        {
+          "element_id": "17_p6_e36",
+          "sequence_order": 36,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "पुणे शहरामध्ये समावेश गावासह लसव्हरेज मास्टर प्िॅननुसार"
+        },
+        {
+          "element_id": "17_p6_e37",
+          "sequence_order": 37,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "मिवालहवया बदिणे सुमारे १०० कक.मी .मिवालहवया लवकलसत  करण्याचे लनयोजन. (तरतूद र.रु.२०८.३६ कोटी)"
+        },
+        {
+          "element_id": "17_p6_e38",
+          "sequence_order": 38,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "मिलनःसारण वालहनीची देखभाि दुरुस्ती, नािे सिाइ, पावसाळी"
+        },
+        {
+          "element_id": "17_p6_e39",
+          "sequence_order": 39,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 47,
+          "text_preview": "िाइन सािसिाइ करणे, बॅवडीकिेट, ररसायकिर मलशन, सायिनसाठी  क्षेत्रीय स्तरावर करण्याचे लनयोजन. (तरतूद र.रु.३६.२९ कोटी व  र.र"
+        },
+        {
+          "element_id": "17_p6_e40",
+          "sequence_order": 40,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 38,
+          "text_preview": "र.रु.३०.९५ कोटी व नाल्यािगत सीमापभत बांधण्यासाठी तरतूद  प्रस्तालवत. (तरतूद र.रु.२४.०५ कोटी)    Jetting cum Suction with"
+        },
+        {
+          "element_id": "17_p6_e41",
+          "sequence_order": 41,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "चेंबसगमधीि गाळ साि करणे तसेच चेंबसगमधीि पाणी ओढून शुद्ध करून  पुनवागपरासाठी योग्य लनयोलजत प्रलतबंधात्मक देखभाि करण्यात य"
+        }
+      ]
+    },
+    "7": {
+      "elements": 9,
+      "flagged": 9,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p7_e42",
+          "sequence_order": 42,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "मिलनःसारण प्रकल्प- सन २०२६- २०२७ चे दृष्टीक्षेपातीि  ऄंदाजपत्रकातीि संलक्षप्त मालहती."
+        },
+        {
+          "element_id": "17_p7_e43",
+          "sequence_order": 43,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "नव्याने समालवष्ट झािेल्या २३ गावांमध्ये ऄमृत-२"
+        },
+        {
+          "element_id": "17_p7_e44",
+          "sequence_order": 44,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "(टप्पा १) ऄंतगगत १६ गावांमध्ये ५० कक.मी ड्रेनेज िाइन  टाकण्याचा ऄत्यावश्यक नेटवकग लवकसीत करणे (तरतूद  र.रु.७६ कोटी)"
+        },
+        {
+          "element_id": "17_p7_e45",
+          "sequence_order": 45,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "समालवष्ट ११ गावांमध्ये सुमारे ५०"
+        },
+        {
+          "element_id": "17_p7_e46",
+          "sequence_order": 46,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "कक.मी.मिवालहवयांचे काम करणे (तरतूद र.रु.७५कोटी)"
+        },
+        {
+          "element_id": "17_p7_e47",
+          "sequence_order": 47,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "नव्याने ड्रेनेज व पावसाळी वालहवयांच्या कनेकशनचे लवभाजन करून (तरतूद र.रु. १०.५० कोटी) चेंबसग रस्त्याच्या"
+        },
+        {
+          "element_id": "17_p7_e48",
+          "sequence_order": 48,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 38,
+          "text_preview": "समपातळीत करण्यात येतीि (तरतूद र.रु ७ कोटी)    दूलषत पाणीपुरवठा टाळण्यासाठी जिवालहवया स्थिांतर (तरतूद र.रु. १४ कोटी) व न"
+        },
+        {
+          "element_id": "17_p7_e49",
+          "sequence_order": 49,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "(तरतूद र.रु. १०.५०कोटी)"
+        },
+        {
+          "element_id": "17_p7_e50",
+          "sequence_order": 50,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "Phase I (16 Villages) - 105.92 SqKm (57% Area)  Phase II (7 Villages) – 78.69 SqKm (43% Area)"
+        }
+      ]
+    },
+    "8": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p8_e51",
+          "sequence_order": 51,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "PARMM प्रकल्प- राष्ट्रीय नदी संवधगन योजने  ऄंतगगत पुणे शहरातीि मुळा-मुठा नदीचे प्रदुषण  लनयंत्रण करणे (११ STP ३९६ MLD क्"
+        },
+        {
+          "element_id": "17_p8_e52",
+          "sequence_order": 52,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "एकूण ८१ MLD क्षमतेचे ०४ STP"
+        },
+        {
+          "element_id": "17_p8_e53",
+          "sequence_order": 53,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 38,
+          "text_preview": "(वारजे,वडगाव,मुंढवा,मत्स्यबीज केंद्र हडपसर) चे  ड्राय रन टेस् ट पूणग झािी ऄसून जून २०२६ पयंत  कायागलववत होणार  याव्यलतर"
+        },
+        {
+          "element_id": "17_p8_e54",
+          "sequence_order": 54,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "(नायडू,भैरोबा,धानोरी,बाणेर) यावषी लडसेंबर  २०२६ कायागलववत होणार  सुमारे ५३.५ कक.मी. मुख्य मिवालहवयांची कामे पूणग"
+        },
+        {
+          "element_id": "17_p8_e55",
+          "sequence_order": 55,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "करणे.  मेंटि हॉलस्पटि व येरवडा (कल्याणीनगर) येथे"
+        },
+        {
+          "element_id": "17_p8_e56",
+          "sequence_order": 56,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "नवीन STP ईभारणीचे लनयोजन (तरतूद र.रु.२०  कोटी व र.रु. ५ कोटी)"
+        }
+      ]
+    },
+    "9": {
+      "elements": 4,
+      "flagged": 4,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p9_e57",
+          "sequence_order": 57,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "घनकचरा  व्यवस्थापन-"
+        },
+        {
+          "element_id": "17_p9_e58",
+          "sequence_order": 58,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "(भांडविी तरतूद र.रु. ३०९.३१ कोटी +"
+        },
+        {
+          "element_id": "17_p9_e59",
+          "sequence_order": 59,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "महसुिी तरतूद र.रु. १०८१.०८ कोटी ="
+        },
+        {
+          "element_id": "17_p9_e60",
+          "sequence_order": 60,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "एकूण र.रु. १३९०.३९ कोटी)"
+        }
+      ]
+    },
+    "10": {
+      "elements": 4,
+      "flagged": 4,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p10_e61",
+          "sequence_order": 61,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "घनकचरा व्यवस्थापन - सन २०२६-२७ चे  दृष्टीक्षेपातीि ऄंदाजपत्रकातीि संलक्षप्त  मालहती"
+        },
+        {
+          "element_id": "17_p10_e62",
+          "sequence_order": 62,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "हडपसर येथे २० मे. टन/कदवस क्षमतेचा ररजेकट"
+        },
+        {
+          "element_id": "17_p10_e63",
+          "sequence_order": 63,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "वेस्ट प्रकक्रया प्रकल्प कायागलववत होणार.    ईरुळी देवाची येथे २८ िाख मे. टन िीगसी"
+        },
+        {
+          "element_id": "17_p10_e64",
+          "sequence_order": 64,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 40,
+          "text_preview": "वेस्टचे बायोमायपनग (िेज-४) करून पुढीि १  वषागत वैज्ञालनक पद्धतीने कचरा प्रकक्रया करण्यात  येणार ऄसून प्रकक्रयेनंतर सुमार"
+        }
+      ]
+    },
+    "11": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p11_e65",
+          "sequence_order": 65,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "घनकचरा व्यवस्थापन - सन २०२६-२७ चे  दृष्टीक्षेपातीि ऄंदाजपत्रकातीि संलक्षप्त मालहती"
+        },
+        {
+          "element_id": "17_p11_e66",
+          "sequence_order": 66,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "CBG प्रकल्प- स्वच्छ महाराष्ट्र ऄलभयान (नागरी)"
+        },
+        {
+          "element_id": "17_p11_e67",
+          "sequence_order": 67,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 46,
+          "text_preview": "२.० ऄंतगगत पुणे शहरात दररोज लनमागण होणाऱ्या  सुमारे ३०० मे. टन ओल्या कचऱ्याचे शास्त्रोक्त  पद्धतीने प्रकक्रयेसाठी CBG प्"
+        },
+        {
+          "element_id": "17_p11_e68",
+          "sequence_order": 68,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "हडपसर कचरा हस्तांतरण केंद्र येथे 200 TPD"
+        },
+        {
+          "element_id": "17_p11_e69",
+          "sequence_order": 69,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "क्षमतेचे अधुलनक Mechanized Transfer  Station with Hook Loader system ईभारणे  घोिे रोड कचरा हस्तांतरण केंद्र येथे 100 TP"
+        },
+        {
+          "element_id": "17_p11_e70",
+          "sequence_order": 70,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "क्षमतेचे अधुलनक Compaction system and  Closed Containers ईभारणे."
+        }
+      ]
+    },
+    "12": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p12_e71",
+          "sequence_order": 71,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "घनकचरा व्यवस्थापन"
+        },
+        {
+          "element_id": "17_p12_e72",
+          "sequence_order": 72,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "कचरा ईचिणे ऄलधक कायगक्षम व जिदगतीने"
+        },
+        {
+          "element_id": "17_p12_e73",
+          "sequence_order": 73,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "करण्यासाठी ५ वषागसाठी भाडेतत्त्वावर वाहने घेणे.    यामध्ये छोट्या घंटागाड्या, Compactor व Mini"
+        },
+        {
+          "element_id": "17_p12_e74",
+          "sequence_order": 74,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Compactor वाहनांचा समावेश.    वेस्ट टू एनजी प्रकल्प"
+        },
+        {
+          "element_id": "17_p12_e75",
+          "sequence_order": 75,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "सुका कचऱ्यापैकी ७५० मे. टन कचऱ्यावर प्रकक्रया"
+        },
+        {
+          "element_id": "17_p12_e76",
+          "sequence_order": 76,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "करून १३.१९ मेगावॉट वीज लनर्ममती प्रकल्प  ऄंलतम टप्प्यात."
+        }
+      ]
+    },
+    "13": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p13_e77",
+          "sequence_order": 77,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "घनकचरा व्यवस्थापन"
+        },
+        {
+          "element_id": "17_p13_e78",
+          "sequence_order": 78,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "शास्त्रोक्त भू-भराव (SLF) प्रकल्प"
+        },
+        {
+          "element_id": "17_p13_e79",
+          "sequence_order": 79,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "ररजेकट कचऱ्याच्या लवल्हेवाटीसाठी ३००"
+        },
+        {
+          "element_id": "17_p13_e80",
+          "sequence_order": 80,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "TPD क्षमतेचा शास्त्रोक्त भू-भराव (SLF)  ईभारण्यात येणार.  बायोमायपनगद्वारे सुमारे ५ ते ६ एकर जागा"
+        },
+        {
+          "element_id": "17_p13_e81",
+          "sequence_order": 81,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "ररकिेम होणार.  प्रकल्पांतगगत सुमारे २ िाख मे. टन ररजेकट"
+        },
+        {
+          "element_id": "17_p13_e82",
+          "sequence_order": 82,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "कचरा भू-भरावात लवल्हेवाट िावणे शकय.    शहरात ऄलधक दृश्यमान स्वच्छता राखण्यासाठी"
+        },
+        {
+          "element_id": "17_p13_e83",
+          "sequence_order": 83,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "व झाडणकामासाठी मनुष्यबळ वाढलवणे"
+        }
+      ]
+    },
+    "14": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p14_e84",
+          "sequence_order": 84,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "(भांडविी तरतूद र.रु. १३१.३० कोटी +"
+        },
+        {
+          "element_id": "17_p14_e85",
+          "sequence_order": 85,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "महसुिी तरतूद र.रु. ७५०.४४ कोटी ="
+        },
+        {
+          "element_id": "17_p14_e86",
+          "sequence_order": 86,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "एकूण र.रु. ८८१.७४ कोटी)"
+        }
+      ]
+    },
+    "15": {
+      "elements": 4,
+      "flagged": 4,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p15_e87",
+          "sequence_order": 87,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "अरोग्य - सन २०२६-२७ संलक्षप्त मालहती"
+        },
+        {
+          "element_id": "17_p15_e88",
+          "sequence_order": 88,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "बाणेर येथे ककगरोग रुग्णाियात लिलनऄर एकसिेरेटर"
+        },
+        {
+          "element_id": "17_p15_e89",
+          "sequence_order": 89,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 45,
+          "text_preview": "(Linac) रेलडओ थेरपी प्रकल्प ईभारून पीपीपी  तत्त्वावर चािलवण्यास देण्यात येणार ऄसून, गरीब व  गरजू रुग्णांना CGHS दरानुसार"
+        },
+        {
+          "element_id": "17_p15_e90",
+          "sequence_order": 90,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 52,
+          "text_preview": "जागा देउन ३५० बेडचे मल्टीस्पेशलिटी हॉस्पीटि  ईभारिे जाणार ऄसून १०% बेड्स मोित ६% बेड्स  CGHS दराने ईपिब्ध करून देण्यात य"
+        }
+      ]
+    },
+    "16": {
+      "elements": 4,
+      "flagged": 4,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p16_e91",
+          "sequence_order": 91,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "अरोग्य - सन २०२६-२७ संलक्षप्त मालहती"
+        },
+        {
+          "element_id": "17_p16_e92",
+          "sequence_order": 92,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "पुणे महापालिकेमािगत जागा देउन प्रत्येक"
+        },
+        {
+          "element_id": "17_p16_e93",
+          "sequence_order": 93,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "झोनसाठी ककमान एक ऄशा ५ डायग्नोलस्टक  सेंटर पीपीपी तत्त्वावर लवकलसत करण्याचा  मानस    गरजू रुग्णांना परवडणाऱ्या दरात सेव"
+        },
+        {
+          "element_id": "17_p16_e94",
+          "sequence_order": 94,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "लमळतीि"
+        }
+      ]
+    },
+    "17": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p17_e95",
+          "sequence_order": 95,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "अरोग्य - सन २०२६-२७ संलक्षप्त मालहती"
+        },
+        {
+          "element_id": "17_p17_e96",
+          "sequence_order": 96,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "भूगाव व पशदेवाडी या रठकाणी बंकदस्त डॉग शेल्टर"
+        },
+        {
+          "element_id": "17_p17_e97",
+          "sequence_order": 97,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "(श्वान लनवारा) ईभारणे  पुणे शहरातीि प्राणी पािकांसाठी (पाळीव कुत्रे व"
+        },
+        {
+          "element_id": "17_p17_e98",
+          "sequence_order": 98,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "मांजरी) ऄद्ययावत व सुसज्ज डॉग पाकग ईभारण्याचे  लनयोजन (तरतूद र.रु. २.५० कोटी)  SPV वाहन खरेदी (ABC, िसीकरण व O.T."
+        },
+        {
+          "element_id": "17_p17_e99",
+          "sequence_order": 99,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "सुलवधेसह) (तरतूद र.रु.३.५० कोटी)  भटकया व मोकाट श्वानांसाठी ऄलधकृत िीपडग पॉईंट"
+        },
+        {
+          "element_id": "17_p17_e100",
+          "sequence_order": 100,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "खाद्य पुरवठा (तरतूद र.रु. १ कोटी)  श्वान दवाखाना ईभारणे"
+        }
+      ]
+    },
+    "18": {
+      "elements": 5,
+      "flagged": 5,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p18_e101",
+          "sequence_order": 101,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "अरोग्य - सन २०२६-२७ संलक्षप्त मालहती"
+        },
+        {
+          "element_id": "17_p18_e102",
+          "sequence_order": 102,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "पुणे मनपाच्या २१ रुग्णाियांमध्ये ETP (तरतूद"
+        },
+        {
+          "element_id": "17_p18_e103",
+          "sequence_order": 103,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "र.रु.१.५० कोटी )व STP (तरतूद र.रु. ३ कोटी)  ईपक्रम राबलवणे    कमिा नेहरू रुग्णािय येथे शस्त्रकक्रया"
+        },
+        {
+          "element_id": "17_p18_e104",
+          "sequence_order": 104,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "लवभागासाठी ईपकरण (तरतूद र.रु. ८ कोटी)    ऄण्णासाहेब मगर हॉलस्पटिचे रीवयुव्हेशन व सेवा"
+        },
+        {
+          "element_id": "17_p18_e105",
+          "sequence_order": 105,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "लवस्तारीकरण करणेसाठी (तरतूद र.रु. ५ कोटी)"
+        }
+      ]
+    },
+    "19": {
+      "elements": 4,
+      "flagged": 4,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p19_e106",
+          "sequence_order": 106,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "अरोग्य - पुणे महानगरपालिका वैद्यकीय लशक्षण  ट्रस्ट, भारतरत्न ऄटिलबहारी वाजपेयी वैद्यकीय  महलवद्यािय व रुग्णािय"
+        },
+        {
+          "element_id": "17_p19_e107",
+          "sequence_order": 107,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "नायडू कॅम्पस येथे भव्य १४ मजिी लवद्याथी"
+        },
+        {
+          "element_id": "17_p19_e108",
+          "sequence_order": 108,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "वसलतगृह व कमगचारी सदलनका बांधकाम पूणग  करण्यात येणार.    महालवद्याियातून प्रथम १०० लवद्यार्थयांची"
+        },
+        {
+          "element_id": "17_p19_e109",
+          "sequence_order": 109,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "MBBS पदवीधर बॅच बाहेर पडणार."
+        }
+      ]
+    },
+    "20": {
+      "elements": 8,
+      "flagged": 8,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p20_e110",
+          "sequence_order": 110,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "(महसुिी तरतूद र.रु. ६४.५० कोटी)"
+        },
+        {
+          "element_id": "17_p20_e111",
+          "sequence_order": 111,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "शासन ऄलधसूचना क्र. TPS-1821/1167/प्र.क्र.98/2021/नलव-"
+        },
+        {
+          "element_id": "17_p20_e112",
+          "sequence_order": 112,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 42,
+          "text_preview": "13, कद. 11/02/2026 नुसार किम 40(1)(घ) ऄंतगगत लवशेष  लनयोजन प्रालधकरण म्हणून केिेिी PMRDA यांची नेमणूक रि.    किम 2(15)("
+        },
+        {
+          "element_id": "17_p20_e113",
+          "sequence_order": 113,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 40,
+          "text_preview": "पुणे महानगरपालिकेच्या ऄलधकार क्षेत्रात येत ऄसल्याने किम  2(19) नुसार पुढीि काळात पुणे महानगरपालिका लहच ईक्त २३  गावांसाठ"
+        },
+        {
+          "element_id": "17_p20_e114",
+          "sequence_order": 114,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "पुणे मनपा हिीमध्ये समालवष्ट गावांचा प्रारुप लवकास अराखडा"
+        },
+        {
+          "element_id": "17_p20_e115",
+          "sequence_order": 115,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "एकलत्रकृत लवकास लनयंत्रण व प्रोत्साहन लनयमाविीतीि (ट्रालवझट  ओररएवटेड डेव्हिपमेंट) (TOD) व िोकि एररया प्िन (LAP)"
+        },
+        {
+          "element_id": "17_p20_e116",
+          "sequence_order": 116,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "स्वारगेट (िाइन ३) व रामनगर मेट्रो स्टेशन, पुणे रेल्वे स्टेशन व"
+        },
+        {
+          "element_id": "17_p20_e117",
+          "sequence_order": 117,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "वनाज मेट्रो स्टेशनचे िोकि एररया प्िॅनचे काम सुरु."
+        }
+      ]
+    },
+    "21": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p21_e118",
+          "sequence_order": 118,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "प्रधानमंत्री अवास योजनेची (शहरी) २.०  तरतुद र.रु. ७५ कोटी"
+        },
+        {
+          "element_id": "17_p21_e119",
+          "sequence_order": 119,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "EWS व HDH अरलक्षत लमळकतींसाठी ६"
+        },
+        {
+          "element_id": "17_p21_e120",
+          "sequence_order": 120,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 44,
+          "text_preview": "गृहलनमागण प्रकल्पांचे लनयोजन करीत ऄसून,  बािेवाडी, धानोरी, कोंढवा, हडपसर, वडगाव  त्याद्वारे सुमारे ४,७२५ घरे बांधण्याच्य"
+        }
+      ]
+    },
+    "22": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p22_e121",
+          "sequence_order": 121,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "वाहतूक  लनयोजन व  प्रकल्प  ६"
+        },
+        {
+          "element_id": "17_p22_e122",
+          "sequence_order": 122,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "(भांडविी तरतूद र.रु. ७४०.४० कोटी)"
+        }
+      ]
+    },
+    "23": {
+      "elements": 13,
+      "flagged": 13,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p23_e123",
+          "sequence_order": 123,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "वाहतूक लनयोजन व प्रकल्प - सन २०२६-२७ चे  दृष्टीक्षेपातीि संलक्षप्त मालहती"
+        },
+        {
+          "element_id": "17_p23_e124",
+          "sequence_order": 124,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "पुणे मेट्रो समवेत प्रकल्पासाठी (वनाज ते चांदणी चौक)  मेट्रो मागागवरीि ऄॅलमनीटी स्पेस वर पार्ककग लवकलसत करणे"
+        },
+        {
+          "element_id": "17_p23_e125",
+          "sequence_order": 125,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "ईड्डाणपूि/ग्रेड सेपरेटर    मुंढवा – महात्मा िुिे चौक ग्रेड"
+        },
+        {
+          "element_id": "17_p23_e126",
+          "sequence_order": 126,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "सेपरेटर  चांदणी चौक–भुगाव रस्ता लवकसन"
+        },
+        {
+          "element_id": "17_p23_e127",
+          "sequence_order": 127,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "व ईड्डाणपूि/ग्रेड सेपरेटर (तरतूद  र.रु.२५कोटी)  साखर संकुि (मुंबइ–पुणे रस्ता)"
+        },
+        {
+          "element_id": "17_p23_e128",
+          "sequence_order": 128,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "ईड्डाणपूि( लसमिा चौक ते संचेती  चौक) (तरतूद र.रु. १५ कोटी)"
+        },
+        {
+          "element_id": "17_p23_e129",
+          "sequence_order": 129,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "पादचारी भुयारी मागग    खडकी छावणी पररषद हिीत पुणे–"
+        },
+        {
+          "element_id": "17_p23_e130",
+          "sequence_order": 130,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "मुंबइ रेल्वे िाइनखािीि दोन  भुयारी मागांचे रुंदीकरण  रेल्वेमािगत प्रस्तालवत (तरतूद  प्रत्येकी र.रु.१० कोटी)    नगररोड अ"
+        },
+        {
+          "element_id": "17_p23_e131",
+          "sequence_order": 131,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "पादचारी भुयारी मागग (तरतूद र.रु.  १० कोटी)"
+        },
+        {
+          "element_id": "17_p23_e132",
+          "sequence_order": 132,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "बोगदा  पसहगड रस्ता-सातारा रस्ता"
+        },
+        {
+          "element_id": "17_p23_e133",
+          "sequence_order": 133,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "यांना जोडणारा तळजाइ- पाचगाव बोगदा  कोथरूड-पाषाण यांना जोडणारा"
+        },
+        {
+          "element_id": "17_p23_e134",
+          "sequence_order": 134,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "पंचवटी बोगदा लवकसीत (तरतूद  र.रु.१५ कोटी)  नदीवरीि पूि  मुठा नदीवरीि लशवणे ते नांदेड"
+        },
+        {
+          "element_id": "17_p23_e135",
+          "sequence_order": 135,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "लसटीिा जोडणारा नदीवरीि पूि  (तरतूद र.रु.१५ कोटी)"
+        }
+      ]
+    },
+    "24": {
+      "elements": 5,
+      "flagged": 5,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p24_e136",
+          "sequence_order": 136,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "नालववयपूणग प्रकल्प"
+        },
+        {
+          "element_id": "17_p24_e137",
+          "sequence_order": 137,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "ईड्डाणपूि, पूि, सबवे, ऄंडरपास ऄशा एकूण ९९ प्रमुख संरचनांचे GIS मॅपपग व स्ट्रकचरि ऑलडट"
+        },
+        {
+          "element_id": "17_p24_e138",
+          "sequence_order": 138,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 44,
+          "text_preview": "लनरीक्षणासह करण्यात येत ऄसून, त्याअधारे अवश्यक दुरुस्ती, पुनबांधणी व देखभाि कामांचे  लनयोजन.    Traffic Microsimulation"
+        },
+        {
+          "element_id": "17_p24_e139",
+          "sequence_order": 139,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 45,
+          "text_preview": "Major/Minor जंकशवसचा ऄभ्यास करून तांलत्रक लनकषांवर अधाररत वाहतूक सुधारणा व पायाभूत  कामांचे लनयोजन.    GIS Mapping of P"
+        },
+        {
+          "element_id": "17_p24_e140",
+          "sequence_order": 140,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 40,
+          "text_preview": "लस्थती, Condition व Availability एका लकिकवर ईपिब्धहोणार ऄसून, मेट्रो ऄिाआनमेंट व प्रमुख  सावगजलनक स्थळांच्या अधारे पार्क"
+        }
+      ]
+    },
+    "25": {
+      "elements": 4,
+      "flagged": 4,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p25_e141",
+          "sequence_order": 141,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "नदी पुनरुज्जीवन"
+        },
+        {
+          "element_id": "17_p25_e142",
+          "sequence_order": 142,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "प्रकल्प"
+        },
+        {
+          "element_id": "17_p25_e143",
+          "sequence_order": 143,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "मुख्य ईकदष्ट   स्वच्छ अलण प्रदूषणमुक्त नदी   नदी काठचा पररसर नागररकांसाठी  खुिा करणे   नदीची पूरवहन क्षमता वाढवणे"
+        },
+        {
+          "element_id": "17_p25_e144",
+          "sequence_order": 144,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "(भांडविी तरतूद र.रु. २७० कोटी)"
+        }
+      ]
+    },
+    "26": {
+      "elements": 5,
+      "flagged": 5,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p26_e145",
+          "sequence_order": 145,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "नदी पुनरुज्जीवन प्रकल्प - सन २०२६-२७ चे  दृष्टीक्षेपातीि संलक्षप्त मालहती"
+        },
+        {
+          "element_id": "17_p26_e146",
+          "sequence_order": 146,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "पुणे शहरातीि मुळा, मुठा व मुळा-मुठा नदीची"
+        },
+        {
+          "element_id": "17_p26_e147",
+          "sequence_order": 147,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 37,
+          "text_preview": "एकूण िांबी ४४ कक.मी. ऄसून नदी सुधार  प्रकल्पासाठी र.रु.४७२७ कोटीचा प्रकल्प ११  टप्प्यांत राबलवण्यात येणार    संगमवाडी प"
+        },
+        {
+          "element_id": "17_p26_e148",
+          "sequence_order": 148,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "बंडगाडगन–मुंढवा (स्ट्रेच-१०,११) यावषागत  नागररकांसाठी ईपिब्ध    वाकड बायपास ते सांगवी पूि (स्ट्रेच-१,२,३)"
+        },
+        {
+          "element_id": "17_p26_e149",
+          "sequence_order": 149,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "कामे PPP पद्धतीने प्रगतीपथावर अहेत."
+        }
+      ]
+    },
+    "27": {
+      "elements": 4,
+      "flagged": 4,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p27_e150",
+          "sequence_order": 150,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "पथ लवभाग  ७"
+        },
+        {
+          "element_id": "17_p27_e151",
+          "sequence_order": 151,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "(भांडविी तरतूद र.रु. १५०५ कोटी +"
+        },
+        {
+          "element_id": "17_p27_e152",
+          "sequence_order": 152,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "महसुिी तरतूद र.रु. ३६१.३९ कोटी"
+        },
+        {
+          "element_id": "17_p27_e153",
+          "sequence_order": 153,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "= एकूण र.रु. १८६६.३९ कोटी)"
+        }
+      ]
+    },
+    "28": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p28_e154",
+          "sequence_order": 154,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "पथ लवभाग - सन २०२६-२७ मधीि चे  दृष्टीक्षेपातीि संलक्षप्त मालहती    पुणे शहरात २२७३ कक.मी. रस्ते ऄसून त्यापैकी ३२ मुख्य"
+        },
+        {
+          "element_id": "17_p28_e155",
+          "sequence_order": 155,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "(Arterial) रस्ते – २७० कक.मी.,ज्यावर सुमारे ८०%  वाहतूक ऄविंबून  पुणे शहरात या वषागत रस्त्यांचे नेटवकग मध्ये १०% पेक्षा"
+        },
+        {
+          "element_id": "17_p28_e156",
+          "sequence_order": 156,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "जास्त वाढ करणेचे ईकिष्ट  या रस्त्यांवर सुरलक्षतता ईपाययोजना, रस्ते व पदपथ"
+        },
+        {
+          "element_id": "17_p28_e157",
+          "sequence_order": 157,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "सुधारणा  रस्त्यावरीि चेंबर समपातळीत अणणे तसेच खड्डे"
+        },
+        {
+          "element_id": "17_p28_e158",
+          "sequence_order": 158,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "बुजलवणेसाठी तयार करण्यात अिेल्या SOP नुसार काम  करणे  पदपथ बांधकाम व दुरुस्ती करून Walkability"
+        },
+        {
+          "element_id": "17_p28_e159",
+          "sequence_order": 159,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "वाढलवण्याचे प्रस्तालवत  नव्याने समालवष्ट ३२ गावांमध्ये प्रत्येकी एक जागलतक"
+        },
+        {
+          "element_id": "17_p28_e160",
+          "sequence_order": 160,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "दजागचा पदपथ मागग सवग सुलवधांसह लवकलसत करण्याचे  लनयोजन – पाणीपुरवठा व जिलनस्सारण नलिका, पथकदवे,  समवेत (तरतुद र.रु.१०३.३"
+        }
+      ]
+    },
+    "29": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p29_e161",
+          "sequence_order": 161,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "पथ लवभाग - सन २०२६-२७ मधीि चे  दृष्टीक्षेपातीि संलक्षप्त मालहती"
+        },
+        {
+          "element_id": "17_p29_e162",
+          "sequence_order": 162,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 105,
+          "text_preview": "३३ लमपसग पिकपैकी महत्त्वाच्या १२ लमपसग पिकची जागा ताब्यात घेउन लवकास.  राष्ट्रीय महामागांवरीि वाकड–कात्रज दरम्यान सेवा"
+        },
+        {
+          "element_id": "17_p29_e163",
+          "sequence_order": 163,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "ऄनुसार प्रत्यक्ष लवकास कामे करणे  जुवया पुण्यातीि िक्ष्मी रस्ता, बाजीराव रस्ता व लशवाजी रस्ता यांचे हेररटेज पद्धतीने का"
+        },
+        {
+          "element_id": "17_p29_e164",
+          "sequence_order": 164,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "बािभारती–पौड रस्त्यावर मा.सवोच्च वयायाियाच्या अदेशानुसार पयागवरणीय परवानगी (Environmental"
+        },
+        {
+          "element_id": "17_p29_e165",
+          "sequence_order": 165,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 48,
+          "text_preview": "Clearance) प्राप्त करण्याची कायगवाही पूणग करून पुढीि लवकास प्रकक्रया हाती घेण्यात येणार.  सावगजलनक-खाजगी भागीदारीत हाती"
+        },
+        {
+          "element_id": "17_p29_e166",
+          "sequence_order": 166,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "येणार.  कात्रज–कोंढवा रस्ताच्या संपूणग िांबीमध्ये ५० मीटर रुंदीचा लवकास करण्यात येणार व कायगवाही हाती घेण्यात येणार"
+        },
+        {
+          "element_id": "17_p29_e167",
+          "sequence_order": 167,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "(तरतूद र.रु.१००कोटी)  गणेशपखड रस्त्याच्या टप्पा ३ चे काम RBI बँक ते संचेती पुि दरम्यान भूसंपादन पूणग करून लवकास करण्याव"
+        }
+      ]
+    },
+    "30": {
+      "elements": 4,
+      "flagged": 4,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p30_e168",
+          "sequence_order": 168,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "पथ लवभाग - सन २०२६-२७ मधीि चे  दृष्टीक्षेपातीि संलक्षप्त मालहती    CSR माध्यमातून लवमानतळ रस्त्याचे काम िवकरच"
+        },
+        {
+          "element_id": "17_p30_e169",
+          "sequence_order": 169,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "काळात पूणग करण्यात येणार.    खड्डे बुजलवण्यासाठी “रोड लमत्र”, नागररकांना त्यांचे"
+        },
+        {
+          "element_id": "17_p30_e170",
+          "sequence_order": 170,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 65,
+          "text_preview": "भागातीि संबंलधत ऄलधकारी मालहती होण्यासाठी  “युवर ऑकिसर” तसेच शहरातीि लवलवध संस्थांमािगत  अलण खाजगी िोकांकडून रस्त्याच्या"
+        },
+        {
+          "element_id": "17_p30_e171",
+          "sequence_order": 171,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 38,
+          "text_preview": "यामध्ये GIS अधाररत व कृलत्रम बुलद्धमत्ता  तंत्रज्ञानाच्या साहाय्याने ट्रॅकिक डेटा लवश्लेषण करून  चािू व प्रस्तालवत कामां"
+        }
+      ]
+    },
+    "31": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p31_e172",
+          "sequence_order": 172,
+          "page_number": 31,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "पुणे महानगर"
+        },
+        {
+          "element_id": "17_p31_e173",
+          "sequence_order": 173,
+          "page_number": 31,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "पररवहन  महामंडळ"
+        },
+        {
+          "element_id": "17_p31_e174",
+          "sequence_order": 174,
+          "page_number": 31,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "लिलमटेड"
+        },
+        {
+          "element_id": "17_p31_e175",
+          "sequence_order": 175,
+          "page_number": 31,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "(तरतुद र.रु.५९२.२२ कोटी)"
+        },
+        {
+          "element_id": "17_p31_e176",
+          "sequence_order": 176,
+          "page_number": 31,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "सद्यलस्थतीत ५३५ इ-बसेस ताफ्यात अहेत.  नवीन बस ताफ्याचे लनयोजन:"
+        },
+        {
+          "element_id": "17_p31_e177",
+          "sequence_order": 177,
+          "page_number": 31,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 40,
+          "text_preview": " १००० स्वमािकीच्या CNG बसेस,   GCC तत्त्वावर ५९९ CNG   FAME-II योजनेऄंतगगत १००० इ-बसेस  ईपिब्ध होणार  BOT तत्वावर डे"
+        },
+        {
+          "element_id": "17_p31_e178",
+          "sequence_order": 178,
+          "page_number": 31,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "बसलवण्याचे लनयोजन"
+        }
+      ]
+    },
+    "32": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p32_e179",
+          "sequence_order": 179,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "(भांडविी तरतूद र.रु. १२०.७० कोटी +"
+        },
+        {
+          "element_id": "17_p32_e180",
+          "sequence_order": 180,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "महसुिी तरतूद र.रु. ८५.०६ कोटी ="
+        },
+        {
+          "element_id": "17_p32_e181",
+          "sequence_order": 181,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "एकूण र.रु. २०५.७६ कोटी)"
+        },
+        {
+          "element_id": "17_p32_e182",
+          "sequence_order": 182,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "शहरातीि ५ रठकाणी नव्याने लवलवध"
+        },
+        {
+          "element_id": "17_p32_e183",
+          "sequence_order": 183,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "संकल्पनांवर अधाररत ईद्यानाचे लवकास  प्रस्तालवत    सदर ईपक्रमांमुळे “एक भारत, श्रेष्ठ भारत” या"
+        },
+        {
+          "element_id": "17_p32_e184",
+          "sequence_order": 184,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "संकल्पनेिा बळकटी लमळून सांस्कृलतक  एकात्मता, पयागवरण संवधगन, बािलवकास,  कुटुंबीय कल्याण तसेच पयगटनवृद्धीस चािना  लमळणार "
+        }
+      ]
+    },
+    "33": {
+      "elements": 5,
+      "flagged": 5,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p33_e185",
+          "sequence_order": 185,
+          "page_number": 33,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "कात्रज येथीि स्व.राजीव गांधी प्राणीसंग्रहािय व  ववयजीव संशोधन केंद्राचे अंतरराष्ट्रीय दजागचे  पयगटन स्थळ म्हणून लवकासन क"
+        },
+        {
+          "element_id": "17_p33_e186",
+          "sequence_order": 186,
+          "page_number": 33,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "कात्रज येथीि १३० एकर क्षेत्रावर पसरिेल्या राजीव"
+        },
+        {
+          "element_id": "17_p33_e187",
+          "sequence_order": 187,
+          "page_number": 33,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 42,
+          "text_preview": "गांधी प्रालणसंग्रहाियाचा अंतरराष्ट्रीय दजागचे पयगटन  स्थळ म्हणून लवकास करण्यासाठी बृहत अराखड्याची  ऄंमिबजावणी सुरू अहे. "
+        },
+        {
+          "element_id": "17_p33_e188",
+          "sequence_order": 188,
+          "page_number": 33,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 41,
+          "text_preview": "ट्यामरीन यांसारख्या देशी-लवदेशी प्रजातींचे प्रदशगन  तसेच बहुप्रलतलक्षत ‘बडग पाकग’ प्रकल्प राबलवण्यात  येणार अहे.   एंट्"
+        },
+        {
+          "element_id": "17_p33_e189",
+          "sequence_order": 189,
+          "page_number": 33,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "वाढून पुणे महानगरपालिकेच्या महसुिात वाढ  होणार अहे."
+        }
+      ]
+    },
+    "34": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p34_e190",
+          "sequence_order": 190,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "पयागवरण लवभाग"
+        },
+        {
+          "element_id": "17_p34_e191",
+          "sequence_order": 191,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "(तरतूद र.रु. ५१.५९ कोटी)"
+        }
+      ]
+    },
+    "35": {
+      "elements": 8,
+      "flagged": 8,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p35_e192",
+          "sequence_order": 192,
+          "page_number": 35,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "पयागवरण लवभाग - सन २०२६-२७ चे  दृष्टीक्षेपातीि संलक्षप्त मालहती"
+        },
+        {
+          "element_id": "17_p35_e193",
+          "sequence_order": 193,
+          "page_number": 35,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "नदी संवधगन व प्रदूषण लनयंत्रण – Floating Trash"
+        },
+        {
+          "element_id": "17_p35_e194",
+          "sequence_order": 194,
+          "page_number": 35,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 39,
+          "text_preview": "Barrier, Floating Island, Trash Skimmer,  Bioremediation, Decentralized STP आ.  ईपाययोजना (तरतूद र.रु.८ कोटी).  सोिर िा"
+        },
+        {
+          "element_id": "17_p35_e195",
+          "sequence_order": 195,
+          "page_number": 35,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "वाढलवणे (तरतूद र.रु ५ कोटी).  Riverbank Biodiversity Park व Biodiversity"
+        },
+        {
+          "element_id": "17_p35_e196",
+          "sequence_order": 196,
+          "page_number": 35,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 34,
+          "text_preview": "Mapping – पाणथळ जागांचे संरक्षण व बायोडायव्हर्मसटी  आंडेकस तयार (तरतूद र.रु ३ कोटी).  मुळा–मुठा नदीवरीि स्टॉप डॅम प्रकल"
+        },
+        {
+          "element_id": "17_p35_e197",
+          "sequence_order": 197,
+          "page_number": 35,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "भागांत पाणी गुणवत्ता सुधारणा (तरतूद र.रु ४ कोटी).  नदी महोत्सव व जनजागृती कायगक्रम – पररसंवाद, प्रलशक्षण,"
+        },
+        {
+          "element_id": "17_p35_e198",
+          "sequence_order": 198,
+          "page_number": 35,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "िोकसहभाग  आकोिॉलजकि ईद्यान – िँडकिि क्षेत्राचे हररत पररसरात"
+        },
+        {
+          "element_id": "17_p35_e199",
+          "sequence_order": 199,
+          "page_number": 35,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "रूपांतर (तरतूद र.रु ६ कोटी)."
+        }
+      ]
+    },
+    "36": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p36_e200",
+          "sequence_order": 200,
+          "page_number": 36,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Air Quality Monitoring Sensors व ररऄि-"
+        },
+        {
+          "element_id": "17_p36_e201",
+          "sequence_order": 201,
+          "page_number": 36,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "टाआम मॉलनटररग प्रणािी (तरतूद र.रु ५ कोटी).  हररत आमारती ईपक्रम – कूि रूफिग, रेट्रोकिरटग"
+        },
+        {
+          "element_id": "17_p36_e202",
+          "sequence_order": 202,
+          "page_number": 36,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "आ. ईपाययोजना (तरतूद र.रु ५ कोटी).  शािेय स्तरावर पयागवरण लशक्षण व जनजागृती"
+        },
+        {
+          "element_id": "17_p36_e203",
+          "sequence_order": 203,
+          "page_number": 36,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "(तरतूद र.रु १ कोटी).  हवा/पाणी/ध्वनी गुणवत्ता तपासणी – (Mould"
+        },
+        {
+          "element_id": "17_p36_e204",
+          "sequence_order": 204,
+          "page_number": 36,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "Resistance Design) MRD Lab द्वारे  लनयलमत चाचणी (तरतूद र.रु २५ िाख)."
+        },
+        {
+          "element_id": "17_p36_e205",
+          "sequence_order": 205,
+          "page_number": 36,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "पयागवरण लवभाग - सन २०२६-२७ चे  दृष्टीक्षेपातीि संलक्षप्त मालहती"
+        }
+      ]
+    },
+    "37": {
+      "elements": 4,
+      "flagged": 4,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p37_e206",
+          "sequence_order": 206,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "लवद्युत  लवभाग  १०"
+        },
+        {
+          "element_id": "17_p37_e207",
+          "sequence_order": 207,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "(भांडविी तरतूद र.रु. ८०.९० कोटी +"
+        },
+        {
+          "element_id": "17_p37_e208",
+          "sequence_order": 208,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "महसुिी तरतूद र.रु. १८५.२२ कोटी ="
+        },
+        {
+          "element_id": "17_p37_e209",
+          "sequence_order": 209,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "एकूण र.रु. २६५.७२ कोटी)"
+        }
+      ]
+    },
+    "38": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p38_e210",
+          "sequence_order": 210,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "लवद्युत लवभाग - सन २०२६-२७ चे  दृष्टीक्षेपातीि संलक्षप्त मालहती"
+        },
+        {
+          "element_id": "17_p38_e211",
+          "sequence_order": 211,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "लनजगनस्थळे, नवीन DP रोड व लमपसग पिक रस्त्यांवर"
+        },
+        {
+          "element_id": "17_p38_e212",
+          "sequence_order": 212,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 38,
+          "text_preview": "४,००० लवद्युत पोि बसलवण्याचे लनयोजन, त्यामुळे  सुमारे १०० कक.मी. रस्ते प्रकाशमान; (तरतूद र.रु  २४.१५ कोटी)  ८५,००० नवीन"
+        },
+        {
+          "element_id": "17_p38_e213",
+          "sequence_order": 213,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "वार्मषक ५८.३४ िाख युलनट वीज बचत, (तरतूद र.रु  २५ कोटी)  PMC आमारती व जिशुद्धीकरण प्रकल्पांवर ५–१०"
+        },
+        {
+          "element_id": "17_p38_e214",
+          "sequence_order": 214,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 42,
+          "text_preview": "MW सौर उजाग प्रकल्प Renewable Energy  Service Company (RESCO मॉडेि) – वार्मषक ५५  िाख युलनट वीज लनर्ममती व र.रु.६.०५ कोट"
+        },
+        {
+          "element_id": "17_p38_e215",
+          "sequence_order": 215,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "कंट्रोि APC लसलस्टम) – धूर व घातक वायू  लनयंत्रणासाठी (तरतूद र.रु ३.६५ कोटी)"
+        }
+      ]
+    },
+    "39": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p39_e216",
+          "sequence_order": 216,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "ऄमृत २.० ऄंतगगत बलहरोबा (130→200 MLD),"
+        },
+        {
+          "element_id": "17_p39_e217",
+          "sequence_order": 217,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 40,
+          "text_preview": "तानाजीवाडी (17→26 MLD) व बोपोडी (18→28 MLD)  STP वाढ व नूतनीकरण. प्रकल्प पूणग झाल्यानंतर एकूण  STP क्षमता 89 MLD ने वाढू"
+        },
+        {
+          "element_id": "17_p39_e218",
+          "sequence_order": 218,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "८ STP वर 720 kWp सौर प्रकल्प – वार्मषक 7.88"
+        },
+        {
+          "element_id": "17_p39_e219",
+          "sequence_order": 219,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "िाख युलनट वीज लनर्ममती.  खराडी, मुंढवा व बाणेर STP येथे SCADA प्रणािी"
+        },
+        {
+          "element_id": "17_p39_e220",
+          "sequence_order": 220,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "बसवून Centralized SCADA शी जोडणी.    नदी प्रदूषण रोखण्यासाठी पुण्यातीि खासगी सोसायटीच्या"
+        },
+        {
+          "element_id": "17_p39_e221",
+          "sequence_order": 221,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "मिलनःसारण शुद्धीकरण केंद्रा (STP) वर 'सेवसर' बसवून  लडलजटि देखरेख करण्यात येणार"
+        },
+        {
+          "element_id": "17_p39_e222",
+          "sequence_order": 222,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "मिलनःसारण  (लवद्युत) ऄमृत २.०"
+        }
+      ]
+    },
+    "40": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p40_e223",
+          "sequence_order": 223,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "(भांडविी तरतूद र.रु. ५९१.०० कोटी"
+        },
+        {
+          "element_id": "17_p40_e224",
+          "sequence_order": 224,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "+ महसुिी तरतूद र.रु. ५९.४४ कोटी"
+        },
+        {
+          "element_id": "17_p40_e225",
+          "sequence_order": 225,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "= एकूण र.रु. ६५०.४४ कोटी)"
+        }
+      ]
+    },
+    "41": {
+      "elements": 8,
+      "flagged": 8,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p41_e226",
+          "sequence_order": 226,
+          "page_number": 41,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "भवन रचना लवभाग - सन २०२६-२७  चे दृष्टीक्षेपातीि संलक्षप्त मालहती"
+        },
+        {
+          "element_id": "17_p41_e227",
+          "sequence_order": 227,
+          "page_number": 41,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "कमिा नेहरू रुग्णाियाचे अधुलनकीकरण – वैद्यकीय"
+        },
+        {
+          "element_id": "17_p41_e228",
+          "sequence_order": 228,
+          "page_number": 41,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "महालवद्याियाशी संिग्न सुलवधा मजबूत करणे.  कोंढवा–येविेवाडी क्षेत्रीय कायागियासाठी नवीन"
+        },
+        {
+          "element_id": "17_p41_e229",
+          "sequence_order": 229,
+          "page_number": 41,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "आमारत बांधण्याचे लनयोजन.  कै. ऄण्णासाहेब मगर दवाखाना, हडपसर येथे"
+        },
+        {
+          "element_id": "17_p41_e230",
+          "sequence_order": 230,
+          "page_number": 41,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "ऄद्ययावत नवीन हॉलस्पटि प्रस्तालवत.  डॉ. बाबासाहेब अंबेडकर लवद्याथी वसलतगृह (घोिे"
+        },
+        {
+          "element_id": "17_p41_e231",
+          "sequence_order": 231,
+          "page_number": 41,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "रोड) – जुने बांधकाम पाडून नवीन वसलतगृह.  संगमवाडी येथे अद्यक्रांतीगुरू िहूजी वस्ताद साळवे"
+        },
+        {
+          "element_id": "17_p41_e232",
+          "sequence_order": 232,
+          "page_number": 41,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "स्मारक ईभारणी सुरू.  श्री. छत्रपती लशवाजी महाराज नाट्यगृह, पसहगड"
+        },
+        {
+          "element_id": "17_p41_e233",
+          "sequence_order": 233,
+          "page_number": 41,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "रोड व बाळासाहेब ठाकरे नाट्यगृह, कोथरूड येथे  नवीन नाट्यगृहे ईभारणे"
+        }
+      ]
+    },
+    "42": {
+      "elements": 5,
+      "flagged": 5,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p42_e234",
+          "sequence_order": 234,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "भवन रचना लवभाग - सन २०२६-२७  चे दृष्टीक्षेपातीि संलक्षप्त मालहती"
+        },
+        {
+          "element_id": "17_p42_e235",
+          "sequence_order": 235,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": " ऐलतहालसक लभडेवाडा येथे सालवलत्रबाइ िुिे"
+        },
+        {
+          "element_id": "17_p42_e236",
+          "sequence_order": 236,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "मुिींच्या पलहल्या शाळेचे स्मारक – वाडा शैिीत,  किल्म/होिोग्रािी व मलहिा कौशल्य लवकास केंद्र.   पसहगड रोड, वडगाव बु. येथ"
+        },
+        {
+          "element_id": "17_p42_e237",
+          "sequence_order": 237,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "केंद्र प्रस्तालवत.   हडपसर (स.नं. १३६) येथे क्रीडा नसगरी ईभारणी.   भारतरत्न ऄटि लबहारी वाजपेयी वैद्यकीय"
+        },
+        {
+          "element_id": "17_p42_e238",
+          "sequence_order": 238,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "महालवद्यािय पररसरात स्टुडंट्स हॉस्टेि बांधकाम  पूणग करणे.   खराडी (स.नं. २५, २६) येथे डॉग पाकग ईभारणी."
+        }
+      ]
+    },
+    "43": {
+      "elements": 4,
+      "flagged": 4,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p43_e239",
+          "sequence_order": 239,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "बािगंधवग रंगमंकदराची पुनर्मवकास व  नूतनीकरणाचा महत्वाकांक्षी प्रकल्प प्रस्तालवत"
+        },
+        {
+          "element_id": "17_p43_e240",
+          "sequence_order": 240,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": " पुणे शहरातीि ऐलतहालसक व महत्त्वाचे नाट्यगृह"
+        },
+        {
+          "element_id": "17_p43_e241",
+          "sequence_order": 241,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 48,
+          "text_preview": "ऄसिेल्या बािगंधवग रंगमंकदराचे अधुलनकीकरण व  पुनर्मवकास करण्यासाठी पुणे महानगरपालिकेकडून  महत्वाकांक्षी प्रकल्प प्रस्तालव"
+        },
+        {
+          "element_id": "17_p43_e242",
+          "sequence_order": 242,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "या नाट्यगृहातीि जुवया झािेल्या सुलवधांचे  नूतनीकरण करून अधुलनक व दजेदार सुलवधा  ईपिब्ध करून देण्याचे लनयोजन अहे.."
+        }
+      ]
+    },
+    "44": {
+      "elements": 5,
+      "flagged": 5,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p44_e243",
+          "sequence_order": 243,
+          "page_number": 44,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "मालहती व तंत्रज्ञान"
+        },
+        {
+          "element_id": "17_p44_e244",
+          "sequence_order": 244,
+          "page_number": 44,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "(भांडविी तरतूद र.रु. ५.२५ कोटी + महसुिी"
+        },
+        {
+          "element_id": "17_p44_e245",
+          "sequence_order": 245,
+          "page_number": 44,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "तरतूद र.रु. ५१.४८ कोटी = एकूण र.रु."
+        },
+        {
+          "element_id": "17_p44_e246",
+          "sequence_order": 246,
+          "page_number": 44,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "५६.७३ कोटी)"
+        },
+        {
+          "element_id": "17_p44_e247",
+          "sequence_order": 247,
+          "page_number": 44,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Website - https://www.pmc.gov.in/"
+        }
+      ]
+    },
+    "45": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p45_e248",
+          "sequence_order": 248,
+          "page_number": 45,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "मालहती व तंत्रज्ञान - सन २०२६- २०२७ चे दृष्टीक्षेपातीि संलक्षप्त मालहती"
+        },
+        {
+          "element_id": "17_p45_e249",
+          "sequence_order": 249,
+          "page_number": 45,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": " पुणे मनपा लडलजटि पररवतगनाच्या नव्या टप्प्यात"
+        },
+        {
+          "element_id": "17_p45_e250",
+          "sequence_order": 250,
+          "page_number": 45,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "प्रवेश -१९५० पासूनचे दस्तऐवज लडलजटायझेशन  करून DMS प्रणािीद्वारे सहज ईपिब्ध करीत अहे.  AI चा प्रशासनात वापर"
+        },
+        {
+          "element_id": "17_p45_e251",
+          "sequence_order": 251,
+          "page_number": 45,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "NLP अधाररत नवीन WhatsApp चॅटबॉटमुळे"
+        },
+        {
+          "element_id": "17_p45_e252",
+          "sequence_order": 252,
+          "page_number": 45,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "नागररकांना मालहती, सेवा लवतरण व तक्रार करणे  घर बसल्या शकय होणार अहे.  नागररकांना थेट िाभ हस्तांतरणासाठी “अधार”"
+        },
+        {
+          "element_id": "17_p45_e253",
+          "sequence_order": 253,
+          "page_number": 45,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "संिग्न ऄत्याधुलनक पोटगि लवकलसत करणे  तक्रार लनवारण प्रणािी (Grievance Redressal"
+        },
+        {
+          "element_id": "17_p45_e254",
+          "sequence_order": 254,
+          "page_number": 45,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "System - GRS) सुधारणे, प्रभाग अलण क्षेत्रीय  कायागियांमध्ये इ-ऑकिस (eOffice) िागू करणे"
+        }
+      ]
+    },
+    "46": {
+      "elements": 4,
+      "flagged": 4,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p46_e255",
+          "sequence_order": 255,
+          "page_number": 46,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "हेरीटेज सेि"
+        },
+        {
+          "element_id": "17_p46_e256",
+          "sequence_order": 256,
+          "page_number": 46,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "(भांडविी तरतुद र.रु.२८.५० कोटी +"
+        },
+        {
+          "element_id": "17_p46_e257",
+          "sequence_order": 257,
+          "page_number": 46,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "महसुिी तरतुद र.रु.५.३० कोटी"
+        },
+        {
+          "element_id": "17_p46_e258",
+          "sequence_order": 258,
+          "page_number": 46,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "= एकूण र.रु.३३.८० कोटी)"
+        }
+      ]
+    },
+    "47": {
+      "elements": 5,
+      "flagged": 5,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p47_e259",
+          "sequence_order": 259,
+          "page_number": 47,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "हेरीटेज सेि - सन २०२६-२०२७ चे  दृष्टीक्षेपातीि संलक्षप्त मालहती"
+        },
+        {
+          "element_id": "17_p47_e260",
+          "sequence_order": 260,
+          "page_number": 47,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 43,
+          "text_preview": " पवगती पायथा येथीि पेशवे सृष्टी प्रकल्प पूणग करून नागररकांसाठी खुिे करण्यात येणार.     पसहगड ककल्ल्यावर नरवीर तानाजी म"
+        },
+        {
+          "element_id": "17_p47_e261",
+          "sequence_order": 261,
+          "page_number": 47,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "पयगटकांसाठी सुलवधा वाढलवणे.    मामिेदार कचेरी येथीि अद्यक्रांलतकारी ईमाजी नाइक यांना ठेविेल्या जेि आमारतीचे ईवगररत कामे"
+        },
+        {
+          "element_id": "17_p47_e262",
+          "sequence_order": 262,
+          "page_number": 47,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "कोटग आमारतीचे जतन व संवधगन पूणग करण्यात येणार.    महात्मा िुिे जुनी मंडइ येथे गाळे, छत, दगडी पभती व प्रदशगनासाठी दुरुस्"
+        },
+        {
+          "element_id": "17_p47_e263",
+          "sequence_order": 263,
+          "page_number": 47,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "पुनस्थागलपत करणे."
+        }
+      ]
+    },
+    "48": {
+      "elements": 4,
+      "flagged": 4,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p48_e264",
+          "sequence_order": 264,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "प्राथलमक लशक्षण  लवभाग"
+        },
+        {
+          "element_id": "17_p48_e265",
+          "sequence_order": 265,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "(भांडविी तरतूद र.रु. ८८.०० कोटी +"
+        },
+        {
+          "element_id": "17_p48_e266",
+          "sequence_order": 266,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "महसुिी तरतूद र.रु. ८९१.८३ कोटी ="
+        },
+        {
+          "element_id": "17_p48_e267",
+          "sequence_order": 267,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "एकूण र.रु. ९७९.८३ कोटी)"
+        }
+      ]
+    },
+    "49": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p49_e268",
+          "sequence_order": 268,
+          "page_number": 49,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "प्राथलमक लशक्षण लवभाग - सन २०२६- २७ चे दृष्टीक्षेपातीि संलक्षप्त मालहती"
+        },
+        {
+          "element_id": "17_p49_e269",
+          "sequence_order": 269,
+          "page_number": 49,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": " “लवद्यावर्मधनी अदशग शाळा” प्रकल्प – ७५ व्या"
+        },
+        {
+          "element_id": "17_p49_e270",
+          "sequence_order": 270,
+          "page_number": 49,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 34,
+          "text_preview": "वधागपनकदना लनलमत्त ७५ शाळा आमारतींमधीि १४४  प्राथलमक शाळांचा लवकास व भौलतक सुलवधा.   लवद्यावर्मधनी गुणवत्ता वाढ ईपक्रम "
+        },
+        {
+          "element_id": "17_p49_e271",
+          "sequence_order": 271,
+          "page_number": 49,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "इ-िर्ननग, लवषय कक्ष, डेटा एंट्री ऑपरेटर, क्रीडा-किा  कक्ष, समुपदेशक आ. सुलवधा.   क्रीडा, सांस्कृलतक व शैक्षलणक ईपक्रमां"
+        },
+        {
+          "element_id": "17_p49_e272",
+          "sequence_order": 272,
+          "page_number": 49,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "लनधी – स्पधाग, सहिी, स्नेहसंमेिने आ.   ८ आंग्रजी माध्यम शाळा CBSE बोडागशी संिग्न"
+        },
+        {
+          "element_id": "17_p49_e273",
+          "sequence_order": 273,
+          "page_number": 49,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "करण्याचा प्रस्ताव – प्रकक्रया सुरू."
+        }
+      ]
+    },
+    "50": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p50_e274",
+          "sequence_order": 274,
+          "page_number": 50,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "अपत्ती व्यवस्थापन"
+        },
+        {
+          "element_id": "17_p50_e275",
+          "sequence_order": 275,
+          "page_number": 50,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "लवभाग"
+        },
+        {
+          "element_id": "17_p50_e276",
+          "sequence_order": 276,
+          "page_number": 50,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "(महसुिी तरतूद र.रु. ६२.०३ कोटी)"
+        }
+      ]
+    },
+    "51": {
+      "elements": 5,
+      "flagged": 5,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p51_e277",
+          "sequence_order": 277,
+          "page_number": 51,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "अपत्ती व्यवस्थापन लवभाग - सन २०२६- २७ चे दृष्टीक्षेपातीि संलक्षप्त मालहती"
+        },
+        {
+          "element_id": "17_p51_e278",
+          "sequence_order": 278,
+          "page_number": 51,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": " ICCC ऄंतगगत CCTV साठी UPS अधाररत"
+        },
+        {
+          "element_id": "17_p51_e279",
+          "sequence_order": 279,
+          "page_number": 51,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "पोि व नदीककनारी Public Address  System बसलवणे प्रस्तालवत.   झोपडपट्टीतीि अपत्तीग्रस्त नागररकांसाठी"
+        },
+        {
+          "element_id": "17_p51_e280",
+          "sequence_order": 280,
+          "page_number": 51,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "पुनवगसन व अर्मथक सहाय्य तरतूद.   Emergency Operation Centre (EOC)"
+        },
+        {
+          "element_id": "17_p51_e281",
+          "sequence_order": 281,
+          "page_number": 51,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "बळकटीकरण, ऄलतररक्त मनुष्यबळ व पायाभूत  सुलवधा."
+        }
+      ]
+    },
+    "52": {
+      "elements": 4,
+      "flagged": 4,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p52_e282",
+          "sequence_order": 282,
+          "page_number": 52,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "समाज लवकास  लवभाग"
+        },
+        {
+          "element_id": "17_p52_e283",
+          "sequence_order": 283,
+          "page_number": 52,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "(भांडविी तरतूद र.रु. १३१.९८ कोटी +"
+        },
+        {
+          "element_id": "17_p52_e284",
+          "sequence_order": 284,
+          "page_number": 52,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "महसुिी तरतूद र.रु. ११.५२ कोटी ="
+        },
+        {
+          "element_id": "17_p52_e285",
+          "sequence_order": 285,
+          "page_number": 52,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "एकूण र.रु. १४३.५० कोटी)"
+        }
+      ]
+    },
+    "53": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p53_e286",
+          "sequence_order": 286,
+          "page_number": 53,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "समाज लवकास लवभाग - सन २०२६- २०२७ चे दृष्टीक्षेपातीि संलक्षप्त मालहती"
+        },
+        {
+          "element_id": "17_p53_e287",
+          "sequence_order": 287,
+          "page_number": 53,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": " मलहिा बचत गट ईत्पादने लवक्रीसाठी कायमस्वरूपी"
+        },
+        {
+          "element_id": "17_p53_e288",
+          "sequence_order": 288,
+          "page_number": 53,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "लवक्री केंद्र स्थापन.   मलहिा व मुिींसाठी स्वसंरक्षण प्रलशक्षण केंद्र सुरु"
+        },
+        {
+          "element_id": "17_p53_e289",
+          "sequence_order": 289,
+          "page_number": 53,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "करण्याचे लनयोजन.   िघु ईद्योगांसाठी कौशल्य प्रलशक्षण केंद्र व इ-व्हेइकि"
+        },
+        {
+          "element_id": "17_p53_e290",
+          "sequence_order": 290,
+          "page_number": 53,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "दुरुस्ती प्रलशक्षण.   भटकया/लवमुक्त जातींच्या मुिांसाठी हडपसर येथे"
+        },
+        {
+          "element_id": "17_p53_e291",
+          "sequence_order": 291,
+          "page_number": 53,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "लनवासी प्रकल्प.  कदव्यांग सवेक्षण, कदव्यांग भवन, कृलत्रम ऄवयव केंद्र"
+        },
+        {
+          "element_id": "17_p53_e292",
+          "sequence_order": 292,
+          "page_number": 53,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "व थेरपी सेंटर सुरू करण्याचे लनयोजन."
+        }
+      ]
+    },
+    "54": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p54_e293",
+          "sequence_order": 293,
+          "page_number": 54,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "कामगार कल्याण  लवभाग"
+        },
+        {
+          "element_id": "17_p54_e294",
+          "sequence_order": 294,
+          "page_number": 54,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "कमगचाऱ्यांना घर घेण्यासाठी गृहकजग 5 ककिोमीटर"
+        },
+        {
+          "element_id": "17_p54_e295",
+          "sequence_order": 295,
+          "page_number": 54,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "क्षेत्राची मयागदा वाढवून संपूणग पुणे लजल्हा िागू.    कामावर कायगरत ऄसताना ऄलधकारी/कमगचारी यांचे"
+        },
+        {
+          "element_id": "17_p54_e296",
+          "sequence_order": 296,
+          "page_number": 54,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "लनधन झाल्यास वारसांना तातडीचे र.रु.५ िाख  अर्मथक सहाय्य.    नैसर्मगक मृत्यू झाल्यास लमळणारे अर्मथक सहाय्य"
+        },
+        {
+          "element_id": "17_p54_e297",
+          "sequence_order": 297,
+          "page_number": 54,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "र.रु.७५,००० वरून वाढवून र.रु.२ िाख.    सिाइ कामगारांना सणांच्या कदवशी काम केल्यास त्या"
+        },
+        {
+          "element_id": "17_p54_e298",
+          "sequence_order": 298,
+          "page_number": 54,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "कदवसाचे दीडपट वेतन.    कमगचारी व त्यांच्या कुटुंबांना अर्मथक सुरलक्षतता व"
+        },
+        {
+          "element_id": "17_p54_e299",
+          "sequence_order": 299,
+          "page_number": 54,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "कदिासा"
+        }
+      ]
+    },
+    "55": {
+      "elements": 5,
+      "flagged": 5,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p55_e300",
+          "sequence_order": 300,
+          "page_number": 55,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "मािमत्ता व  व्यवस्थापन लवभाग"
+        },
+        {
+          "element_id": "17_p55_e301",
+          "sequence_order": 301,
+          "page_number": 55,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "मनपाच्या सवग भूखंड व आमारतींचे GIS सव्हेक्षण"
+        },
+        {
+          "element_id": "17_p55_e302",
+          "sequence_order": 302,
+          "page_number": 55,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "करण्यात येणार."
+        },
+        {
+          "element_id": "17_p55_e303",
+          "sequence_order": 303,
+          "page_number": 55,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": " गाळे व जागांचे भाडे लनयमांनुसार सुधाररत करून"
+        },
+        {
+          "element_id": "17_p55_e304",
+          "sequence_order": 304,
+          "page_number": 55,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "महसूि वाढलवण्याचे ईकिष्ट."
+        }
+      ]
+    },
+    "56": {
+      "elements": 5,
+      "flagged": 5,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p56_e305",
+          "sequence_order": 305,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "१५ वा लवत्त अयोग  अलण  ऄमृत 2.0,  सी.एस.अर."
+        },
+        {
+          "element_id": "17_p56_e306",
+          "sequence_order": 306,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "१५ वा लवत्त अयोगातून NCAP ऄंतगगत"
+        },
+        {
+          "element_id": "17_p56_e307",
+          "sequence_order": 307,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 44,
+          "text_preview": "र.रु.१२६.३० कोटी लनधी अलण पाणी पुरवठा  सुधारणा व प्रभावी घनकचरा व्यवस्थापन साठी सुमारे  र.रु.१३७.०४ कोटी लवलवध लवभागांसा"
+        },
+        {
+          "element_id": "17_p56_e308",
+          "sequence_order": 308,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 75,
+          "text_preview": "जिशुद्धीकरण केंद्र ईभारणे, ऄलस्तत्वातीि 6 STP ची  क्षमता 362 MLD वरून 451 MLD पयंत वाढलवणे  अलण नव्याने समालवष्ट 16 गावा"
+        },
+        {
+          "element_id": "17_p56_e309",
+          "sequence_order": 309,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 45,
+          "text_preview": "कौशल्यवधगन केंद्र (Centre for Invention,  Innovation, Incubation and Training Centre  (CIIIT) चे मा.ईपमुख्यमंत्री यांचे "
+        }
+      ]
+    },
+    "57": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p57_e310",
+          "sequence_order": 310,
+          "page_number": 57,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "ऄलतक्रमण/ऄनलधकृत  बांधकाम लनमुगिन  लवभाग"
+        },
+        {
+          "element_id": "17_p57_e311",
+          "sequence_order": 311,
+          "page_number": 57,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "ऄलतक्रमण लनमूगिनासाठी िहान वाहने व २४x७ पथकाद्वारे"
+        },
+        {
+          "element_id": "17_p57_e312",
+          "sequence_order": 312,
+          "page_number": 57,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "कारवाइ करणे अलण समालवष्ट गावांनसह मनुष्यबळ  वाढलवणे.     पदपथ व रस्ते ऄलतक्रमणमुक्त करण्याचे ईकिष्ट. अलण ३२"
+        },
+        {
+          "element_id": "17_p57_e313",
+          "sequence_order": 313,
+          "page_number": 57,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "प्रमुख रस्त्यावर प्रभावी मोहीम राबलवण्याचे लनयोजन     गदीच्या रठकाणांवरीि पथारी झोन कमी गदीच्या रठकाणी"
+        },
+        {
+          "element_id": "17_p57_e314",
+          "sequence_order": 314,
+          "page_number": 57,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "स्थिांतररत करणे.     ५२५ हॉकसग झोनमध्ये बोडग व पट्टे मारून स्पष्ट अखणी.     पथारी व्यवसालयकांची ऑनिाआन नोंदणी व QR-cod"
+        },
+        {
+          "element_id": "17_p57_e315",
+          "sequence_order": 315,
+          "page_number": 57,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "ओळखपत्र.    शहरातीि ऄलतक्रमणावर ऄलधक प्रभावी देखरेख व"
+        },
+        {
+          "element_id": "17_p57_e316",
+          "sequence_order": 316,
+          "page_number": 57,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "लनरीक्षणासाठी नव्याने सुधाररत व ऄलधक सक्षम प्रणािी  िागू करणे"
+        }
+      ]
+    },
+    "58": {
+      "elements": 8,
+      "flagged": 8,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p58_e317",
+          "sequence_order": 317,
+          "page_number": 58,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "मोटार वाहन लवभाग"
+        },
+        {
+          "element_id": "17_p58_e318",
+          "sequence_order": 318,
+          "page_number": 58,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "(भांडविी तरतुद र.रु.८०.३० कोटी +"
+        },
+        {
+          "element_id": "17_p58_e319",
+          "sequence_order": 319,
+          "page_number": 58,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "महसुिी तरतुद र.रु.७२.३५ कोटी="
+        },
+        {
+          "element_id": "17_p58_e320",
+          "sequence_order": 320,
+          "page_number": 58,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "एकूण र.रु.१५२.६५ कोटी)"
+        },
+        {
+          "element_id": "17_p58_e321",
+          "sequence_order": 321,
+          "page_number": 58,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "लवलवध लवभागांसाठी अवश्यक यंत्रसामग्री व"
+        },
+        {
+          "element_id": "17_p58_e322",
+          "sequence_order": 322,
+          "page_number": 58,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "लवशेष वाहने खरेदी करण्याचे लनयोजन.     स्वच्छता, मिलनःसारण व कचरा वाहतुकीसाठी"
+        },
+        {
+          "element_id": "17_p58_e323",
+          "sequence_order": 323,
+          "page_number": 58,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "अधुलनक यंत्रे ईपिब्ध करणे.     अयुमागन संपिेल्या वाहनांच्या जागी नवीन वाहने"
+        },
+        {
+          "element_id": "17_p58_e324",
+          "sequence_order": 324,
+          "page_number": 58,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "घेउन कायगक्षमता वाढलवणे."
+        }
+      ]
+    },
+    "59": {
+      "elements": 4,
+      "flagged": 4,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p59_e325",
+          "sequence_order": 325,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "ऄलग्नशमन लवभाग"
+        },
+        {
+          "element_id": "17_p59_e326",
+          "sequence_order": 326,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": " शहराचा लवस्तार व नव्याने समालवष्ट गावे"
+        },
+        {
+          "element_id": "17_p59_e327",
+          "sequence_order": 327,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "िक्षात घेता नवीन ऄलग्नशमन केंद्रे, मनुष्यबळ  वाढ व ऄत्याधुलनक वाहने खरेदीचा प्रस्ताव.   रेस्कयू/हॅजमॅट व्हॅन, Turntable"
+        },
+        {
+          "element_id": "17_p59_e328",
+          "sequence_order": 328,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "व 28 मीटर Hydraulic Access Platform  यांसारखी अधुलनक ईपकरणे ईपिब्ध करणे.  २१"
+        }
+      ]
+    },
+    "60": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p60_e329",
+          "sequence_order": 329,
+          "page_number": 60,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "मालहती व जनसंपकग  लवभाग"
+        },
+        {
+          "element_id": "17_p60_e330",
+          "sequence_order": 330,
+          "page_number": 60,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": " पुणे महानगरपालिका नागररकांना सेवा ऄलधक"
+        },
+        {
+          "element_id": "17_p60_e331",
+          "sequence_order": 331,
+          "page_number": 60,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 43,
+          "text_preview": "सुिभ, जिद अलण प्रभावी देण्यासाठी डेटा,  तंत्रज्ञान अलण संवाद यांचा वापर करून तीन  वषांसाठी SEED (Service Efficiency &  E"
+        }
+      ]
+    },
+    "61": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p61_e332",
+          "sequence_order": 332,
+          "page_number": 61,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "क्षेत्रीय कायागिय  सक्षमीकरण"
+        },
+        {
+          "element_id": "17_p61_e333",
+          "sequence_order": 333,
+          "page_number": 61,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "नागररकांना ऄलधक चांगल्या अलण जिद सेवा"
+        },
+        {
+          "element_id": "17_p61_e334",
+          "sequence_order": 334,
+          "page_number": 61,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "देण्यासाठी क्षेत्रीय कायागियांचे सक्षमीकरण करत  अहेत.  नागररकांना अवश्यक ऄसिेिे दैनंकदन दाखिे व"
+        },
+        {
+          "element_id": "17_p61_e335",
+          "sequence_order": 335,
+          "page_number": 61,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "लवलवध सेवा क्षेत्रीय कायागियामािगत लनलित वेळेत  ईपिब्ध करून देण्यात येणार.  यासाठी अवश्यक पायाभूत सुलवधा व मनुष्यबळाची"
+        },
+        {
+          "element_id": "17_p61_e336",
+          "sequence_order": 336,
+          "page_number": 61,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "ईपिब्धता क्षेत्रीय कायागियांमध्ये करण्यात अिी अहे.  नवीन सुधारणा करून देखभाि व दुरुस्तीची सवग कामे"
+        },
+        {
+          "element_id": "17_p61_e337",
+          "sequence_order": 337,
+          "page_number": 61,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "क्षेत्रीय कायागियांकडे वगग करण्यात अिी अहेत.  यामुळे नागररकांना ऄलधक तत्पर, जिद अलण प्रभावी"
+        },
+        {
+          "element_id": "17_p61_e338",
+          "sequence_order": 338,
+          "page_number": 61,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "सेवा लमळणार अहे."
+        }
+      ]
+    },
+    "62": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p62_e339",
+          "sequence_order": 339,
+          "page_number": 62,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "क्रीडा लवभाग"
+        },
+        {
+          "element_id": "17_p62_e340",
+          "sequence_order": 340,
+          "page_number": 62,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": " हडपसर येथे स्पोट्सग नसगरी सुरू करण्यात येणार.   सन २०२५ मध्ये लजल्हा, राज्य, राष्ट्रीय व अंतरराष्ट्रीय स्पधांमध्ये प्"
+        },
+        {
+          "element_id": "17_p62_e341",
+          "sequence_order": 341,
+          "page_number": 62,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 42,
+          "text_preview": "लमळविेल्या ३९७ खेळाडूंना १.८० कोटी रुपये क्रीडा लशष्यवृत्ती देणे   पुणे महापालिका शाळांतीि ३६ लवद्यार्थयांना क्रीडा लशष"
+        }
+      ]
+    },
+    "63": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p63_e342",
+          "sequence_order": 342,
+          "page_number": 63,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "सांस्कृलतक केंद्र लवभाग"
+        },
+        {
+          "element_id": "17_p63_e343",
+          "sequence_order": 343,
+          "page_number": 63,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "(भांडविी तरतुद र.रु.१२२.९० कोटी +  महसुिी तरतुद र.रु.४८.४१ कोटी=  एकूण र.रु. १७१.३१ कोटी)"
+        }
+      ]
+    },
+    "64": {
+      "elements": 5,
+      "flagged": 5,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p64_e344",
+          "sequence_order": 344,
+          "page_number": 64,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "सांस्कृलतक केंद्र लवभाग - सन २०२६-२०२७ चे  दृष्टीक्षेपातीि संलक्षप्त मालहती"
+        },
+        {
+          "element_id": "17_p64_e345",
+          "sequence_order": 345,
+          "page_number": 64,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": " नाट्यगृहांचे अधुलनकीकरण   ५ पररमंडळांमध्ये ऄत्याधुलनक तंत्रज्ञानाने सुसज्ज"
+        },
+        {
+          "element_id": "17_p64_e346",
+          "sequence_order": 346,
+          "page_number": 64,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "लमनी लथएटसग (५०–१०० असन क्षमता) ईभारणे  व कदव्यांगांसाठी स्वतंत्र लमनी लथएटर ईभारणेचा  मानस  १५ क्षेत्रीय कायागियांमधीि"
+        },
+        {
+          "element_id": "17_p64_e347",
+          "sequence_order": 347,
+          "page_number": 64,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "नवीन किादािने लवकलसत करणे,  पुणे शहरात दरवषी एका भव्य (Art Week )"
+        },
+        {
+          "element_id": "17_p64_e348",
+          "sequence_order": 348,
+          "page_number": 64,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "'किा सप्ताहाचे' अयोजन करणे"
+        }
+      ]
+    },
+    "65": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p65_e349",
+          "sequence_order": 349,
+          "page_number": 65,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "मागीि चार वषागचा ऄंदाजपत्रकाचा संलक्षप्त अढावा"
+        }
+      ]
+    },
+    "66": {
+      "elements": 3,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "67": {
+      "elements": 15,
+      "flagged": 15,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p67_e353",
+          "sequence_order": 353,
+          "page_number": 67,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "खचग बाजू"
+        },
+        {
+          "element_id": "17_p67_e354",
+          "sequence_order": 354,
+          "page_number": 67,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "जानेवारी २०२३"
+        },
+        {
+          "element_id": "17_p67_e355",
+          "sequence_order": 355,
+          "page_number": 67,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "जानेवारी २०२४"
+        },
+        {
+          "element_id": "17_p67_e356",
+          "sequence_order": 356,
+          "page_number": 67,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "जानेवारी २०२५"
+        },
+        {
+          "element_id": "17_p67_e357",
+          "sequence_order": 357,
+          "page_number": 67,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "जानेवारी२०२६"
+        },
+        {
+          "element_id": "17_p67_e358",
+          "sequence_order": 358,
+          "page_number": 67,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "सेवकवगग खचग  २२४३.६२  २४१६.५४  २५६५.३५  २६७२.२७  वीज खचग व दुरुस्ती  २५२.२०  २७२.०५  ३०६.००  ३१०.४०"
+        },
+        {
+          "element_id": "17_p67_e359",
+          "sequence_order": 359,
+          "page_number": 67,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "पाणी खचग  २८.४१  ९७.३९  १०८.८५  ८४.४४"
+        },
+        {
+          "element_id": "17_p67_e360",
+          "sequence_order": 360,
+          "page_number": 67,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "कजग परतिेड, व्याज व घसारा  ५९.०९  २०.३९  २१.१८  १५.२०"
+        },
+        {
+          "element_id": "17_p67_e361",
+          "sequence_order": 361,
+          "page_number": 67,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "औषधे, पेट्रोि व लडझेि  १४९.८३  १६२.२५  १५३.६१  १७३.८५"
+        },
+        {
+          "element_id": "17_p67_e362",
+          "sequence_order": 362,
+          "page_number": 67,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "देखभाि दुरुस्ती व आतरखचग  ७४१.८०  ७८५.५१  ९३५.१५  १०८९.७६"
+        },
+        {
+          "element_id": "17_p67_e363",
+          "sequence_order": 363,
+          "page_number": 67,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "वाडगस्तरीय कामे  -  -  -  -"
+        },
+        {
+          "element_id": "17_p67_e364",
+          "sequence_order": 364,
+          "page_number": 67,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "क्षेत्रीय कायागियाने करावयाची कामे (नॉन  प्िॅन)  ८.०४  २०.२५  २३.२७  १८.१०"
+        },
+        {
+          "element_id": "17_p67_e365",
+          "sequence_order": 365,
+          "page_number": 67,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "भांडविी व लवकासाची कामे  ७५२.७८  १२३४.७९  १५८४.५८  १५०३.७२  स्माटग लसटी व ऄमृत योजना  ३४.१३  ५.०१  ५८.९४  २.३१"
+        },
+        {
+          "element_id": "17_p67_e366",
+          "sequence_order": 366,
+          "page_number": 67,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "एकूण रक कम रुपये कोटीत  ४२६८.९३  ५०१४.१८  ५७५६.९३  ५८७०.०५"
+        },
+        {
+          "element_id": "17_p67_e367",
+          "sequence_order": 367,
+          "page_number": 67,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "मागीि ४ वषांचा संलक्षप्त अढावा: खचग बाजू  (अकडे रुपये कोटीत )"
+        }
+      ]
+    },
+    "68": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p68_e368",
+          "sequence_order": 368,
+          "page_number": 68,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "सन २०२६-२७ चे वार्मषक ऄंदाज पत्रक"
+        }
+      ]
+    },
+    "69": {
+      "elements": 8,
+      "flagged": 8,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p69_e369",
+          "sequence_order": 369,
+          "page_number": 69,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "जमा बाजू  खचग बाजू"
+        },
+        {
+          "element_id": "17_p69_e370",
+          "sequence_order": 370,
+          "page_number": 69,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "अरंभीची लशल्िक  ०.०२ सेवकवगग खचग  ३८८१.७०"
+        },
+        {
+          "element_id": "17_p69_e371",
+          "sequence_order": 371,
+          "page_number": 69,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "स्थालनक संस्था कर  ८४५.३२ वीज खचग व दुरुस्ती  ५७०.४१"
+        },
+        {
+          "element_id": "17_p69_e372",
+          "sequence_order": 372,
+          "page_number": 69,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 64,
+          "text_preview": "वस्तू अलण सेवा कर(GST)  २९१७.९५ पाणी खचग  १९०.००  लमळकतकर  ३३५२.४० कजग परत िेड, व्याज व घसारा  १४८.०१  लवकास शुल्क  ३४०६"
+        },
+        {
+          "element_id": "17_p69_e373",
+          "sequence_order": 373,
+          "page_number": 69,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "आतर जमा  १२०३.५९ क्षेलत्रय कायागियाने करावयाची कामे  १३७.९४"
+        },
+        {
+          "element_id": "17_p69_e374",
+          "sequence_order": 374,
+          "page_number": 69,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 36,
+          "text_preview": "कजग /कजग रोखे  ५००.०० भांडविी व लवकासाची कामे  ५७७३.५४  प्रधानमंत्री अवास योजना  ९३.०० ऄमृत व स्माटग लसटी ऄलभयान  २१७.५०"
+        },
+        {
+          "element_id": "17_p69_e375",
+          "sequence_order": 375,
+          "page_number": 69,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "एकूण  १३९९५.०० एकूण  १३९९५.००"
+        },
+        {
+          "element_id": "17_p69_e376",
+          "sequence_order": 376,
+          "page_number": 69,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 36,
+          "text_preview": "सन २०२६-२७ या अर्मथक वषागच्या जमाखचागचा ऄंदाज पुढीिप्रमाणे सादर करण्यात येत अहे  (अकडे रुपये कोटीत )  सन २०२६-२७ अर्मथक "
+        }
+      ]
+    },
+    "70": {
+      "elements": 8,
+      "flagged": 8,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p70_e377",
+          "sequence_order": 377,
+          "page_number": 70,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "रुपया ऄसा येणार - सन २०२६-२७ चे ऄंदाजपत्रक (र.रु .१३९९५.०० कोटी)"
+        },
+        {
+          "element_id": "17_p70_e378",
+          "sequence_order": 378,
+          "page_number": 70,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "वस्तू व सेवाकर"
+        },
+        {
+          "element_id": "17_p70_e379",
+          "sequence_order": 379,
+          "page_number": 70,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "मिळकत कर"
+        },
+        {
+          "element_id": "17_p70_e380",
+          "sequence_order": 380,
+          "page_number": 70,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "शहर मवकास चार्जेस 24%"
+        },
+        {
+          "element_id": "17_p70_e381",
+          "sequence_order": 381,
+          "page_number": 70,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "इतर र्जिा"
+        },
+        {
+          "element_id": "17_p70_e382",
+          "sequence_order": 382,
+          "page_number": 70,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "शासकीय अनुदान"
+        },
+        {
+          "element_id": "17_p70_e383",
+          "sequence_order": 383,
+          "page_number": 70,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "पाणीपट्टी"
+        },
+        {
+          "element_id": "17_p70_e384",
+          "sequence_order": 384,
+          "page_number": 70,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "कर्जज/कर्जज रोखे"
+        }
+      ]
+    },
+    "71": {
+      "elements": 11,
+      "flagged": 11,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p71_e385",
+          "sequence_order": 385,
+          "page_number": 71,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "रुपया ऄसा जाणार - सन २०२६-२७ चे ऄंदाजपत्रक"
+        },
+        {
+          "element_id": "17_p71_e386",
+          "sequence_order": 386,
+          "page_number": 71,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "सेवक वगज"
+        },
+        {
+          "element_id": "17_p71_e387",
+          "sequence_order": 387,
+          "page_number": 71,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "वीर्जखचज व दुरुस्ती"
+        },
+        {
+          "element_id": "17_p71_e388",
+          "sequence_order": 388,
+          "page_number": 71,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "पाणीखचज"
+        },
+        {
+          "element_id": "17_p71_e389",
+          "sequence_order": 389,
+          "page_number": 71,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "मवकासाची कािे व प्रकल्प"
+        },
+        {
+          "element_id": "17_p71_e390",
+          "sequence_order": 390,
+          "page_number": 71,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "कर्जज परतफेड व व्यार्ज"
+        },
+        {
+          "element_id": "17_p71_e391",
+          "sequence_order": 391,
+          "page_number": 71,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "वॉडजस्तरीय कािे"
+        },
+        {
+          "element_id": "17_p71_e392",
+          "sequence_order": 392,
+          "page_number": 71,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "घसारा,पेट्रोल,इतर खचज, देखभाल"
+        },
+        {
+          "element_id": "17_p71_e393",
+          "sequence_order": 393,
+          "page_number": 71,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "दुरुस्ती, औषधे"
+        },
+        {
+          "element_id": "17_p71_e394",
+          "sequence_order": 394,
+          "page_number": 71,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "अिृत2.0 2%  क्षेत्रीय कायागियाने करावयाची कामे 1%"
+        },
+        {
+          "element_id": "17_p71_e395",
+          "sequence_order": 395,
+          "page_number": 71,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "(र.रु .१३९९५.०० कोटी)"
+        }
+      ]
+    },
+    "72": {
+      "elements": 4,
+      "flagged": 4,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "17_p72_e396",
+          "sequence_order": 396,
+          "page_number": 72,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "हे ऄंदाजपत्रक सादर करताना"
+        },
+        {
+          "element_id": "17_p72_e397",
+          "sequence_order": 397,
+          "page_number": 72,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "अपणा सवांकडून"
+        },
+        {
+          "element_id": "17_p72_e398",
+          "sequence_order": 398,
+          "page_number": 72,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "लमळािेल्या बहुमोि"
+        },
+        {
+          "element_id": "17_p72_e399",
+          "sequence_order": 399,
+          "page_number": 72,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "सहकायागबिि सवांचे मनःपूवगक अभार"
+        }
+      ]
+    }
+  }
+}

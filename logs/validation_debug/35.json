@@ -3,164 +3,177 @@
   "pages": {
     "1": {
       "elements": 3,
-      "flagged": 0,
+      "flagged": 3,
       "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "2": {
-      "elements": 4,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "3": {
-      "elements": 3,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "4": {
-      "elements": 5,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "5": {
-      "elements": 4,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "6": {
-      "elements": 5,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "7": {
-      "elements": 5,
-      "flagged": 1,
-      "flags": [
-        "low_content"
-      ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "35_p7_e24",
-          "sequence_order": 24,
-          "page_number": 7,
-          "quality_score": 0.6,
-          "element_type": "section",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "̆વાસન સҮદય½:"
+          "element_id": "35_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 45,
+          "text_preview": "=  SSE =  4  a2  4  Ps  q  Te fare He 4  a4 i; az  4 ny aia?  a arree:  4  Ff q  a  fe  aie iis usc  OE  EC  reeerere”  "
+        },
+        {
+          "element_id": "35_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Hh glia arial  i  * ee  af  gpeiliais Ter  é  nen"
+        },
+        {
+          "element_id": "35_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "=  gaerals  ee)  4  [Ths ="
         }
       ]
     },
-    "8": {
-      "elements": 4,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "9": {
-      "elements": 2,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "10": {
-      "elements": 7,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "11": {
-      "elements": 6,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "12": {
-      "elements": 2,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "13": {
-      "elements": 2,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "14": {
+    "2": {
       "elements": 3,
+      "flagged": 3,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "35_p2_e3",
+          "sequence_order": 3,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "ceaei digenigii quilt gtcgits sisi"
+        },
+        {
+          "element_id": "35_p2_e4",
+          "sequence_order": 4,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "‘  q  9SG\" 28?  a  43a 3%  4  ds  4  a5  dgoae = 7"
+        },
+        {
+          "element_id": "35_p2_e5",
+          "sequence_order": 5,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 77,
+          "text_preview": ",  SSeSUS  s~  “4 a4  =  eS  -  _,  i AETLE astity gi gi za ge 7UR2Ga  agile eildgh fa  Ge 26 a3 qisnsta?  aay sagen: i "
+        }
+      ]
+    },
+    "3": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "35_p3_e6",
+          "sequence_order": 6,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "2 ge aaa? aay ina"
+        },
+        {
+          "element_id": "35_p3_e7",
+          "sequence_order": 7,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "asqis  as? gaice Petter rete av 44"
+        },
+        {
+          "element_id": "35_p3_e8",
+          "sequence_order": 8,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "327 3  q 2 rE a sated 1 2 a4 2)  a  re"
+        },
+        {
+          "element_id": "35_p3_e9",
+          "sequence_order": 9,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "aif gp lage;,  2  “a  “$4 &  4 x a Es  qt  ="
+        },
+        {
+          "element_id": "35_p3_e10",
+          "sequence_order": 10,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "pqgaa?  222:  4  fiaa  aS  bag yal afad aid  ah"
+        },
+        {
+          "element_id": "35_p3_e11",
+          "sequence_order": 11,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "~  ip fede: $44:  saad Te  2: i arr He:  8,4  Zr are  21  7"
+        }
+      ]
+    },
+    "4": {
+      "elements": 2,
       "flagged": 2,
       "flags": [
-        "corrupted_text",
-        "low_content"
+        "corrupted_text"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "35_p14_e53",
-          "sequence_order": 53,
-          "page_number": 14,
-          "quality_score": 0.6,
-          "element_type": "section",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "વલસાડથી Ӕતર"
+          "element_id": "35_p4_e12",
+          "sequence_order": 12,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "=  . i  '}"
         },
         {
-          "element_id": "35_p14_e54",
-          "sequence_order": 54,
-          "page_number": 14,
-          "quality_score": 0.5,
-          "element_type": "table",
+          "element_id": "35_p4_e13",
+          "sequence_order": 13,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "corrupted_text"
           ],
-          "token_count": 47,
-          "text_preview": "વલસાડ ૦૦ ક.મી., પારડ-૧૭ ક.મી., વાપી-૨૯ ક.મી.; તીથલ-૦૫ ક.મી., ઉદવાડા-૨૫ ક.મી., દમણ-૪૦ ક.મી.; ધરાસણા-૧૨ ક.મી., બગવ"
-        }
-      ]
-    },
-    "15": {
-      "elements": 1,
-      "flagged": 1,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": null,
-      "issues": [
-        {
-          "element_id": "35_p15_e55",
-          "sequence_order": 55,
-          "page_number": 15,
-          "quality_score": 0.6,
-          "element_type": "table",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "અરણાઇ-૫૨ કિ.મી."
+          "token_count": 3,
+          "text_preview": ":  |  —"
         }
       ]
     }

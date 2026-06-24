@@ -2,40 +2,68 @@
   "document_id": 4,
   "pages": {
     "1": {
-      "elements": 2,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": 87.32,
-      "issues": []
-    },
-    "2": {
-      "elements": 2,
+      "elements": 1,
       "flagged": 1,
       "flags": [
-        "low_content"
+        "low_content",
+        "corrupted_text"
       ],
-      "ocr_conf": 88.25,
+      "ocr_conf": 0.0,
       "issues": [
         {
-          "element_id": "4_p2_e2",
-          "sequence_order": 2,
-          "page_number": 2,
-          "quality_score": 0.529,
-          "element_type": "paragraph",
+          "element_id": "4_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "table",
           "reason": [
+            "corrupted_text",
             "low_content"
           ],
           "token_count": 1,
-          "text_preview": "85156]"
+          "text_preview": "PRB."
+        }
+      ]
+    },
+    "2": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": 29.67,
+      "issues": [
+        {
+          "element_id": "4_p2_e1",
+          "sequence_order": 1,
+          "page_number": 2,
+          "quality_score": 0.297,
+          "element_type": "table",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "ag,: J, 28° Sal: gd gg, adES Sal: dg, dedetie3g: ga ae, eae: gees, a"
         }
       ]
     },
     "3": {
       "elements": 1,
-      "flagged": 0,
-      "flags": [],
+      "flagged": 1,
+      "flags": [
+        "corrupted_text"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "4_p3_e2",
+          "sequence_order": 2,
+          "page_number": 3,
+          "quality_score": 0.5,
+          "element_type": "table",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 3,
+          "text_preview": "if, !, !"
+        }
+      ]
     },
     "4": {
       "elements": 1,
@@ -45,25 +73,513 @@
       "issues": []
     },
     "5": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
+      "elements": 14,
+      "flagged": 14,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "4_p5_e4",
+          "sequence_order": 4,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "1 2 3 4 5 6"
+        },
+        {
+          "element_id": "4_p5_e5",
+          "sequence_order": 5,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "46 पूरवठा 1) न\u001dवन 9शधापT\"का देणे"
+        },
+        {
+          "element_id": "4_p5_e6",
+          "sequence_order": 6,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 137,
+          "text_preview": "2) इतर राRयातून आले\u0019या अज.दारास न\u001dवन ता1पुरती  9शधापT\"का देणे  3) 9शधापT\"केत नाव वाढ\u001dवणे  4) 9शधापT\"केत न\u001dवन जEमले\u0019या मु"
+        },
+        {
+          "element_id": "4_p5_e7",
+          "sequence_order": 7,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "िज\u0019हा पूरवठा अ\u0010धकार\u0017 7 'दवस"
+        },
+        {
+          "element_id": "4_p5_e8",
+          "sequence_order": 8,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "15 'दवस"
+        },
+        {
+          "element_id": "4_p5_e9",
+          "sequence_order": 9,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "7 'दवस 1 'दवस 1 'दवस 10 'दवस 3 'दवस"
+        },
+        {
+          "element_id": "4_p5_e10",
+          "sequence_order": 10,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "7 'दवस"
+        },
+        {
+          "element_id": "4_p5_e11",
+          "sequence_order": 11,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "7 'दवस"
+        },
+        {
+          "element_id": "4_p5_e12",
+          "sequence_order": 12,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "1 'दवस 1 'दवस"
+        },
+        {
+          "element_id": "4_p5_e13",
+          "sequence_order": 13,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "िज\u0019हा\u0010धकार\u0017"
+        },
+        {
+          "element_id": "4_p5_e14",
+          "sequence_order": 14,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "47 सं.गां.यो. 1) संजय गांधी \u0012नराधार अनुदान योजना"
+        },
+        {
+          "element_id": "4_p5_e15",
+          "sequence_order": 15,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 133,
+          "text_preview": "2) Zावणबाळ सेवा राRय\u0012नवृ1तीवेतन योजना  3) इं'दरा गांधी राि\bटय वृ\u0015दापकाळ \u0012नवृ1तीवेतन योजना  4) इं'दरा गांधी रा\bट\u0017य \u001dवधवा "
+        },
+        {
+          "element_id": "4_p5_e16",
+          "sequence_order": 16,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "तह9सलदार सं.गां.यो.  (म.न.पा.:े\") 3 म'हने अपर िज\u0019हा\u0010धकार\u0017"
+        },
+        {
+          "element_id": "4_p5_e17",
+          "sequence_order": 17,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 5 of 7"
+        }
+      ]
     },
     "6": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
+      "elements": 17,
+      "flagged": 17,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "4_p6_e18",
+          "sequence_order": 18,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "1 2 3 4 5 6"
+        },
+        {
+          "element_id": "4_p6_e19",
+          "sequence_order": 19,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "48 सं.गां.यो. 1) संजय गांधी \u0012नराधार अनुदान योजना"
+        },
+        {
+          "element_id": "4_p6_e20",
+          "sequence_order": 20,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 176,
+          "text_preview": "2) Zावणबाळ सेवा राRय\u0012नवृ1तीवेतन योजना  3) इं'दरा गांधी राि\bटय वृ\u0015दापकाळ \u0012नवृ1तीवेतन योजना  4) इं'दरा गांधी रा\bट\u0017य \u001dवधवा "
+        },
+        {
+          "element_id": "4_p6_e21",
+          "sequence_order": 21,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "नायब तह9सलदार"
+        },
+        {
+          "element_id": "4_p6_e22",
+          "sequence_order": 22,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "सं.गां.यो. 3 म'हने संब\u0010धत तालुKयातील"
+        },
+        {
+          "element_id": "4_p6_e23",
+          "sequence_order": 23,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "तह9सलदार"
+        },
+        {
+          "element_id": "4_p6_e24",
+          "sequence_order": 24,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "49 भूसंपादन संपादन सं5थेकडून भूसंपादनाचा &5ताव &ाBत झा\u0019यानंतर"
+        },
+        {
+          "element_id": "4_p6_e25",
+          "sequence_order": 25,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "भूसंपादन कJन भूसंपादन &करणात मोबदला 'द\u0019यानंतर संपाद\u0017त"
+        },
+        {
+          "element_id": "4_p6_e26",
+          "sequence_order": 26,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "जमीन संपादन सं5थेस ह5तांतर\u0017त करणे."
+        },
+        {
+          "element_id": "4_p6_e27",
+          "sequence_order": 27,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "उपिज\u0019हा\u0010धकार\u0017"
+        },
+        {
+          "element_id": "4_p6_e28",
+          "sequence_order": 28,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "भूसंपादन (&भार\u0017"
+        },
+        {
+          "element_id": "4_p6_e29",
+          "sequence_order": 29,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "अ\u0010धकार\u0017) --- िज\u0019हा\u0010धकार\u0017"
+        },
+        {
+          "element_id": "4_p6_e30",
+          "sequence_order": 30,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "50 अ\u0019पबचत 1) अ\u0019पबचत अ\u0010धकृत एजंसी नुतनीकरण"
+        },
+        {
+          "element_id": "4_p6_e31",
+          "sequence_order": 31,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "2) म'हला&धान:े\"ीय बचत योजना एजंसी नुतनीकरण"
+        },
+        {
+          "element_id": "4_p6_e32",
+          "sequence_order": 32,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "साव.ज\u0012नक भ\u001dव\bय \u0012नवा.ह \u0012नधी योजना एजंसी नुतनीकरण"
+        },
+        {
+          "element_id": "4_p6_e33",
+          "sequence_order": 33,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "सहाXयक संचालक,  अ\u0019पबचत, नागपूर 15 'दवस िज\u0019हा\u0010धकार\u0017"
+        },
+        {
+          "element_id": "4_p6_e34",
+          "sequence_order": 34,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 6 of 7"
+        }
+      ]
     },
     "7": {
-      "elements": 2,
-      "flagged": 0,
-      "flags": [],
+      "elements": 14,
+      "flagged": 14,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "4_p7_e35",
+          "sequence_order": 35,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "1 2 3 4 5 6"
+        },
+        {
+          "element_id": "4_p7_e36",
+          "sequence_order": 36,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "51 नगर"
+        },
+        {
+          "element_id": "4_p7_e37",
+          "sequence_order": 37,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "&शासन 1) नगर प!रषदेतील नागर\u0017कांकडून &ाBत त#ार अजा.वर काय.वाह\u0017"
+        },
+        {
+          "element_id": "4_p7_e38",
+          "sequence_order": 38,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 73,
+          "text_preview": "करणे 2) नगर\u0017 प!रषद आ5थापना \u001dवषयक बाबी 3) काया.लयातील उपलSध द5तऐवजां@या &मा]णत &\u0012तसाठQ  द5तऐवज नकल शाखेला पाठ\u001dवणे 4) नगर "
+        },
+        {
+          "element_id": "4_p7_e39",
+          "sequence_order": 39,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "&क\u0019प अ\u0010धकार\u0017, नगर"
+        },
+        {
+          "element_id": "4_p7_e40",
+          "sequence_order": 40,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "पा9लका &शासन, नागपूर 60 'दवस"
+        },
+        {
+          "element_id": "4_p7_e41",
+          "sequence_order": 41,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "60 'दवस 10 'दवस"
+        },
+        {
+          "element_id": "4_p7_e42",
+          "sequence_order": 42,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "30 'दवस"
+        },
+        {
+          "element_id": "4_p7_e43",
+          "sequence_order": 43,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "30 'दवस 30 'दवस"
+        },
+        {
+          "element_id": "4_p7_e44",
+          "sequence_order": 44,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "िज\u0019हा\u0010धकार\u0017"
+        },
+        {
+          "element_id": "4_p7_e45",
+          "sequence_order": 45,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "\u0012नवासी उपिज\u0019हा\u0010धकार\u0017"
+        },
+        {
+          "element_id": "4_p7_e46",
+          "sequence_order": 46,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "नागपूर"
+        },
+        {
+          "element_id": "4_p7_e47",
+          "sequence_order": 47,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "5वा/-"
+        },
+        {
+          "element_id": "4_p7_e48",
+          "sequence_order": 48,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 7 of 7"
+        }
+      ]
     }
   }
 }

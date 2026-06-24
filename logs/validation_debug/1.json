@@ -3,61 +3,600 @@
   "pages": {
     "1": {
       "elements": 13,
-      "flagged": 0,
+      "flagged": 13,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "1_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Aaple Sarkar DBT Portal"
+        },
+        {
+          "element_id": "1_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "Aaple Sarkar DBT Portal (Direct Benefit Transfer) is an initiative taken by the Government of  Maharashtra, which is a u"
+        },
+        {
+          "element_id": "1_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 43,
+          "text_preview": "The main objective of Aaple Sarkar DBT is for Development of a State DBT and Services Portal as  the front end and the w"
+        },
+        {
+          "element_id": "1_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "1. Aaple Sarkar DBT Features"
+        },
+        {
+          "element_id": "1_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "The main features of Aaple Sarkar DBT:"
+        },
+        {
+          "element_id": "1_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "Citizens can Register and submit their application form online (For applying state sponsored  scholarship schemes) from "
+        },
+        {
+          "element_id": "1_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "Citizens can View/Track the status of their own application by entering the Application ID in the  Application Tracking "
+        },
+        {
+          "element_id": "1_p1_e7",
+          "sequence_order": 7,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "Uploading of supporting documents (such as Mark sheets, TC Certificate, Caste certificate,  Income certificate…etc.,) fo"
+        },
+        {
+          "element_id": "1_p1_e8",
+          "sequence_order": 8,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Applicants will receive SMS and email alerts at various stages of application processing."
+        },
+        {
+          "element_id": "1_p1_e9",
+          "sequence_order": 9,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Direct disbursal of benefits to the registered applicants Aadhaar linked Bank Account."
+        },
+        {
+          "element_id": "1_p1_e10",
+          "sequence_order": 10,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Easy sanctioning of application process for Sanctioning Authority"
+        },
+        {
+          "element_id": "1_p1_e11",
+          "sequence_order": 11,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Creation of Role Based Unique Login ID and Password"
+        },
+        {
+          "element_id": "1_p1_e12",
+          "sequence_order": 12,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Transparency in monitoring of Scholarship by Department / State Government or both."
+        }
+      ]
     },
     "2": {
-      "elements": 4,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "3": {
-      "elements": 2,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "4": {
-      "elements": 5,
-      "flagged": 1,
+      "elements": 17,
+      "flagged": 17,
       "flags": [
         "low_content"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "1_p4_e21",
+          "element_id": "1_p2_e13",
+          "sequence_order": 13,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "2. Guidelines for filling the Online Application form on the Aaple  Sarkar DBT Portal for Students"
+        },
+        {
+          "element_id": "1_p2_e14",
+          "sequence_order": 14,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "Aadhaar Number is needed from the Academic Session 2018-19 onwards. Students not having  Aadhaar number can also registe"
+        },
+        {
+          "element_id": "1_p2_e15",
+          "sequence_order": 15,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "Applicants are advised to go through the Instructions Bulletin carefully and acquaint themselves  with all requirements "
+        },
+        {
+          "element_id": "1_p2_e16",
+          "sequence_order": 16,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "It will be the sole responsibility of the applicant to make sure that he/she is eligible to apply  (Refer Check eligibil"
+        },
+        {
+          "element_id": "1_p2_e17",
+          "sequence_order": 17,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "In case of in-eligibility of the applicant, which detected during any stage by verification by  authorities, his/her sch"
+        },
+        {
+          "element_id": "1_p2_e18",
+          "sequence_order": 18,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "Applicant must check that all details provided by him/her are correct before final submission, as  there will be provisi"
+        },
+        {
+          "element_id": "1_p2_e19",
+          "sequence_order": 19,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "Mode of submission of application for scholarship will be through online only. No other mode  will be entertained."
+        },
+        {
+          "element_id": "1_p2_e20",
+          "sequence_order": 20,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "Titles / Labels which carrying star marked (* required!) are compulsory fields in Application  form."
+        },
+        {
+          "element_id": "1_p2_e21",
           "sequence_order": 21,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "3. Aaple Sarkar DBT Online Portal Access:"
+        },
+        {
+          "element_id": "1_p2_e22",
+          "sequence_order": 22,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Use any of the installed Browser of your system (Desktop or Laptop)."
+        },
+        {
+          "element_id": "1_p2_e23",
+          "sequence_order": 23,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "The Supporting browsers are as follows:"
+        },
+        {
+          "element_id": "1_p2_e24",
+          "sequence_order": 24,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Browsers –"
+        },
+        {
+          "element_id": "1_p2_e25",
+          "sequence_order": 25,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Internet Explorer (IE)"
+        },
+        {
+          "element_id": "1_p2_e26",
+          "sequence_order": 26,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Google Chrome"
+        },
+        {
+          "element_id": "1_p2_e27",
+          "sequence_order": 27,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Mozilla Firefox"
+        },
+        {
+          "element_id": "1_p2_e28",
+          "sequence_order": 28,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Recommended Version"
+        },
+        {
+          "element_id": "1_p2_e29",
+          "sequence_order": 29,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "10+ 55+ 54+"
+        }
+      ]
+    },
+    "3": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "1_p3_e30",
+          "sequence_order": 30,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "Enter the valid URL of Aaple Sarkar DBT http://www.aaplesarkardbt.gov.in & press Enter key to  view"
+        },
+        {
+          "element_id": "1_p3_e31",
+          "sequence_order": 31,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "the Aaple Sarkar DBT Home Page."
+        },
+        {
+          "element_id": "1_p3_e32",
+          "sequence_order": 32,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "4. Home Page/Portal Landing Page:"
+        }
+      ]
+    },
+    "4": {
+      "elements": 18,
+      "flagged": 18,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "1_p4_e33",
+          "sequence_order": 33,
           "page_number": 4,
-          "quality_score": 0.6,
-          "element_type": "heading",
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "Following are the features displayed in the Home page/Landing page – Aaple Sarkar DBT Portal:"
+        },
+        {
+          "element_id": "1_p4_e34",
+          "sequence_order": 34,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "About Us"
+        },
+        {
+          "element_id": "1_p4_e35",
+          "sequence_order": 35,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Notice"
+        },
+        {
+          "element_id": "1_p4_e36",
+          "sequence_order": 36,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Grievance"
+        },
+        {
+          "element_id": "1_p4_e37",
+          "sequence_order": 37,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Circulars & Updates"
+        },
+        {
+          "element_id": "1_p4_e38",
+          "sequence_order": 38,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "User Manuals"
+        },
+        {
+          "element_id": "1_p4_e39",
+          "sequence_order": 39,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Important Links"
+        },
+        {
+          "element_id": "1_p4_e40",
+          "sequence_order": 40,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Departments"
+        },
+        {
+          "element_id": "1_p4_e41",
+          "sequence_order": 41,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Schemes"
+        },
+        {
+          "element_id": "1_p4_e42",
+          "sequence_order": 42,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Login"
+        },
+        {
+          "element_id": "1_p4_e43",
+          "sequence_order": 43,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Registration"
+        },
+        {
+          "element_id": "1_p4_e44",
+          "sequence_order": 44,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Help Desk"
+        },
+        {
+          "element_id": "1_p4_e45",
+          "sequence_order": 45,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Funds Disbursed"
+        },
+        {
+          "element_id": "1_p4_e46",
+          "sequence_order": 46,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Registered Users"
+        },
+        {
+          "element_id": "1_p4_e47",
+          "sequence_order": 47,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Schemes Applied"
+        },
+        {
+          "element_id": "1_p4_e48",
+          "sequence_order": 48,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
           "text_preview": "About us:"
+        },
+        {
+          "element_id": "1_p4_e49",
+          "sequence_order": 49,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 42,
+          "text_preview": "The aim of reforming the Government delivery system of benefits by re-engineering the existing  process in welfare schem"
+        },
+        {
+          "element_id": "1_p4_e50",
+          "sequence_order": 50,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "Aaple Sarkar DBT is the highest priority and focus area of the Government of Maharashtra."
         }
       ]
     },
     "5": {
       "elements": 13,
-      "flagged": 5,
+      "flagged": 13,
       "flags": [
         "low_content"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "1_p5_e24",
-          "sequence_order": 24,
+          "element_id": "1_p5_e51",
+          "sequence_order": 51,
           "page_number": 5,
-          "quality_score": 0.6,
-          "element_type": "heading",
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
@@ -65,11 +604,21 @@
           "text_preview": "Notice:"
         },
         {
-          "element_id": "1_p5_e26",
-          "sequence_order": 26,
+          "element_id": "1_p5_e52",
+          "sequence_order": 52,
           "page_number": 5,
-          "quality_score": 0.6,
-          "element_type": "heading",
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Notice board displays latest Government schemes and announcements of various updated  schemes."
+        },
+        {
+          "element_id": "1_p5_e53",
+          "sequence_order": 53,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
@@ -77,11 +626,51 @@
           "text_preview": "Grievance:"
         },
         {
-          "element_id": "1_p5_e31",
-          "sequence_order": 31,
+          "element_id": "1_p5_e54",
+          "sequence_order": 54,
           "page_number": 5,
-          "quality_score": 0.6,
-          "element_type": "heading",
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Grievance option will help citizen send issues and suggestions via the system"
+        },
+        {
+          "element_id": "1_p5_e55",
+          "sequence_order": 55,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Circular & Updates:"
+        },
+        {
+          "element_id": "1_p5_e56",
+          "sequence_order": 56,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "Circular & Updates option will display latest circulars and updates released by the government  and its bodies"
+        },
+        {
+          "element_id": "1_p5_e57",
+          "sequence_order": 57,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "FAQ will display the questionnaires related to the portal"
+        },
+        {
+          "element_id": "1_p5_e58",
+          "sequence_order": 58,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
@@ -89,11 +678,21 @@
           "text_preview": "User Manuals:"
         },
         {
-          "element_id": "1_p5_e33",
-          "sequence_order": 33,
+          "element_id": "1_p5_e59",
+          "sequence_order": 59,
           "page_number": 5,
-          "quality_score": 0.6,
-          "element_type": "heading",
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "User Manual will be a pdf file displaying all the contents, queries and other portal related  questions"
+        },
+        {
+          "element_id": "1_p5_e60",
+          "sequence_order": 60,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
@@ -101,33 +700,53 @@
           "text_preview": "Important Links:"
         },
         {
-          "element_id": "1_p5_e35",
-          "sequence_order": 35,
+          "element_id": "1_p5_e61",
+          "sequence_order": 61,
           "page_number": 5,
-          "quality_score": 0.6,
-          "element_type": "heading",
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "Links in the portal related to the schemes as provided by the government. Schemes can be  internal and external"
+        },
+        {
+          "element_id": "1_p5_e62",
+          "sequence_order": 62,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 1,
           "text_preview": "Departments:"
+        },
+        {
+          "element_id": "1_p5_e63",
+          "sequence_order": 63,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Names and information of the government departments providing the schemes and the  benefits"
         }
       ]
     },
     "6": {
       "elements": 12,
-      "flagged": 6,
+      "flagged": 12,
       "flags": [
         "low_content"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "1_p6_e37",
-          "sequence_order": 37,
+          "element_id": "1_p6_e64",
+          "sequence_order": 64,
           "page_number": 6,
-          "quality_score": 0.6,
-          "element_type": "heading",
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
@@ -135,11 +754,21 @@
           "text_preview": "Schemes:"
         },
         {
-          "element_id": "1_p6_e39",
-          "sequence_order": 39,
+          "element_id": "1_p6_e65",
+          "sequence_order": 65,
           "page_number": 6,
-          "quality_score": 0.6,
-          "element_type": "heading",
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Scheme information provided by departments for the general information to the citizen"
+        },
+        {
+          "element_id": "1_p6_e66",
+          "sequence_order": 66,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
@@ -147,11 +776,21 @@
           "text_preview": "Login:"
         },
         {
-          "element_id": "1_p6_e41",
-          "sequence_order": 41,
+          "element_id": "1_p6_e67",
+          "sequence_order": 67,
           "page_number": 6,
-          "quality_score": 0.6,
-          "element_type": "heading",
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Login screen to login into the portal for the registered users"
+        },
+        {
+          "element_id": "1_p6_e68",
+          "sequence_order": 68,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
@@ -159,11 +798,21 @@
           "text_preview": "Registration:"
         },
         {
-          "element_id": "1_p6_e43",
-          "sequence_order": 43,
+          "element_id": "1_p6_e69",
+          "sequence_order": 69,
           "page_number": 6,
-          "quality_score": 0.6,
-          "element_type": "heading",
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "New user will register on this portal and then get scheme related benefits after login in through  the registered userna"
+        },
+        {
+          "element_id": "1_p6_e70",
+          "sequence_order": 70,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
@@ -171,11 +820,21 @@
           "text_preview": "Help Desk:"
         },
         {
-          "element_id": "1_p6_e45",
-          "sequence_order": 45,
+          "element_id": "1_p6_e71",
+          "sequence_order": 71,
           "page_number": 6,
-          "quality_score": 0.6,
-          "element_type": "heading",
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Helpline number for the citizen for helping out and communicating via telephone"
+        },
+        {
+          "element_id": "1_p6_e72",
+          "sequence_order": 72,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
@@ -183,182 +842,1079 @@
           "text_preview": "Funds Disbursed:"
         },
         {
-          "element_id": "1_p6_e47",
-          "sequence_order": 47,
+          "element_id": "1_p6_e73",
+          "sequence_order": 73,
           "page_number": 6,
-          "quality_score": 0.6,
-          "element_type": "heading",
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "Funds disbursed by the government through the various schemes information will be displayed  here"
+        },
+        {
+          "element_id": "1_p6_e74",
+          "sequence_order": 74,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
           "text_preview": "Schemes Applied:"
+        },
+        {
+          "element_id": "1_p6_e75",
+          "sequence_order": 75,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Total Schemes applied through the portal information will be displayed under schemes applied."
         }
       ]
     },
     "7": {
-      "elements": 2,
-      "flagged": 0,
+      "elements": 4,
+      "flagged": 4,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "1_p7_e76",
+          "sequence_order": 76,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "5. Online Registration for Aaple Sarkar DBT:"
+        },
+        {
+          "element_id": "1_p7_e77",
+          "sequence_order": 77,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Applicants will be able to register themselves through online registration process."
+        },
+        {
+          "element_id": "1_p7_e78",
+          "sequence_order": 78,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "Online Registration done through the website http://www.aaplesarkardbt.gov.in from any of  the internet access point."
+        },
+        {
+          "element_id": "1_p7_e79",
+          "sequence_order": 79,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "New user to Register into the portal, click on ―New Applicant Registration button"
+        }
+      ]
     },
     "8": {
-      "elements": 9,
-      "flagged": 0,
+      "elements": 10,
+      "flagged": 10,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "1_p8_e80",
+          "sequence_order": 80,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "5.1. Registration using Aadhaar Number"
+        },
+        {
+          "element_id": "1_p8_e81",
+          "sequence_order": 81,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Registration process explained below."
+        },
+        {
+          "element_id": "1_p8_e82",
+          "sequence_order": 82,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Step 1- Do You Have Aadhaar Card?"
+        },
+        {
+          "element_id": "1_p8_e83",
+          "sequence_order": 83,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "If selected ―Yes, click on Continue button to continue with Registration process."
+        },
+        {
+          "element_id": "1_p8_e84",
+          "sequence_order": 84,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "Step 2 - Choose Authentication Type - There are two types of authentication available."
+        },
+        {
+          "element_id": "1_p8_e85",
+          "sequence_order": 85,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "OTP - If the mobile number registered with Aadhaar, then the user can select the"
+        },
+        {
+          "element_id": "1_p8_e86",
+          "sequence_order": 86,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "authentication type ―OTP‖"
+        },
+        {
+          "element_id": "1_p8_e87",
+          "sequence_order": 87,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "Biometric – If the mobile number not registered with Aadhaar, then the user can select the  authentication type as Biome"
+        },
+        {
+          "element_id": "1_p8_e88",
+          "sequence_order": 88,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "If your Mobile Number is registered with Aadhaar, then choose the authentication type as  ―OTP‖."
+        },
+        {
+          "element_id": "1_p8_e89",
+          "sequence_order": 89,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "Tick on the consent check box to agree to share your information with Maharashtra  government for DBT purpose"
+        }
+      ]
     },
     "9": {
       "elements": 2,
-      "flagged": 0,
+      "flagged": 2,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "1_p9_e90",
+          "sequence_order": 90,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "Enter Aadhaar number and click on “Send OTP” button. The system validates the aadhaar  number and sends the system gener"
+        },
+        {
+          "element_id": "1_p9_e91",
+          "sequence_order": 91,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "An alert message displayed saying that – OTP for Aadhaar authentication has been sent to your  Aadhaar linked registered"
+        }
+      ]
     },
     "10": {
       "elements": 4,
-      "flagged": 0,
+      "flagged": 4,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "1_p10_e92",
+          "sequence_order": 92,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Enter the received OTP in the system and click on ―Verify OTP‖button"
+        },
+        {
+          "element_id": "1_p10_e93",
+          "sequence_order": 93,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "Post successful OTP verification an alert message ―Authentication Successful! Please click on  Continue‖will be displaye"
+        },
+        {
+          "element_id": "1_p10_e94",
+          "sequence_order": 94,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "Step 3: Post Successful OTP verification the Applicant details fetched from UIDAI will be auto  populated in the Persona"
+        },
+        {
+          "element_id": "1_p10_e95",
+          "sequence_order": 95,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "If there is any change in the details, the applicant should contact UIDAI to update the relevant  information"
+        }
+      ]
     },
     "12": {
-      "elements": 3,
-      "flagged": 0,
+      "elements": 4,
+      "flagged": 4,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "1_p12_e96",
+          "sequence_order": 96,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "Step 4- Creation of Applicant’s Username and Password - Applicant will need to create the User  Name and Password to acc"
+        },
+        {
+          "element_id": "1_p12_e97",
+          "sequence_order": 97,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 39,
+          "text_preview": "For Username, suggestion is also provided which are not used in the system as it should be  unique. Also Username should"
+        },
+        {
+          "element_id": "1_p12_e98",
+          "sequence_order": 98,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Password format is also provided in the note section"
+        },
+        {
+          "element_id": "1_p12_e99",
+          "sequence_order": 99,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Applicant should enter the User Name, Password, Confirm Password"
+        }
+      ]
     },
     "13": {
       "elements": 4,
-      "flagged": 0,
+      "flagged": 4,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "1_p13_e100",
+          "sequence_order": 100,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 76,
+          "text_preview": "Applicant should enter a valid Personal mobile number. It is a mandatory step as it will help the  system to recognize t"
+        },
+        {
+          "element_id": "1_p13_e101",
+          "sequence_order": 101,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 99,
+          "text_preview": "Applicant should enter valid Email – ID and click on “Get OTP for email ID verification”.  Note - Email ID verification "
+        },
+        {
+          "element_id": "1_p13_e102",
+          "sequence_order": 102,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "After verification, CAPTCHA should be entered and click on save"
+        },
+        {
+          "element_id": "1_p13_e103",
+          "sequence_order": 103,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "User can use the registered User Name and Password to login into the Aaple Sarkar DBT portal."
+        }
+      ]
     },
     "14": {
       "elements": 4,
-      "flagged": 0,
+      "flagged": 4,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "1_p14_e104",
+          "sequence_order": 104,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "5.2. Registration using Non Aadhaar"
+        },
+        {
+          "element_id": "1_p14_e105",
+          "sequence_order": 105,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "Step 1: Click on New Applicant Registration. Applicant can have multiple Scenarios for  Registration as below."
+        },
+        {
+          "element_id": "1_p14_e106",
+          "sequence_order": 106,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "A) For Question - Do you have Aadhaar Number? Select No option and continue"
+        },
+        {
+          "element_id": "1_p14_e107",
+          "sequence_order": 107,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "After No is selected - “Do you have Aadhaar Enrollment ID?” is asked"
+        }
+      ]
     },
     "15": {
-      "elements": 1,
-      "flagged": 0,
+      "elements": 4,
+      "flagged": 4,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "1_p15_e108",
+          "sequence_order": 108,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 39,
+          "text_preview": "If Yes is selected, “Do you want to know the status of Enrollment ID?” is asked and again if Yes  is selected, the above"
+        },
+        {
+          "element_id": "1_p15_e109",
+          "sequence_order": 109,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "If Applicant clicks on “Generated” button then will be proceeded for Registration with Aadhaar  number screen"
+        },
+        {
+          "element_id": "1_p15_e110",
+          "sequence_order": 110,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "If Applicant clicks on “Under Process” button then will be proceeded for Registration with Non- Aadhaar number screen."
+        },
+        {
+          "element_id": "1_p15_e111",
+          "sequence_order": 111,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "If Applicant clicks on “Rejected” button then will be proceeded for New Registration (Non  Aadhaar flow)"
+        }
+      ]
     },
     "16": {
-      "elements": 3,
-      "flagged": 0,
+      "elements": 4,
+      "flagged": 4,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "1_p16_e112",
+          "sequence_order": 112,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "B) For Question - Do you have Aadhaar Number? Select ―No option and continue"
+        },
+        {
+          "element_id": "1_p16_e113",
+          "sequence_order": 113,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "After No is selected - “Do you have Aadhaar Enrollment ID?” is asked and if Yes is selected"
+        },
+        {
+          "element_id": "1_p16_e114",
+          "sequence_order": 114,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "Again question will be asked, “Do you want to know the status of your Enrollment ID? And if No"
+        },
+        {
+          "element_id": "1_p16_e115",
+          "sequence_order": 115,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "is selected then New Registration (Non Aadhaar flow) screen will be displayed."
+        }
+      ]
+    },
+    "17": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "1_p17_e116",
+          "sequence_order": 116,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "C) For Question - Do you have Aadhaar Number? Select ―No option and continue"
+        },
+        {
+          "element_id": "1_p17_e117",
+          "sequence_order": 117,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "After No is selected - “Do you have Aadhaar Enrollment ID?” is asked where if user selects No"
+        },
+        {
+          "element_id": "1_p17_e118",
+          "sequence_order": 118,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "then user is redirected to New Registration (Non – Aadhaar flow)"
+        }
+      ]
     },
     "18": {
-      "elements": 2,
-      "flagged": 0,
+      "elements": 4,
+      "flagged": 4,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "1_p18_e119",
+          "sequence_order": 119,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Step 2: New Registration (Non Aadhaar) form page will be displayed -"
+        },
+        {
+          "element_id": "1_p18_e120",
+          "sequence_order": 120,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "User can also click on “Book Appointment for Aadhaar” to get enrolled in Aadhaar Scheme"
+        },
+        {
+          "element_id": "1_p18_e121",
+          "sequence_order": 121,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 76,
+          "text_preview": "Applicant should enter a valid Personal mobile number. It is a mandatory step as it will help the  system to recognize t"
+        },
+        {
+          "element_id": "1_p18_e122",
+          "sequence_order": 122,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 99,
+          "text_preview": "Applicant should enter valid Email – ID and click on “Get OTP for email ID verification”.  Note - Email ID verification "
+        }
+      ]
     },
     "19": {
-      "elements": 3,
-      "flagged": 0,
+      "elements": 10,
+      "flagged": 10,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "1_p19_e123",
+          "sequence_order": 123,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Step 3: Enter Further Form details"
+        },
+        {
+          "element_id": "1_p19_e124",
+          "sequence_order": 124,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "User should enter the basic details in the Non-Aadhaar Workflow"
+        },
+        {
+          "element_id": "1_p19_e125",
+          "sequence_order": 125,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Enter Applicant Name."
+        },
+        {
+          "element_id": "1_p19_e126",
+          "sequence_order": 126,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Select Date of Birth"
+        },
+        {
+          "element_id": "1_p19_e127",
+          "sequence_order": 127,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Select Gender from the given dropdown options."
+        },
+        {
+          "element_id": "1_p19_e128",
+          "sequence_order": 128,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Enter Address of the applicant"
+        },
+        {
+          "element_id": "1_p19_e129",
+          "sequence_order": 129,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Select State from the dropdown options provided"
+        },
+        {
+          "element_id": "1_p19_e130",
+          "sequence_order": 130,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "Select District from the dropdown options. List will be displayed as per the State selected."
+        },
+        {
+          "element_id": "1_p19_e131",
+          "sequence_order": 131,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "Select Taluka from the dropdown options. List will be displayed as per the District selected"
+        },
+        {
+          "element_id": "1_p19_e132",
+          "sequence_order": 132,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Enter Pincode ."
+        }
+      ]
     },
     "20": {
-      "elements": 5,
-      "flagged": 0,
+      "elements": 6,
+      "flagged": 6,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "1_p20_e133",
+          "sequence_order": 133,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Step 4: Upload Identification Proofs required -"
+        },
+        {
+          "element_id": "1_p20_e134",
+          "sequence_order": 134,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "1. Identity Proof - Select from the dropdown values and upload file"
+        },
+        {
+          "element_id": "1_p20_e135",
+          "sequence_order": 135,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "PDF file should be less than 256kb and size of jpeg/jpg file should be between 5kb to  20kb    2. Address Proof - Select"
+        },
+        {
+          "element_id": "1_p20_e136",
+          "sequence_order": 136,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "than 256kb and size of jpeg/jpg file should be between 5kb to 20kb    3. Birth Proof - Select from the dropdown values a"
+        },
+        {
+          "element_id": "1_p20_e137",
+          "sequence_order": 137,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "than 256kb and size of jpeg/jpg file should be between 5kb to 20kb    4. Relationship Proof - Select from the dropdown v"
+        },
+        {
+          "element_id": "1_p20_e138",
+          "sequence_order": 138,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "less than 256kb and size of jpeg/jpg file should be between 5kb to 20kb"
+        }
+      ]
     },
     "21": {
       "elements": 3,
-      "flagged": 1,
+      "flagged": 3,
       "flags": [
         "low_content"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "1_p21_e91",
-          "sequence_order": 91,
+          "element_id": "1_p21_e139",
+          "sequence_order": 139,
           "page_number": 21,
-          "quality_score": 0.6,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
           "text_preview": "Step 5:"
+        },
+        {
+          "element_id": "1_p21_e140",
+          "sequence_order": 140,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 57,
+          "text_preview": "Here user will upload the photo required according to the Portal’s requirement. In case  Applicant is not having the ima"
+        },
+        {
+          "element_id": "1_p21_e141",
+          "sequence_order": 141,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "After the above steps, User needs to enter the CAPTCHA and click on save in order to get  Registered."
         }
       ]
     },
     "22": {
       "elements": 5,
-      "flagged": 0,
+      "flagged": 5,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "1_p22_e142",
+          "sequence_order": 142,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "6. User Login"
+        },
+        {
+          "element_id": "1_p22_e143",
+          "sequence_order": 143,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "To login into Aaple Sarkar DBT portal, Applicant has to perform following steps."
+        },
+        {
+          "element_id": "1_p22_e144",
+          "sequence_order": 144,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "a) Click on “Applicant Login” button -"
+        },
+        {
+          "element_id": "1_p22_e145",
+          "sequence_order": 145,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "b. Username & Password – Enter the Username and Password as entered during registration."
+        },
+        {
+          "element_id": "1_p22_e146",
+          "sequence_order": 146,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "C. Captcha - Enter the valid Captcha and Click on Login"
+        }
+      ]
     },
     "23": {
       "elements": 4,
-      "flagged": 0,
+      "flagged": 4,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "1_p23_e147",
+          "sequence_order": 147,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Forgot User Name:"
+        },
+        {
+          "element_id": "1_p23_e148",
+          "sequence_order": 148,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "If Applicant Forgets User Name then Click on Forgot User Name button on the Home DBT page."
+        },
+        {
+          "element_id": "1_p23_e149",
+          "sequence_order": 149,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "Applicant will have to enter Full Name, Mobile number which is registered on the portal  and Date of birth"
+        },
+        {
+          "element_id": "1_p23_e150",
+          "sequence_order": 150,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "After entering the details, Click on Get User Name button. Applicant will receive SMS on the  Mobile number which was us"
+        }
+      ]
     },
     "24": {
       "elements": 5,
-      "flagged": 1,
+      "flagged": 5,
       "flags": [
         "low_content"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "1_p24_e103",
-          "sequence_order": 103,
+          "element_id": "1_p24_e151",
+          "sequence_order": 151,
           "page_number": 24,
-          "quality_score": 0.6,
-          "element_type": "heading",
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
           "text_preview": "Forgot Password:"
+        },
+        {
+          "element_id": "1_p24_e152",
+          "sequence_order": 152,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "If Applicant Forgets Password then Click on Forgot Password button on the Home DBT page."
+        },
+        {
+          "element_id": "1_p24_e153",
+          "sequence_order": 153,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Applicant will have to enter Username as Registered on the Portal"
+        },
+        {
+          "element_id": "1_p24_e154",
+          "sequence_order": 154,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "After the above step user will have to click on “Get OTP” button. SMS will be received on  Registered mobile number."
+        },
+        {
+          "element_id": "1_p24_e155",
+          "sequence_order": 155,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "User will have to enter OTP. Enter New Password,Confirm Password and click on Set Password  button."
         }
       ]
     },
     "25": {
-      "elements": 6,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "26": {
-      "elements": 9,
-      "flagged": 6,
+      "elements": 7,
+      "flagged": 7,
       "flags": [
         "low_content"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "1_p26_e114",
-          "sequence_order": 114,
+          "element_id": "1_p25_e156",
+          "sequence_order": 156,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "7. User Dashboard:"
+        },
+        {
+          "element_id": "1_p25_e157",
+          "sequence_order": 157,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "After Successful Login to the Portal, the user will see Welcome page by default."
+        },
+        {
+          "element_id": "1_p25_e158",
+          "sequence_order": 158,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "7.1. Left panel – Menu"
+        },
+        {
+          "element_id": "1_p25_e159",
+          "sequence_order": 159,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "The following items shown on the Left panel of the Applicant dashboard after login"
+        },
+        {
+          "element_id": "1_p25_e160",
+          "sequence_order": 160,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "1. Home"
+        },
+        {
+          "element_id": "1_p25_e161",
+          "sequence_order": 161,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "The applicant will land on Home page after login"
+        },
+        {
+          "element_id": "1_p25_e162",
+          "sequence_order": 162,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "1 Home Page Information: The applicant can view profile completeness status and add or  update accordingly.User can also"
+        }
+      ]
+    },
+    "26": {
+      "elements": 9,
+      "flagged": 9,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "1_p26_e163",
+          "sequence_order": 163,
           "page_number": 26,
-          "quality_score": 0.6,
-          "element_type": "section",
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
@@ -366,10 +1922,30 @@
           "text_preview": "2. Profile"
         },
         {
-          "element_id": "1_p26_e117",
-          "sequence_order": 117,
+          "element_id": "1_p26_e164",
+          "sequence_order": 164,
           "page_number": 26,
-          "quality_score": 0.6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "User will click on profile button in order to fill in details of profile.  Profile is divided into the following categor"
+        },
+        {
+          "element_id": "1_p26_e165",
+          "sequence_order": 165,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Personal Details, Domicile Details, Income Details, Personal Eligibility Details, Caste  Details -"
+        },
+        {
+          "element_id": "1_p26_e166",
+          "sequence_order": 166,
+          "page_number": 26,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
             "low_content"
@@ -378,10 +1954,10 @@
           "text_preview": "Personal details"
         },
         {
-          "element_id": "1_p26_e118",
-          "sequence_order": 118,
+          "element_id": "1_p26_e167",
+          "sequence_order": 167,
           "page_number": 26,
-          "quality_score": 0.6,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
             "low_content"
@@ -390,10 +1966,20 @@
           "text_preview": "Personal Details:"
         },
         {
-          "element_id": "1_p26_e120",
-          "sequence_order": 120,
+          "element_id": "1_p26_e168",
+          "sequence_order": 168,
           "page_number": 26,
-          "quality_score": 0.6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Applicants have to fill all mandatory fields in the form"
+        },
+        {
+          "element_id": "1_p26_e169",
+          "sequence_order": 169,
+          "page_number": 26,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
             "low_content"
@@ -402,10 +1988,10 @@
           "text_preview": "Aadhaar Number"
         },
         {
-          "element_id": "1_p26_e121",
-          "sequence_order": 121,
+          "element_id": "1_p26_e170",
+          "sequence_order": 170,
           "page_number": 26,
-          "quality_score": 0.6,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
             "low_content"
@@ -414,10 +2000,10 @@
           "text_preview": "Mobile number"
         },
         {
-          "element_id": "1_p26_e122",
-          "sequence_order": 122,
+          "element_id": "1_p26_e171",
+          "sequence_order": 171,
           "page_number": 26,
-          "quality_score": 0.6,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
             "low_content"
@@ -428,98 +2014,468 @@
       ]
     },
     "27": {
-      "elements": 3,
-      "flagged": 0,
-      "flags": [],
+      "elements": 6,
+      "flagged": 6,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "1_p27_e172",
+          "sequence_order": 172,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Date of Birth"
+        },
+        {
+          "element_id": "1_p27_e173",
+          "sequence_order": 173,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Gender"
+        },
+        {
+          "element_id": "1_p27_e174",
+          "sequence_order": 174,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Religion (Dropdown)"
+        },
+        {
+          "element_id": "1_p27_e175",
+          "sequence_order": 175,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Marital Status (Married/Unmarried)"
+        },
+        {
+          "element_id": "1_p27_e176",
+          "sequence_order": 176,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 36,
+          "text_preview": "Note – Applicants registered via Non – Aadhaar flow, should click on “Update Profile as per  Aadhaar” as it is mandatory"
+        },
+        {
+          "element_id": "1_p27_e177",
+          "sequence_order": 177,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "User should click on Link Adhaar button"
+        }
+      ]
     },
     "28": {
-      "elements": 2,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "29": {
-      "elements": 2,
-      "flagged": 1,
+      "elements": 3,
+      "flagged": 3,
       "flags": [
         "low_content"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "1_p29_e128",
-          "sequence_order": 128,
+          "element_id": "1_p28_e178",
+          "sequence_order": 178,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "After Entering aadhaar number click on send OTP and enter the OTP in the box"
+        },
+        {
+          "element_id": "1_p28_e179",
+          "sequence_order": 179,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "After verifying OTP successfully, data will be displayed of the applicant on screen. Applicant  should verify and click "
+        },
+        {
+          "element_id": "1_p28_e180",
+          "sequence_order": 180,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "details."
+        }
+      ]
+    },
+    "29": {
+      "elements": 9,
+      "flagged": 9,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "1_p29_e181",
+          "sequence_order": 181,
           "page_number": 29,
-          "quality_score": 0.6,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
           "text_preview": "Caste Details"
+        },
+        {
+          "element_id": "1_p29_e182",
+          "sequence_order": 182,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Caste Details:"
+        },
+        {
+          "element_id": "1_p29_e183",
+          "sequence_order": 183,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Applicants have to fill all mandatory fields in the form"
+        },
+        {
+          "element_id": "1_p29_e184",
+          "sequence_order": 184,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Caste Category"
+        },
+        {
+          "element_id": "1_p29_e185",
+          "sequence_order": 185,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Caste"
+        },
+        {
+          "element_id": "1_p29_e186",
+          "sequence_order": 186,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Sub Caste"
+        },
+        {
+          "element_id": "1_p29_e187",
+          "sequence_order": 187,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Do you have Caste Certificate?"
+        },
+        {
+          "element_id": "1_p29_e188",
+          "sequence_order": 188,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "Did you receive the certificate from Aaple Sarkar Seva Kendra or Aaple Sarkar Portal and have a  barcode on it?"
+        },
+        {
+          "element_id": "1_p29_e189",
+          "sequence_order": 189,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Caste Certificate Number"
         }
       ]
     },
     "30": {
-      "elements": 2,
-      "flagged": 1,
+      "elements": 7,
+      "flagged": 7,
       "flags": [
+        "noise_detected",
         "low_content"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "1_p30_e130",
-          "sequence_order": 130,
+          "element_id": "1_p30_e190",
+          "sequence_order": 190,
           "page_number": 30,
-          "quality_score": 0.6,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
           "text_preview": "Income Details"
+        },
+        {
+          "element_id": "1_p30_e191",
+          "sequence_order": 191,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Income Details:"
+        },
+        {
+          "element_id": "1_p30_e192",
+          "sequence_order": 192,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Applicants have to fill all mandatory fields in the form"
+        },
+        {
+          "element_id": "1_p30_e193",
+          "sequence_order": 193,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Family Income"
+        },
+        {
+          "element_id": "1_p30_e194",
+          "sequence_order": 194,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Do you have Income Certificate?"
+        },
+        {
+          "element_id": "1_p30_e195",
+          "sequence_order": 195,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "Did you receive the certificate from Aaple Sarkar Seva Kendra or Aaple Sarkar Portal and have a  barcode on it?"
+        },
+        {
+          "element_id": "1_p30_e196",
+          "sequence_order": 196,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Enter Barcode Here"
         }
       ]
     },
     "31": {
-      "elements": 2,
-      "flagged": 1,
+      "elements": 8,
+      "flagged": 8,
       "flags": [
+        "noise_detected",
         "low_content"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "1_p31_e132",
-          "sequence_order": 132,
+          "element_id": "1_p31_e197",
+          "sequence_order": 197,
           "page_number": 31,
-          "quality_score": 0.6,
-          "element_type": "heading",
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
           "text_preview": "Domicile Details"
+        },
+        {
+          "element_id": "1_p31_e198",
+          "sequence_order": 198,
+          "page_number": 31,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Domicile Details:"
+        },
+        {
+          "element_id": "1_p31_e199",
+          "sequence_order": 199,
+          "page_number": 31,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Applicants have to fill all mandatory fields in the form"
+        },
+        {
+          "element_id": "1_p31_e200",
+          "sequence_order": 200,
+          "page_number": 31,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Are you Domicile of Maharashtra?"
+        },
+        {
+          "element_id": "1_p31_e201",
+          "sequence_order": 201,
+          "page_number": 31,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Do you have Domicile Certificate (Self/Parents)?"
+        },
+        {
+          "element_id": "1_p31_e202",
+          "sequence_order": 202,
+          "page_number": 31,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "Did you receive the certificate from Aaple Sarkar Seva Kendra or Aaple Sarkar Portal and have a  barcode on it?"
+        },
+        {
+          "element_id": "1_p31_e203",
+          "sequence_order": 203,
+          "page_number": 31,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Enter Barcode Details"
+        },
+        {
+          "element_id": "1_p31_e204",
+          "sequence_order": 204,
+          "page_number": 31,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Personal Eligibility Details"
         }
       ]
     },
     "32": {
-      "elements": 10,
-      "flagged": 5,
+      "elements": 11,
+      "flagged": 11,
       "flags": [
         "low_content"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "1_p32_e136",
-          "sequence_order": 136,
+          "element_id": "1_p32_e205",
+          "sequence_order": 205,
           "page_number": 32,
-          "quality_score": 0.6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Personal Eligibility Details:"
+        },
+        {
+          "element_id": "1_p32_e206",
+          "sequence_order": 206,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Applicants have to fill all mandatory fields in the form"
+        },
+        {
+          "element_id": "1_p32_e207",
+          "sequence_order": 207,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Are you Salaried?"
+        },
+        {
+          "element_id": "1_p32_e208",
+          "sequence_order": 208,
+          "page_number": 32,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
             "low_content"
@@ -528,10 +2484,10 @@
           "text_preview": "Job type"
         },
         {
-          "element_id": "1_p32_e137",
-          "sequence_order": 137,
+          "element_id": "1_p32_e209",
+          "sequence_order": 209,
           "page_number": 32,
-          "quality_score": 0.6,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
             "low_content"
@@ -540,10 +2496,30 @@
           "text_preview": "Disability Type"
         },
         {
-          "element_id": "1_p32_e140",
-          "sequence_order": 140,
+          "element_id": "1_p32_e210",
+          "sequence_order": 210,
           "page_number": 32,
-          "quality_score": 0.6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Person with Disability?"
+        },
+        {
+          "element_id": "1_p32_e211",
+          "sequence_order": 211,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Do you have Disability Certificate (Yes/No)"
+        },
+        {
+          "element_id": "1_p32_e212",
+          "sequence_order": 212,
+          "page_number": 32,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
             "low_content"
@@ -552,11 +2528,11 @@
           "text_preview": "Sibling Number"
         },
         {
-          "element_id": "1_p32_e141",
-          "sequence_order": 141,
+          "element_id": "1_p32_e213",
+          "sequence_order": 213,
           "page_number": 32,
-          "quality_score": 0.6,
-          "element_type": "heading",
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
@@ -564,58 +2540,416 @@
           "text_preview": "Bank Details"
         },
         {
-          "element_id": "1_p32_e142",
-          "sequence_order": 142,
+          "element_id": "1_p32_e214",
+          "sequence_order": 214,
           "page_number": 32,
-          "quality_score": 0.6,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
           "text_preview": "Bank Details:"
+        },
+        {
+          "element_id": "1_p32_e215",
+          "sequence_order": 215,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Is your Jandhan Account linked with your Aadhaar?"
         }
       ]
     },
     "33": {
-      "elements": 3,
-      "flagged": 0,
-      "flags": [],
+      "elements": 7,
+      "flagged": 7,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "1_p33_e216",
+          "sequence_order": 216,
+          "page_number": 33,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "2. Address Information - User will fill in Address Information details –"
+        },
+        {
+          "element_id": "1_p33_e217",
+          "sequence_order": 217,
+          "page_number": 33,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Permanent and Correspondence Address Details"
+        },
+        {
+          "element_id": "1_p33_e218",
+          "sequence_order": 218,
+          "page_number": 33,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Permanent Address Details"
+        },
+        {
+          "element_id": "1_p33_e219",
+          "sequence_order": 219,
+          "page_number": 33,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Applicants have to fill all mandatory fields in the form"
+        },
+        {
+          "element_id": "1_p33_e220",
+          "sequence_order": 220,
+          "page_number": 33,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Address"
+        },
+        {
+          "element_id": "1_p33_e221",
+          "sequence_order": 221,
+          "page_number": 33,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "State"
+        },
+        {
+          "element_id": "1_p33_e222",
+          "sequence_order": 222,
+          "page_number": 33,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "District"
+        }
+      ]
     },
     "34": {
-      "elements": 2,
-      "flagged": 0,
-      "flags": [],
+      "elements": 12,
+      "flagged": 12,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "1_p34_e223",
+          "sequence_order": 223,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Taluka"
+        },
+        {
+          "element_id": "1_p34_e224",
+          "sequence_order": 224,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Village"
+        },
+        {
+          "element_id": "1_p34_e225",
+          "sequence_order": 225,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Pincode"
+        },
+        {
+          "element_id": "1_p34_e226",
+          "sequence_order": 226,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 37,
+          "text_preview": "If “is Correspondence Address as same as Permanent?” if Yes is selected then Permanent  address content details will get"
+        },
+        {
+          "element_id": "1_p34_e227",
+          "sequence_order": 227,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Correspondence Address Details"
+        },
+        {
+          "element_id": "1_p34_e228",
+          "sequence_order": 228,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Applicants have to fill all mandatory fields in the form"
+        },
+        {
+          "element_id": "1_p34_e229",
+          "sequence_order": 229,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Address"
+        },
+        {
+          "element_id": "1_p34_e230",
+          "sequence_order": 230,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "State"
+        },
+        {
+          "element_id": "1_p34_e231",
+          "sequence_order": 231,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "District"
+        },
+        {
+          "element_id": "1_p34_e232",
+          "sequence_order": 232,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Taluka"
+        },
+        {
+          "element_id": "1_p34_e233",
+          "sequence_order": 233,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Village"
+        },
+        {
+          "element_id": "1_p34_e234",
+          "sequence_order": 234,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Pincode"
+        }
+      ]
     },
     "35": {
-      "elements": 5,
-      "flagged": 2,
+      "elements": 13,
+      "flagged": 13,
       "flags": [
         "low_content"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "1_p35_e150",
-          "sequence_order": 150,
+          "element_id": "1_p35_e235",
+          "sequence_order": 235,
           "page_number": 35,
-          "quality_score": 0.6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "3. Other Information – User will fill in Parent’s/Guardian’s details relating to –"
+        },
+        {
+          "element_id": "1_p35_e236",
+          "sequence_order": 236,
+          "page_number": 35,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
-          "text_preview": "Parent's/Guardian's Details"
+          "text_preview": "Parent’s/Guardian’s Details"
         },
         {
-          "element_id": "1_p35_e152",
-          "sequence_order": 152,
+          "element_id": "1_p35_e237",
+          "sequence_order": 237,
           "page_number": 35,
-          "quality_score": 0.6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Parent’s/Guardian’s Details:"
+        },
+        {
+          "element_id": "1_p35_e238",
+          "sequence_order": 238,
+          "page_number": 35,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Applicants have to fill all mandatory fields in the form"
+        },
+        {
+          "element_id": "1_p35_e239",
+          "sequence_order": 239,
+          "page_number": 35,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Is Father alive? ( Yes/No)"
+        },
+        {
+          "element_id": "1_p35_e240",
+          "sequence_order": 240,
+          "page_number": 35,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Father Name"
+        },
+        {
+          "element_id": "1_p35_e241",
+          "sequence_order": 241,
+          "page_number": 35,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Is Salaried?"
+        },
+        {
+          "element_id": "1_p35_e242",
+          "sequence_order": 242,
+          "page_number": 35,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Occupation"
+        },
+        {
+          "element_id": "1_p35_e243",
+          "sequence_order": 243,
+          "page_number": 35,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Applicants have to fill all mandatory fields in the form"
+        },
+        {
+          "element_id": "1_p35_e244",
+          "sequence_order": 244,
+          "page_number": 35,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Is Mother alive? (Yes/No)"
+        },
+        {
+          "element_id": "1_p35_e245",
+          "sequence_order": 245,
+          "page_number": 35,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Mother Name"
+        },
+        {
+          "element_id": "1_p35_e246",
+          "sequence_order": 246,
+          "page_number": 35,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Is Salaried?"
+        },
+        {
+          "element_id": "1_p35_e247",
+          "sequence_order": 247,
+          "page_number": 35,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
             "low_content"
@@ -627,203 +2961,1088 @@
     },
     "36": {
       "elements": 1,
-      "flagged": 0,
+      "flagged": 1,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "1_p36_e248",
+          "sequence_order": 248,
+          "page_number": 36,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "4. Course Applied – User will fill in Current Course details information"
+        }
+      ]
     },
     "37": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
+      "elements": 3,
+      "flagged": 3,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "1_p37_e249",
+          "sequence_order": 249,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "5. Past Qualification Information – User will fill in Details relating to Past Qualification"
+        },
+        {
+          "element_id": "1_p37_e250",
+          "sequence_order": 250,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Information"
+        },
+        {
+          "element_id": "1_p37_e251",
+          "sequence_order": 251,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Past Qualification Information"
+        }
+      ]
     },
     "38": {
-      "elements": 2,
-      "flagged": 0,
-      "flags": [],
+      "elements": 18,
+      "flagged": 18,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "1_p38_e252",
+          "sequence_order": 252,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Past Qualification Information"
+        },
+        {
+          "element_id": "1_p38_e253",
+          "sequence_order": 253,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Applicants have to fill all mandatory fields in the form"
+        },
+        {
+          "element_id": "1_p38_e254",
+          "sequence_order": 254,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Qualification type"
+        },
+        {
+          "element_id": "1_p38_e255",
+          "sequence_order": 255,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Degree"
+        },
+        {
+          "element_id": "1_p38_e256",
+          "sequence_order": 256,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Subject"
+        },
+        {
+          "element_id": "1_p38_e257",
+          "sequence_order": 257,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Completed or Pursuing"
+        },
+        {
+          "element_id": "1_p38_e258",
+          "sequence_order": 258,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "State"
+        },
+        {
+          "element_id": "1_p38_e259",
+          "sequence_order": 259,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Board/University"
+        },
+        {
+          "element_id": "1_p38_e260",
+          "sequence_order": 260,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Admission Date"
+        },
+        {
+          "element_id": "1_p38_e261",
+          "sequence_order": 261,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Result"
+        },
+        {
+          "element_id": "1_p38_e262",
+          "sequence_order": 262,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Passing Year"
+        },
+        {
+          "element_id": "1_p38_e263",
+          "sequence_order": 263,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Attempts"
+        },
+        {
+          "element_id": "1_p38_e264",
+          "sequence_order": 264,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Percentage"
+        },
+        {
+          "element_id": "1_p38_e265",
+          "sequence_order": 265,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Course Duration (in months)"
+        },
+        {
+          "element_id": "1_p38_e266",
+          "sequence_order": 266,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Class/Grade"
+        },
+        {
+          "element_id": "1_p38_e267",
+          "sequence_order": 267,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Upload Marksheet"
+        },
+        {
+          "element_id": "1_p38_e268",
+          "sequence_order": 268,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Was any GAP in this Qualification/Course? (Yes/No)"
+        },
+        {
+          "element_id": "1_p38_e269",
+          "sequence_order": 269,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "After saving qualification details, grid view will be displayed above"
+        }
+      ]
     },
     "39": {
-      "elements": 3,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "40": {
-      "elements": 6,
-      "flagged": 1,
+      "elements": 9,
+      "flagged": 9,
       "flags": [
         "low_content"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "1_p40_e162",
-          "sequence_order": 162,
+          "element_id": "1_p39_e270",
+          "sequence_order": 270,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "6. Hostel Details – User will fill in Hostel / Day Scholar information"
+        },
+        {
+          "element_id": "1_p39_e271",
+          "sequence_order": 271,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "In hostel information, if day scholar is selected then no form will be displayed. Applicant will"
+        },
+        {
+          "element_id": "1_p39_e272",
+          "sequence_order": 272,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "click on save button"
+        },
+        {
+          "element_id": "1_p39_e273",
+          "sequence_order": 273,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Hostel Details"
+        },
+        {
+          "element_id": "1_p39_e274",
+          "sequence_order": 274,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Applicants have to fill all mandatory fields in the form"
+        },
+        {
+          "element_id": "1_p39_e275",
+          "sequence_order": 275,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Beneficiary Category (Hosteller/Day Scholar)"
+        },
+        {
+          "element_id": "1_p39_e276",
+          "sequence_order": 276,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "State"
+        },
+        {
+          "element_id": "1_p39_e277",
+          "sequence_order": 277,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "District"
+        },
+        {
+          "element_id": "1_p39_e278",
+          "sequence_order": 278,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Taluka"
+        }
+      ]
+    },
+    "40": {
+      "elements": 12,
+      "flagged": 12,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "1_p40_e279",
+          "sequence_order": 279,
           "page_number": 40,
-          "quality_score": 0.6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Hostel Type"
+        },
+        {
+          "element_id": "1_p40_e280",
+          "sequence_order": 280,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Hostel Name"
+        },
+        {
+          "element_id": "1_p40_e281",
+          "sequence_order": 281,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Is Hostel Aided?"
+        },
+        {
+          "element_id": "1_p40_e282",
+          "sequence_order": 282,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Hostel Address"
+        },
+        {
+          "element_id": "1_p40_e283",
+          "sequence_order": 283,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Date of Admission"
+        },
+        {
+          "element_id": "1_p40_e284",
+          "sequence_order": 284,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Is mess available?"
+        },
+        {
+          "element_id": "1_p40_e285",
+          "sequence_order": 285,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Rent per Month"
+        },
+        {
+          "element_id": "1_p40_e286",
+          "sequence_order": 286,
+          "page_number": 40,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
           "text_preview": "Hosteller Certificate"
+        },
+        {
+          "element_id": "1_p40_e287",
+          "sequence_order": 287,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "After saving the profile, User can either click on All schemes button or Home button"
+        },
+        {
+          "element_id": "1_p40_e288",
+          "sequence_order": 288,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "Home button will display the landing page of the Portal where “Suggested eligible Schemes”  according to the Profile wil"
+        },
+        {
+          "element_id": "1_p40_e289",
+          "sequence_order": 289,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "System will suggest schemes to applicant only after filling up the profile to 100 % completeness  and on the basis of Ca"
+        },
+        {
+          "element_id": "1_p40_e290",
+          "sequence_order": 290,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "If clicked on All schemes, System will display all the schemes on the Portal."
         }
       ]
     },
     "41": {
       "elements": 3,
-      "flagged": 0,
+      "flagged": 3,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "1_p41_e291",
+          "sequence_order": 291,
+          "page_number": 41,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "3. All Schemes"
+        },
+        {
+          "element_id": "1_p41_e292",
+          "sequence_order": 292,
+          "page_number": 41,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "This screen will display all the Post Matric schemes after clicked on All Schemes"
+        },
+        {
+          "element_id": "1_p41_e293",
+          "sequence_order": 293,
+          "page_number": 41,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "User can either apply for schemes or Click on PDF to view the GR of the schemes"
+        }
+      ]
     },
     "42": {
-      "elements": 11,
+      "elements": 7,
       "flagged": 7,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "1_p42_e294",
+          "sequence_order": 294,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "4. My Applied Scheme"
+        },
+        {
+          "element_id": "1_p42_e295",
+          "sequence_order": 295,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "In order to check for the total number of schemes applied, applicant should click on  applied schemes button."
+        },
+        {
+          "element_id": "1_p42_e296",
+          "sequence_order": 296,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Under Scrutiny Applications –"
+        },
+        {
+          "element_id": "1_p42_e297",
+          "sequence_order": 297,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Under Applied Schemes option, user can view –"
+        },
+        {
+          "element_id": "1_p42_e298",
+          "sequence_order": 298,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "1. Application ID  2. Department Name  3. Scheme Name  4. Status  5. Action  6. View Form  7. Tentative Benefits"
+        },
+        {
+          "element_id": "1_p42_e299",
+          "sequence_order": 299,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "After Application is submitted successfully by applicant, it will be displayed in under Scrutiny  Applications section."
+        },
+        {
+          "element_id": "1_p42_e300",
+          "sequence_order": 300,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Applicant can click on Cancel button if want to take back application form."
+        }
+      ]
+    },
+    "43": {
+      "elements": 5,
+      "flagged": 5,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "1_p43_e301",
+          "sequence_order": 301,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Applicant can click on view button if want to view Applicant Details section."
+        },
+        {
+          "element_id": "1_p43_e302",
+          "sequence_order": 302,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 51,
+          "text_preview": "For example - After application is submitted and applicant wants to view the details filled in, it  is possible on click"
+        },
+        {
+          "element_id": "1_p43_e303",
+          "sequence_order": 303,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 34,
+          "text_preview": "It is also possible, Application is sent successfully but during scrutiny major/minor issue is  found. At such stage, De"
+        },
+        {
+          "element_id": "1_p43_e304",
+          "sequence_order": 304,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "Reason for sent back will also be provided by respective officer which will be displayed to the  Applicant."
+        },
+        {
+          "element_id": "1_p43_e305",
+          "sequence_order": 305,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "Here Applicant should make the necessary changes in the Profile as per the given reason for  sent back and click on the "
+        }
+      ]
+    },
+    "44": {
+      "elements": 4,
+      "flagged": 4,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "1_p44_e306",
+          "sequence_order": 306,
+          "page_number": 44,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "4.1 Set Scheme Preferences"
+        },
+        {
+          "element_id": "1_p44_e307",
+          "sequence_order": 307,
+          "page_number": 44,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "In the DBT system, applicant can apply for multiple schemes if applicable according to the  criteria."
+        },
+        {
+          "element_id": "1_p44_e308",
+          "sequence_order": 308,
+          "page_number": 44,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "If applicant applies for two schemes, then applicant should give preference as “1” and “2”  according to the choice."
+        },
+        {
+          "element_id": "1_p44_e309",
+          "sequence_order": 309,
+          "page_number": 44,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "As displayed in above image, both schemes are of type “Merit”, hence user needs to set  Preference as “1” or “2” as per "
+        }
+      ]
+    },
+    "45": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "1_p45_e310",
+          "sequence_order": 310,
+          "page_number": 45,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 43,
+          "text_preview": "Also For example – Under Tribal development department, if applicant is studying a  professional course and if eligible "
+        },
+        {
+          "element_id": "1_p45_e311",
+          "sequence_order": 311,
+          "page_number": 45,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "As displayed above, user can apply for Maintenance scheme and Scholarship scheme where  user can apply simultaneously he"
+        }
+      ]
+    },
+    "46": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "1_p46_e312",
+          "sequence_order": 312,
+          "page_number": 46,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Tentative benefits -"
+        },
+        {
+          "element_id": "1_p46_e313",
+          "sequence_order": 313,
+          "page_number": 46,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Applicant can also view the Tentative benefits by clicking on Tentative benefits button."
+        },
+        {
+          "element_id": "1_p46_e314",
+          "sequence_order": 314,
+          "page_number": 46,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "These are the Tentative Benefit calculation which are displayed by System as per the Profile  filled by the Applicant an"
+        },
+        {
+          "element_id": "1_p46_e315",
+          "sequence_order": 315,
+          "page_number": 46,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Approved Applications –"
+        },
+        {
+          "element_id": "1_p46_e316",
+          "sequence_order": 316,
+          "page_number": 46,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "After the successful submission of application from applicant’s login. Application will be  checked by respective Instit"
+        },
+        {
+          "element_id": "1_p46_e317",
+          "sequence_order": 317,
+          "page_number": 46,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "After the Application is approved by Desk 2 officer of Department, Status of the Application will  change to Approved an"
+        }
+      ]
+    },
+    "47": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "1_p47_e318",
+          "sequence_order": 318,
+          "page_number": 47,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Rejected Applications –"
+        },
+        {
+          "element_id": "1_p47_e319",
+          "sequence_order": 319,
+          "page_number": 47,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "After the successful submission of application from applicant’s login. Application will be  checked by respective Instit"
+        },
+        {
+          "element_id": "1_p47_e320",
+          "sequence_order": 320,
+          "page_number": 47,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "If under any of the Desk officer Application is rejected, then the application will be displayed  under Rejected Applica"
+        },
+        {
+          "element_id": "1_p47_e321",
+          "sequence_order": 321,
+          "page_number": 47,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 53,
+          "text_preview": "In My Applied Scheme, User can Set Schemes Preferences- Applicant can be eligible for more  than one scheme in the Porta"
+        },
+        {
+          "element_id": "1_p47_e322",
+          "sequence_order": 322,
+          "page_number": 47,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "5. My Canceled Scheme"
+        },
+        {
+          "element_id": "1_p47_e323",
+          "sequence_order": 323,
+          "page_number": 47,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "Applicant can cancel the scheme after successful submission to the respective Institute/School  by clicking on Cancel bu"
+        },
+        {
+          "element_id": "1_p47_e324",
+          "sequence_order": 324,
+          "page_number": 47,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Transaction history will be maintained for the Canceled scheme."
+        }
+      ]
+    },
+    "48": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "1_p48_e325",
+          "sequence_order": 325,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "7. Grievance/Suggestions –"
+        },
+        {
+          "element_id": "1_p48_e326",
+          "sequence_order": 326,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Applicant May have Grievance (Complaint) / Suggestions for Aaple Sarkar DBT Portal."
+        },
+        {
+          "element_id": "1_p48_e327",
+          "sequence_order": 327,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "In Such scenarios, Applicant should click on Grievance/Suggestions which is displayed after  login under left hand side "
+        }
+      ]
+    },
+    "49": {
+      "elements": 10,
+      "flagged": 10,
       "flags": [
         "low_content"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "1_p42_e172",
-          "sequence_order": 172,
-          "page_number": 42,
-          "quality_score": 0.6,
-          "element_type": "clause",
+          "element_id": "1_p49_e328",
+          "sequence_order": 328,
+          "page_number": 49,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Here Applicant will have to fill up all the Mandatory fields –"
+        },
+        {
+          "element_id": "1_p49_e329",
+          "sequence_order": 329,
+          "page_number": 49,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
-          "text_preview": "Application ID"
+          "text_preview": "1. Name"
         },
         {
-          "element_id": "1_p42_e173",
-          "sequence_order": 173,
-          "page_number": 42,
-          "quality_score": 0.6,
-          "element_type": "clause",
+          "element_id": "1_p49_e330",
+          "sequence_order": 330,
+          "page_number": 49,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "2. Mobile Number"
+        },
+        {
+          "element_id": "1_p49_e331",
+          "sequence_order": 331,
+          "page_number": 49,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "3. Email ID"
+        },
+        {
+          "element_id": "1_p49_e332",
+          "sequence_order": 332,
+          "page_number": 49,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
-          "text_preview": "Department Name"
+          "text_preview": "4. Department"
         },
         {
-          "element_id": "1_p42_e174",
-          "sequence_order": 174,
-          "page_number": 42,
-          "quality_score": 0.6,
-          "element_type": "clause",
+          "element_id": "1_p49_e333",
+          "sequence_order": 333,
+          "page_number": 49,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "5. Scheme Name"
+        },
+        {
+          "element_id": "1_p49_e334",
+          "sequence_order": 334,
+          "page_number": 49,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
-          "text_preview": "Scheme Name"
+          "text_preview": "6. Category"
         },
         {
-          "element_id": "1_p42_e175",
-          "sequence_order": 175,
-          "page_number": 42,
-          "quality_score": 0.6,
-          "element_type": "clause",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 1,
-          "text_preview": "Status"
+          "element_id": "1_p49_e335",
+          "sequence_order": 335,
+          "page_number": 49,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "7. Grievance/ Suggestions type"
         },
         {
-          "element_id": "1_p42_e176",
-          "sequence_order": 176,
-          "page_number": 42,
-          "quality_score": 0.6,
-          "element_type": "clause",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 1,
-          "text_preview": "Action"
-        },
-        {
-          "element_id": "1_p42_e177",
-          "sequence_order": 177,
-          "page_number": 42,
-          "quality_score": 0.6,
-          "element_type": "clause",
+          "element_id": "1_p49_e336",
+          "sequence_order": 336,
+          "page_number": 49,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
-          "text_preview": "View Form"
+          "text_preview": "8. Comments"
         },
         {
-          "element_id": "1_p42_e178",
-          "sequence_order": 178,
-          "page_number": 42,
-          "quality_score": 0.6,
-          "element_type": "clause",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "Tentative Benefits"
+          "element_id": "1_p49_e337",
+          "sequence_order": 337,
+          "page_number": 49,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "Also it is necessary to enter the CAPTCHA, only then Submit button will be enabled."
         }
       ]
-    },
-    "43": {
-      "elements": 3,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "44": {
-      "elements": 4,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "45": {
-      "elements": 2,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "46": {
-      "elements": 6,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "47": {
-      "elements": 6,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "48": {
-      "elements": 3,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "49": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
     }
   }
 }

@@ -1,0 +1,378 @@
+{
+  "document_id": 24,
+  "pages": {
+    "1": {
+      "elements": 18,
+      "flagged": 18,
+      "flags": [
+        "noise_detected",
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "24_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "National e-Governance Division (NeGD)"
+        },
+        {
+          "element_id": "24_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Digital India Corporation (DIC)  Ministry of Electronics & Information Technology (MeitY)"
+        },
+        {
+          "element_id": "24_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Government of India"
+        },
+        {
+          "element_id": "24_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "*********"
+        },
+        {
+          "element_id": "24_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "TECHNICAL INTERNSHIP PROGRAMME 2025"
+        },
+        {
+          "element_id": "24_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 122,
+          "text_preview": "The National e-Governance Division (NeGD) is pleased to announce the continuation  of its Technical Internship Scheme, d"
+        },
+        {
+          "element_id": "24_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "a. All Engineering Graduates or equivalent, with at least 75% marks in the qualifying"
+        },
+        {
+          "element_id": "24_p1_e7",
+          "sequence_order": 7,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "degree.  b. All Engineering Post – Graduates or equivalent, with at least 75% marks in the"
+        },
+        {
+          "element_id": "24_p1_e8",
+          "sequence_order": 8,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "qualifying degree.  c. Only the candidates who have passed their qualifying degree in last two years i.e., 2024,"
+        },
+        {
+          "element_id": "24_p1_e9",
+          "sequence_order": 9,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "2025 and final year i.e., 2026 students of current year are eligible to apply for this  technical internship scheme.    "
+        },
+        {
+          "element_id": "24_p1_e10",
+          "sequence_order": 10,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Sl  No.  Role  Role description  Slots"
+        },
+        {
+          "element_id": "24_p1_e11",
+          "sequence_order": 11,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Software Development"
+        },
+        {
+          "element_id": "24_p1_e12",
+          "sequence_order": 12,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Java / PHP / Python  Developer/NodeJS /  Dotnet"
+        },
+        {
+          "element_id": "24_p1_e13",
+          "sequence_order": 13,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": " Develop or maintain modules in web-based"
+        },
+        {
+          "element_id": "24_p1_e14",
+          "sequence_order": 14,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "applications using latest technology.   Write RESTful APIs and integrate third-party"
+        },
+        {
+          "element_id": "24_p1_e15",
+          "sequence_order": 15,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "services.   Debug and troubleshoot backend issues in"
+        },
+        {
+          "element_id": "24_p1_e16",
+          "sequence_order": 16,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "existing systems / code.   Participate in code reviews and adhere to secure"
+        },
+        {
+          "element_id": "24_p1_e17",
+          "sequence_order": 17,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "coding practices."
+        }
+      ]
+    },
+    "2": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "3": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "4": {
+      "elements": 15,
+      "flagged": 15,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "24_p4_e20",
+          "sequence_order": 20,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "DURATION OF TECHNICAL INTERNSHIP"
+        },
+        {
+          "element_id": "24_p4_e21",
+          "sequence_order": 21,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "a. The Technical Internship Scheme in NeGD will be conducted bi-annually i.e., - January"
+        },
+        {
+          "element_id": "24_p4_e22",
+          "sequence_order": 22,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "Session and July Session.  b. The duration of Technical Internship will be fixed for six (06) months and will not be"
+        },
+        {
+          "element_id": "24_p4_e23",
+          "sequence_order": 23,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "extended further.    HOW TO APPLY FOR TECHNICAL INTERNSHIP"
+        },
+        {
+          "element_id": "24_p4_e24",
+          "sequence_order": 24,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "a. Interested and eligible students must submit their applications in the prescribed"
+        },
+        {
+          "element_id": "24_p4_e25",
+          "sequence_order": 25,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "application form available on the NeGD’s website.  b. These applications need to be sponsored /forwarded by the Institut"
+        },
+        {
+          "element_id": "24_p4_e26",
+          "sequence_order": 26,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "applicant is currently enrolled in or has recently passed out.  c. The Technical Internship Programme will be an offline"
+        },
+        {
+          "element_id": "24_p4_e27",
+          "sequence_order": 27,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "intern to visit the organization daily to adhere to the NeGD's working hours.    SELECTION CRITERIA FOR TECHNICAL INTERN"
+        },
+        {
+          "element_id": "24_p4_e28",
+          "sequence_order": 28,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "a. Interns will be shortlisted based on academic performance, their relevant certifications"
+        },
+        {
+          "element_id": "24_p4_e29",
+          "sequence_order": 29,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 33,
+          "text_preview": "& special initiatives and will be selected for the internship through interviews by the  internal selection committee as"
+        },
+        {
+          "element_id": "24_p4_e30",
+          "sequence_order": 30,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "opportunity in NeGD.    STIPEND & CERTIFICATE FOR TECHNICAL INTERNSHIP"
+        },
+        {
+          "element_id": "24_p4_e31",
+          "sequence_order": 31,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "a. A token stipend of Rs. 20,000/- per month would be paid to an Intern, subject to"
+        },
+        {
+          "element_id": "24_p4_e32",
+          "sequence_order": 32,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "satisfactory performance, duly certified by his / her Mentor.  b. NeGD will issue certificates to intern upon the satisf"
+        },
+        {
+          "element_id": "24_p4_e33",
+          "sequence_order": 33,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "(six months), subject to certification by their Mentor.  c. Regular attendance and satisfactory performance are must for"
+        },
+        {
+          "element_id": "24_p4_e34",
+          "sequence_order": 34,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 39,
+          "text_preview": "APPLICATION FORM LINK    https://docs.google.com/forms/d/e/1FAIpQLSeXsmY2HslUJWqYbjizkGBRMtTdWMbPNc_ KUqY9368srQwXMQ/vie"
+        }
+      ]
+    }
+  }
+}

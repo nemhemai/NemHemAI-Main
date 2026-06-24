@@ -1,0 +1,276 @@
+{
+  "document_id": 22,
+  "pages": {
+    "1": {
+      "elements": 3,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "2": {
+      "elements": 4,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "3": {
+      "elements": 3,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "4": {
+      "elements": 5,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "5": {
+      "elements": 4,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "6": {
+      "elements": 5,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "7": {
+      "elements": 5,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "8": {
+      "elements": 4,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "9": {
+      "elements": 2,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "10": {
+      "elements": 7,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "11": {
+      "elements": 6,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "12": {
+      "elements": 2,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "13": {
+      "elements": 12,
+      "flagged": 12,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "22_p13_e50",
+          "sequence_order": 50,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "દ°વિષઓની ȹૂિમ વલસાડ"
+        },
+        {
+          "element_id": "22_p13_e51",
+          "sequence_order": 51,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ઊડતી નજર°"
+        },
+        {
+          "element_id": "22_p13_e52",
+          "sequence_order": 52,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "અ.નં િવગત  ӕકડાકય માહતી  1.  જƣલાȵું ભૌગોલક ƨ થાન  ૨૦.૮૦ થી ૨૧.૯ ઉĂર અëાંશ."
+        },
+        {
+          "element_id": "22_p13_e53",
+          "sequence_order": 53,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 63,
+          "text_preview": "૬૨.૩૯ થી ૭૩.૩૦ ȶૂવ½ ર°ખાંશ  2.  Ȣુલ ëે́ફળ  ૨૯૪૭.૦૦ ચો.ક.મી., ૨૯૪૪૧૨ હ°કટર  3.  આબોહવા  ગરમ, ભેજવાળ  4.  જમીન  કાળ, ગો"
+        },
+        {
+          "element_id": "22_p13_e54",
+          "sequence_order": 54,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "પાકો.  8.  Ȣુલ તાɀુકા  ૬(વલસાડ, પારડ, ઉમરગામ, ધરમȶુર, વાપી"
+        },
+        {
+          "element_id": "22_p13_e55",
+          "sequence_order": 55,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "અને કપરાડા)  9.  Ȣુલ ગામો  ૪૬૭  10. નગરપાલકા   વલસાડ, વાપી. ધરમȶુર, ઉમરગામ, પારડ."
+        },
+        {
+          "element_id": "22_p13_e56",
+          "sequence_order": 56,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "11. વસિત ૨૦૧૧  ȶુȿુષ  ƨ ́ી   Ȣુલ"
+        },
+        {
+          "element_id": "22_p13_e57",
+          "sequence_order": 57,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "˴ાƠ ય: -  ૫૪૨૬૪૪  ૫૨૭૫૩૩  ૧૦૭૦૧૭૭"
+        },
+        {
+          "element_id": "22_p13_e58",
+          "sequence_order": 58,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "શહ°ર: -  ૩૪૪૫૭૮  ૨૯૦૯૨૩  ૬૩૫૫૦૧"
+        },
+        {
+          "element_id": "22_p13_e59",
+          "sequence_order": 59,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "Ȣુલ  ૮૮૭૨૨૨  ૮૧૮૪૫૬  ૧૭૦૫૬૭૮  12. ઔČોગક વસાહતો  ૫ ( વાપી, પારડ, સરગામ, Ȥુંદલાવ,"
+        },
+        {
+          "element_id": "22_p13_e60",
+          "sequence_order": 60,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 61,
+          "text_preview": "Әમરગામ)  13. મીઠાના અગર  ૧૧ (વલસાડ-૪, Әમરગામ -૭)  14. ર°લવે માગ½  ૭૫ ક.મી.  15. ર°લવે ƨ ટ°શન  ૧૦  16. ̆વાસી Ȥૃહ - પંચાય"
+        },
+        {
+          "element_id": "22_p13_e61",
+          "sequence_order": 61,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "પારડ"
+        }
+      ]
+    },
+    "14": {
+      "elements": 3,
+      "flagged": 2,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "22_p14_e63",
+          "sequence_order": 63,
+          "page_number": 14,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "વલસાડથી Ӕતર"
+        },
+        {
+          "element_id": "22_p14_e64",
+          "sequence_order": 64,
+          "page_number": 14,
+          "quality_score": 0.5,
+          "element_type": "table",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 96,
+          "text_preview": "વલસાડ ૦૦ ક.મી., પારડ-૧૭ ક.મી., વાપી-૨૯ ક.મી.; તીથલ-૦૫ ક.મી., ઉદવાડા-૨૫ ક.મી., દમણ-૪૦ ક.મી.; ધરાસણા-૧૨ ક.મી., બગવ"
+        }
+      ]
+    },
+    "15": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "22_p15_e65",
+          "sequence_order": 65,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "અરણાઇ-૫૨ ક.મી."
+        }
+      ]
+    }
+  }
+}

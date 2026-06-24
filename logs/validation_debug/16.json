@@ -1,0 +1,3035 @@
+{
+  "document_id": 16,
+  "pages": {
+    "2": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "16_p2_e0",
+          "sequence_order": 0,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "NATIONAL HEALTH POLICY, 2017"
+        },
+        {
+          "element_id": "16_p2_e1",
+          "sequence_order": 1,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 178,
+          "text_preview": "Contents  1  Introduction:  1  2  Goal, Principles and Objectives  1  2.1  Goal  1  2.2  Key Policy Principles  1  2.3  "
+        },
+        {
+          "element_id": "16_p2_e2",
+          "sequence_order": 2,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "14  Regulatory Framework  22  15  Vaccine Safety  24  16  Medical Technologies  24  17  Public Procurement  24  18  Avai"
+        }
+      ]
+    },
+    "3": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "16_p3_e3",
+          "sequence_order": 3,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "19  Aligning other policies for medical devices and equipment  with public health goals"
+        },
+        {
+          "element_id": "16_p3_e4",
+          "sequence_order": 4,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "20  Improving Public Sector Capacity for manufacturing essential  drugs and vaccines"
+        },
+        {
+          "element_id": "16_p3_e5",
+          "sequence_order": 5,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 45,
+          "text_preview": "21  Anti-microbial Resistance  25  22  Health Technology Assessment  25  23  Digital Health Technology Eco - System  25 "
+        }
+      ]
+    },
+    "4": {
+      "elements": 11,
+      "flagged": 11,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "16_p4_e6",
+          "sequence_order": 6,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "1. Introduction"
+        },
+        {
+          "element_id": "16_p4_e7",
+          "sequence_order": 7,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 141,
+          "text_preview": "The National Health Policy of 1983 and the National Health Policy of 2002 have served well  in guiding the approach for "
+        },
+        {
+          "element_id": "16_p4_e8",
+          "sequence_order": 8,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 70,
+          "text_preview": "The primary aim of the National Health Policy, 2017, is to inform, clarify, strengthen and  prioritize the role of the G"
+        },
+        {
+          "element_id": "16_p4_e9",
+          "sequence_order": 9,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 37,
+          "text_preview": "NHP 2017 builds on the progress made since the last NHP 2002. The developments have  been captured in the document “Back"
+        },
+        {
+          "element_id": "16_p4_e10",
+          "sequence_order": 10,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "2. Goal, Principles and Objectives"
+        },
+        {
+          "element_id": "16_p4_e11",
+          "sequence_order": 11,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "2.1 Goal"
+        },
+        {
+          "element_id": "16_p4_e12",
+          "sequence_order": 12,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 70,
+          "text_preview": "The policy envisages as its goal the attainment of the highest possible level of health and well- being for all at all a"
+        },
+        {
+          "element_id": "16_p4_e13",
+          "sequence_order": 13,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 39,
+          "text_preview": "The policy recognizes the pivotal importance of Sustainable Development Goals (SDGs). An  indicative list of time bound "
+        },
+        {
+          "element_id": "16_p4_e14",
+          "sequence_order": 14,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "2.2 Key Policy Principles"
+        },
+        {
+          "element_id": "16_p4_e15",
+          "sequence_order": 15,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "I. Professionalism, Integrity and Ethics: The health policy commits itself to the highest"
+        },
+        {
+          "element_id": "16_p4_e16",
+          "sequence_order": 16,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "professional standards, integrity and ethics to be maintained in the entire system of health care"
+        }
+      ]
+    },
+    "5": {
+      "elements": 19,
+      "flagged": 19,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "16_p5_e17",
+          "sequence_order": 17,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "delivery in the country, supported by a credible, transparent and responsible regulatory  environment."
+        },
+        {
+          "element_id": "16_p5_e18",
+          "sequence_order": 18,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "II. Equity: Reducing inequity would mean affirmative action to reach the poorest. It would mean"
+        },
+        {
+          "element_id": "16_p5_e19",
+          "sequence_order": 19,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "minimizing disparity on account of gender, poverty, caste, disability, other forms of social  exclusion and geographical"
+        },
+        {
+          "element_id": "16_p5_e20",
+          "sequence_order": 20,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "III. Affordability: As costs of care increases, affordability, as distinct from equity, requires emphasis."
+        },
+        {
+          "element_id": "16_p5_e21",
+          "sequence_order": 21,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "Catastrophic household health care expenditures defined as health expenditure exceeding 10% of  its total monthly consum"
+        },
+        {
+          "element_id": "16_p5_e22",
+          "sequence_order": 22,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "IV. Universality: Prevention of exclusions on social, economic or on grounds of current health status."
+        },
+        {
+          "element_id": "16_p5_e23",
+          "sequence_order": 23,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "In this backdrop, systems and services are envisaged to be designed to cater to the entire  population- including specia"
+        },
+        {
+          "element_id": "16_p5_e24",
+          "sequence_order": 24,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "V. Patient Centered & Quality of Care: Gender sensitive, effective, safe, and convenient healthcare"
+        },
+        {
+          "element_id": "16_p5_e25",
+          "sequence_order": 25,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 36,
+          "text_preview": "services to be provided with dignity and confidentiality. There is need to evolve and disseminate  standards and guideli"
+        },
+        {
+          "element_id": "16_p5_e26",
+          "sequence_order": 26,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "VI. Accountability: Financial and performance accountability, transparency in decision making, and"
+        },
+        {
+          "element_id": "16_p5_e27",
+          "sequence_order": 27,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "elimination of corruption in health care systems, both in public and private."
+        },
+        {
+          "element_id": "16_p5_e28",
+          "sequence_order": 28,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "VII. Inclusive Partnerships: A multistakeholder approach with partnership & participation of all non-"
+        },
+        {
+          "element_id": "16_p5_e29",
+          "sequence_order": 29,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "health ministries and communities. This approach would include partnerships with academic  institutions, not for profit "
+        },
+        {
+          "element_id": "16_p5_e30",
+          "sequence_order": 30,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "VIII. Pluralism: Patients who so choose and when appropriate, would have access to AYUSH care"
+        },
+        {
+          "element_id": "16_p5_e31",
+          "sequence_order": 31,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 42,
+          "text_preview": "providers based on documented and validated local, home and community based practices. These  systems, inter alia, would"
+        },
+        {
+          "element_id": "16_p5_e32",
+          "sequence_order": 32,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "IX. Decentralization: Decentralisation of decision making to a level as is consistent with practical"
+        },
+        {
+          "element_id": "16_p5_e33",
+          "sequence_order": 33,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "considerations and institutional capacity. Community participation in health planning processes, to  be promoted side by"
+        },
+        {
+          "element_id": "16_p5_e34",
+          "sequence_order": 34,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "X. Dynamism and Adaptiveness: constantly improving dynamic organization of health care based"
+        },
+        {
+          "element_id": "16_p5_e35",
+          "sequence_order": 35,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "on new knowledge and evidence with learning from the communities and from national and  international knowledge partners"
+        }
+      ]
+    },
+    "6": {
+      "elements": 9,
+      "flagged": 9,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "16_p6_e36",
+          "sequence_order": 36,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "2.3 Objectives"
+        },
+        {
+          "element_id": "16_p6_e37",
+          "sequence_order": 37,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "Improve health status through concerted policy action in all sectors and expand preventive,  promotive, curative, pallia"
+        },
+        {
+          "element_id": "16_p6_e38",
+          "sequence_order": 38,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "2.3.1  Progressively achieve Universal Health Coverage"
+        },
+        {
+          "element_id": "16_p6_e39",
+          "sequence_order": 39,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 90,
+          "text_preview": "A.  Assuring availability of free, comprehensive primary health care services, for all aspects of   reproductive, matern"
+        },
+        {
+          "element_id": "16_p6_e40",
+          "sequence_order": 40,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 40,
+          "text_preview": "B.  Ensuring improved access and affordability, of quality secondary and tertiary care services   through a combination "
+        },
+        {
+          "element_id": "16_p6_e41",
+          "sequence_order": 41,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "C.  Achieving a significant reduction in out of pocket expenditure due to health care costs and   achieving reduction in"
+        },
+        {
+          "element_id": "16_p6_e42",
+          "sequence_order": 42,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "2.3.2 Reinforcing trust in Public Health Care System: Strengthening the trust of the common man"
+        },
+        {
+          "element_id": "16_p6_e43",
+          "sequence_order": 43,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 47,
+          "text_preview": "in public health care system by making it predictable, efficient, patient centric, affordable and  effective, with a com"
+        },
+        {
+          "element_id": "16_p6_e44",
+          "sequence_order": 44,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 118,
+          "text_preview": "operation and growth of the private health care sector and medical technologies to ensure  alignment with public health "
+        }
+      ]
+    },
+    "7": {
+      "elements": 21,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "8": {
+      "elements": 20,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "9": {
+      "elements": 15,
+      "flagged": 15,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "16_p9_e86",
+          "sequence_order": 86,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "3. Policy Thrust"
+        },
+        {
+          "element_id": "16_p9_e87",
+          "sequence_order": 87,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "3.1 Ensuring Adequate Investment The policy proposes a potentially achievable target of raising"
+        },
+        {
+          "element_id": "16_p9_e88",
+          "sequence_order": 88,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 104,
+          "text_preview": "public health expenditure to 2.5% of the GDP in a time bound manner. It envisages that the  resource allocation to State"
+        },
+        {
+          "element_id": "16_p9_e89",
+          "sequence_order": 89,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "3.2 Preventive and Promotive Health The policy articulates to institutionalize inter-sectoral"
+        },
+        {
+          "element_id": "16_p9_e90",
+          "sequence_order": 90,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 60,
+          "text_preview": "coordination at national and sub-national levels to optimize health outcomes, through constitution of  bodies that have "
+        },
+        {
+          "element_id": "16_p9_e91",
+          "sequence_order": 91,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "The policy identifies coordinated action on seven priority areas for improving the  environment for health:"
+        },
+        {
+          "element_id": "16_p9_e92",
+          "sequence_order": 92,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "o The Swachh Bharat Abhiyan"
+        },
+        {
+          "element_id": "16_p9_e93",
+          "sequence_order": 93,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "o Balanced, healthy diets and regular exercises."
+        },
+        {
+          "element_id": "16_p9_e94",
+          "sequence_order": 94,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "o Addressing tobacco, alcohol and substance abuse"
+        },
+        {
+          "element_id": "16_p9_e95",
+          "sequence_order": 95,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "o Yatri Suraksha – preventing deaths due to rail and road traffic accidents"
+        },
+        {
+          "element_id": "16_p9_e96",
+          "sequence_order": 96,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "o Nirbhaya Nari –action against gender violence"
+        },
+        {
+          "element_id": "16_p9_e97",
+          "sequence_order": 97,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "o Reduced stress and improved safety in the work place"
+        },
+        {
+          "element_id": "16_p9_e98",
+          "sequence_order": 98,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "o Reducing indoor and outdoor air pollution"
+        },
+        {
+          "element_id": "16_p9_e99",
+          "sequence_order": 99,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 46,
+          "text_preview": "The policy also articulates the need for the development of strategies and institutional  mechanisms in each of these se"
+        },
+        {
+          "element_id": "16_p9_e100",
+          "sequence_order": 100,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 97,
+          "text_preview": "The policy recognizes and builds upon preventive and promotive care as an under-recognized  reality that has a two-way c"
+        }
+      ]
+    },
+    "10": {
+      "elements": 17,
+      "flagged": 17,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "16_p10_e101",
+          "sequence_order": 101,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 46,
+          "text_preview": "the existing package of services. Policy recognizes the need to frame and adhere to health screening  guidelines across "
+        },
+        {
+          "element_id": "16_p10_e102",
+          "sequence_order": 102,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 83,
+          "text_preview": "The policy lays greater emphasis on investment and action in school health- by incorporating  health education as part o"
+        },
+        {
+          "element_id": "16_p10_e103",
+          "sequence_order": 103,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 44,
+          "text_preview": "Recognizing the risks arising from physical, chemical, and other workplace hazards, the policy  advocates for providing "
+        },
+        {
+          "element_id": "16_p10_e104",
+          "sequence_order": 104,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 55,
+          "text_preview": "ASHA will also be supported by other frontline workers like health workers (male/female) to  undertake primary preventio"
+        },
+        {
+          "element_id": "16_p10_e105",
+          "sequence_order": 105,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 43,
+          "text_preview": "In order to build community support and offer good healthcare to the vulnerable sections of  the society like the margin"
+        },
+        {
+          "element_id": "16_p10_e106",
+          "sequence_order": 106,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "„Health Impact Assessment‟ of existing and emerging policies, of key non-health departments  that directly or indirectly"
+        },
+        {
+          "element_id": "16_p10_e107",
+          "sequence_order": 107,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "3.3 Organization of Public Health Care Delivery: The policy proposes seven key policy shifts in"
+        },
+        {
+          "element_id": "16_p10_e108",
+          "sequence_order": 108,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "organizing health care services"
+        },
+        {
+          "element_id": "16_p10_e109",
+          "sequence_order": 109,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "o In primary care – from selective care to assured comprehensive care with linkages to referral"
+        },
+        {
+          "element_id": "16_p10_e110",
+          "sequence_order": 110,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "hospitals"
+        },
+        {
+          "element_id": "16_p10_e111",
+          "sequence_order": 111,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "o In secondary and tertiary care – from an input oriented to an output based strategic purchasing"
+        },
+        {
+          "element_id": "16_p10_e112",
+          "sequence_order": 112,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "o In public hospitals – from user fees & cost recovery to assured free drugs, diagnostic and"
+        },
+        {
+          "element_id": "16_p10_e113",
+          "sequence_order": 113,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "emergency services to all"
+        },
+        {
+          "element_id": "16_p10_e114",
+          "sequence_order": 114,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "o In infrastructure and human resource development – from normative approach to targeted"
+        },
+        {
+          "element_id": "16_p10_e115",
+          "sequence_order": 115,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "approach to reach under-serviced areas"
+        },
+        {
+          "element_id": "16_p10_e116",
+          "sequence_order": 116,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "o In urban health – from token interventions to on-scale assured interventions, to organize"
+        },
+        {
+          "element_id": "16_p10_e117",
+          "sequence_order": 117,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "Primary Health Care delivery and referral support for urban poor. Collaboration with other  sectors to address wider det"
+        }
+      ]
+    },
+    "11": {
+      "elements": 8,
+      "flagged": 8,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "16_p11_e118",
+          "sequence_order": 118,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "o In National Health Programmes – integration with health systems for programme effectiveness"
+        },
+        {
+          "element_id": "16_p11_e119",
+          "sequence_order": 119,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "and in turn contributing to strengthening of health systems for efficiency."
+        },
+        {
+          "element_id": "16_p11_e120",
+          "sequence_order": 120,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "o In AYUSH services – from stand-alone to a three dimensional mainstreaming"
+        },
+        {
+          "element_id": "16_p11_e121",
+          "sequence_order": 121,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 314,
+          "text_preview": "Free primary care provision by the public sector, supplemented by strategic purchase of  secondary care hospitalization "
+        },
+        {
+          "element_id": "16_p11_e122",
+          "sequence_order": 122,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 38,
+          "text_preview": "For effectively handling medical disasters and health security, the policy recommends that the  public healthcare system"
+        },
+        {
+          "element_id": "16_p11_e123",
+          "sequence_order": 123,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 75,
+          "text_preview": "In order to leverage the pluralistic health care legacy, the policy recommends mainstreaming  the different health syste"
+        },
+        {
+          "element_id": "16_p11_e124",
+          "sequence_order": 124,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "3.3.1  Primary Care Services and Continuity of Care:"
+        },
+        {
+          "element_id": "16_p11_e125",
+          "sequence_order": 125,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 41,
+          "text_preview": "This policy denotes important change from very selective to comprehensive primary health  care package which includes ge"
+        }
+      ]
+    },
+    "12": {
+      "elements": 11,
+      "flagged": 11,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "16_p12_e126",
+          "sequence_order": 126,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 191,
+          "text_preview": "„Health and Wellness Centers‟. Primary care must be assured. To make this a reality, every family  would have a health c"
+        },
+        {
+          "element_id": "16_p12_e127",
+          "sequence_order": 127,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "3.3.2 Secondary Care Services:"
+        },
+        {
+          "element_id": "16_p12_e128",
+          "sequence_order": 128,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 56,
+          "text_preview": "The policy aspires to provide at the district level most of the secondary care which is currently  provided at a medical"
+        },
+        {
+          "element_id": "16_p12_e129",
+          "sequence_order": 129,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "o To have at least two beds per thousand population distributed in such a way that it is accessible"
+        },
+        {
+          "element_id": "16_p12_e130",
+          "sequence_order": 130,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 63,
+          "text_preview": "within golden hour rule. This implies an efficient emergency transport system. The policy also aims  that ten categories"
+        },
+        {
+          "element_id": "16_p12_e131",
+          "sequence_order": 131,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "o Resource allocation that is responsive to quantity, diversity and quality of caseloads provided."
+        },
+        {
+          "element_id": "16_p12_e132",
+          "sequence_order": 132,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "o Purchasing care after due diligence from non-Government hospitals as a short term strategy till"
+        },
+        {
+          "element_id": "16_p12_e133",
+          "sequence_order": 133,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "public systems are strengthened."
+        },
+        {
+          "element_id": "16_p12_e134",
+          "sequence_order": 134,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "Policy proposes a responsive and strong regulatory framework to guide purchasing of care  from non-government sector so "
+        },
+        {
+          "element_id": "16_p12_e135",
+          "sequence_order": 135,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 40,
+          "text_preview": "In order to develop the secondary care sector, comprehensive facility development and  obligations with regard to human "
+        },
+        {
+          "element_id": "16_p12_e136",
+          "sequence_order": 136,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "Access to blood and blood safety has been a major concern in district healthcare services. This  policy affirms in expan"
+        }
+      ]
+    },
+    "13": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "16_p13_e137",
+          "sequence_order": 137,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "3.3.3 Re-Orienting Public Hospitals:"
+        },
+        {
+          "element_id": "16_p13_e138",
+          "sequence_order": 138,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 148,
+          "text_preview": "Public hospitals have to be viewed as part of tax financed single payer health care system,  where the care is pre-paid "
+        },
+        {
+          "element_id": "16_p13_e139",
+          "sequence_order": 139,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "3.3.4 Closing Infrastructure and Human Resources/Skill Gaps:"
+        },
+        {
+          "element_id": "16_p13_e140",
+          "sequence_order": 140,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 75,
+          "text_preview": "The policy duly acknowledges the roadmap of the 12th Five Year Plan for managing human  resources for health. The policy"
+        },
+        {
+          "element_id": "16_p13_e141",
+          "sequence_order": 141,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "3.3.5 Urban Health Care:"
+        },
+        {
+          "element_id": "16_p13_e142",
+          "sequence_order": 142,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 226,
+          "text_preview": "National health policy prioritizes addressing the primary health care needs of the urban  population with special focus "
+        }
+      ]
+    },
+    "14": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "16_p14_e143",
+          "sequence_order": 143,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "4. National Health Programmes"
+        },
+        {
+          "element_id": "16_p14_e144",
+          "sequence_order": 144,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "4.1 RMNCH+A services: Maternal and child survival is a mirror that reflects the entire spectrum of"
+        },
+        {
+          "element_id": "16_p14_e145",
+          "sequence_order": 145,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 69,
+          "text_preview": "social development. This policy aspires to elicit developmental action of all sectors to support Maternal  and Child sur"
+        },
+        {
+          "element_id": "16_p14_e146",
+          "sequence_order": 146,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "4.2 Child and Adolescent Health: The policy endorses the national consensus on accelerated"
+        },
+        {
+          "element_id": "16_p14_e147",
+          "sequence_order": 147,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 149,
+          "text_preview": "achievement of neonatal mortality targets and „single digit‟ stillbirth rates through improved home  based and facility "
+        },
+        {
+          "element_id": "16_p14_e148",
+          "sequence_order": 148,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 260,
+          "text_preview": "micronutrient deficiencies, restricts survival, growth and development of children. It contributes to  morbidity and mor"
+        }
+      ]
+    },
+    "15": {
+      "elements": 9,
+      "flagged": 9,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "16_p15_e149",
+          "sequence_order": 149,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 75,
+          "text_preview": "schools. Recognising the complementary role of various nutrition-sensitive interventions from  different platforms, the "
+        },
+        {
+          "element_id": "16_p15_e150",
+          "sequence_order": 150,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 46,
+          "text_preview": "and safety, improve vaccine security as per National Vaccine Policy 2011 and introduction of newer  vaccines based on ep"
+        },
+        {
+          "element_id": "16_p15_e151",
+          "sequence_order": 151,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 71,
+          "text_preview": "control programmes and public health system strengthening. For Integrated Disease Surveillance  Programme, the policy ad"
+        },
+        {
+          "element_id": "16_p15_e152",
+          "sequence_order": 152,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 68,
+          "text_preview": "of drug resistant tuberculosis as key challenges in control of Tuberculosis. The policy calls for more  active case dete"
+        },
+        {
+          "element_id": "16_p15_e153",
+          "sequence_order": 153,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "4.5.2 Control of HIV/AIDS: While the current emphasis on prevention continues, the policy recommends"
+        },
+        {
+          "element_id": "16_p15_e154",
+          "sequence_order": 154,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 62,
+          "text_preview": "focused interventions on the high risk communities (MSM, Transgender, FSW, etc.) and prioritized  geographies. There is "
+        },
+        {
+          "element_id": "16_p15_e155",
+          "sequence_order": 155,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 47,
+          "text_preview": "cases will become the measure of community awareness and health systems capacity, keeping in mind  the global goal of re"
+        },
+        {
+          "element_id": "16_p15_e156",
+          "sequence_order": 156,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "4.5.4 Vector Borne Disease Control: The policy recognizes the challenge of drug resistance in Malaria,"
+        },
+        {
+          "element_id": "16_p15_e157",
+          "sequence_order": 157,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 37,
+          "text_preview": "which should be dealt with by changing treatment regimens with logistics support as appropriate. New  National Programme"
+        }
+      ]
+    },
+    "16": {
+      "elements": 11,
+      "flagged": 11,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "16_p16_e158",
+          "sequence_order": 158,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 44,
+          "text_preview": "The policy recognizes the interrelationship between communicable disease control  programmes and public health system st"
+        },
+        {
+          "element_id": "16_p16_e159",
+          "sequence_order": 159,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "4.6 Non-Communicable Diseases: The policy recognizes the need to halt and reverse the growing"
+        },
+        {
+          "element_id": "16_p16_e160",
+          "sequence_order": 160,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 289,
+          "text_preview": "incidence of chronic diseases. The policy recommends to set-up a National Institute of Chronic  Diseases including Traum"
+        },
+        {
+          "element_id": "16_p16_e161",
+          "sequence_order": 161,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Policy 2014 with simultaneous action on the following fronts:"
+        },
+        {
+          "element_id": "16_p16_e162",
+          "sequence_order": 162,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "o Increase creation of specialists through public financing and develop special rules to give"
+        },
+        {
+          "element_id": "16_p16_e163",
+          "sequence_order": 163,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "preference to those willing to work in public systems."
+        },
+        {
+          "element_id": "16_p16_e164",
+          "sequence_order": 164,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "o Create network of community members to provide psycho-social support to strengthen"
+        },
+        {
+          "element_id": "16_p16_e165",
+          "sequence_order": 165,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "mental health services at primary level facilities and"
+        },
+        {
+          "element_id": "16_p16_e166",
+          "sequence_order": 166,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "o Leverage digital technology in a context where access to qualified psychiatrists is difficult."
+        },
+        {
+          "element_id": "16_p16_e167",
+          "sequence_order": 167,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "4.8 Population Stabilization: The National Health Policy recognises that improved access, education"
+        },
+        {
+          "element_id": "16_p16_e168",
+          "sequence_order": 168,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 52,
+          "text_preview": "and empowerment would be the basis of successful population stabilization. The policy imperative is  to move away from c"
+        }
+      ]
+    },
+    "17": {
+      "elements": 11,
+      "flagged": 11,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "16_p17_e169",
+          "sequence_order": 169,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 40,
+          "text_preview": "fixed day. Other policy imperatives are to increase the proportion of male sterilization from less than  5% currently, t"
+        },
+        {
+          "element_id": "16_p17_e170",
+          "sequence_order": 170,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "morbidities and health needs of women beyond the reproductive age group (40+) This would be in  addition to package of s"
+        },
+        {
+          "element_id": "16_p17_e171",
+          "sequence_order": 171,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "6. Gender based violence (GBV): Women‟s access to healthcare needs to be strengthened by making"
+        },
+        {
+          "element_id": "16_p17_e172",
+          "sequence_order": 172,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 66,
+          "text_preview": "public hospitals more women friendly and ensuring that the staff have orientation to gender – sensitivity issues. This p"
+        },
+        {
+          "element_id": "16_p17_e173",
+          "sequence_order": 173,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "capacity, the policy will support innovative measures such as use of digital tools and HR strategies like  using nurse t"
+        },
+        {
+          "element_id": "16_p17_e174",
+          "sequence_order": 174,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "8. Emergency Care and Disaster Preparedness: Better response to disasters, both natural and"
+        },
+        {
+          "element_id": "16_p17_e175",
+          "sequence_order": 175,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 140,
+          "text_preview": "manmade, requires a dispersed and effective capacity for emergency management. It requires an army  of community members"
+        },
+        {
+          "element_id": "16_p17_e176",
+          "sequence_order": 176,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "o  one per 30 lakh population in urban areas and"
+        },
+        {
+          "element_id": "16_p17_e177",
+          "sequence_order": 177,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "o  one for every 10 lakh population in rural areas"
+        },
+        {
+          "element_id": "16_p17_e178",
+          "sequence_order": 178,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "9. Mainstreaming the Potential of AYUSH: For persons who so choose, this policy ensures access to"
+        },
+        {
+          "element_id": "16_p17_e179",
+          "sequence_order": 179,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 142,
+          "text_preview": "AYUSH remedies through co-location in public facilities. Yoga would be introduced much more  widely in school and work p"
+        }
+      ]
+    },
+    "18": {
+      "elements": 9,
+      "flagged": 9,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "16_p18_e180",
+          "sequence_order": 180,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 147,
+          "text_preview": "competencies to mid-level care provider with respect to allopathic remedies. The policy further  supports the integratio"
+        },
+        {
+          "element_id": "16_p18_e181",
+          "sequence_order": 181,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "10. Tertiary care Services: The policy affirms that the tertiary care services are best organized along lines"
+        },
+        {
+          "element_id": "16_p18_e182",
+          "sequence_order": 182,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 81,
+          "text_preview": "of regional, zonal and apex referral centers. It recommends that the Government should set up new  Medical Colleges, Nur"
+        },
+        {
+          "element_id": "16_p18_e183",
+          "sequence_order": 183,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "o  Operationalization of mechanisms for referral from public health system   to charitable hospitals."
+        },
+        {
+          "element_id": "16_p18_e184",
+          "sequence_order": 184,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "o  Ensuring that deserving patients can be admitted on designated free /   subsidized beds."
+        },
+        {
+          "element_id": "16_p18_e185",
+          "sequence_order": 185,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 98,
+          "text_preview": "The policy proposes to consider forms of resource generation, where corporate hospitals and  medical tourism earnings ar"
+        },
+        {
+          "element_id": "16_p18_e186",
+          "sequence_order": 186,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 55,
+          "text_preview": "To expand public provisioning of tertiary services, the Government would additionally  purchase select tertiary care ser"
+        },
+        {
+          "element_id": "16_p18_e187",
+          "sequence_order": 187,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "11. Human Resources for Health: There is a need to align decisions regarding judicious growth of"
+        },
+        {
+          "element_id": "16_p18_e188",
+          "sequence_order": 188,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "professional and technical educational institutions in the health sector, better financing of professional  and technica"
+        }
+      ]
+    },
+    "19": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "16_p19_e189",
+          "sequence_order": 189,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 114,
+          "text_preview": "professional and technical education, revisiting entry policies into educational institutions, ensuring  quality of educ"
+        },
+        {
+          "element_id": "16_p19_e190",
+          "sequence_order": 190,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "11.1 Medical Education: The policy recommends strengthening existing medical colleges and converting"
+        },
+        {
+          "element_id": "16_p19_e191",
+          "sequence_order": 191,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 232,
+          "text_preview": "district hospitals to new medical colleges to increase number of doctors and specialists, in States with  large human re"
+        },
+        {
+          "element_id": "16_p19_e192",
+          "sequence_order": 192,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "11.2 Attracting and Retaining Doctors in Remote Areas: Policy proposes financial and non-financial"
+        },
+        {
+          "element_id": "16_p19_e193",
+          "sequence_order": 193,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 105,
+          "text_preview": "incentives, creating medical colleges in rural areas; preference to students from under-serviced areas,  realigning peda"
+        },
+        {
+          "element_id": "16_p19_e194",
+          "sequence_order": 194,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "11.3 Specialist Attraction and Retention: Proposed policy measures include - recognition of educational"
+        },
+        {
+          "element_id": "16_p19_e195",
+          "sequence_order": 195,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 73,
+          "text_preview": "options linked with National Board of Examination & College of Physicians and Surgeons, creation of  specialist cadre wi"
+        }
+      ]
+    },
+    "20": {
+      "elements": 9,
+      "flagged": 9,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "16_p20_e196",
+          "sequence_order": 196,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 47,
+          "text_preview": "the district level. The policy recommends creation of a large number of distance and continuing  education options for g"
+        },
+        {
+          "element_id": "16_p20_e197",
+          "sequence_order": 197,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "11.4 Mid-Level Service Providers: For expansion of primary care from selective care to comprehensive"
+        },
+        {
+          "element_id": "16_p20_e198",
+          "sequence_order": 198,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 117,
+          "text_preview": "care, complementary human resource strategy is the development of a cadre of mid-level care providers.  This can be done"
+        },
+        {
+          "element_id": "16_p20_e199",
+          "sequence_order": 199,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "11.5 Nursing Education: The policy recognises the need to improve regulation and quality management of"
+        },
+        {
+          "element_id": "16_p20_e200",
+          "sequence_order": 200,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 112,
+          "text_preview": "nursing education. Other measures suggested are - establishing cadres like Nurse Practitioners and  Public Health Nurses"
+        },
+        {
+          "element_id": "16_p20_e201",
+          "sequence_order": 201,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "11.6 ASHA: This policy supports certification programme for ASHAs for their preferential selection into"
+        },
+        {
+          "element_id": "16_p20_e202",
+          "sequence_order": 202,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 115,
+          "text_preview": "ANM, nursing and paramedical courses. While most ASHAs will remain mainly voluntary and  remunerated for time spent, tho"
+        },
+        {
+          "element_id": "16_p20_e203",
+          "sequence_order": 203,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "11.7 Paramedical Skills: Training courses and curriculum for super specialty paramedical care"
+        },
+        {
+          "element_id": "16_p20_e204",
+          "sequence_order": 204,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 52,
+          "text_preview": "(perfusionists, physiotherapists, occupational therapists, radiological technicians, audiologists, MRI  technicians, etc"
+        }
+      ]
+    },
+    "21": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "16_p21_e205",
+          "sequence_order": 205,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 46,
+          "text_preview": "technical skills- radiographers, laboratory technicians, physiotherapists, pharmacists, audiologists,  optometrists, occ"
+        },
+        {
+          "element_id": "16_p21_e206",
+          "sequence_order": 206,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "11.8 Public Health Management Cadre: The policy proposes creation of Public Health Management"
+        },
+        {
+          "element_id": "16_p21_e207",
+          "sequence_order": 207,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 130,
+          "text_preview": "Cadre in all States based on public health or related disciplines, as an entry criteria. The policy also  advocates an a"
+        },
+        {
+          "element_id": "16_p21_e208",
+          "sequence_order": 208,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "11.9 Human Resource Governance and leadership development: The policy recognizes that human"
+        },
+        {
+          "element_id": "16_p21_e209",
+          "sequence_order": 209,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 88,
+          "text_preview": "resource management is critical to health system strengthening and healthcare delivery and therefore the  policy support"
+        },
+        {
+          "element_id": "16_p21_e210",
+          "sequence_order": 210,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 202,
+          "text_preview": "of resources to primary care followed by secondary and tertiary care. Inclusion of cost-benefit and cost  effectiveness "
+        }
+      ]
+    },
+    "22": {
+      "elements": 8,
+      "flagged": 8,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "16_p22_e211",
+          "sequence_order": 211,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "12.1 Purchasing of Healthcare Services: The existing Government financed health insurance schemes"
+        },
+        {
+          "element_id": "16_p22_e212",
+          "sequence_order": 212,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 222,
+          "text_preview": "shall be aligned to cover selected benefit package of secondary and tertiary care services purchased from  public, not f"
+        },
+        {
+          "element_id": "16_p22_e213",
+          "sequence_order": 213,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "13. Collaboration with Non-Government Sector/Engagement with private sector: The policy"
+        },
+        {
+          "element_id": "16_p22_e214",
+          "sequence_order": 214,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 219,
+          "text_preview": "suggests exploring collaboration for primary care services with „not- for -profit‟ organizations having a  track record "
+        },
+        {
+          "element_id": "16_p22_e215",
+          "sequence_order": 215,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "13.1 Capacity building: Outsourcing of training of teachers to strengthen school health programmes by"
+        },
+        {
+          "element_id": "16_p22_e216",
+          "sequence_order": 216,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "adopting neighbourhood schools for quarterly training modules."
+        },
+        {
+          "element_id": "16_p22_e217",
+          "sequence_order": 217,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "13.2 Skill Development programmes: Recognising that there are huge gaps in technicians, nursing and"
+        },
+        {
+          "element_id": "16_p22_e218",
+          "sequence_order": 218,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 34,
+          "text_preview": "para- nursing, para-medical staff and medical skills in select areas, the policy advocates coordination  between Nationa"
+        }
+      ]
+    },
+    "23": {
+      "elements": 14,
+      "flagged": 14,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "16_p23_e219",
+          "sequence_order": 219,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "13.3 Corporate Social Responsibility (CSR): CSR is an important area which should be leveraged for"
+        },
+        {
+          "element_id": "16_p23_e220",
+          "sequence_order": 220,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 82,
+          "text_preview": "filling health infrastructure gaps in public health facilities across the country. The private sector could  use the CSR"
+        },
+        {
+          "element_id": "16_p23_e221",
+          "sequence_order": 221,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "13.4 Mental healthcare programmes- Training community members to provide psychological support to"
+        },
+        {
+          "element_id": "16_p23_e222",
+          "sequence_order": 222,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "strengthen mental health services in the country. Collaboration with Government would be an  important plank to develop "
+        },
+        {
+          "element_id": "16_p23_e223",
+          "sequence_order": 223,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "13.5 Disaster Management is another area where collaboration with private sector would enable better"
+        },
+        {
+          "element_id": "16_p23_e224",
+          "sequence_order": 224,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 90,
+          "text_preview": "outcomes especially in the areas of medical relief and post trauma counselling/treatment. A pool of  human resources fro"
+        },
+        {
+          "element_id": "16_p23_e225",
+          "sequence_order": 225,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "13.6 Strategic Purchasing as Stewardship: Directing areas for investment for the commercial health"
+        },
+        {
+          "element_id": "16_p23_e226",
+          "sequence_order": 226,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "sector."
+        },
+        {
+          "element_id": "16_p23_e227",
+          "sequence_order": 227,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "13.6.1 The health policy recognizes that there are many critical gaps in public health services which would"
+        },
+        {
+          "element_id": "16_p23_e228",
+          "sequence_order": 228,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 65,
+          "text_preview": "be filled by “strategic purchasing”. Such strategic purchasing would play a stewardship role in  directing private inves"
+        },
+        {
+          "element_id": "16_p23_e229",
+          "sequence_order": 229,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "13.6.2 The main mechanisms of strategic purchasing are insurance and through trusts. Schemes like"
+        },
+        {
+          "element_id": "16_p23_e230",
+          "sequence_order": 230,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 92,
+          "text_preview": "Arogyasri and RSBY have been able to increase private participation significantly. Payment is by  reimbursement on a fee"
+        },
+        {
+          "element_id": "16_p23_e231",
+          "sequence_order": 231,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "13.6.3 For achieving the objective of having fully functional primary healthcare facilities- especially in urban"
+        },
+        {
+          "element_id": "16_p23_e232",
+          "sequence_order": 232,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "areas to reach under-serviced populations and on a fee basis for middle class populations,  Government would collaborate"
+        }
+      ]
+    },
+    "24": {
+      "elements": 17,
+      "flagged": 17,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "16_p24_e233",
+          "sequence_order": 233,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 48,
+          "text_preview": "centres to provide a larger package of comprehensive primary health care across the country.  Partnerships that address "
+        },
+        {
+          "element_id": "16_p24_e234",
+          "sequence_order": 234,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "13.6.4 The policy advocates building synergy with “not for profit” organisations and private sector subject"
+        },
+        {
+          "element_id": "16_p24_e235",
+          "sequence_order": 235,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "to availability of timely quality services as per predefined norms in the collaborating organisation for  critical gaps."
+        },
+        {
+          "element_id": "16_p24_e236",
+          "sequence_order": 236,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "13.7 Enhancing accessibility in private sector: The policy recommends a better public private"
+        },
+        {
+          "element_id": "16_p24_e237",
+          "sequence_order": 237,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 58,
+          "text_preview": "healthcare interface and recognizes the need for engagement in operationalization of mechanisms for  referrals from publ"
+        },
+        {
+          "element_id": "16_p24_e238",
+          "sequence_order": 238,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "13.8 Role in Immunization: The policy recognizes the role of the private sector in immunization"
+        },
+        {
+          "element_id": "16_p24_e239",
+          "sequence_order": 239,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "programmes and advocates their continued collaboration in rendering immunization service as per  protocol."
+        },
+        {
+          "element_id": "16_p24_e240",
+          "sequence_order": 240,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "13.9 Disease Surveillance: Towards strengthening disease surveillance, the private sector laboratories"
+        },
+        {
+          "element_id": "16_p24_e241",
+          "sequence_order": 241,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "could be engaged for data pooling and sharing. All clinical establishments would be encouraged to  notify diseases and p"
+        },
+        {
+          "element_id": "16_p24_e242",
+          "sequence_order": 242,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "13.10 Tissue and organ transplantations: Tissue and organ transplantations and voluntary donations are"
+        },
+        {
+          "element_id": "16_p24_e243",
+          "sequence_order": 243,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 36,
+          "text_preview": "areas where private sector provides services- but it needs public interventions and support for getting  organ donations"
+        },
+        {
+          "element_id": "16_p24_e244",
+          "sequence_order": 244,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "13.11 Make in India: Towards furthering “Make in India”, the private domestic manufacturing firms/"
+        },
+        {
+          "element_id": "16_p24_e245",
+          "sequence_order": 245,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 45,
+          "text_preview": "industry could be engaged to provide customized indigenous medical devices to the health sector  and in creation of forw"
+        },
+        {
+          "element_id": "16_p24_e246",
+          "sequence_order": 246,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "13.12 Health Information System: The objective of an integrated health information system necessitates"
+        },
+        {
+          "element_id": "16_p24_e247",
+          "sequence_order": 247,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 65,
+          "text_preview": "private sector participation in developing and linking systems into a common network/grid which  can be accessed by both"
+        },
+        {
+          "element_id": "16_p24_e248",
+          "sequence_order": 248,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "13.13 Incentivising Private Sector: To encourage participation of private sector, the policy advocates"
+        },
+        {
+          "element_id": "16_p24_e249",
+          "sequence_order": 249,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "incentivizing the private sector through inter alia (i) reimbursement/ fees (ii) preferential treatment  to collaboratin"
+        }
+      ]
+    },
+    "25": {
+      "elements": 9,
+      "flagged": 9,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "16_p25_e250",
+          "sequence_order": 250,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 60,
+          "text_preview": "purchase by Government, subject to other requirements being met (iii) Non-financial incentives like  recognition/ acknow"
+        },
+        {
+          "element_id": "16_p25_e251",
+          "sequence_order": 251,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "13.14 Private sector engagement goes beyond contracting and purchasing. Private providers, especially"
+        },
+        {
+          "element_id": "16_p25_e252",
+          "sequence_order": 252,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 127,
+          "text_preview": "those working in rural and remote areas, or with under-serviced communities, require access to  opportunities for skill "
+        },
+        {
+          "element_id": "16_p25_e253",
+          "sequence_order": 253,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "14. Regulatory Framework: The regulatory role of the Ministry of Health and Family Welfare- which"
+        },
+        {
+          "element_id": "16_p25_e254",
+          "sequence_order": 254,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 45,
+          "text_preview": "includes regulation of clinical establishments, professional and technical education, food safety, medical  technologies"
+        },
+        {
+          "element_id": "16_p25_e255",
+          "sequence_order": 255,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "14.1 Professional Education Regulation: The policy calls for a major reform in this area. It advocates"
+        },
+        {
+          "element_id": "16_p25_e256",
+          "sequence_order": 256,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 55,
+          "text_preview": "strengthening of six professional councils (Medical, Ayurveda Unani & Siddha, Homeopathy, Nursing,  Dental and Pharmacy)"
+        },
+        {
+          "element_id": "16_p25_e257",
+          "sequence_order": 257,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "14.2 Regulation of Clinical Establishments: A few States have adopted the Clinical Establishments Act"
+        },
+        {
+          "element_id": "16_p25_e258",
+          "sequence_order": 258,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 127,
+          "text_preview": "2010. Advocacy with the other States would be made for adoption of the Act. Grading of clinical  establishments and acti"
+        }
+      ]
+    },
+    "26": {
+      "elements": 10,
+      "flagged": 10,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "16_p26_e259",
+          "sequence_order": 259,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "14.3 Food Safety: The policy recommends putting in place and strengthening necessary network of offices,"
+        },
+        {
+          "element_id": "16_p26_e260",
+          "sequence_order": 260,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "laboratories, e-governance structures and human resources needed for the enforcement of Food Safety  and Standards (FSS)"
+        },
+        {
+          "element_id": "16_p26_e261",
+          "sequence_order": 261,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "14.4 Drug Regulation: Prices and availability of drugs are regulated by the Department of"
+        },
+        {
+          "element_id": "16_p26_e262",
+          "sequence_order": 262,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 115,
+          "text_preview": "Pharmaceuticals. However, with regard to other areas of drugs and pharmaceuticals, this policy  encourages the streamlin"
+        },
+        {
+          "element_id": "16_p26_e263",
+          "sequence_order": 263,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "14.5 Medical Devices Regulation: The policy recommends strengthening regulation of medical devices"
+        },
+        {
+          "element_id": "16_p26_e264",
+          "sequence_order": 264,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 84,
+          "text_preview": "and establishing a regulatory body for medical devices to unleash innovation and the entrepreneurial  spirit for manufac"
+        },
+        {
+          "element_id": "16_p26_e265",
+          "sequence_order": 265,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "14.6 Clinical Trial Regulation: Clinical trials are essential for new product discovery and development."
+        },
+        {
+          "element_id": "16_p26_e266",
+          "sequence_order": 266,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 124,
+          "text_preview": "With the objective of ensuring the rights, safety and well-being of clinical trial participants, while  facilitating suc"
+        },
+        {
+          "element_id": "16_p26_e267",
+          "sequence_order": 267,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "14.7 Pricing- Drugs, Medical Devices and Equipment: The regulatory environment around pricing"
+        },
+        {
+          "element_id": "16_p26_e268",
+          "sequence_order": 268,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 88,
+          "text_preview": "requires a balance between the patients concern for affordability and industry‟s concern for adequate  returns on invest"
+        }
+      ]
+    },
+    "27": {
+      "elements": 12,
+      "flagged": 12,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "16_p27_e269",
+          "sequence_order": 269,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "15 Vaccine Safety: Vaccine safety and security would require effective regulation, research and"
+        },
+        {
+          "element_id": "16_p27_e270",
+          "sequence_order": 270,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 87,
+          "text_preview": "development for manufacturing new vaccines in accordance with National Vaccine Policy 2011. The  policy advocates commis"
+        },
+        {
+          "element_id": "16_p27_e271",
+          "sequence_order": 271,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "16 Medical Technologies: India is known as the pharmacy of the developing world. However, its role in"
+        },
+        {
+          "element_id": "16_p27_e272",
+          "sequence_order": 272,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 124,
+          "text_preview": "new drug discovery and drug innovations including bio-pharmaceuticals and bio-similars for its own  health priorities is"
+        },
+        {
+          "element_id": "16_p27_e273",
+          "sequence_order": 273,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "17. Public Procurement: Quality of public procurement and logistics is a major challenge to ensuring"
+        },
+        {
+          "element_id": "16_p27_e274",
+          "sequence_order": 274,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "access to free drugs and diagnostics through public facilities. An essential pre-requisite that is needed to  address th"
+        },
+        {
+          "element_id": "16_p27_e275",
+          "sequence_order": 275,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "18. Availability of Drugs and Medical Devices: The policy accords special focus on production of"
+        },
+        {
+          "element_id": "16_p27_e276",
+          "sequence_order": 276,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 110,
+          "text_preview": "Active Pharmaceutical Ingredient (API) which is the back-bone of the generic formulations industry.  Recognizing that ov"
+        },
+        {
+          "element_id": "16_p27_e277",
+          "sequence_order": 277,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "19. Aligning other policies for medical devices and equipment with public health goals: For medical"
+        },
+        {
+          "element_id": "16_p27_e278",
+          "sequence_order": 278,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "devices and equipment, the policy recommends and prioritises establishing sufficient labeling and  packaging requirement"
+        },
+        {
+          "element_id": "16_p27_e279",
+          "sequence_order": 279,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "20. Improving Public Sector Capacity for Manufacturing Essential Drugs and Vaccines: Public"
+        },
+        {
+          "element_id": "16_p27_e280",
+          "sequence_order": 280,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 34,
+          "text_preview": "sector capacity in manufacture of certain essential drugs and vaccines is also essential in the long term  for the healt"
+        }
+      ]
+    },
+    "28": {
+      "elements": 13,
+      "flagged": 13,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "16_p28_e281",
+          "sequence_order": 281,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "propositions. These public institutions need more investment, appropriate HR policies and governance  initiatives to ena"
+        },
+        {
+          "element_id": "16_p28_e282",
+          "sequence_order": 282,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "21. Anti-microbial resistance: The problem of anti-microbial resistance calls for a rapid standardization of"
+        },
+        {
+          "element_id": "16_p28_e283",
+          "sequence_order": 283,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 50,
+          "text_preview": "guidelines, regarding antibiotic use, limiting the use of antibiotics as Over-the-Counter medication,  banning or restri"
+        },
+        {
+          "element_id": "16_p28_e284",
+          "sequence_order": 284,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "22. Health Technology Assessment: Health Technology assessment is required to ensure that technology"
+        },
+        {
+          "element_id": "16_p28_e285",
+          "sequence_order": 285,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 38,
+          "text_preview": "choice is participatory and is guided by considerations of scientific evidence, safety, consideration on  cost effective"
+        },
+        {
+          "element_id": "16_p28_e286",
+          "sequence_order": 286,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "23. Digital Health Technology Eco - System: Recognising the integral role of technology(eHealth,"
+        },
+        {
+          "element_id": "16_p28_e287",
+          "sequence_order": 287,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 203,
+          "text_preview": "mHealth, Cloud, Internet of things, wearables, etc) in the healthcare delivery, a National Digital Health  Authority (ND"
+        },
+        {
+          "element_id": "16_p28_e288",
+          "sequence_order": 288,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "23.1 Application of Digital Health: The policy advocates scaling of various initiatives in the area of tele-"
+        },
+        {
+          "element_id": "16_p28_e289",
+          "sequence_order": 289,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 46,
+          "text_preview": "consultation which will entail linking tertiary care institutions (medical colleges) to District and Sub- district hospi"
+        },
+        {
+          "element_id": "16_p28_e290",
+          "sequence_order": 290,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "23.2 Leveraging Digital Tools for AYUSH: Digital tools would be used for generation and sharing of"
+        },
+        {
+          "element_id": "16_p28_e291",
+          "sequence_order": 291,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "information about AYUSH services and AYUSH practitioners, for traditional community level  healthcare providers and for "
+        },
+        {
+          "element_id": "16_p28_e292",
+          "sequence_order": 292,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "24. Health Surveys: The scope of health, demographic and epidemiological surveys would be extended to"
+        },
+        {
+          "element_id": "16_p28_e293",
+          "sequence_order": 293,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "capture information regarding costs of care, financial protection and evidence based policy planning  and reforms. The p"
+        }
+      ]
+    },
+    "29": {
+      "elements": 11,
+      "flagged": 11,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "16_p29_e294",
+          "sequence_order": 294,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "to monitor the impact of public health and disease interventions using digital tools for epidemiological  surveys."
+        },
+        {
+          "element_id": "16_p29_e295",
+          "sequence_order": 295,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "25. Health Research: The National Health Policy recognizes the key role that health research plays in the"
+        },
+        {
+          "element_id": "16_p29_e296",
+          "sequence_order": 296,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "development of a nation‟s health. In knowledge based sector like health, where advances happen daily,  it is important t"
+        },
+        {
+          "element_id": "16_p29_e297",
+          "sequence_order": 297,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "25.1 Strengthening Knowledge for Health: The policy envisages strengthening the publicly funded"
+        },
+        {
+          "element_id": "16_p29_e298",
+          "sequence_order": 298,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 260,
+          "text_preview": "health research institutes under the Department of Health Research, the apex public health institutions  under the Depar"
+        },
+        {
+          "element_id": "16_p29_e299",
+          "sequence_order": 299,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "25.2 Drug Innovation & Discovery: Government policy would be to both stimulate innovation and new"
+        },
+        {
+          "element_id": "16_p29_e300",
+          "sequence_order": 300,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 90,
+          "text_preview": "drug discovery as required, to meet health needs as well as ensure that new drugs discovered and  brought into the marke"
+        },
+        {
+          "element_id": "16_p29_e301",
+          "sequence_order": 301,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "25.3 Development of Information Databases: There is also a need to develop information data-bases on"
+        },
+        {
+          "element_id": "16_p29_e302",
+          "sequence_order": 302,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 34,
+          "text_preview": "a wide variety of areas that researchers can share. This includes ensuring that all unit data of major  publicly funded "
+        },
+        {
+          "element_id": "16_p29_e303",
+          "sequence_order": 303,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "25.4 Research Collaboration: The policy on international health and health diplomacy should leverage"
+        },
+        {
+          "element_id": "16_p29_e304",
+          "sequence_order": 304,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "India‟s strength in cost effective innovations in the areas of pharmaceuticals, medical devices, health  care delivery a"
+        }
+      ]
+    },
+    "30": {
+      "elements": 10,
+      "flagged": 10,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "16_p30_e305",
+          "sequence_order": 305,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "involving nations of the Global South, to build domestic institutional capacity in green-field innovation  and for knowl"
+        },
+        {
+          "element_id": "16_p30_e306",
+          "sequence_order": 306,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "26. Governance"
+        },
+        {
+          "element_id": "16_p30_e307",
+          "sequence_order": 307,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "26.1 Role of Centre & State: One of the most important strengths and at the same time challenges of"
+        },
+        {
+          "element_id": "16_p30_e308",
+          "sequence_order": 308,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 105,
+          "text_preview": "governance in health is the distribution of responsibility and accountability between the Centre and the  States. The po"
+        },
+        {
+          "element_id": "16_p30_e309",
+          "sequence_order": 309,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "26.2 Role of Panchayati Raj Institutions: Panchayati Raj Institutions would be strengthened to play an"
+        },
+        {
+          "element_id": "16_p30_e310",
+          "sequence_order": 310,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 60,
+          "text_preview": "enhanced role at different levels for health governance, including the social determinants of health.  There is need to "
+        },
+        {
+          "element_id": "16_p30_e311",
+          "sequence_order": 311,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "26.3 Improving Accountability: The policy would be to increase both horizontal and vertical"
+        },
+        {
+          "element_id": "16_p30_e312",
+          "sequence_order": 312,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "accountability of the health system by providing a greater role and participation of local bodies and  encouraging commu"
+        },
+        {
+          "element_id": "16_p30_e313",
+          "sequence_order": 313,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "27. Legal Framework for Health Care and Health Pathway"
+        },
+        {
+          "element_id": "16_p30_e314",
+          "sequence_order": 314,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 259,
+          "text_preview": "One of the fundamental policy questions being raised in recent years is whether to pass a health rights  bill making hea"
+        }
+      ]
+    },
+    "31": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "16_p31_e315",
+          "sequence_order": 315,
+          "page_number": 31,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 144,
+          "text_preview": "guidelines, common regulatory platform for public and private sector, standard treatment protocols, etc  need to be put "
+        },
+        {
+          "element_id": "16_p31_e316",
+          "sequence_order": 316,
+          "page_number": 31,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "28. Implementation Framework and Way Forward"
+        },
+        {
+          "element_id": "16_p31_e317",
+          "sequence_order": 317,
+          "page_number": 31,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 48,
+          "text_preview": "A policy is only as good as its implementation. The National Health Policy envisages that an  implementation framework b"
+        }
+      ]
+    }
+  }
+}

@@ -1,50 +1,970 @@
 {
   "document_id": 37,
   "pages": {
-    "2": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
+    "1": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [
+        "low_content",
+        "noise_detected"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "37_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "STUDENT APPLICATION FORM"
+        },
+        {
+          "element_id": "37_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "National Scholarship Portal"
+        },
+        {
+          "element_id": "37_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "June 2026"
+        }
+      ]
+    },
+    "2": {
+      "elements": 19,
+      "flagged": 19,
+      "flags": [
+        "corrupted_text",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "37_p2_e3",
+          "sequence_order": 3,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Student Application Form FAQs"
+        },
+        {
+          "element_id": "37_p2_e4",
+          "sequence_order": 4,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Page | 1"
+        },
+        {
+          "element_id": "37_p2_e5",
+          "sequence_order": 5,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Table of Contents"
+        },
+        {
+          "element_id": "37_p2_e6",
+          "sequence_order": 6,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "noise_detected"
+          ],
+          "token_count": 11,
+          "text_preview": "1.  How do I apply for a Fresh application? ........................................................................... "
+        },
+        {
+          "element_id": "37_p2_e7",
+          "sequence_order": 7,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "noise_detected"
+          ],
+          "token_count": 10,
+          "text_preview": "2.  How do I change my Domicile State? .............................................................................. 2"
+        },
+        {
+          "element_id": "37_p2_e8",
+          "sequence_order": 8,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "noise_detected"
+          ],
+          "token_count": 9,
+          "text_preview": "3.  How can I withdraw my application? ............................................................................... 2"
+        },
+        {
+          "element_id": "37_p2_e9",
+          "sequence_order": 9,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "noise_detected"
+          ],
+          "token_count": 9,
+          "text_preview": "4.  When can I withdraw my application? ............................................................................. 2"
+        },
+        {
+          "element_id": "37_p2_e10",
+          "sequence_order": 10,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "noise_detected"
+          ],
+          "token_count": 11,
+          "text_preview": "5.  Can I enable my application again after withdrawing? .................................................... 2"
+        },
+        {
+          "element_id": "37_p2_e11",
+          "sequence_order": 11,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 15,
+          "text_preview": "6.  How can I change my Scholarship Category once my application is submitted? ............ 3"
+        },
+        {
+          "element_id": "37_p2_e12",
+          "sequence_order": 12,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "noise_detected"
+          ],
+          "token_count": 10,
+          "text_preview": "7.  How can I apply for multiple scholarships? ..................................................................... 3"
+        },
+        {
+          "element_id": "37_p2_e13",
+          "sequence_order": 13,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "noise_detected"
+          ],
+          "token_count": 10,
+          "text_preview": "8.  How can I apply for multiple incentives? ......................................................................... 3"
+        },
+        {
+          "element_id": "37_p2_e14",
+          "sequence_order": 14,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 16,
+          "text_preview": "9.  How can I update my application if it has been marked as defective? ............................. 3"
+        },
+        {
+          "element_id": "37_p2_e15",
+          "sequence_order": 15,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "noise_detected"
+          ],
+          "token_count": 10,
+          "text_preview": "10. How do I refresh my contact information? ....................................................................... 3"
+        },
+        {
+          "element_id": "37_p2_e16",
+          "sequence_order": 16,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "noise_detected"
+          ],
+          "token_count": 12,
+          "text_preview": "11. How do I refresh my eKYC details from OTR? ............................................................... 4"
+        },
+        {
+          "element_id": "37_p2_e17",
+          "sequence_order": 17,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "noise_detected"
+          ],
+          "token_count": 13,
+          "text_preview": "12. How do I refresh my parent's/ guardian's details from OTR? .......................................... 5"
+        },
+        {
+          "element_id": "37_p2_e18",
+          "sequence_order": 18,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "noise_detected"
+          ],
+          "token_count": 14,
+          "text_preview": "13. How do I link my renewal application with my new OTR? ............................................. 6"
+        },
+        {
+          "element_id": "37_p2_e19",
+          "sequence_order": 19,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 14,
+          "text_preview": "14. How do I know which scholarship schemes I am eligible for? ........................................ 7"
+        },
+        {
+          "element_id": "37_p2_e20",
+          "sequence_order": 20,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "noise_detected"
+          ],
+          "token_count": 12,
+          "text_preview": "15. How do I find my School/ college/ institute details? ........................................................ 9"
+        },
+        {
+          "element_id": "37_p2_e21",
+          "sequence_order": 21,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "noise_detected"
+          ],
+          "token_count": 14,
+          "text_preview": "16. How do I find the Nodal Officer for my scholarship scheme? ......................................... 9"
+        }
+      ]
     },
     "3": {
-      "elements": 16,
-      "flagged": 0,
-      "flags": [],
+      "elements": 21,
+      "flagged": 21,
+      "flags": [
+        "low_content"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "37_p3_e22",
+          "sequence_order": 22,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Student Application Form FAQs"
+        },
+        {
+          "element_id": "37_p3_e23",
+          "sequence_order": 23,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Page | 2"
+        },
+        {
+          "element_id": "37_p3_e24",
+          "sequence_order": 24,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "1. How do I apply for a Fresh application?"
+        },
+        {
+          "element_id": "37_p3_e25",
+          "sequence_order": 25,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 57,
+          "text_preview": "Log in to the NSP Application form. Then navigate to “My Applications” section and select the  “Apply Fresh” option. The"
+        },
+        {
+          "element_id": "37_p3_e26",
+          "sequence_order": 26,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "2. How do I change my Domicile State?"
+        },
+        {
+          "element_id": "37_p3_e27",
+          "sequence_order": 27,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 52,
+          "text_preview": "If you have already applied for an application, then you will not be able to change your  domicile state unless you with"
+        },
+        {
+          "element_id": "37_p3_e28",
+          "sequence_order": 28,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "To know how to withdraw an application, please refer to Section 4 of this document."
+        },
+        {
+          "element_id": "37_p3_e29",
+          "sequence_order": 29,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "3. How can I withdraw my application?"
+        },
+        {
+          "element_id": "37_p3_e30",
+          "sequence_order": 30,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 37,
+          "text_preview": "After submitting an application, navigate to the “My Applications” section. From there, select  the “Withdraw Applicatio"
+        },
+        {
+          "element_id": "37_p3_e31",
+          "sequence_order": 31,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "4. When can I withdraw my application?"
+        },
+        {
+          "element_id": "37_p3_e32",
+          "sequence_order": 32,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 33,
+          "text_preview": "You can withdraw your application at any time during the application process. Please note  that you will not be able to "
+        },
+        {
+          "element_id": "37_p3_e33",
+          "sequence_order": 33,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "a. If the application has been approved by L2 (Nodal officer)"
+        },
+        {
+          "element_id": "37_p3_e34",
+          "sequence_order": 34,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "b. If the scholarship payment has been released."
+        },
+        {
+          "element_id": "37_p3_e35",
+          "sequence_order": 35,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "5. Can I enable my application again after withdrawing?"
+        },
+        {
+          "element_id": "37_p3_e36",
+          "sequence_order": 36,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "Yes, you can enable your application again after withdrawing. To do so, go to ‘My Applications’  page and click on the ‘"
+        },
+        {
+          "element_id": "37_p3_e37",
+          "sequence_order": 37,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "Please note that you cannot revoke your scholarship application if you fail the following  conditions:"
+        },
+        {
+          "element_id": "37_p3_e38",
+          "sequence_order": 38,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "a. You already have an active scholarship application and want to revoke another"
+        },
+        {
+          "element_id": "37_p3_e39",
+          "sequence_order": 39,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "scholarship application."
+        },
+        {
+          "element_id": "37_p3_e40",
+          "sequence_order": 40,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "b. If the domicile state of the withdrawn application is different from your current"
+        },
+        {
+          "element_id": "37_p3_e41",
+          "sequence_order": 41,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "active application (if any)."
+        },
+        {
+          "element_id": "37_p3_e42",
+          "sequence_order": 42,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "To know how to revoke an application, please refer to Section of this document."
+        }
+      ]
     },
     "4": {
-      "elements": 27,
-      "flagged": 0,
-      "flags": [],
+      "elements": 19,
+      "flagged": 19,
+      "flags": [
+        "low_content"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "37_p4_e43",
+          "sequence_order": 43,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Student Application Form FAQs"
+        },
+        {
+          "element_id": "37_p4_e44",
+          "sequence_order": 44,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Page | 3"
+        },
+        {
+          "element_id": "37_p4_e45",
+          "sequence_order": 45,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "6. How can I change my Scholarship Category once my application"
+        },
+        {
+          "element_id": "37_p4_e46",
+          "sequence_order": 46,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "is submitted?"
+        },
+        {
+          "element_id": "37_p4_e47",
+          "sequence_order": 47,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 34,
+          "text_preview": "You cannot change your scholarship category once your application is submitted. To change  your scholarship category, yo"
+        },
+        {
+          "element_id": "37_p4_e48",
+          "sequence_order": 48,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "7. How can I apply for multiple scholarships?"
+        },
+        {
+          "element_id": "37_p4_e49",
+          "sequence_order": 49,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 51,
+          "text_preview": "You can apply for one Merit based scheme and one or more Welfare based schemes from  Academic Year (AY) 2026-27. Please "
+        },
+        {
+          "element_id": "37_p4_e50",
+          "sequence_order": 50,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "Further, for any additional application(s) within the same AY, you will only need to provide:"
+        },
+        {
+          "element_id": "37_p4_e51",
+          "sequence_order": 51,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "a. Scheme selection (excluding schemes already availed / applied for),"
+        },
+        {
+          "element_id": "37_p4_e52",
+          "sequence_order": 52,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "b. Scheme-specific information, and"
+        },
+        {
+          "element_id": "37_p4_e53",
+          "sequence_order": 53,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "c. Upload of scheme-related supporting documents."
+        },
+        {
+          "element_id": "37_p4_e54",
+          "sequence_order": 54,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "8. How can I apply for multiple incentives?"
+        },
+        {
+          "element_id": "37_p4_e55",
+          "sequence_order": 55,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 39,
+          "text_preview": "You can apply for one or more incentives from the ‘Apply Fresh’ page. Click on ‘Apply Fresh’  and select ‘Incentive’ fro"
+        },
+        {
+          "element_id": "37_p4_e56",
+          "sequence_order": 56,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "9. How can I update my application if it has been marked as"
+        },
+        {
+          "element_id": "37_p4_e57",
+          "sequence_order": 57,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "defective?"
+        },
+        {
+          "element_id": "37_p4_e58",
+          "sequence_order": 58,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 42,
+          "text_preview": "Under the defective application status, the student is allowed to update only scheme-specific  details. To modify other "
+        },
+        {
+          "element_id": "37_p4_e59",
+          "sequence_order": 59,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "Additionally, defective applications can be updated only if the L1 verification window is open."
+        },
+        {
+          "element_id": "37_p4_e60",
+          "sequence_order": 60,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "10. How do I refresh my contact information?"
+        },
+        {
+          "element_id": "37_p4_e61",
+          "sequence_order": 61,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 60,
+          "text_preview": "You can update your contact information (i.e., Mobile Number, Email ID) via the My Profile  section. Please note that co"
+        }
+      ]
     },
     "5": {
-      "elements": 18,
+      "elements": 23,
       "flagged": 0,
       "flags": [],
       "ocr_conf": null,
       "issues": []
     },
     "6": {
-      "elements": 13,
-      "flagged": 0,
-      "flags": [],
+      "elements": 21,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "37_p6_e97",
+          "sequence_order": 97,
+          "page_number": 6,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Gender"
+        },
+        {
+          "element_id": "37_p6_e98",
+          "sequence_order": 98,
+          "page_number": 6,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Profile Photo"
+        }
+      ]
     },
     "7": {
-      "elements": 13,
-      "flagged": 0,
-      "flags": [],
+      "elements": 22,
+      "flagged": 4,
+      "flags": [
+        "low_content"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "37_p7_e108",
+          "sequence_order": 108,
+          "page_number": 7,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Father's Name"
+        },
+        {
+          "element_id": "37_p7_e109",
+          "sequence_order": 109,
+          "page_number": 7,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Mother's Name"
+        },
+        {
+          "element_id": "37_p7_e110",
+          "sequence_order": 110,
+          "page_number": 7,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Guardian's Name"
+        },
+        {
+          "element_id": "37_p7_e127",
+          "sequence_order": 127,
+          "page_number": 7,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Click Submit."
+        }
+      ]
     },
     "8": {
-      "elements": 14,
+      "elements": 25,
+      "flagged": 11,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "37_p8_e135",
+          "sequence_order": 135,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Domicile State/UT"
+        },
+        {
+          "element_id": "37_p8_e136",
+          "sequence_order": 136,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Name (optional)"
+        },
+        {
+          "element_id": "37_p8_e139",
+          "sequence_order": 139,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Marital Status"
+        },
+        {
+          "element_id": "37_p8_e140",
+          "sequence_order": 140,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Parent Profession"
+        },
+        {
+          "element_id": "37_p8_e141",
+          "sequence_order": 141,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Religion"
+        },
+        {
+          "element_id": "37_p8_e142",
+          "sequence_order": 142,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Community"
+        },
+        {
+          "element_id": "37_p8_e143",
+          "sequence_order": 143,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Is Disabled"
+        },
+        {
+          "element_id": "37_p8_e146",
+          "sequence_order": 146,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Scholarship Category"
+        },
+        {
+          "element_id": "37_p8_e147",
+          "sequence_order": 147,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Application Type"
+        },
+        {
+          "element_id": "37_p8_e148",
+          "sequence_order": 148,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Institute Name"
+        },
+        {
+          "element_id": "37_p8_e152",
+          "sequence_order": 152,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Course Name"
+        }
+      ]
+    },
+    "9": {
+      "elements": 23,
       "flagged": 1,
       "flags": [
         "low_content"
@@ -52,35 +972,21 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "37_p8_e92",
-          "sequence_order": 92,
-          "page_number": 8,
+          "element_id": "37_p9_e171",
+          "sequence_order": 171,
+          "page_number": 9,
           "quality_score": 0.6,
-          "element_type": "caption",
+          "element_type": "clause",
           "reason": [
             "low_content"
           ],
-          "token_count": 1,
-          "text_preview": "TABLE"
+          "token_count": 2,
+          "text_preview": "State Scheme"
         }
       ]
     },
-    "9": {
-      "elements": 17,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
     "10": {
-      "elements": 12,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "11": {
-      "elements": 9,
+      "elements": 25,
       "flagged": 3,
       "flags": [
         "low_content"
@@ -88,42 +994,49 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "37_p11_e131",
-          "sequence_order": 131,
-          "page_number": 11,
+          "element_id": "37_p10_e182",
+          "sequence_order": 182,
+          "page_number": 10,
           "quality_score": 0.6,
-          "element_type": "paragraph",
+          "element_type": "clause",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
-          "text_preview": "( see"
+          "text_preview": "Institution State"
         },
         {
-          "element_id": "37_p11_e133",
-          "sequence_order": 133,
-          "page_number": 11,
+          "element_id": "37_p10_e183",
+          "sequence_order": 183,
+          "page_number": 10,
           "quality_score": 0.6,
-          "element_type": "section",
+          "element_type": "clause",
           "reason": [
             "low_content"
           ],
-          "token_count": 1,
-          "text_preview": "Annexure-A"
+          "token_count": 2,
+          "text_preview": "Institution District"
         },
         {
-          "element_id": "37_p11_e137",
-          "sequence_order": 137,
-          "page_number": 11,
+          "element_id": "37_p10_e190",
+          "sequence_order": 190,
+          "page_number": 10,
           "quality_score": 0.6,
-          "element_type": "section",
+          "element_type": "clause",
           "reason": [
             "low_content"
           ],
-          "token_count": 1,
-          "text_preview": "Annexure-B"
+          "token_count": 2,
+          "text_preview": "Enter Captcha"
         }
       ]
+    },
+    "11": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
     }
   }
 }

@@ -2,101 +2,777 @@
   "document_id": 38,
   "pages": {
     "1": {
-      "elements": 13,
-      "flagged": 4,
+      "elements": 6,
+      "flagged": 6,
       "flags": [
+        "noise_detected",
         "low_content"
       ],
-      "ocr_conf": 93.5,
+      "ocr_conf": null,
       "issues": [
+        {
+          "element_id": "38_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "PRADHAN MANTRI KISAN SAMMAN NIDHI SCHEME"
+        },
+        {
+          "element_id": "38_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "(PM-KISAN SCHEME)"
+        },
         {
           "element_id": "38_p1_e2",
           "sequence_order": 2,
           "page_number": 1,
-          "quality_score": 0.561,
-          "element_type": "section",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "OFFICE MEMORANDUM"
-        },
-        {
-          "element_id": "38_p1_e9",
-          "sequence_order": 9,
-          "page_number": 1,
-          "quality_score": 0.561,
-          "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 1,
-          "text_preview": "ஆ ০2০৮"
-        },
-        {
-          "element_id": "38_p1_e11",
-          "sequence_order": 11,
-          "page_number": 1,
-          "quality_score": 0.561,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
-          "text_preview": "Tel.: 23093811"
+          "text_preview": "OPERATIONAL GUIDELINES"
         },
         {
-          "element_id": "38_p1_e12",
-          "sequence_order": 12,
+          "element_id": "38_p1_e3",
+          "sequence_order": 3,
           "page_number": 1,
-          "quality_score": 0.561,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "(REVISED AS ON 21.6.2019)"
+        },
+        {
+          "element_id": "38_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
-            "low_content"
+            "noise_detected"
           ],
-          "token_count": 2,
-          "text_preview": "Email: kanwal.irss@gov.in"
+          "token_count": 6,
+          "text_preview": "MINISTRY OF AGRICULTURE & FARMERS’ WELFARE"
+        },
+        {
+          "element_id": "38_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 7,
+          "text_preview": "DEPARTMENT OF AGRICULTURE, COOPERATION & FARMERS’ WELFARE"
         }
       ]
     },
     "2": {
       "elements": 10,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": 95.46,
-      "issues": []
-    },
-    "3": {
-      "elements": 7,
-      "flagged": 2,
+      "flagged": 10,
       "flags": [
         "low_content"
       ],
-      "ocr_conf": 94.02,
+      "ocr_conf": null,
       "issues": [
         {
-          "element_id": "38_p3_e26",
-          "sequence_order": 26,
-          "page_number": 3,
-          "quality_score": 0.564,
+          "element_id": "38_p2_e6",
+          "sequence_order": 6,
+          "page_number": 2,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "Tel: 24621305"
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "PRADHAN MANTRI KISAN SAMMAN NIDHI (PM-KISAN) SCHEME"
         },
         {
-          "element_id": "38_p3_e27",
-          "sequence_order": 27,
-          "page_number": 3,
-          "quality_score": 0.564,
+          "element_id": "38_p2_e7",
+          "sequence_order": 7,
+          "page_number": 2,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
-          "text_preview": "Email: kn.reddy@gov.in"
+          "text_preview": "OPERATIONAL GUIDELINES"
+        },
+        {
+          "element_id": "38_p2_e8",
+          "sequence_order": 8,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "(REVISED AS ON 21.6.2019)"
+        },
+        {
+          "element_id": "38_p2_e9",
+          "sequence_order": 9,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 36,
+          "text_preview": "1.  Scheme    With a view to provide income support to all landholding farmers’ families in the country,  having cultiva"
+        },
+        {
+          "element_id": "38_p2_e10",
+          "sequence_order": 10,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 80,
+          "text_preview": "2.  Objective and Benefits    The scheme aims to supplement the financial needs of all landholding farmers’ families  in"
+        },
+        {
+          "element_id": "38_p2_e11",
+          "sequence_order": 11,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 85,
+          "text_preview": "A landholder farmer’s family is defined as “a family comprising of husband, wife  and minor children who own cultivable "
+        },
+        {
+          "element_id": "38_p2_e12",
+          "sequence_order": 12,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "i) Former and present holders of constitutional posts"
+        },
+        {
+          "element_id": "38_p2_e13",
+          "sequence_order": 13,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "ii) Former and present Ministers/ State Ministers and former/present Members of"
+        },
+        {
+          "element_id": "38_p2_e14",
+          "sequence_order": 14,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "Lok Sabha/ Rajya Sabha/ State Legislative Assemblies/ State Legislative  Councils,former and present Mayors of Municipal"
+        },
+        {
+          "element_id": "38_p2_e15",
+          "sequence_order": 15,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "Ministries /Offices/Departments and its field units Central or State PSEs and  Attached offices /Autonomous Institutions"
+        }
+      ]
+    },
+    "3": {
+      "elements": 8,
+      "flagged": 8,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "38_p3_e16",
+          "sequence_order": 16,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "employees of the Local Bodies (Excluding Multi Tasking Staff / Class IV/Group D  employees)    iv) All superannuated/ret"
+        },
+        {
+          "element_id": "38_p3_e17",
+          "sequence_order": 17,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "more (Excluding Multi Tasking Staff / Class IV/Group D employees)    v) All Persons who paid Income Tax in last assessme"
+        },
+        {
+          "element_id": "38_p3_e18",
+          "sequence_order": 18,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "vi) Professionals like Doctors, Engineers, Lawyers, Chartered Accountants, and"
+        },
+        {
+          "element_id": "38_p3_e19",
+          "sequence_order": 19,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Architects registered with Professional bodies and carrying out profession by  undertaking practices."
+        },
+        {
+          "element_id": "38_p3_e20",
+          "sequence_order": 20,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "4.2 For the purpose of exclusion State/UT Government can certify the eligibility of the"
+        },
+        {
+          "element_id": "38_p3_e21",
+          "sequence_order": 21,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 60,
+          "text_preview": "beneficiary based on self declaration by the beneficiaries. In case beneficiary is not  available / does not reside in t"
+        },
+        {
+          "element_id": "38_p3_e22",
+          "sequence_order": 22,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "5. Methodology for calculation of benefit"
+        },
+        {
+          "element_id": "38_p3_e23",
+          "sequence_order": 23,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 284,
+          "text_preview": "5.1  The benefit shall be paid to only those farmers’ families whose names are  entered into the land records. Exception"
+        }
+      ]
+    },
+    "4": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "38_p4_e24",
+          "sequence_order": 24,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 73,
+          "text_preview": "5.3.2 Clause 5.3 of the Operational Guidelines, which provides for proportionate  amount of financial benefit under the "
+        },
+        {
+          "element_id": "38_p4_e25",
+          "sequence_order": 25,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 145,
+          "text_preview": "i)  Transfer of ownership due to inheritance resulting out of death of the land  owner. In such cases the family of the "
+        },
+        {
+          "element_id": "38_p4_e26",
+          "sequence_order": 26,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 249,
+          "text_preview": "i)  In case of correction of land record for recording land ownership accrued  due to inheritance before 01.12.2018 then"
+        }
+      ]
+    },
+    "5": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "38_p5_e27",
+          "sequence_order": 27,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 252,
+          "text_preview": "the authorities so that the PM KISAN portal can be updated. Transferees  are not entitled for any benefits under PM KISA"
+        },
+        {
+          "element_id": "38_p5_e28",
+          "sequence_order": 28,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 116,
+          "text_preview": "“The farmer will be asked to submit ‘Vanshavali (Lineage)’ linked to the entry of land  record comprising his \\ her ance"
+        },
+        {
+          "element_id": "38_p5_e29",
+          "sequence_order": 29,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 104,
+          "text_preview": "6.  Strategy for Implementation    6.1  The States shall prepare database of eligible beneficiary landholder farmer  fam"
+        }
+      ]
+    },
+    "6": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "38_p6_e30",
+          "sequence_order": 30,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 293,
+          "text_preview": "NREGA Job Card, or any other identification documents issued by Central/State/UT  Governments or their authorities, etc."
+        },
+        {
+          "element_id": "38_p6_e31",
+          "sequence_order": 31,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 159,
+          "text_preview": "7.  Review, Monitoring and Grievance Redressal Mechanism    7.1  There will be stratified review/monitoring mechanism at"
+        }
+      ]
+    },
+    "7": {
+      "elements": 8,
+      "flagged": 8,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "38_p7_e32",
+          "sequence_order": 32,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 243,
+          "text_preview": "8.2  Each  State/UT  Government  will  designate  a  Nodal  Department  for  implementation of the scheme and coordinati"
+        },
+        {
+          "element_id": "38_p7_e33",
+          "sequence_order": 33,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "9.2  The PM-Kisan Portal has been created with the following objectives -"
+        },
+        {
+          "element_id": "38_p7_e34",
+          "sequence_order": 34,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 63,
+          "text_preview": "i)  To provide verified and single source of truth on farmers’ details at the portal.  ii)  Timely assistance to the far"
+        },
+        {
+          "element_id": "38_p7_e35",
+          "sequence_order": 35,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "The following farmer attributes need to be entered in the Portal:"
+        },
+        {
+          "element_id": "38_p7_e36",
+          "sequence_order": 36,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Farmer Attributes: (Essential):"
+        },
+        {
+          "element_id": "38_p7_e37",
+          "sequence_order": 37,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 37,
+          "text_preview": "State, District, Sub-District/Block, Village, Farmer Name, Type of Identity – Aadhaar Number and in case Aadhaar not ava"
+        },
+        {
+          "element_id": "38_p7_e38",
+          "sequence_order": 38,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Farmer Attributes (Optional):"
+        },
+        {
+          "element_id": "38_p7_e39",
+          "sequence_order": 39,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "Father name, Address, Mobile Number, Date of Birth/Age, Farm-Size in Hectare,  Survey Number, Khasra Number"
+        }
+      ]
+    },
+    "8": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "38_p8_e40",
+          "sequence_order": 40,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 46,
+          "text_preview": "Optional attributes such as Mobile number can be utilized for SMS alerts. Other  optional attributes may be used for pur"
+        },
+        {
+          "element_id": "38_p8_e41",
+          "sequence_order": 41,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "9.4  There are 3 ways through which a State/UT can onboard on the PM Kisan Portal:"
+        },
+        {
+          "element_id": "38_p8_e42",
+          "sequence_order": 42,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "(a)  If a State/UT has village/district wise list of farmers, they may upload the  same in a  pre-defined format and wit"
+        },
+        {
+          "element_id": "38_p8_e43",
+          "sequence_order": 43,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 70,
+          "text_preview": "(b)  Some existing data of farmers is already available on the PM-Kisan Portal  which will be visible on selection of St"
+        },
+        {
+          "element_id": "38_p8_e44",
+          "sequence_order": 44,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "(c)  If States/UTs want to make fresh entry of a farmer, provision is there for  registration of these farmers in a defi"
+        },
+        {
+          "element_id": "38_p8_e45",
+          "sequence_order": 45,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "9.5  Databases of Pradhan Mantri Fasal Bima Yojana (PMFBY), Soil Health Cards,  Socio Economic and Caste Census (SECC), "
+        },
+        {
+          "element_id": "38_p8_e46",
+          "sequence_order": 46,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "State/UT wise status of number of farmer records shall be available at  http://pmkisan.nic.in."
+        }
+      ]
+    },
+    "9": {
+      "elements": 14,
+      "flagged": 14,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "38_p9_e47",
+          "sequence_order": 47,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "9.6  Records preparation process through PM-KISAN Portal:"
+        },
+        {
+          "element_id": "38_p9_e48",
+          "sequence_order": 48,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "1. State admin and District admin need to be identified for creation of login"
+        },
+        {
+          "element_id": "38_p9_e49",
+          "sequence_order": 49,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "credentials or approval of login credentials in case of self registration by  District and Block/Tehsil/Taluka officials"
+        },
+        {
+          "element_id": "38_p9_e50",
+          "sequence_order": 50,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "2. Farmers list as available on the portal shall be available at Block/Tehsil/Taluka"
+        },
+        {
+          "element_id": "38_p9_e51",
+          "sequence_order": 51,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "level official’s login.    3. Search facility will also be available to get details on Farmers by Name,"
+        },
+        {
+          "element_id": "38_p9_e52",
+          "sequence_order": 52,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 43,
+          "text_preview": "Aadhaar Number or Mobile Number in case PM-KISAN Portal data is being  used. Facility to add new Farmers details shall b"
+        },
+        {
+          "element_id": "38_p9_e53",
+          "sequence_order": 53,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 41,
+          "text_preview": "level officials as the case may be. The exclusion categories specified in  scheme guidelines also need to be taken care "
+        },
+        {
+          "element_id": "38_p9_e54",
+          "sequence_order": 54,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "the Program Division of DAC&FW through PM-Kisan Portal."
+        },
+        {
+          "element_id": "38_p9_e55",
+          "sequence_order": 55,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 143,
+          "text_preview": "10  Modalities for transfer of benefit    10.1 This financial benefit of Rs.6000/- per year is to be released to the eli"
+        },
+        {
+          "element_id": "38_p9_e56",
+          "sequence_order": 56,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "STATE ADMIN"
+        },
+        {
+          "element_id": "38_p9_e57",
+          "sequence_order": 57,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "DISTRICT ADMIN DISTRICT ADMIN DISTRICT ADMIN"
+        },
+        {
+          "element_id": "38_p9_e58",
+          "sequence_order": 58,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "BLOCK USER"
+        },
+        {
+          "element_id": "38_p9_e59",
+          "sequence_order": 59,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "BLOCK USER  BLOCK USER  BLOCK USER"
+        },
+        {
+          "element_id": "38_p9_e60",
+          "sequence_order": 60,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "BLOCK USER  BLOCK USER  BLOCK USER  BLOCK USER  BLOCK USER"
+        }
+      ]
+    },
+    "10": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "38_p10_e61",
+          "sequence_order": 61,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 349,
+          "text_preview": "States will complete Aadhaar enrolment so that subsequent installments are released  on the basis of Aadhaar seeded data"
+        },
+        {
+          "element_id": "38_p10_e62",
+          "sequence_order": 62,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 105,
+          "text_preview": "A. State/UT Government:  i.  State/UT Governments are to identify the beneficiaries and upload the  beneficiary details "
+        }
+      ]
+    },
+    "11": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [
+        "corrupted_text",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "38_p11_e63",
+          "sequence_order": 63,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 253,
+          "text_preview": "designating the same bank for use for MNRGES for sponsoring bank for this  schemes.    v.  The bank to be designated as "
+        },
+        {
+          "element_id": "38_p11_e64",
+          "sequence_order": 64,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 151,
+          "text_preview": "10.5 The beneficiary lists would be displayed at Panchayats to ensure greater  transparency and information. Further, St"
+        },
+        {
+          "element_id": "38_p11_e65",
+          "sequence_order": 65,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "*******"
         }
       ]
     }

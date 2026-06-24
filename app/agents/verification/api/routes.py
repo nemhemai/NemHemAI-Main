@@ -94,7 +94,7 @@ async def verify_pipeline(
         
         # 4. OCR Text Extraction (PyTesseract)
         ocr_res = OCRService.extract_text(processed_pages)
-        raw_text = ocr_res["extracted_text"]
+        raw_text = ocr_res["full_text"]
         
         # 5. Document Classifier
         document_type = ClassificationService.classify(raw_text)

@@ -2,95 +2,178 @@
   "document_id": 34,
   "pages": {
     "1": {
-      "elements": 17,
-      "flagged": 2,
-      "flags": [
-        "corrupted_text",
-        "low_content"
-      ],
-      "ocr_conf": 86.35,
+      "elements": 3,
+      "flagged": 3,
+      "flags": [],
+      "ocr_conf": null,
       "issues": [
         {
           "element_id": "34_p1_e0",
           "sequence_order": 0,
           "page_number": 1,
-          "quality_score": 0.259,
-          "element_type": "heading",
-          "reason": [
-            "corrupted_text",
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "વંચાણે લીધુ:-"
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 45,
+          "text_preview": "=  SSE =  4  a2  4  Ps  q  Te fare He 4  a4 i; az  4 ny aia?  a arree:  4  Ff q  a  fe  aie iis usc  OE  EC  reeerere”  "
         },
         {
-          "element_id": "34_p1_e13",
-          "sequence_order": 13,
+          "element_id": "34_p1_e1",
+          "sequence_order": 1,
           "page_number": 1,
-          "quality_score": 0.259,
-          "element_type": "heading",
-          "reason": [
-            "corrupted_text",
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "સુધારા હુકમઃ-"
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Hh glia arial  i  * ee  af  gpeiliais Ter  é  nen"
+        },
+        {
+          "element_id": "34_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "=  gaerals  ee)  4  [Ths ="
         }
       ]
     },
     "2": {
-      "elements": 2,
-      "flagged": 0,
+      "elements": 3,
+      "flagged": 3,
       "flags": [],
-      "ocr_conf": 84.98,
-      "issues": []
-    },
-    "3": {
-      "elements": 2,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": 82.81,
-      "issues": []
-    },
-    "4": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": 85.4,
-      "issues": []
-    },
-    "5": {
-      "elements": 9,
-      "flagged": 2,
-      "flags": [
-        "corrupted_text",
-        "low_content"
-      ],
-      "ocr_conf": 86.93,
+      "ocr_conf": null,
       "issues": [
         {
-          "element_id": "34_p5_e29",
-          "sequence_order": 29,
-          "page_number": 5,
-          "quality_score": 0.435,
+          "element_id": "34_p2_e3",
+          "sequence_order": 3,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "ceaei digenigii quilt gtcgits sisi"
+        },
+        {
+          "element_id": "34_p2_e4",
+          "sequence_order": 4,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "‘  q  9SG\" 28?  a  43a 3%  4  ds  4  a5  dgoae = 7"
+        },
+        {
+          "element_id": "34_p2_e5",
+          "sequence_order": 5,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 77,
+          "text_preview": ",  SSeSUS  s~  “4 a4  =  eS  -  _,  i AETLE astity gi gi za ge 7UR2Ga  agile eildgh fa  Ge 26 a3 qisnsta?  aay sagen: i "
+        }
+      ]
+    },
+    "3": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "34_p3_e6",
+          "sequence_order": 6,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "2 ge aaa? aay ina"
+        },
+        {
+          "element_id": "34_p3_e7",
+          "sequence_order": 7,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "asqis  as? gaice Petter rete av 44"
+        },
+        {
+          "element_id": "34_p3_e8",
+          "sequence_order": 8,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "327 3  q 2 rE a sated 1 2 a4 2)  a  re"
+        },
+        {
+          "element_id": "34_p3_e9",
+          "sequence_order": 9,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "aif gp lage;,  2  “a  “$4 &  4 x a Es  qt  ="
+        },
+        {
+          "element_id": "34_p3_e10",
+          "sequence_order": 10,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "pqgaa?  222:  4  fiaa  aS  bag yal afad aid  ah"
+        },
+        {
+          "element_id": "34_p3_e11",
+          "sequence_order": 11,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "~  ip fede: $44:  saad Te  2: i arr He:  8,4  Zr are  21  7"
+        }
+      ]
+    },
+    "4": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "34_p4_e12",
+          "sequence_order": 12,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "=  . i  '}"
+        },
+        {
+          "element_id": "34_p4_e13",
+          "sequence_order": 13,
+          "page_number": 4,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
             "corrupted_text"
           ],
           "token_count": 3,
-          "text_preview": "२/- જાણ સારું."
-        },
-        {
-          "element_id": "34_p5_e30",
-          "sequence_order": 30,
-          "page_number": 5,
-          "quality_score": 0.522,
-          "element_type": "caption",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "કલેકટર વલસાડ"
+          "text_preview": ":  |  —"
         }
       ]
     }

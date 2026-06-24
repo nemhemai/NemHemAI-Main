@@ -2,95 +2,2530 @@
   "document_id": 32,
   "pages": {
     "1": {
-      "elements": 17,
-      "flagged": 2,
+      "elements": 7,
+      "flagged": 7,
       "flags": [
         "low_content",
-        "corrupted_text"
+        "noise_detected"
       ],
-      "ocr_conf": 86.35,
+      "ocr_conf": null,
       "issues": [
         {
           "element_id": "32_p1_e0",
           "sequence_order": 0,
           "page_number": 1,
-          "quality_score": 0.259,
-          "element_type": "heading",
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
-            "corrupted_text",
-            "low_content"
+            "noise_detected"
           ],
-          "token_count": 2,
-          "text_preview": "વંચાણે લીધુ:-"
+          "token_count": 3,
+          "text_preview": "National Health Benefit"
         },
         {
-          "element_id": "32_p1_e13",
-          "sequence_order": 13,
+          "element_id": "32_p1_e1",
+          "sequence_order": 1,
           "page_number": 1,
-          "quality_score": 0.259,
-          "element_type": "heading",
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
-            "corrupted_text",
             "low_content"
           ],
           "token_count": 2,
-          "text_preview": "સુધારા હુકમઃ-"
+          "text_preview": "Package 2.2"
+        },
+        {
+          "element_id": "32_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "User Guidelines"
+        },
+        {
+          "element_id": "32_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "National Health Authority"
+        },
+        {
+          "element_id": "32_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Version: November 2021"
+        },
+        {
+          "element_id": "32_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Note: State specific modifications in the NHA published guidelines may be expected"
+        },
+        {
+          "element_id": "32_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Foreword"
         }
       ]
     },
     "2": {
-      "elements": 2,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": 84.98,
-      "issues": []
-    },
-    "3": {
-      "elements": 2,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": 82.81,
-      "issues": []
-    },
-    "4": {
       "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": 85.4,
-      "issues": []
-    },
-    "5": {
-      "elements": 9,
-      "flagged": 2,
+      "flagged": 1,
       "flags": [
-        "low_content",
-        "corrupted_text"
+        "noise_detected"
       ],
-      "ocr_conf": 86.93,
+      "ocr_conf": null,
       "issues": [
         {
-          "element_id": "32_p5_e29",
-          "sequence_order": 29,
-          "page_number": 5,
-          "quality_score": 0.435,
+          "element_id": "32_p2_e7",
+          "sequence_order": 7,
+          "page_number": 2,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
-            "corrupted_text"
+            "noise_detected"
           ],
-          "token_count": 3,
-          "text_preview": "२/- જાણ સારું."
+          "token_count": 4,
+          "text_preview": "Page 1 of 64"
+        }
+      ]
+    },
+    "3": {
+      "elements": 8,
+      "flagged": 8,
+      "flags": [
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p3_e8",
+          "sequence_order": 8,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 2 of 64"
         },
         {
-          "element_id": "32_p5_e30",
-          "sequence_order": 30,
-          "page_number": 5,
-          "quality_score": 0.522,
-          "element_type": "caption",
+          "element_id": "32_p3_e9",
+          "sequence_order": 9,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 44,
+          "text_preview": "Disclaimer: The key objective of this user guideline document of National Health Authority (NHA) is  to give an overview"
+        },
+        {
+          "element_id": "32_p3_e10",
+          "sequence_order": 10,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "and claims processing teams for processing treatment of beneficiaries. It will also serve as  aguidancetoolforEHCPsands "
+        },
+        {
+          "element_id": "32_p3_e11",
+          "sequence_order": 11,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
-          "text_preview": "કલેકટર વલસાડ"
+          "text_preview": "HBP.Inthatrespect,EHCPsandphysiciansmayrefertootherrelevantmaterialaspertheextantprofessionaln orms.Thecontentofthedocum"
+        },
+        {
+          "element_id": "32_p3_e12",
+          "sequence_order": 12,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "on,ABPM-JAYandNHA."
+        },
+        {
+          "element_id": "32_p3_e13",
+          "sequence_order": 13,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "Cite as: “Dr. Vipul Aggarwal, Dr. AjaiAgarwal, Kanishak Gautam.Documentation of National Health  Benefit Package User Gu"
+        },
+        {
+          "element_id": "32_p3_e14",
+          "sequence_order": 14,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 52,
+          "text_preview": "Acknowledgements:Special thanks to Dr. R.S. Sharma, CEO, NHA; Dr.Indu Bhushan, Former CEO,  NHA; Dr. PraveenGedam,Additi"
+        },
+        {
+          "element_id": "32_p3_e15",
+          "sequence_order": 15,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 90,
+          "text_preview": "Key contributors to the development and integration of the guidelines include; Dr. Vipul Aggarwal,  Deputy CEO, NHA; Dr."
+        }
+      ]
+    },
+    "4": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [
+        "corrupted_text",
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p4_e16",
+          "sequence_order": 16,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 3 of 64"
+        },
+        {
+          "element_id": "32_p4_e17",
+          "sequence_order": 17,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Contents"
+        },
+        {
+          "element_id": "32_p4_e18",
+          "sequence_order": 18,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "noise_detected"
+          ],
+          "token_count": 257,
+          "text_preview": "SECTION 1. HEALTH BENEFIT PACKAGES IN AB PM-JAY ........................................................................"
+        }
+      ]
+    },
+    "5": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p5_e19",
+          "sequence_order": 19,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 4 of 64"
+        },
+        {
+          "element_id": "32_p5_e20",
+          "sequence_order": 20,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "noise_detected"
+          ],
+          "token_count": 110,
+          "text_preview": "3.14  OPHTHALMOLOGY ...................................................................................................."
+        }
+      ]
+    },
+    "6": {
+      "elements": 14,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p6_e26",
+          "sequence_order": 26,
+          "page_number": 6,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Hospitalization expense"
+        },
+        {
+          "element_id": "32_p6_e28",
+          "sequence_order": 28,
+          "page_number": 6,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Follow-up care"
+        }
+      ]
+    },
+    "7": {
+      "elements": 7,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "8": {
+      "elements": 14,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p8_e43",
+          "sequence_order": 43,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Registration charges"
+        },
+        {
+          "element_id": "32_p8_e44",
+          "sequence_order": 44,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Bed charges"
+        }
+      ]
+    },
+    "9": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "10": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "11": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "12": {
+      "elements": 6,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "13": {
+      "elements": 8,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "14": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "15": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "16": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p16_e122",
+          "sequence_order": 122,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 15 of 64"
+        }
+      ]
+    },
+    "17": {
+      "elements": 19,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p17_e124",
+          "sequence_order": 124,
+          "page_number": 17,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "2.1 Introduction"
+        }
+      ]
+    },
+    "18": {
+      "elements": 14,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p18_e142",
+          "sequence_order": 142,
+          "page_number": 18,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "2.2.2 Stratification"
+        }
+      ]
+    },
+    "19": {
+      "elements": 8,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "20": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "21": {
+      "elements": 14,
+      "flagged": 3,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p21_e176",
+          "sequence_order": 176,
+          "page_number": 21,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "First stage"
+        },
+        {
+          "element_id": "32_p21_e177",
+          "sequence_order": 177,
+          "page_number": 21,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Intermediate stage"
+        },
+        {
+          "element_id": "32_p21_e178",
+          "sequence_order": 178,
+          "page_number": 21,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Final stage"
+        }
+      ]
+    },
+    "22": {
+      "elements": 15,
+      "flagged": 15,
+      "flags": [
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p22_e188",
+          "sequence_order": 188,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 21 of 64"
+        },
+        {
+          "element_id": "32_p22_e189",
+          "sequence_order": 189,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "International Classification of Health Interventions (ICHI) and International Classification of Diseases"
+        },
+        {
+          "element_id": "32_p22_e190",
+          "sequence_order": 190,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "(ICD) coding of the WHO. When completed, India may become the first country to use ICHI in its HBP"
+        },
+        {
+          "element_id": "32_p22_e191",
+          "sequence_order": 191,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "list."
+        },
+        {
+          "element_id": "32_p22_e192",
+          "sequence_order": 192,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "The ICHI is being developed to provide a common tool for reporting and analyzing health interventions"
+        },
+        {
+          "element_id": "32_p22_e193",
+          "sequence_order": 193,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "for statistical purposes. ICHI covers interventions carried out by a broad range of providers across the full"
+        },
+        {
+          "element_id": "32_p22_e194",
+          "sequence_order": 194,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "scope of health systems and includes interventions on: diagnostic, medical, surgical, mental health,"
+        },
+        {
+          "element_id": "32_p22_e195",
+          "sequence_order": 195,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "primary care, allied health, functioning support, rehabilitation, traditional medicine and public health."
+        },
+        {
+          "element_id": "32_p22_e196",
+          "sequence_order": 196,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Refer to (https://mitel.dimi.uniud.it/ichi/) for the search engine."
+        },
+        {
+          "element_id": "32_p22_e197",
+          "sequence_order": 197,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "2.3  Key highlights – HBP 2.0,HBP 2.1 & HBP 2.2"
+        },
+        {
+          "element_id": "32_p22_e198",
+          "sequence_order": 198,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Criteria  HBP 2.0  HBP 2.1  HBP 2.2"
+        },
+        {
+          "element_id": "32_p22_e199",
+          "sequence_order": 199,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Number of packages  874  920  920"
+        },
+        {
+          "element_id": "32_p22_e200",
+          "sequence_order": 200,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Number of procedures  1,592  1,669  1,670"
+        },
+        {
+          "element_id": "32_p22_e201",
+          "sequence_order": 201,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Specialty  25  26  26"
+        },
+        {
+          "element_id": "32_p22_e202",
+          "sequence_order": 202,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Additional procedures  NA  77  76"
+        }
+      ]
+    },
+    "23": {
+      "elements": 13,
+      "flagged": 13,
+      "flags": [
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p23_e203",
+          "sequence_order": 203,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 22 of 64"
+        },
+        {
+          "element_id": "32_p23_e204",
+          "sequence_order": 204,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "Section 3. Key features by Specialty  The final picture of HBP 2.2is as follows:"
+        },
+        {
+          "element_id": "32_p23_e205",
+          "sequence_order": 205,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "S. No.  Specialty"
+        },
+        {
+          "element_id": "32_p23_e206",
+          "sequence_order": 206,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "HBP 2.2"
+        },
+        {
+          "element_id": "32_p23_e207",
+          "sequence_order": 207,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Code  Packages  Procedures"
+        },
+        {
+          "element_id": "32_p23_e208",
+          "sequence_order": 208,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 174,
+          "text_preview": "1  Burns Management  BM  6  20  2  Cardiology  MC  21  27  3  Cardio-thoracic & Vascular surgery  SV  35  129  4  Emerge"
+        },
+        {
+          "element_id": "32_p23_e209",
+          "sequence_order": 209,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "•  Total number of procedures: 20"
+        },
+        {
+          "element_id": "32_p23_e210",
+          "sequence_order": 210,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "•  Pre-authorization: Mandatory for all packages"
+        },
+        {
+          "element_id": "32_p23_e211",
+          "sequence_order": 211,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "•  Pre-authorization remarks: Specific Pre and Post-op Investigations such as clinical photograph"
+        },
+        {
+          "element_id": "32_p23_e212",
+          "sequence_order": 212,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "and diagram with Rule of 9 / L & B Chart for extent of burns at the time of admission and follow"
+        },
+        {
+          "element_id": "32_p23_e213",
+          "sequence_order": 213,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "up clinical photographs on days 5, 10, 15, 20 as per requirements on the basis of"
+        },
+        {
+          "element_id": "32_p23_e214",
+          "sequence_order": 214,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "preauthorization would need to be submitted during claims."
+        },
+        {
+          "element_id": "32_p23_e215",
+          "sequence_order": 215,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "•  Admission Criteria to be followed for selecting packages for burn injured patients"
+        }
+      ]
+    },
+    "24": {
+      "elements": 16,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p24_e220",
+          "sequence_order": 220,
+          "page_number": 24,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Inhalation injury"
+        },
+        {
+          "element_id": "32_p24_e225",
+          "sequence_order": 225,
+          "page_number": 24,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "3.2 Cardiology"
+        }
+      ]
+    },
+    "25": {
+      "elements": 16,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "26": {
+      "elements": 13,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "27": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "28": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "29": {
+      "elements": 14,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p29_e286",
+          "sequence_order": 286,
+          "page_number": 29,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "3.12 Neurosurgery"
+        },
+        {
+          "element_id": "32_p29_e295",
+          "sequence_order": 295,
+          "page_number": 29,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "3.14 Ophthalmology"
+        }
+      ]
+    },
+    "30": {
+      "elements": 13,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p30_e306",
+          "sequence_order": 306,
+          "page_number": 30,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "3.17 Orthopedics"
+        }
+      ]
+    },
+    "31": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "32": {
+      "elements": 8,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p32_e325",
+          "sequence_order": 325,
+          "page_number": 32,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "3.22 Polytrauma"
+        }
+      ]
+    },
+    "33": {
+      "elements": 5,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p33_e333",
+          "sequence_order": 333,
+          "page_number": 33,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "3.25 Urology"
+        }
+      ]
+    },
+    "34": {
+      "elements": 10,
+      "flagged": 10,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p34_e336",
+          "sequence_order": 336,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 33 of 64"
+        },
+        {
+          "element_id": "32_p34_e337",
+          "sequence_order": 337,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "•  Pre-authorization: Mandatory for all packages"
+        },
+        {
+          "element_id": "32_p34_e338",
+          "sequence_order": 338,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "•  Pre-authorization remarks: Prior approval must be taken for surgeries requiring use of Deflux"
+        },
+        {
+          "element_id": "32_p34_e339",
+          "sequence_order": 339,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "injection, Botox Injection, inflatable penile prosthesis, urinary sphincter, and metallic stents"
+        },
+        {
+          "element_id": "32_p34_e340",
+          "sequence_order": 340,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "•  It is mandated to get approval for all non-surgical conditions (involving evaluation/ investigation/"
+        },
+        {
+          "element_id": "32_p34_e341",
+          "sequence_order": 341,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "therapeutic management / follow-up visits) as indicated"
+        },
+        {
+          "element_id": "32_p34_e342",
+          "sequence_order": 342,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "•  For any procedure whose charges are Rs. 15,000 or higher, extra costs (in the sense other"
+        },
+        {
+          "element_id": "32_p34_e343",
+          "sequence_order": 343,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "packages) cannot be clubbed / claimed from the following: cystoscopy, ureteric catheterization,"
+        },
+        {
+          "element_id": "32_p34_e344",
+          "sequence_order": 344,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "retrograde pyelogram, DJ stenting, nephrostomy – as they would form part of such packages"
+        },
+        {
+          "element_id": "32_p34_e345",
+          "sequence_order": 345,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "costing Rs. 15,000 or higher as per the need and donor with details of the surgery."
+        }
+      ]
+    },
+    "35": {
+      "elements": 14,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p35_e359",
+          "sequence_order": 359,
+          "page_number": 35,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Guidelines"
+        }
+      ]
+    },
+    "36": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "37": {
+      "elements": 21,
+      "flagged": 21,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p37_e371",
+          "sequence_order": 371,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 36 of 64"
+        },
+        {
+          "element_id": "32_p37_e372",
+          "sequence_order": 372,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "4.3  Process for raising a Pre-Auth"
+        },
+        {
+          "element_id": "32_p37_e373",
+          "sequence_order": 373,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "The following steps need to be followed for selecting a package / procedure in the TMS"
+        },
+        {
+          "element_id": "32_p37_e374",
+          "sequence_order": 374,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Step 1 - Select a specialty"
+        },
+        {
+          "element_id": "32_p37_e375",
+          "sequence_order": 375,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "A specialty may be selected from the dropdown menu available. All procedures are mapped to their"
+        },
+        {
+          "element_id": "32_p37_e376",
+          "sequence_order": 376,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "respective specialties, so in case the user is not sure of the specialty to be chosen, she / he may proceed"
+        },
+        {
+          "element_id": "32_p37_e377",
+          "sequence_order": 377,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "to procedure selection and the specialty would be chosen automatically. However, in case a procedure is"
+        },
+        {
+          "element_id": "32_p37_e378",
+          "sequence_order": 378,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "mapped to more than one specialty, the specialty will need to be selected from the options shortlisted in"
+        },
+        {
+          "element_id": "32_p37_e379",
+          "sequence_order": 379,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "the dropdown menu based on the procedure selected."
+        },
+        {
+          "element_id": "32_p37_e380",
+          "sequence_order": 380,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Fig: Selecting a specialty"
+        },
+        {
+          "element_id": "32_p37_e381",
+          "sequence_order": 381,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Step 2 - Select a procedure"
+        },
+        {
+          "element_id": "32_p37_e382",
+          "sequence_order": 382,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "A package / procedure may be selected from the dropdown menu available. The selection dropdown"
+        },
+        {
+          "element_id": "32_p37_e383",
+          "sequence_order": 383,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "narrows the choices available as the user begins typing in his / her choice. Procedures may be selected"
+        },
+        {
+          "element_id": "32_p37_e384",
+          "sequence_order": 384,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "through any of the following three options"
+        },
+        {
+          "element_id": "32_p37_e385",
+          "sequence_order": 385,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "i.  By typing in the procedure name"
+        },
+        {
+          "element_id": "32_p37_e386",
+          "sequence_order": 386,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "ii.  By typing in the HBP 2.0 procedure code"
+        },
+        {
+          "element_id": "32_p37_e387",
+          "sequence_order": 387,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "iii.  By typing in the HBP 2.2 procedure code"
+        },
+        {
+          "element_id": "32_p37_e388",
+          "sequence_order": 388,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "Upon selection of a procedure, check the column on procedure price alongside the procedure selected."
+        },
+        {
+          "element_id": "32_p37_e389",
+          "sequence_order": 389,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "That column would prompt the user on the next step. If the column displays a procedure price, the"
+        },
+        {
+          "element_id": "32_p37_e390",
+          "sequence_order": 390,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "process of selecting that procedure is complete. On the other hand, the section may prompt the user to"
+        },
+        {
+          "element_id": "32_p37_e391",
+          "sequence_order": 391,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "proceed to selection of a stratification or and implant."
+        }
+      ]
+    },
+    "38": {
+      "elements": 14,
+      "flagged": 14,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p38_e392",
+          "sequence_order": 392,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 37 of 64"
+        },
+        {
+          "element_id": "32_p38_e393",
+          "sequence_order": 393,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "The system also requires the user to mandatorily fill in details of the primary clinician associated with the"
+        },
+        {
+          "element_id": "32_p38_e394",
+          "sequence_order": 394,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "patient. The clinician’s name, registration number, qualifications and phone number would auto populate"
+        },
+        {
+          "element_id": "32_p38_e395",
+          "sequence_order": 395,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "from the Hospital Empanelment Module, if available there. Else, they would need to be filled in here."
+        },
+        {
+          "element_id": "32_p38_e396",
+          "sequence_order": 396,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "The system also highlights the mandatory documents associated with the procedure that the user would"
+        },
+        {
+          "element_id": "32_p38_e397",
+          "sequence_order": 397,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "need to upload before raising a pre-auth. The user would be required to select the list of mandatory"
+        },
+        {
+          "element_id": "32_p38_e398",
+          "sequence_order": 398,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "documents as an acknowledgment to the same and proceed to add procedure."
+        },
+        {
+          "element_id": "32_p38_e399",
+          "sequence_order": 399,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "Please note – the following steps of selection of stratification, and selection of implant are procedure"
+        },
+        {
+          "element_id": "32_p38_e400",
+          "sequence_order": 400,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "dependent and one, or both may not be required for all procedures to be selected."
+        },
+        {
+          "element_id": "32_p38_e401",
+          "sequence_order": 401,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Fig: Selecting a procedure"
+        },
+        {
+          "element_id": "32_p38_e402",
+          "sequence_order": 402,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Fig: Mandatory details of the treating clinician"
+        },
+        {
+          "element_id": "32_p38_e403",
+          "sequence_order": 403,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Step 3 - Select a stratification"
+        },
+        {
+          "element_id": "32_p38_e404",
+          "sequence_order": 404,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "The stratification icon alongside the selected procedure gets enabled whenever there is an associated"
+        },
+        {
+          "element_id": "32_p38_e405",
+          "sequence_order": 405,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "stratification with the selected procedure. Upon selection of the stratification icon, the user would be"
+        }
+      ]
+    },
+    "39": {
+      "elements": 14,
+      "flagged": 14,
+      "flags": [
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p39_e406",
+          "sequence_order": 406,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 38 of 64"
+        },
+        {
+          "element_id": "32_p39_e407",
+          "sequence_order": 407,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "prompted to select the stratification detail to be used. Options would be available based on the levels of"
+        },
+        {
+          "element_id": "32_p39_e408",
+          "sequence_order": 408,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "stratifications available for the selected procedure."
+        },
+        {
+          "element_id": "32_p39_e409",
+          "sequence_order": 409,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "Upon selection of a stratification detail, the user would then need to select a stratification option from the"
+        },
+        {
+          "element_id": "32_p39_e410",
+          "sequence_order": 410,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "choices available in the dropdown for that stratification. Most procedures have a single level of"
+        },
+        {
+          "element_id": "32_p39_e411",
+          "sequence_order": 411,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "stratification and the stratification detail would be auto selected. In case multiple stratifications are"
+        },
+        {
+          "element_id": "32_p39_e412",
+          "sequence_order": 412,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "available for the chosen procedure, the user would need to select each one individually and fill in details"
+        },
+        {
+          "element_id": "32_p39_e413",
+          "sequence_order": 413,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "for each."
+        },
+        {
+          "element_id": "32_p39_e414",
+          "sequence_order": 414,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "Upon successfully selecting a stratification, the system would return the user to the original procedure"
+        },
+        {
+          "element_id": "32_p39_e415",
+          "sequence_order": 415,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "selection screen. Upon returning to the screen, the user is advised to check the column on procedure"
+        },
+        {
+          "element_id": "32_p39_e416",
+          "sequence_order": 416,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "price alongside the procedure selected. That column would prompt the user on the next step. If the"
+        },
+        {
+          "element_id": "32_p39_e417",
+          "sequence_order": 417,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "column displays a procedure price, the process of selecting that procedure is complete. On the other"
+        },
+        {
+          "element_id": "32_p39_e418",
+          "sequence_order": 418,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "hand, the section may prompt the user to proceed to selection of an implant."
+        },
+        {
+          "element_id": "32_p39_e419",
+          "sequence_order": 419,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Fig: Prompts for selecting an implant / stratification"
+        }
+      ]
+    },
+    "40": {
+      "elements": 14,
+      "flagged": 14,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p40_e420",
+          "sequence_order": 420,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 39 of 64"
+        },
+        {
+          "element_id": "32_p40_e421",
+          "sequence_order": 421,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Fig: Add stratification"
+        },
+        {
+          "element_id": "32_p40_e422",
+          "sequence_order": 422,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Fig: Select stratification option"
+        },
+        {
+          "element_id": "32_p40_e423",
+          "sequence_order": 423,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Step 4 - Select an implant"
+        },
+        {
+          "element_id": "32_p40_e424",
+          "sequence_order": 424,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "The select implant icon alongside the selected procedure gets enabled whenever there is an associated"
+        },
+        {
+          "element_id": "32_p40_e425",
+          "sequence_order": 425,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "implant with the selected procedure. The user would need to select the implant name from the dropdown"
+        },
+        {
+          "element_id": "32_p40_e426",
+          "sequence_order": 426,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "available. Upon selecting the implant, the user would also need to specify the number of implants that the"
+        },
+        {
+          "element_id": "32_p40_e427",
+          "sequence_order": 427,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "user required a pre-auth approval on."
+        },
+        {
+          "element_id": "32_p40_e428",
+          "sequence_order": 428,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "In case of multiple types of anticipated implants, the user may select each implant individually and add"
+        },
+        {
+          "element_id": "32_p40_e429",
+          "sequence_order": 429,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "the numbers against each. The option of multiple implants is available in select procedures and there"
+        },
+        {
+          "element_id": "32_p40_e430",
+          "sequence_order": 430,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "may be conditions where the system would not accept the selection of multiple implants for the given"
+        },
+        {
+          "element_id": "32_p40_e431",
+          "sequence_order": 431,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "procedure. Please note that this is by design and multiple implant types are not permitted in this case."
+        },
+        {
+          "element_id": "32_p40_e432",
+          "sequence_order": 432,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "Upon successfully selecting the implant / implants, the system would return the user to the original"
+        },
+        {
+          "element_id": "32_p40_e433",
+          "sequence_order": 433,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "procedure selection screen. Upon returning to the screen, the user is advised to check the column on"
+        }
+      ]
+    },
+    "41": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p41_e434",
+          "sequence_order": 434,
+          "page_number": 41,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 40 of 64"
+        },
+        {
+          "element_id": "32_p41_e435",
+          "sequence_order": 435,
+          "page_number": 41,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "procedure price alongside the procedure selected. That column would prompt the user on the next step."
+        },
+        {
+          "element_id": "32_p41_e436",
+          "sequence_order": 436,
+          "page_number": 41,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "If the column displays a procedure price, the process of selecting that procedure is complete."
+        },
+        {
+          "element_id": "32_p41_e437",
+          "sequence_order": 437,
+          "page_number": 41,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Fig: Select implant"
+        },
+        {
+          "element_id": "32_p41_e438",
+          "sequence_order": 438,
+          "page_number": 41,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Fig: Select Quantity"
+        },
+        {
+          "element_id": "32_p41_e439",
+          "sequence_order": 439,
+          "page_number": 41,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Fig: Procedure added successfully"
+        },
+        {
+          "element_id": "32_p41_e440",
+          "sequence_order": 440,
+          "page_number": 41,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Step 5 – Upload mandatory documents"
+        }
+      ]
+    },
+    "42": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p42_e441",
+          "sequence_order": 441,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 41 of 64"
+        },
+        {
+          "element_id": "32_p42_e442",
+          "sequence_order": 442,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "Every procedure requires a set of mandatory documents to be uploaded at the time of submission of a"
+        },
+        {
+          "element_id": "32_p42_e443",
+          "sequence_order": 443,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "pre-auth request."
+        },
+        {
+          "element_id": "32_p42_e444",
+          "sequence_order": 444,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Step 6 – Submit pre-auth request"
+        },
+        {
+          "element_id": "32_p42_e445",
+          "sequence_order": 445,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "Every procedure requires a set of mandatory documents to be uploaded at the time of submission of a"
+        },
+        {
+          "element_id": "32_p42_e446",
+          "sequence_order": 446,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "pre-auth request."
+        },
+        {
+          "element_id": "32_p42_e447",
+          "sequence_order": 447,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Illustrative"
+        }
+      ]
+    },
+    "43": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p43_e448",
+          "sequence_order": 448,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 42 of 64"
+        }
+      ]
+    },
+    "44": {
+      "elements": 7,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "45": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p45_e456",
+          "sequence_order": 456,
+          "page_number": 45,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 44 of 64"
+        },
+        {
+          "element_id": "32_p45_e457",
+          "sequence_order": 457,
+          "page_number": 45,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "vi.  Diagnostic procedures -Certain diagnostic procedures have been included under AB PM-JAY"
+        },
+        {
+          "element_id": "32_p45_e458",
+          "sequence_order": 458,
+          "page_number": 45,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "based on user demand, and on the judgment of the expert committees. Such procedures have"
+        },
+        {
+          "element_id": "32_p45_e459",
+          "sequence_order": 459,
+          "page_number": 45,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "been highlighted in HBP 2.0, HBP 2.1 & HBP 2.2 as abuse prone procedures and will be closely"
+        },
+        {
+          "element_id": "32_p45_e460",
+          "sequence_order": 460,
+          "page_number": 45,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "monitored by the National & State Fraudmonitoring teams. The PPD is advised to maintain a"
+        },
+        {
+          "element_id": "32_p45_e461",
+          "sequence_order": 461,
+          "page_number": 45,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "close vigil on blocking of these packages."
+        }
+      ]
+    },
+    "46": {
+      "elements": 17,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "47": {
+      "elements": 15,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "48": {
+      "elements": 14,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "49": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "50": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "51": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "52": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "53": {
+      "elements": 9,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "54": {
+      "elements": 9,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "55": {
+      "elements": 15,
+      "flagged": 3,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p55_e571",
+          "sequence_order": 571,
+          "page_number": 55,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Abbreviations Used"
+        },
+        {
+          "element_id": "32_p55_e572",
+          "sequence_order": 572,
+          "page_number": 55,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "AB PM-JAY"
+        },
+        {
+          "element_id": "32_p55_e581",
+          "sequence_order": 581,
+          "page_number": 55,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Laparoscopic"
+        }
+      ]
+    },
+    "56": {
+      "elements": 8,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "57": {
+      "elements": 4,
+      "flagged": 4,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p57_e594",
+          "sequence_order": 594,
+          "page_number": 57,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "gttsasdtiat ii"
+        },
+        {
+          "element_id": "32_p57_e595",
+          "sequence_order": 595,
+          "page_number": 57,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "esti Hy"
+        },
+        {
+          "element_id": "32_p57_e596",
+          "sequence_order": 596,
+          "page_number": 57,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Lutinen"
+        },
+        {
+          "element_id": "32_p57_e597",
+          "sequence_order": 597,
+          "page_number": 57,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ee ae"
+        }
+      ]
+    },
+    "58": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p58_e598",
+          "sequence_order": 598,
+          "page_number": 58,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 57 of 64"
+        },
+        {
+          "element_id": "32_p58_e599",
+          "sequence_order": 599,
+          "page_number": 58,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "ANNEXURE – II"
+        }
+      ]
+    },
+    "59": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p59_e600",
+          "sequence_order": 600,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 58 of 64"
+        },
+        {
+          "element_id": "32_p59_e601",
+          "sequence_order": 601,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "ANNEXURE – III"
+        },
+        {
+          "element_id": "32_p59_e602",
+          "sequence_order": 602,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "ANNEXURE – IV"
+        }
+      ]
+    },
+    "60": {
+      "elements": 2,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p60_e603",
+          "sequence_order": 603,
+          "page_number": 60,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "fn lee"
+        }
+      ]
+    },
+    "61": {
+      "elements": 5,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p61_e607",
+          "sequence_order": 607,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "WE EY"
+        },
+        {
+          "element_id": "32_p61_e609",
+          "sequence_order": 609,
+          "page_number": 61,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "(i if"
+        }
+      ]
+    },
+    "62": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p62_e610",
+          "sequence_order": 610,
+          "page_number": 62,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 61 of 64"
+        },
+        {
+          "element_id": "32_p62_e611",
+          "sequence_order": 611,
+          "page_number": 62,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ANNEXURE –VI"
+        }
+      ]
+    },
+    "63": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p63_e612",
+          "sequence_order": 612,
+          "page_number": 63,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 62 of 64"
+        },
+        {
+          "element_id": "32_p63_e613",
+          "sequence_order": 613,
+          "page_number": 63,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ANNEXURE –VII"
+        },
+        {
+          "element_id": "32_p63_e614",
+          "sequence_order": 614,
+          "page_number": 63,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ANNEXURE –VIII"
+        }
+      ]
+    },
+    "64": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "32_p64_e615",
+          "sequence_order": 615,
+          "page_number": 64,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 63 of 64"
         }
       ]
     }

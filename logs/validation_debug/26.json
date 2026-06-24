@@ -2,579 +2,1556 @@
   "document_id": 26,
   "pages": {
     "1": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "2": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "3": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "4": {
-      "elements": 8,
-      "flagged": 1,
+      "elements": 12,
+      "flagged": 12,
       "flags": [
         "low_content"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "26_p4_e3",
-          "sequence_order": 3,
-          "page_number": 4,
-          "quality_score": 0.6,
-          "element_type": "heading",
+          "element_id": "26_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "N MUNICIPAL CORPORATION N"
+        },
+        {
+          "element_id": "26_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "COMPENDIUM OF GENERAL MUNICIPAL LAWS"
+        },
+        {
+          "element_id": "26_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
-          "token_count": 1,
-          "text_preview": "Introduction"
+          "token_count": 2,
+          "text_preview": "AND BYLAWS"
+        },
+        {
+          "element_id": "26_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "A Consolidated Reference for Citizens, Officers, and Legal Practitioners"
+        },
+        {
+          "element_id": "26_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Edition: 2024–2025 | Published: June 2026"
+        },
+        {
+          "element_id": "26_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Issuing Authority: Office of the Municipal Commissioner"
+        },
+        {
+          "element_id": "26_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Jurisdiction: Urban Local Body — General Municipal Area"
+        },
+        {
+          "element_id": "26_p1_e7",
+          "sequence_order": 7,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Legal Basis: Municipal Corporations Act & State Bylaws"
+        },
+        {
+          "element_id": "26_p1_e8",
+          "sequence_order": 8,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Document Type: Consolidated Bylaws Compendium"
+        },
+        {
+          "element_id": "26_p1_e9",
+          "sequence_order": 9,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Total Chapters: 10 Chapters covering General Municipal Law"
+        },
+        {
+          "element_id": "26_p1_e10",
+          "sequence_order": 10,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "DISCLAIMER: This document is a general reference compendium of commonly adopted municipal bylaws. It does not constitute"
+        },
+        {
+          "element_id": "26_p1_e11",
+          "sequence_order": 11,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "advice. Citizens should consult the applicable local municipal act and seek legal counsel for specific matters."
+        }
+      ]
+    },
+    "2": {
+      "elements": 22,
+      "flagged": 22,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "26_p2_e12",
+          "sequence_order": 12,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Municipal Laws Compendium | General Reference Edition 2024–2025 Page 2"
+        },
+        {
+          "element_id": "26_p2_e13",
+          "sequence_order": 13,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "TABLE OF CONTENTS"
+        },
+        {
+          "element_id": "26_p2_e14",
+          "sequence_order": 14,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Chapter 1 — General Administration and Governance"
+        },
+        {
+          "element_id": "26_p2_e15",
+          "sequence_order": 15,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "• 1.1 Establishment of Municipal Body • 1.2 Powers and Functions of Commissioner • 1.3 Ward Committees"
+        },
+        {
+          "element_id": "26_p2_e16",
+          "sequence_order": 16,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Chapter 2 — Property Tax and Revenue"
+        },
+        {
+          "element_id": "26_p2_e17",
+          "sequence_order": 17,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "• 2.1 Levy of Property Tax • 2.2 Assessment and Valuation • 2.3 Exemptions and Concessions • 2.4 Penalties for Non-Payme"
+        },
+        {
+          "element_id": "26_p2_e18",
+          "sequence_order": 18,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Chapter 3 — Building Regulations and Land Use"
+        },
+        {
+          "element_id": "26_p2_e19",
+          "sequence_order": 19,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "• 3.1 Building Permits • 3.2 Setback and Height Regulations • 3.3 Unauthorized Constructions"
+        },
+        {
+          "element_id": "26_p2_e20",
+          "sequence_order": 20,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Chapter 4 — Public Health and Sanitation"
+        },
+        {
+          "element_id": "26_p2_e21",
+          "sequence_order": 21,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "• 4.1 Solid Waste Management • 4.2 Drainage and Sewerage • 4.3 Prevention of Nuisance"
+        },
+        {
+          "element_id": "26_p2_e22",
+          "sequence_order": 22,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Chapter 5 — Water Supply"
+        },
+        {
+          "element_id": "26_p2_e23",
+          "sequence_order": 23,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "• 5.1 Water Connections • 5.2 Water Tariffs • 5.3 Prohibited Acts"
+        },
+        {
+          "element_id": "26_p2_e24",
+          "sequence_order": 24,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Chapter 6 — Roads, Streets, and Public Spaces"
+        },
+        {
+          "element_id": "26_p2_e25",
+          "sequence_order": 25,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "• 6.1 Road Maintenance • 6.2 Encroachments • 6.3 Street Lighting"
+        },
+        {
+          "element_id": "26_p2_e26",
+          "sequence_order": 26,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Chapter 7 — Trade Licenses and Commerce"
+        },
+        {
+          "element_id": "26_p2_e27",
+          "sequence_order": 27,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "• 7.1 Mandatory Licensing • 7.2 License Fees • 7.3 Renewal and Cancellation"
+        },
+        {
+          "element_id": "26_p2_e28",
+          "sequence_order": 28,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Chapter 8 — Environmental Protection"
+        },
+        {
+          "element_id": "26_p2_e29",
+          "sequence_order": 29,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "• 8.1 Air and Noise Pollution • 8.2 Tree Felling • 8.3 Plastic Ban"
+        },
+        {
+          "element_id": "26_p2_e30",
+          "sequence_order": 30,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Chapter 9 — Births, Deaths, and Civil Registration"
+        },
+        {
+          "element_id": "26_p2_e31",
+          "sequence_order": 31,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "• 9.1 Registration of Births • 9.2 Registration of Deaths • 9.3 Issuance of Certificates"
+        },
+        {
+          "element_id": "26_p2_e32",
+          "sequence_order": 32,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Chapter 10 — Penalties, Appeals, and Enforcement"
+        },
+        {
+          "element_id": "26_p2_e33",
+          "sequence_order": 33,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "• 10.1 General Penalties • 10.2 Compounding of Offences • 10.3 Appeals and Grievance Redressal"
         }
       ]
     },
     "5": {
-      "elements": 9,
-      "flagged": 1,
+      "elements": 19,
+      "flagged": 19,
       "flags": [
         "low_content"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "26_p5_e16",
-          "sequence_order": 16,
+          "element_id": "26_p5_e34",
+          "sequence_order": 34,
           "page_number": 5,
-          "quality_score": 0.6,
-          "element_type": "heading",
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Municipal Laws Compendium | General Reference Edition 2024–2025 Page 5"
+        },
+        {
+          "element_id": "26_p5_e35",
+          "sequence_order": 35,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "CHAPTER 3: BUILDING REGULATIONS AND LAND USE"
+        },
+        {
+          "element_id": "26_p5_e36",
+          "sequence_order": 36,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "3.1 Building Permits"
+        },
+        {
+          "element_id": "26_p5_e37",
+          "sequence_order": 37,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "No person shall construct, reconstruct, alter, or demolish any building or structure within the municipal"
+        },
+        {
+          "element_id": "26_p5_e38",
+          "sequence_order": 38,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "area without first obtaining a Building Permit from the Town Planning Department. Applications shall be"
+        },
+        {
+          "element_id": "26_p5_e39",
+          "sequence_order": 39,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "submitted with approved structural drawings, site plans, and a No Objection Certificate from the fire"
+        },
+        {
+          "element_id": "26_p5_e40",
+          "sequence_order": 40,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "department for buildings above four floors."
+        },
+        {
+          "element_id": "26_p5_e41",
+          "sequence_order": 41,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "3.2 Setback and Height Regulations"
+        },
+        {
+          "element_id": "26_p5_e42",
+          "sequence_order": 42,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "All buildings shall conform to the setback norms specified in the Development Control Regulations"
+        },
+        {
+          "element_id": "26_p5_e43",
+          "sequence_order": 43,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "(DCR). The permissible Floor Space Index (FSI) and height restrictions shall depend on the zone"
+        },
+        {
+          "element_id": "26_p5_e44",
+          "sequence_order": 44,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "classification (Residential, Commercial, Industrial, Green) as per the sanctioned Development Plan."
+        },
+        {
+          "element_id": "26_p5_e45",
+          "sequence_order": 45,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "(a) Residential buildings in R1 zones: maximum height 11 metres; front setback 3 metres."
+        },
+        {
+          "element_id": "26_p5_e46",
+          "sequence_order": 46,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "(b) Commercial buildings in C1 zones: maximum FSI as per DCR; fire escape mandatory above 15"
+        },
+        {
+          "element_id": "26_p5_e47",
+          "sequence_order": 47,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
-          "token_count": 2,
-          "text_preview": "Previous Policies"
+          "token_count": 1,
+          "text_preview": "metres."
+        },
+        {
+          "element_id": "26_p5_e48",
+          "sequence_order": 48,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "3.3 Unauthorized Constructions"
+        },
+        {
+          "element_id": "26_p5_e49",
+          "sequence_order": 49,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "Any building or part thereof constructed without a valid permit, or in deviation from the sanctioned plan,"
+        },
+        {
+          "element_id": "26_p5_e50",
+          "sequence_order": 50,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "shall be deemed an unauthorized construction. The Corporation shall issue a notice requiring the owner"
+        },
+        {
+          "element_id": "26_p5_e51",
+          "sequence_order": 51,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "to regularize or demolish the unauthorized portion within 30 days. Failure to comply shall result in"
+        },
+        {
+          "element_id": "26_p5_e52",
+          "sequence_order": 52,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "demolition by the Corporation at the owner's expense, in addition to penalties."
         }
       ]
     },
     "6": {
-      "elements": 22,
-      "flagged": 0,
-      "flags": [],
+      "elements": 15,
+      "flagged": 15,
+      "flags": [
+        "low_content"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "26_p6_e53",
+          "sequence_order": 53,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Municipal Laws Compendium | General Reference Edition 2024–2025 Page 6"
+        },
+        {
+          "element_id": "26_p6_e54",
+          "sequence_order": 54,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "CHAPTER 4: PUBLIC HEALTH AND SANITATION"
+        },
+        {
+          "element_id": "26_p6_e55",
+          "sequence_order": 55,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "4.1 Solid Waste Management"
+        },
+        {
+          "element_id": "26_p6_e56",
+          "sequence_order": 56,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Every household and commercial establishment shall segregate waste at source into: (i) Wet/Organic"
+        },
+        {
+          "element_id": "26_p6_e57",
+          "sequence_order": 57,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "waste, (ii) Dry/Recyclable waste, and (iii) Hazardous/Sanitary waste, and hand over segregated waste to"
+        },
+        {
+          "element_id": "26_p6_e58",
+          "sequence_order": 58,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "the designated collection vehicle or bin. Littering on public roads, open plots, or water bodies is strictly"
+        },
+        {
+          "element_id": "26_p6_e59",
+          "sequence_order": 59,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "prohibited."
+        },
+        {
+          "element_id": "26_p6_e60",
+          "sequence_order": 60,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "4.2 Drainage and Sewerage"
+        },
+        {
+          "element_id": "26_p6_e61",
+          "sequence_order": 61,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "Every building shall be connected to the municipal sewerage system where available. No person shall"
+        },
+        {
+          "element_id": "26_p6_e62",
+          "sequence_order": 62,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "discharge untreated sewage, industrial effluents, or construction debris into stormwater drains, rivers,"
+        },
+        {
+          "element_id": "26_p6_e63",
+          "sequence_order": 63,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "nallas, or any public water body."
+        },
+        {
+          "element_id": "26_p6_e64",
+          "sequence_order": 64,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "4.3 Prevention of Nuisance"
+        },
+        {
+          "element_id": "26_p6_e65",
+          "sequence_order": 65,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "The following acts constitute public nuisance and are prohibited: open defecation, burning of garbage or"
+        },
+        {
+          "element_id": "26_p6_e66",
+          "sequence_order": 66,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "plastic in open areas, slaughtering of animals in non-designated areas, keeping animals in a manner"
+        },
+        {
+          "element_id": "26_p6_e67",
+          "sequence_order": 67,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "causing health hazard to neighbours, and accumulation of stagnant water that may breed mosquitoes."
+        }
+      ]
     },
     "7": {
-      "elements": 7,
-      "flagged": 0,
+      "elements": 16,
+      "flagged": 16,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "26_p7_e68",
+          "sequence_order": 68,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Municipal Laws Compendium | General Reference Edition 2024–2025 Page 7"
+        },
+        {
+          "element_id": "26_p7_e69",
+          "sequence_order": 69,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "CHAPTER 5: WATER SUPPLY"
+        },
+        {
+          "element_id": "26_p7_e70",
+          "sequence_order": 70,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "5.1 Water Connections"
+        },
+        {
+          "element_id": "26_p7_e71",
+          "sequence_order": 71,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "Every property owner may apply for a domestic or commercial water connection from the Corporation."
+        },
+        {
+          "element_id": "26_p7_e72",
+          "sequence_order": 72,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "The connection shall be granted subject to payment of connection charges, compliance with building"
+        },
+        {
+          "element_id": "26_p7_e73",
+          "sequence_order": 73,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "regulations, and availability of water supply infrastructure in the area."
+        },
+        {
+          "element_id": "26_p7_e74",
+          "sequence_order": 74,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "5.2 Water Tariffs"
+        },
+        {
+          "element_id": "26_p7_e75",
+          "sequence_order": 75,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "Water tariffs shall be levied on a volumetric basis as measured by water meters installed at each"
+        },
+        {
+          "element_id": "26_p7_e76",
+          "sequence_order": 76,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "premises. Tariffs shall be revised by the Corporation periodically based on operational costs and supply"
+        },
+        {
+          "element_id": "26_p7_e77",
+          "sequence_order": 77,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "requirements. A minimum monthly charge shall apply irrespective of consumption."
+        },
+        {
+          "element_id": "26_p7_e78",
+          "sequence_order": 78,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "5.3 Prohibited Acts"
+        },
+        {
+          "element_id": "26_p7_e79",
+          "sequence_order": 79,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "The following acts in relation to water supply are strictly prohibited:"
+        },
+        {
+          "element_id": "26_p7_e80",
+          "sequence_order": 80,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "(a) Unauthorized tapping of water mains or service lines."
+        },
+        {
+          "element_id": "26_p7_e81",
+          "sequence_order": 81,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "(b) Tampering with, removing, or damaging water meters."
+        },
+        {
+          "element_id": "26_p7_e82",
+          "sequence_order": 82,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "(c) Use of a domestic connection for commercial or industrial purposes without appropriate license."
+        },
+        {
+          "element_id": "26_p7_e83",
+          "sequence_order": 83,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "(d) Allowing wastage of water through leaking pipes without timely repair."
+        }
+      ]
     },
     "8": {
-      "elements": 8,
-      "flagged": 0,
-      "flags": [],
+      "elements": 14,
+      "flagged": 14,
+      "flags": [
+        "low_content"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "26_p8_e84",
+          "sequence_order": 84,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Municipal Laws Compendium | General Reference Edition 2024–2025 Page 8"
+        },
+        {
+          "element_id": "26_p8_e85",
+          "sequence_order": 85,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "CHAPTER 6: ROADS, STREETS, AND PUBLIC SPACES"
+        },
+        {
+          "element_id": "26_p8_e86",
+          "sequence_order": 86,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "6.1 Road Maintenance"
+        },
+        {
+          "element_id": "26_p8_e87",
+          "sequence_order": 87,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "The Corporation shall maintain all municipal roads, footpaths, bridges, and culverts within its jurisdiction."
+        },
+        {
+          "element_id": "26_p8_e88",
+          "sequence_order": 88,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "Repair of potholes and resurfacing shall be carried out within prescribed timelines as per the Annual"
+        },
+        {
+          "element_id": "26_p8_e89",
+          "sequence_order": 89,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Maintenance Contract. Citizens may report road damage through the Municipal Grievance Portal."
+        },
+        {
+          "element_id": "26_p8_e90",
+          "sequence_order": 90,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "6.2 Encroachments"
+        },
+        {
+          "element_id": "26_p8_e91",
+          "sequence_order": 91,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "No person shall encroach upon, occupy, or obstruct any public road, footpath, open space, garden, or"
+        },
+        {
+          "element_id": "26_p8_e92",
+          "sequence_order": 92,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "municipal land without written permission from the Corporation. Temporary permissions for events or"
+        },
+        {
+          "element_id": "26_p8_e93",
+          "sequence_order": 93,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "exhibitions may be granted subject to payment of fees and compliance with conditions."
+        },
+        {
+          "element_id": "26_p8_e94",
+          "sequence_order": 94,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "6.3 Street Lighting"
+        },
+        {
+          "element_id": "26_p8_e95",
+          "sequence_order": 95,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "The Corporation shall provide adequate street lighting on all municipal roads. The Electrical Department"
+        },
+        {
+          "element_id": "26_p8_e96",
+          "sequence_order": 96,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "shall maintain a schedule of routine inspection and replacement. Citizens shall not tamper with street light"
+        },
+        {
+          "element_id": "26_p8_e97",
+          "sequence_order": 97,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "poles, fixtures, or cables. Theft or damage of street lighting infrastructure is a cognizable offence."
+        }
+      ]
     },
     "9": {
-      "elements": 8,
-      "flagged": 0,
-      "flags": [],
+      "elements": 15,
+      "flagged": 15,
+      "flags": [
+        "low_content"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "26_p9_e98",
+          "sequence_order": 98,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Municipal Laws Compendium | General Reference Edition 2024–2025 Page 9"
+        },
+        {
+          "element_id": "26_p9_e99",
+          "sequence_order": 99,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "CHAPTER 7: TRADE LICENSES AND COMMERCE"
+        },
+        {
+          "element_id": "26_p9_e100",
+          "sequence_order": 100,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "7.1 Mandatory Licensing"
+        },
+        {
+          "element_id": "26_p9_e101",
+          "sequence_order": 101,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "No person shall carry on any trade, business, or profession within the municipal limits without obtaining a"
+        },
+        {
+          "element_id": "26_p9_e102",
+          "sequence_order": 102,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "Trade License from the License Department. A separate license is required for each premises and each"
+        },
+        {
+          "element_id": "26_p9_e103",
+          "sequence_order": 103,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "category of trade. The license is non-transferable without prior approval."
+        },
+        {
+          "element_id": "26_p9_e104",
+          "sequence_order": 104,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "7.2 License Fees"
+        },
+        {
+          "element_id": "26_p9_e105",
+          "sequence_order": 105,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "License fees shall be as prescribed in the Schedule of Fees, which may be revised annually by the"
+        },
+        {
+          "element_id": "26_p9_e106",
+          "sequence_order": 106,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "Corporation. Fees vary based on the category of trade (food establishment, retail, service industry,"
+        },
+        {
+          "element_id": "26_p9_e107",
+          "sequence_order": 107,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "manufacturing) and the floor area of the premises."
+        },
+        {
+          "element_id": "26_p9_e108",
+          "sequence_order": 108,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "7.3 Renewal and Cancellation"
+        },
+        {
+          "element_id": "26_p9_e109",
+          "sequence_order": 109,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "Trade licenses shall be renewed annually. Applications for renewal must be submitted at least 30 days"
+        },
+        {
+          "element_id": "26_p9_e110",
+          "sequence_order": 110,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "before the expiry date. The Corporation may refuse renewal or cancel a license on grounds of"
+        },
+        {
+          "element_id": "26_p9_e111",
+          "sequence_order": 111,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "non-compliance with health, safety, or building norms, or on receipt of substantiated complaints from the"
+        },
+        {
+          "element_id": "26_p9_e112",
+          "sequence_order": 112,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "public."
+        }
+      ]
     },
     "10": {
-      "elements": 7,
-      "flagged": 0,
+      "elements": 16,
+      "flagged": 16,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "26_p10_e113",
+          "sequence_order": 113,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Municipal Laws Compendium | General Reference Edition 2024–2025 Page 10"
+        },
+        {
+          "element_id": "26_p10_e114",
+          "sequence_order": 114,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "CHAPTER 8: ENVIRONMENTAL PROTECTION"
+        },
+        {
+          "element_id": "26_p10_e115",
+          "sequence_order": 115,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "8.1 Air and Noise Pollution"
+        },
+        {
+          "element_id": "26_p10_e116",
+          "sequence_order": 116,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "No person shall operate any industry, generator set, construction activity, or public address system in"
+        },
+        {
+          "element_id": "26_p10_e117",
+          "sequence_order": 117,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "violation of ambient air quality and noise standards prescribed by the Central Pollution Control Board"
+        },
+        {
+          "element_id": "26_p10_e118",
+          "sequence_order": 118,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "(CPCB) and the applicable State Pollution Control Board. Noise limits in residential zones shall be 55"
+        },
+        {
+          "element_id": "26_p10_e119",
+          "sequence_order": 119,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "dB(A) during day and 45 dB(A) at night."
+        },
+        {
+          "element_id": "26_p10_e120",
+          "sequence_order": 120,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "8.2 Tree Felling"
+        },
+        {
+          "element_id": "26_p10_e121",
+          "sequence_order": 121,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "No person shall cut, uproot, or cause irreparable damage to any tree situated on public or private land"
+        },
+        {
+          "element_id": "26_p10_e122",
+          "sequence_order": 122,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "within the municipal area without prior permission of the Tree Authority. Permission shall be granted only"
+        },
+        {
+          "element_id": "26_p10_e123",
+          "sequence_order": 123,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "in cases of demonstrable public necessity, road widening, or where the tree poses an imminent safety"
+        },
+        {
+          "element_id": "26_p10_e124",
+          "sequence_order": 124,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "risk. Compensatory plantation of three trees for every tree felled shall be mandatory."
+        },
+        {
+          "element_id": "26_p10_e125",
+          "sequence_order": 125,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "8.3 Plastic Ban"
+        },
+        {
+          "element_id": "26_p10_e126",
+          "sequence_order": 126,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "In accordance with applicable State Government notifications, the manufacture, storage, distribution,"
+        },
+        {
+          "element_id": "26_p10_e127",
+          "sequence_order": 127,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "sale, or use of single-use plastic items including carry bags below 75 microns, disposable cups, plates,"
+        },
+        {
+          "element_id": "26_p10_e128",
+          "sequence_order": 128,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "straws, and polystyrene items is prohibited within the municipal limits."
+        }
+      ]
     },
     "11": {
-      "elements": 7,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "12": {
-      "elements": 7,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "13": {
-      "elements": 10,
-      "flagged": 1,
+      "elements": 16,
+      "flagged": 16,
       "flags": [
         "low_content"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "26_p13_e92",
-          "sequence_order": 92,
-          "page_number": 13,
-          "quality_score": 0.6,
-          "element_type": "heading",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "Experiential learning"
-        }
-      ]
-    },
-    "14": {
-      "elements": 7,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "15": {
-      "elements": 6,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "16": {
-      "elements": 9,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "17": {
-      "elements": 4,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "18": {
-      "elements": 9,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "19": {
-      "elements": 6,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "20": {
-      "elements": 7,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "21": {
-      "elements": 8,
-      "flagged": 1,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": null,
-      "issues": [
+          "element_id": "26_p11_e129",
+          "sequence_order": 129,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Municipal Laws Compendium | General Reference Edition 2024–2025 Page 11"
+        },
         {
-          "element_id": "26_p21_e146",
-          "sequence_order": 146,
-          "page_number": 21,
-          "quality_score": 0.6,
-          "element_type": "section",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "5. Teachers"
-        }
-      ]
-    },
-    "22": {
-      "elements": 10,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "23": {
-      "elements": 10,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "24": {
-      "elements": 7,
-      "flagged": 1,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": null,
-      "issues": [
+          "element_id": "26_p11_e130",
+          "sequence_order": 130,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "CHAPTER 9: BIRTHS, DEATHS, AND CIVIL REGISTRATION"
+        },
         {
-          "element_id": "26_p24_e173",
-          "sequence_order": 173,
-          "page_number": 24,
-          "quality_score": 0.6,
-          "element_type": "heading",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "Special educators"
-        }
-      ]
-    },
-    "25": {
-      "elements": 8,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "26": {
-      "elements": 9,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "27": {
-      "elements": 6,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "28": {
-      "elements": 6,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "29": {
-      "elements": 9,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "30": {
-      "elements": 6,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "31": {
-      "elements": 8,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "32": {
-      "elements": 8,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "33": {
-      "elements": 5,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "34": {
-      "elements": 18,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "35": {
-      "elements": 15,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "36": {
-      "elements": 8,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "37": {
-      "elements": 8,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "38": {
-      "elements": 6,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "39": {
-      "elements": 8,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "40": {
-      "elements": 7,
-      "flagged": 1,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": null,
-      "issues": [
+          "element_id": "26_p11_e131",
+          "sequence_order": 131,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "9.1 Registration of Births"
+        },
         {
-          "element_id": "26_p40_e311",
-          "sequence_order": 311,
-          "page_number": 40,
-          "quality_score": 0.6,
-          "element_type": "heading",
+          "element_id": "26_p11_e132",
+          "sequence_order": 132,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "Every birth occurring within the municipal limits must be registered with the Birth and Death Registration"
+        },
+        {
+          "element_id": "26_p11_e133",
+          "sequence_order": 133,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "Office within 21 days of the event, as mandated by the Registration of Births and Deaths Act, 1969, as"
+        },
+        {
+          "element_id": "26_p11_e134",
+          "sequence_order": 134,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "amended. The informant shall be the head of household, doctor, or hospital authority where the birth took"
+        },
+        {
+          "element_id": "26_p11_e135",
+          "sequence_order": 135,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 1,
-          "text_preview": "Internationalization"
-        }
-      ]
-    },
-    "41": {
-      "elements": 11,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "42": {
-      "elements": 17,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "43": {
-      "elements": 19,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "44": {
-      "elements": 9,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "45": {
-      "elements": 7,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "46": {
-      "elements": 9,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "47": {
-      "elements": 11,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "48": {
-      "elements": 6,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "49": {
-      "elements": 8,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "50": {
-      "elements": 8,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "51": {
-      "elements": 8,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "52": {
-      "elements": 7,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "53": {
-      "elements": 6,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "54": {
-      "elements": 8,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "55": {
-      "elements": 7,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "56": {
-      "elements": 7,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "57": {
-      "elements": 7,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "58": {
-      "elements": 10,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "59": {
-      "elements": 8,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "60": {
-      "elements": 9,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "61": {
-      "elements": 11,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "62": {
-      "elements": 9,
-      "flagged": 1,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": null,
-      "issues": [
+          "text_preview": "place."
+        },
         {
-          "element_id": "26_p62_e514",
-          "sequence_order": 514,
-          "page_number": 62,
-          "quality_score": 0.6,
-          "element_type": "section",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "27. Implementation"
-        }
-      ]
-    },
-    "63": {
-      "elements": 3,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "64": {
-      "elements": 2,
-      "flagged": 1,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": null,
-      "issues": [
+          "element_id": "26_p11_e136",
+          "sequence_order": 136,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "9.2 Registration of Deaths"
+        },
         {
-          "element_id": "26_p64_e519",
-          "sequence_order": 519,
-          "page_number": 64,
-          "quality_score": 0.6,
-          "element_type": "heading",
+          "element_id": "26_p11_e137",
+          "sequence_order": 137,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "Every death occurring within the municipal limits shall be reported and registered within 21 days. For"
+        },
+        {
+          "element_id": "26_p11_e138",
+          "sequence_order": 138,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "institutional deaths (hospitals, nursing homes), the medical officer in charge shall be the primary"
+        },
+        {
+          "element_id": "26_p11_e139",
+          "sequence_order": 139,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "informant. A Death Certificate issued by the Corporation is mandatory for all legal and insurance"
+        },
+        {
+          "element_id": "26_p11_e140",
+          "sequence_order": 140,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 1,
-          "text_preview": "Abbreviations"
+          "text_preview": "purposes."
+        },
+        {
+          "element_id": "26_p11_e141",
+          "sequence_order": 141,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "9.3 Issuance of Certificates"
+        },
+        {
+          "element_id": "26_p11_e142",
+          "sequence_order": 142,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "Birth and Death Certificates shall be issued by the Registration Officer upon payment of prescribed fees."
+        },
+        {
+          "element_id": "26_p11_e143",
+          "sequence_order": 143,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "Duplicate certificates may be obtained on affidavit in case of loss. Correction of errors in registered"
+        },
+        {
+          "element_id": "26_p11_e144",
+          "sequence_order": 144,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "records shall be done through a prescribed application process with supporting documentary evidence."
         }
       ]
-    },
-    "65": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
     }
   }
 }

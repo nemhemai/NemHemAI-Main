@@ -2,62 +2,379 @@
   "document_id": 2,
   "pages": {
     "1": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
+      "elements": 3,
+      "flagged": 3,
+      "flags": [
+        "noise_detected"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "2_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Brihanmumbai Municipal Corporation"
+        },
+        {
+          "element_id": "2_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "ENVIRONMENT STATUS REPORT"
+        },
+        {
+          "element_id": "2_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "2024 - 2025"
+        }
+      ]
+    },
+    "2": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "2_p2_e3",
+          "sequence_order": 3,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Malabar Hill Walkway"
+        },
+        {
+          "element_id": "2_p2_e4",
+          "sequence_order": 4,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Pramod Mahajan Garden"
+        }
+      ]
     },
     "3": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
+      "elements": 7,
+      "flagged": 7,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "2_p3_e5",
+          "sequence_order": 5,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "ENVIRONMENT STATUS REPORT"
+        },
+        {
+          "element_id": "2_p3_e6",
+          "sequence_order": 6,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "2024 - 2025"
+        },
+        {
+          "element_id": "2_p3_e7",
+          "sequence_order": 7,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "SCIENTIST IN-CHARGE"
+        },
+        {
+          "element_id": "2_p3_e8",
+          "sequence_order": 8,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "AIR QUALITY MONITORING & RESEARCH LABORATORY,"
+        },
+        {
+          "element_id": "2_p3_e9",
+          "sequence_order": 9,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "MUNICIPAL MARKET OFFICE BUILDING, NEW PARAMOUNT CHS, TILAK ROAD,"
+        },
+        {
+          "element_id": "2_p3_e10",
+          "sequence_order": 10,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "SANTACRUZ (WEST), MUMBAI-400 054."
+        },
+        {
+          "element_id": "2_p3_e11",
+          "sequence_order": 11,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Email: sicaqmrl.envcc@mcgm.gov.in | aqmrldata@gmail.com."
+        }
+      ]
     },
     "4": {
-      "elements": 14,
-      "flagged": 3,
+      "elements": 20,
+      "flagged": 20,
       "flags": [
         "low_content"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p4_e3",
-          "sequence_order": 3,
+          "element_id": "2_p4_e12",
+          "sequence_order": 12,
           "page_number": 4,
-          "quality_score": 0.6,
-          "element_type": "heading",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 1,
-          "text_preview": "मागदशक"
-        },
-        {
-          "element_id": "2_p4_e9",
-          "sequence_order": 9,
-          "page_number": 4,
-          "quality_score": 0.6,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
-          "text_preview": "ी. मनोहर चज"
+          "text_preview": "मागŊदशŊक"
         },
         {
           "element_id": "2_p4_e13",
           "sequence_order": 13,
           "page_number": 4,
-          "quality_score": 0.6,
-          "element_type": "section",
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "संकलन व िनिमŊती"
+        },
+        {
+          "element_id": "2_p4_e14",
+          "sequence_order": 14,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "ŵी. अिवनाश काटे"
+        },
+        {
+          "element_id": "2_p4_e15",
+          "sequence_order": 15,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Ůमुख अिभयंता"
+        },
+        {
+          "element_id": "2_p4_e16",
+          "sequence_order": 16,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "पयाŊवरण व वातावरणीय बदल िवभाग"
+        },
+        {
+          "element_id": "2_p4_e17",
+          "sequence_order": 17,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "ŵी. मनोहर चजő"
+        },
+        {
+          "element_id": "2_p4_e18",
+          "sequence_order": 18,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Ůभारी वैǒािनक शा˓ǒ,"
+        },
+        {
+          "element_id": "2_p4_e19",
+          "sequence_order": 19,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "वा.वै.स. व सं. Ůयोगशाळा"
+        },
+        {
+          "element_id": "2_p4_e20",
+          "sequence_order": 20,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "ŵी. िवकास िद. सामंत"
+        },
+        {
+          "element_id": "2_p4_e21",
+          "sequence_order": 21,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "उप Ůमुख अिभयंता"
+        },
+        {
+          "element_id": "2_p4_e22",
+          "sequence_order": 22,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "पयाŊवरण व वातावरणीय बदल िवभाग"
+        },
+        {
+          "element_id": "2_p4_e23",
+          "sequence_order": 23,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "ŵी. िनितन बोरसे"
+        },
+        {
+          "element_id": "2_p4_e24",
+          "sequence_order": 24,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "वįरʿ वैǒािनक अिधकारी,"
+        },
+        {
+          "element_id": "2_p4_e25",
+          "sequence_order": 25,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "वा.वै.स. व सं. Ůयोगशाळा"
+        },
+        {
+          "element_id": "2_p4_e26",
+          "sequence_order": 26,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
           "text_preview": "SCIENTIST IN-CHARGE"
+        },
+        {
+          "element_id": "2_p4_e27",
+          "sequence_order": 27,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "AIR QUALITY MONITORING & RESEARCH LABORATORY,"
+        },
+        {
+          "element_id": "2_p4_e28",
+          "sequence_order": 28,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "MUNICIPAL MARKET OFFICE BUILDING, NEW PARAMOUNT CHS, TILAK ROAD,"
+        },
+        {
+          "element_id": "2_p4_e29",
+          "sequence_order": 29,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "SANTACRUZ (WEST), MUMBAI-400 054."
+        },
+        {
+          "element_id": "2_p4_e30",
+          "sequence_order": 30,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Email: sicaqmrl.envcc@mcgm.gov.in | aqmrldata@gmail.com."
+        },
+        {
+          "element_id": "2_p4_e31",
+          "sequence_order": 31,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Environment Status Report 2024 -25"
         }
       ]
     },
@@ -69,35 +386,231 @@
       "issues": []
     },
     "7": {
-      "elements": 6,
-      "flagged": 0,
-      "flags": [],
+      "elements": 11,
+      "flagged": 11,
+      "flags": [
+        "low_content"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "2_p7_e33",
+          "sequence_order": 33,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "सन २०२४-२५ या वषाŊचा बृहɉुंबई 'पयाŊवरण İ˕तीदशŊक अहवाल' मुंबईकरांना सादर करताना मला अȑंत आनंद  होत आहे."
+        },
+        {
+          "element_id": "2_p7_e34",
+          "sequence_order": 34,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 144,
+          "text_preview": "अȨयावत सुधाįरत मुंबई महानगरपा᎘लका अिधिनयम, १८८८ मधील कलम ६१ (अ, ब) नुसार, महानगरातील वने,  पयाŊवरणाचे संरƗण व िनसगाŊचे स"
+        },
+        {
+          "element_id": "2_p7_e35",
+          "sequence_order": 35,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 130,
+          "text_preview": "मुंबई महानगराचा सवाōगीण िवकास करणे, हे ˕ािनक ˢराǛ सं˕ा या नाȑाने बृहɉुंबई महानगरपा᎘लकेचे मूलभूत  कतŊʩ आहे. हे कतŊʩ बजावत"
+        },
+        {
+          "element_id": "2_p7_e36",
+          "sequence_order": 36,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 123,
+          "text_preview": "बृहɉुंबई महानगरपा᎘लकेǉा िविवध िवभागांनी सन २०२४-२५ मȯे अनेक Ůकʙ हाती घेतले. ȑापैकी अनेक  Ůकʙ कामे पूणŊ झाली आहेत. तर, का"
+        },
+        {
+          "element_id": "2_p7_e37",
+          "sequence_order": 37,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 185,
+          "text_preview": "पयाŊवरण İ˕तीदशŊक अहवालाǉा अनुषंगाने मला असे िनदशŊनास आणून Ȩावयाचे आहे की, बृहɉुंबई  महानगरपा᎘लकेǉा घनकचरा ʩव˕ापन िवभागाम"
+        },
+        {
+          "element_id": "2_p7_e38",
+          "sequence_order": 38,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 49,
+          "text_preview": "मुंबई महानगरातील सम˟ांपैकी एक ʉणजे वाहनांची वाढती संƥा, पयाŊयाने उȥवणारे वायू Ůदूषण आ᎘ण वाहतूक  कोडंी होय. मुंबईतील वाहन"
+        },
+        {
+          "element_id": "2_p7_e39",
+          "sequence_order": 39,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "मनोगत"
+        },
+        {
+          "element_id": "2_p7_e40",
+          "sequence_order": 40,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "भूषण गगराणी"
+        },
+        {
+          "element_id": "2_p7_e41",
+          "sequence_order": 41,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "भा. Ů. से."
+        },
+        {
+          "element_id": "2_p7_e42",
+          "sequence_order": 42,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "महानगरपा᎘लका आयुƅ बृहɉुंबई महानगरपा᎘लका"
+        },
+        {
+          "element_id": "2_p7_e43",
+          "sequence_order": 43,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
+        }
+      ]
     },
     "8": {
-      "elements": 7,
-      "flagged": 0,
+      "elements": 9,
+      "flagged": 9,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "2_p8_e44",
+          "sequence_order": 44,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 63,
+          "text_preview": "आहे. माचŊ २०२५ अखेरपयōत मुंबईतील िविवध वाहनांची एकूण संƥा ५०,५४,९१६ एवढी Ůचंड आहे. वाहनांची वाढती संƥा ही  महानगरातील वा"
+        },
+        {
+          "element_id": "2_p8_e45",
+          "sequence_order": 45,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 46,
+          "text_preview": "बृहɉुंबई िवȨत पुरवठा आ᎘ण पįरवहन अथाŊत ‘बेːʼ हा मुंबई महानगरातील नागįरकांसाठी सावŊजिनक वाहतूक  ुआ᎘ण वीज पुरवǬातील सावŊजिन"
+        },
+        {
+          "element_id": "2_p8_e46",
+          "sequence_order": 46,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 147,
+          "text_preview": "़आपʞा ताɡात पयाŊवरणपूरक अशा बसेस समािवʼ केलेʞा आहेत. यामȯे कॉɽे̾ड नॅचरल गॅस (सीएनजी) वर धावणारया  ५८.१५ टſे तर िवȨत भारी"
+        },
+        {
+          "element_id": "2_p8_e47",
+          "sequence_order": 47,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 232,
+          "text_preview": "मुंबई महानगरात कमी वेळेत जाˑ Ůमाणात पडणारा पाऊस, िविवध Ůकारǉा अवजड वाहनांची वदŊळ, वाहतूक  घनता, िविवध Ůािधकरणे / सं˕ा या"
+        },
+        {
+          "element_id": "2_p8_e48",
+          "sequence_order": 48,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 138,
+          "text_preview": "मलिनःसारण Ůकʙ, मलजल वािहɊा याबाबत हाती घेǻात आलेʞा व पूणŊ झालेʞा कामांची मािहती या अहवालात  नमूद करǻात आलेली आहे. यासंदभ"
+        },
+        {
+          "element_id": "2_p8_e49",
+          "sequence_order": 49,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 67,
+          "text_preview": "पयाŊवरणाचा समतोल राखणे, वायू Ůदूषण टाळणे आ᎘ण ‘हįरत मुंबई, सुंदर व ˢǅ मुंबईʼ साकारǻाकįरता मुंबई  शहर व उपनगरात वृƗारोपण क"
+        },
+        {
+          "element_id": "2_p8_e50",
+          "sequence_order": 50,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 130,
+          "text_preview": "सांडपाǻावर ŮिŢया कŝन उपलɩ झालेले पाणी औȨोिगक आ᎘ण िपǻाʩितįरƅǉा वापरासाठी उपलɩ  करता येईल, यावर बृहɉुंबई महानगरपा᎘लकेने भर"
+        },
+        {
+          "element_id": "2_p8_e51",
+          "sequence_order": 51,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 96,
+          "text_preview": "मुंबई महानगरपा᎘लका अिधिनयम १८८८ ǉा कलम ६१ (Ɛू) नुसार, Ůाथिमक ᎘शƗणाची सुिवधा मुलांना उपलɩ  कŝन देणे, हे महानगरपा᎘लकेचे बं"
+        },
+        {
+          "element_id": "2_p8_e52",
+          "sequence_order": 52,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
+        }
+      ]
     },
     "9": {
-      "elements": 6,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "10": {
-      "elements": 5,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "11": {
-      "elements": 8,
+      "elements": 7,
       "flagged": 1,
       "flags": [
         "low_content"
@@ -105,9 +618,9 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p11_e46",
-          "sequence_order": 46,
-          "page_number": 11,
+          "element_id": "2_p9_e58",
+          "sequence_order": 58,
+          "page_number": 9,
           "quality_score": 0.6,
           "element_type": "paragraph",
           "reason": [
@@ -118,12 +631,399 @@
         }
       ]
     },
+    "10": {
+      "elements": 11,
+      "flagged": 11,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "2_p10_e60",
+          "sequence_order": 60,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 122,
+          "text_preview": "अȨयावत सुधाįरत मुंबई महानगरपा᎘लका अिधिनयम, १८८८ मधील कलम ६३ (ब) ̓ या तरतुदीनुसार, बृहɉुंबई  'पयाŊवरण İ˕तीदशŊक अहवाल' तया"
+        },
+        {
+          "element_id": "2_p10_e61",
+          "sequence_order": 61,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 193,
+          "text_preview": "पयाŊवरण संरƗण ही आजची महȇाची गरज आहे, ȑा अनुषंगाने कŐ ū शासनाने नैसिगŊक साधन संपȅी व  पयाŊवरणातील घटकांचे संरƗण व संवधŊन"
+        },
+        {
+          "element_id": "2_p10_e62",
+          "sequence_order": 62,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 86,
+          "text_preview": "बृहɉुंबई महानगरपा᎘लका ही नागरी सं˕ा असून मुंबई महानगरातील पयाŊवरणीय समतोल राखǻास किटबȠ  आहे. कŐ ū शासनाǉा पयाŊवरण, वने व"
+        },
+        {
+          "element_id": "2_p10_e63",
+          "sequence_order": 63,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 153,
+          "text_preview": "महानगरातील वायू Ůदूषण कमी करǻासाठी कŐ ūीय Ůदूषण िनयंũण मंडळ आ᎘ण महाराʼ Ůदूषण िनयंũण  Ōमंडळाǉा मागŊदशŊक तȇानुसार, 'मुंबई "
+        },
+        {
+          "element_id": "2_p10_e64",
+          "sequence_order": 64,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 122,
+          "text_preview": "समुūिकनारी वसलेʞा या महानगरास वातावरणीय बदलामुळे अवकाळी पाऊस, अितवृʼी, अवषŊण, उˁतेǉा  लाटा, नागरी Ůदूषण अशा िविवध सम˟ांन"
+        },
+        {
+          "element_id": "2_p10_e65",
+          "sequence_order": 65,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "मनोगत"
+        },
+        {
+          "element_id": "2_p10_e66",
+          "sequence_order": 66,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "डॉ. अिʷनी जोशी"
+        },
+        {
+          "element_id": "2_p10_e67",
+          "sequence_order": 67,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "भा. Ů. से."
+        },
+        {
+          "element_id": "2_p10_e68",
+          "sequence_order": 68,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "अितįरƅ महानगरपा᎘लका आयुƅ (शहर)"
+        },
+        {
+          "element_id": "2_p10_e69",
+          "sequence_order": 69,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "बृहɉुंबई महानगरपा᎘लका"
+        },
+        {
+          "element_id": "2_p10_e70",
+          "sequence_order": 70,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
+        }
+      ]
+    },
+    "11": {
+      "elements": 10,
+      "flagged": 10,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "2_p11_e71",
+          "sequence_order": 71,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 48,
+          "text_preview": "मूʞमापन कृती वाटचालीशी संबंिधत उजाŊ आ᎘ण इमारती, शाʷत वाहतूक, शाʷत कचरा ʩव˕ापन, नागरी हįरतीकरण व  जैविविवधता, हवेचा दजाŊ "
+        },
+        {
+          "element_id": "2_p11_e72",
+          "sequence_order": 72,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 155,
+          "text_preview": "आिथŊक वषŊ २०२४-२५ मȯे 'वातावरणीय अथŊसंकʙ अहवाल' सादर करणारी बृहɉुंबई महानगरपा᎘लका ही  देशातील पिहली महानगरपा᎘लका ठरली आह"
+        },
+        {
+          "element_id": "2_p11_e73",
+          "sequence_order": 73,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 231,
+          "text_preview": "महानगरातील पायाभूत सुिवधा Ůकʙ, उȨोगधंदे, वाहतुकीची वदŊळ, पारंपįरक इंधन वापर, इमारतीचंे बांधकाम व  पाडकाम इȑादी घटकांȪारे"
+        },
+        {
+          "element_id": "2_p11_e74",
+          "sequence_order": 74,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 136,
+          "text_preview": "मला येथे असेही िनदशŊनास आणून Ȩावयाचे आहे की, मुंबईतील वायू Ůदूषण व वातावरण बदलांमुळे हवेची  खालावलेली गुणवȅा सुधारǻासाठी"
+        },
+        {
+          "element_id": "2_p11_e75",
+          "sequence_order": 75,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 88,
+          "text_preview": "उपरोƅ िविवध ˑरावरील ŮयȉांȪारे महानगरातील पयाŊवरण समतोल, रƗण व संवधŊनासाठी बृहɉुंबई  महानगरपा᎘लका किटबȠ आहे. शासन व ˕ािनक"
+        },
+        {
+          "element_id": "2_p11_e76",
+          "sequence_order": 76,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "धɊवाद!"
+        },
+        {
+          "element_id": "2_p11_e77",
+          "sequence_order": 77,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "डॉ. अिʷनी जोशी"
+        },
+        {
+          "element_id": "2_p11_e78",
+          "sequence_order": 78,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "अितįरƅ महानगरपा᎘लका आयुƅ (शहर)"
+        },
+        {
+          "element_id": "2_p11_e79",
+          "sequence_order": 79,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "बृहɉुंबई महानगरपा᎘लका, मुंबई"
+        },
+        {
+          "element_id": "2_p11_e80",
+          "sequence_order": 80,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
+        }
+      ]
+    },
     "12": {
-      "elements": 4,
-      "flagged": 0,
+      "elements": 15,
+      "flagged": 15,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "2_p12_e81",
+          "sequence_order": 81,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "'बृहɉुंबई महानगरपा᎘लका पयाŊवरण İ˕तीदशŊक अहवाल' तयार करǻासाठी व िविवध पयाŊवरण पूरक उपŢम"
+        },
+        {
+          "element_id": "2_p12_e82",
+          "sequence_order": 82,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "राबिवǻासाठी वेळोवेळी केलेʞा मागŊदशŊनाबȞल मा. महानगरपा᎘लका आयुƅ तसेच मा. अितįरƅ महानगरपा᎘लका"
+        },
+        {
+          "element_id": "2_p12_e83",
+          "sequence_order": 83,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "आयुƅ (पिʮम उपनगरे) यांचे मी मनःपूवŊक आभार मानतो."
+        },
+        {
+          "element_id": "2_p12_e84",
+          "sequence_order": 84,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "ȑाचŮमाणे महाराʼ Ůदूषण िनयंũण मंडळ, मुंबई िवȨत पुरवठा व पįरवहन, महाराʼ राǛ पįरवहन खाते, राʼीय  ुŌŌŌ"
+        },
+        {
+          "element_id": "2_p12_e85",
+          "sequence_order": 85,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "केिमकʤ अॅǷ फिटŊलाइजसŊ ᎘लिमटेड, भारत पेटŌो᎘लअम कापेाŊरेशन ᎘ल., टाटा पॉवर, मुंबई पोटŊ टŌː, अदानी इलेİƃŌ᎘सटी"
+        },
+        {
+          "element_id": "2_p12_e86",
+          "sequence_order": 86,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "मुंबई ᎘लिमटेड,कांदळवन कƗ आ᎘ण बृहɉुंबई महानगरपा᎘लकेचे िविवध िवभाग या सवाōकडून मािहती उपलɩ झाली."
+        },
+        {
+          "element_id": "2_p12_e87",
+          "sequence_order": 87,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "ȑाबȞल ȑांचा मी मनˢीः आभारी आहे."
+        },
+        {
+          "element_id": "2_p12_e88",
+          "sequence_order": 88,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "आभार / अिभİˢकृती"
+        },
+        {
+          "element_id": "2_p12_e89",
+          "sequence_order": 89,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "राजेश ताʉाणे  महानगरपा᎘लका उप आयुƅ"
+        },
+        {
+          "element_id": "2_p12_e90",
+          "sequence_order": 90,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "(पयाŊवरण व वातावरणीय बदल)"
+        },
+        {
+          "element_id": "2_p12_e91",
+          "sequence_order": 91,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "बृहɉुंबई महानगरपा᎘लका मुंबई"
+        },
+        {
+          "element_id": "2_p12_e92",
+          "sequence_order": 92,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "राजेश चंūकांत ताʉाणे"
+        },
+        {
+          "element_id": "2_p12_e93",
+          "sequence_order": 93,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "उप आयुƅ (पयाŊवरण व वातावरणीय बदल)"
+        },
+        {
+          "element_id": "2_p12_e94",
+          "sequence_order": 94,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "बृहɉुंबई महानगरपा᎘लका"
+        },
+        {
+          "element_id": "2_p12_e95",
+          "sequence_order": 95,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
+        }
+      ]
     },
     "13": {
       "elements": 2,
@@ -134,8 +1034,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p13_e53",
-          "sequence_order": 53,
+          "element_id": "2_p13_e96",
+          "sequence_order": 96,
           "page_number": 13,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -155,18 +1055,448 @@
       "issues": []
     },
     "15": {
-      "elements": 2,
-      "flagged": 0,
-      "flags": [],
+      "elements": 19,
+      "flagged": 19,
+      "flags": [
+        "low_content"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "2_p15_e99",
+          "sequence_order": 99,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "1 INTRODUCTION"
+        },
+        {
+          "element_id": "2_p15_e100",
+          "sequence_order": 100,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "The overall development of the city of Mumbai is the fundamental duty of the Brihanmumbai"
+        },
+        {
+          "element_id": "2_p15_e101",
+          "sequence_order": 101,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "Municipal Corporation as a local self-government institution. While discharging this duty, it is equally"
+        },
+        {
+          "element_id": "2_p15_e102",
+          "sequence_order": 102,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "important to protect the environment by taking measures to address the environmental issues arising in"
+        },
+        {
+          "element_id": "2_p15_e103",
+          "sequence_order": 103,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "the city. Many new projects are coming up in the city. People also need to be provided with basic"
+        },
+        {
+          "element_id": "2_p15_e104",
+          "sequence_order": 104,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "amenities. While doing all this, it is necessary to prepare an 'Environmental Status Report' and submit it to"
+        },
+        {
+          "element_id": "2_p15_e105",
+          "sequence_order": 105,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "the Municipal Corporation to show all the conditions that directly or indirectly affect the environment."
+        },
+        {
+          "element_id": "2_p15_e106",
+          "sequence_order": 106,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "The 74th amendment of the constitution of India in 1992 defines the role and duties of"
+        },
+        {
+          "element_id": "2_p15_e107",
+          "sequence_order": 107,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "Municipalities & Municipal Corporations. The 12th schedule to the amended constitution states the scope"
+        },
+        {
+          "element_id": "2_p15_e108",
+          "sequence_order": 108,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "of the work of the corporations. The scope includes environment protection, promotion of ecology and"
+        },
+        {
+          "element_id": "2_p15_e109",
+          "sequence_order": 109,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "urban forestry. As a sequel to this, the Maharashtra state government issued an ordinance amend"
+        },
+        {
+          "element_id": "2_p15_e110",
+          "sequence_order": 110,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "municipal act 1888, making “Environment Protection, Promotion of Ecology and Urban Forestry” as an"
+        },
+        {
+          "element_id": "2_p15_e111",
+          "sequence_order": 111,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "obligatory duty vide section 61(ab) in the year 1994. The Environment Status Report (ESR) of the city of"
+        },
+        {
+          "element_id": "2_p15_e112",
+          "sequence_order": 112,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "Mumbai for the period from April 2024 to March 2025 is prepared by Air Quality Monitoring and Research"
+        },
+        {
+          "element_id": "2_p15_e113",
+          "sequence_order": 113,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "Laboratory of Environment & Climate Change department to fulfill the obligation under the clause ‘63Bʼ"
+        },
+        {
+          "element_id": "2_p15_e114",
+          "sequence_order": 114,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "of Mumbai Municipal Corporation (MMC) Act 1888. This report is based on the factual and statical data"
+        },
+        {
+          "element_id": "2_p15_e115",
+          "sequence_order": 115,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "generated using parameters affecting the environment by different departments of Brihanmumbai"
+        },
+        {
+          "element_id": "2_p15_e116",
+          "sequence_order": 116,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Municipal Corporation and various departments of state/central government and industries."
+        },
+        {
+          "element_id": "2_p15_e117",
+          "sequence_order": 117,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
+        }
+      ]
     },
     "16": {
-      "elements": 3,
-      "flagged": 0,
-      "flags": [],
+      "elements": 23,
+      "flagged": 23,
+      "flags": [
+        "low_content"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "2_p16_e118",
+          "sequence_order": 118,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Mumbai is located on the western sea coast of"
+        },
+        {
+          "element_id": "2_p16_e119",
+          "sequence_order": 119,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "India from 18o 53' North to 19o 16' North Latitude and"
+        },
+        {
+          "element_id": "2_p16_e120",
+          "sequence_order": 120,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "from 72o East to 72o 59' East Longitude. It was originally"
+        },
+        {
+          "element_id": "2_p16_e121",
+          "sequence_order": 121,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "a cluster of seven islands. Later on these islands were"
+        },
+        {
+          "element_id": "2_p16_e122",
+          "sequence_order": 122,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "joined to form present Mumbai. The total land of Greater"
+        },
+        {
+          "element_id": "2_p16_e123",
+          "sequence_order": 123,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Mumbai identified in Earlier Draft Development Plan"
+        },
+        {
+          "element_id": "2_p16_e124",
+          "sequence_order": 124,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "2034 (EDDP)was 458.28 sq km. The Municipal"
+        },
+        {
+          "element_id": "2_p16_e125",
+          "sequence_order": 125,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Corporation of Greater Mumbai (Brihanmumbai"
+        },
+        {
+          "element_id": "2_p16_e126",
+          "sequence_order": 126,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Municipal Corporation), however, was the Planning"
+        },
+        {
+          "element_id": "2_p16_e127",
+          "sequence_order": 127,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Authority of area that was more modest, since about"
+        },
+        {
+          "element_id": "2_p16_e128",
+          "sequence_order": 128,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "8.76% of the cited area fell under the jurisdiction of"
+        },
+        {
+          "element_id": "2_p16_e129",
+          "sequence_order": 129,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Special Planning Authorities (SPA).Currently Five such"
+        },
+        {
+          "element_id": "2_p16_e130",
+          "sequence_order": 130,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "SPA exist in Greater Mumbai- MMRDA, SRA,"
+        },
+        {
+          "element_id": "2_p16_e131",
+          "sequence_order": 131,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "MIDC,MbPT & Mhada. The Revised Draft Development"
+        },
+        {
+          "element_id": "2_p16_e132",
+          "sequence_order": 132,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Plan (RDDP) therefore prepared a development plan for"
+        },
+        {
+          "element_id": "2_p16_e133",
+          "sequence_order": 133,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "434.55 sq.km. leaving area with SA at 41.69 sq.km.The"
+        },
+        {
+          "element_id": "2_p16_e134",
+          "sequence_order": 134,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "area of MbPT and Mhada SPA were inculded during the"
+        },
+        {
+          "element_id": "2_p16_e135",
+          "sequence_order": 135,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "preparation of RDDP, as the said SPA's were declared on"
+        },
+        {
+          "element_id": "2_p16_e136",
+          "sequence_order": 136,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "23.04.2018 & 23.05.2018 by the GoM after the publication of RDDP."
+        },
+        {
+          "element_id": "2_p16_e137",
+          "sequence_order": 137,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "2  DESCRIPTION OF THE AREA"
+        },
+        {
+          "element_id": "2_p16_e138",
+          "sequence_order": 138,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Map No. 2.1: Mumbai Electoral"
+        },
+        {
+          "element_id": "2_p16_e139",
+          "sequence_order": 139,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Ward Boundary"
+        },
+        {
+          "element_id": "2_p16_e140",
+          "sequence_order": 140,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
+        }
+      ]
     },
     "17": {
       "elements": 4,
@@ -198,8 +1528,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p20_e80",
-          "sequence_order": 80,
+          "element_id": "2_p20_e160",
+          "sequence_order": 160,
           "page_number": 20,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -219,11 +1549,106 @@
       "issues": []
     },
     "22": {
-      "elements": 4,
-      "flagged": 0,
-      "flags": [],
+      "elements": 9,
+      "flagged": 9,
+      "flags": [
+        "low_content"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "2_p22_e177",
+          "sequence_order": 177,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Map No. 5.2: Costal Regulation Zone area of Mumbai"
+        },
+        {
+          "element_id": "2_p22_e178",
+          "sequence_order": 178,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "hereby conveys its approval of the CZMPs for the Mumbai City and Mumbai Sub-Urban in the State of"
+        },
+        {
+          "element_id": "2_p22_e179",
+          "sequence_order": 179,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Maharashtra."
+        },
+        {
+          "element_id": "2_p22_e180",
+          "sequence_order": 180,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Brihanmumbai Municipal Corporation (BMC) has developed a new online module aimed at"
+        },
+        {
+          "element_id": "2_p22_e181",
+          "sequence_order": 181,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "facilitating the process of seeking Coastal Regulation Zone (CRZ) remarks. This initiative is in alignment"
+        },
+        {
+          "element_id": "2_p22_e182",
+          "sequence_order": 182,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "with the Sanctioned Development Plan 2024 and the SRDP 1991."
+        },
+        {
+          "element_id": "2_p22_e183",
+          "sequence_order": 183,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "Also BMC has successfully developed switch tabs in the Table of Contents (TOC) functionalities,"
+        },
+        {
+          "element_id": "2_p22_e184",
+          "sequence_order": 184,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "allowing users to view the CZMP 2019 map in conjunction with the DP 2034."
+        },
+        {
+          "element_id": "2_p22_e185",
+          "sequence_order": 185,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
+        }
+      ]
     },
     "23": {
       "elements": 8,
@@ -248,8 +1673,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p25_e132",
-          "sequence_order": 132,
+          "element_id": "2_p25_e217",
+          "sequence_order": 217,
           "page_number": 25,
           "quality_score": 0.6,
           "element_type": "clause",
@@ -260,8 +1685,8 @@
           "text_preview": "Crab Farming"
         },
         {
-          "element_id": "2_p25_e135",
-          "sequence_order": 135,
+          "element_id": "2_p25_e220",
+          "sequence_order": 220,
           "page_number": 25,
           "quality_score": 0.6,
           "element_type": "clause",
@@ -289,8 +1714,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p27_e162",
-          "sequence_order": 162,
+          "element_id": "2_p27_e247",
+          "sequence_order": 247,
           "page_number": 27,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -318,8 +1743,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p29_e168",
-          "sequence_order": 168,
+          "element_id": "2_p29_e253",
+          "sequence_order": 253,
           "page_number": 29,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -339,31 +1764,286 @@
       "issues": []
     },
     "31": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "32": {
-      "elements": 6,
-      "flagged": 1,
+      "elements": 4,
+      "flagged": 4,
       "flags": [
         "low_content"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p32_e187",
-          "sequence_order": 187,
-          "page_number": 32,
-          "quality_score": 0.6,
-          "element_type": "section",
+          "element_id": "2_p31_e271",
+          "sequence_order": 271,
+          "page_number": 31,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Under modernization development works, approx. 105 trees of various 29 Indigenous species"
+        },
+        {
+          "element_id": "2_p31_e272",
+          "sequence_order": 272,
+          "page_number": 31,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "have been newly planted inside/nearby all the animal exhibits which has helped to maintain the"
+        },
+        {
+          "element_id": "2_p31_e273",
+          "sequence_order": 273,
+          "page_number": 31,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
-          "token_count": 2,
-          "text_preview": "WATER SUPPLY"
+          "token_count": 1,
+          "text_preview": "blodiversity."
+        },
+        {
+          "element_id": "2_p31_e274",
+          "sequence_order": 274,
+          "page_number": 31,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
+        }
+      ]
+    },
+    "32": {
+      "elements": 22,
+      "flagged": 22,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "2_p32_e275",
+          "sequence_order": 275,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "9 WATER SUPPLY"
+        },
+        {
+          "element_id": "2_p32_e276",
+          "sequence_order": 276,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Mumbai receives raw water from seven impounded water resources viz. Vihar and Tulsi"
+        },
+        {
+          "element_id": "2_p32_e277",
+          "sequence_order": 277,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "within Mumbai and Tansa, Modak Sagar, Upper Vaitarna, Middle Vaitarna and Bhatasa located at a"
+        },
+        {
+          "element_id": "2_p32_e278",
+          "sequence_order": 278,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "distance of about 100 to 175 Kms from Mumbai."
+        },
+        {
+          "element_id": "2_p32_e279",
+          "sequence_order": 279,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "Raw water available from these sources is conveyed with transmission main system ranging from"
+        },
+        {
+          "element_id": "2_p32_e280",
+          "sequence_order": 280,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "5500 mm to 2235 mm diameter pipelines and tunnels to the state of the art water treatment facilities at"
+        },
+        {
+          "element_id": "2_p32_e281",
+          "sequence_order": 281,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "Bhandup Complex (2810 MLD) and Panjrapor (1365 MLD) Water Treatment facilities for tulsi (18 MLD) and"
+        },
+        {
+          "element_id": "2_p32_e282",
+          "sequence_order": 282,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "Vihar (90 MLD) are located near to these sources. At these treatment plants, water is treated with"
+        },
+        {
+          "element_id": "2_p32_e283",
+          "sequence_order": 283,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "processes such as coagulation, flocculation, settling, rapid sand filtration and post-Chlorination and"
+        },
+        {
+          "element_id": "2_p32_e284",
+          "sequence_order": 284,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "quality of the effluent water is maintained in accordance with IS 10500: 2012 - Drinking water"
+        },
+        {
+          "element_id": "2_p32_e285",
+          "sequence_order": 285,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Specifications."
+        },
+        {
+          "element_id": "2_p32_e286",
+          "sequence_order": 286,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "The treated water is stored in the Master Balancing Reservoirs (MBR) located near to treatment"
+        },
+        {
+          "element_id": "2_p32_e287",
+          "sequence_order": 287,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "plants at Bhandup Complex within Mumbai and Yewai outside Mumbai. It is further distributed to 27"
+        },
+        {
+          "element_id": "2_p32_e288",
+          "sequence_order": 288,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "service reservoirs located throughout Mumbai City with water supply network of about 450 Kms this"
+        },
+        {
+          "element_id": "2_p32_e289",
+          "sequence_order": 289,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "conveyance system remains charged for 24 hours and eliminates the chances of water contamination"
+        },
+        {
+          "element_id": "2_p32_e290",
+          "sequence_order": 290,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "because of intrusion of ground water/sewage etc. There is 4000 M.L.D. water supplies to Mumbai."
+        },
+        {
+          "element_id": "2_p32_e291",
+          "sequence_order": 291,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "The population growth trend of Mumbai is continued. The projected water demand for 2041 is"
+        },
+        {
+          "element_id": "2_p32_e292",
+          "sequence_order": 292,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "6535 MLD (including enroute supply and transmission losses). The process of developing Government"
+        },
+        {
+          "element_id": "2_p32_e293",
+          "sequence_order": 293,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "allotted Gargai (440 MLD), Pinjal (865 MLD) and Damanganga-Pinjal River Link Project (1586 MLD) water"
+        },
+        {
+          "element_id": "2_p32_e294",
+          "sequence_order": 294,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "supply sources to meet the future water demand. On completion of these projects, the water supply will be"
+        },
+        {
+          "element_id": "2_p32_e295",
+          "sequence_order": 295,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Population Projection, Demand and Augmentation of Water Supply:"
+        },
+        {
+          "element_id": "2_p32_e296",
+          "sequence_order": 296,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
         }
       ]
     },
@@ -376,8 +2056,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p33_e196",
-          "sequence_order": 196,
+          "element_id": "2_p33_e300",
+          "sequence_order": 300,
           "page_number": 33,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -446,11 +2126,236 @@
       "issues": []
     },
     "42": {
-      "elements": 5,
-      "flagged": 0,
-      "flags": [],
+      "elements": 22,
+      "flagged": 22,
+      "flags": [
+        "low_content"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "2_p42_e370",
+          "sequence_order": 370,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "tunnel 2.80 m dia. tunnel by TBM from SCI shaft to Ghatkopar High level reservoir is completed."
+        },
+        {
+          "element_id": "2_p42_e371",
+          "sequence_order": 371,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "Presently work of excavation of tunnel 2.80 m dia. tunnel by TBM from Ghatkopar High level"
+        },
+        {
+          "element_id": "2_p42_e372",
+          "sequence_order": 372,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "reservoir to Ghatkopar low level reservoir is in progress along with exaction of tunnel from SCI shaft to old"
+        },
+        {
+          "element_id": "2_p42_e373",
+          "sequence_order": 373,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "TBM buried location is in progress by NATM method. The physical progress of the work is 38 %. The"
+        },
+        {
+          "element_id": "2_p42_e374",
+          "sequence_order": 374,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "schedule date of completion of work is 01.03.2027."
+        },
+        {
+          "element_id": "2_p42_e375",
+          "sequence_order": 375,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "6.Construction of tunnel from Hedgewar Udyan to Trombay Low Level Reservoir, Further upto"
+        },
+        {
+          "element_id": "2_p42_e376",
+          "sequence_order": 376,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "Trombay High Level Reservoir (2.5 mtrs dia, 5.5 Kms length): The shaft excavation and its RCC lining at"
+        },
+        {
+          "element_id": "2_p42_e377",
+          "sequence_order": 377,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "Hedgewar Udyan, TLLR and THLR site is completed. The tunnel boring from Hedgewar Udyan to TLLR and"
+        },
+        {
+          "element_id": "2_p42_e378",
+          "sequence_order": 378,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "from TLLR and THLR by TBM and its lining is also completed. Vertical pipeline in shaft at Hedgewar Udyan,"
+        },
+        {
+          "element_id": "2_p42_e379",
+          "sequence_order": 379,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "TLLR and THLR site is completed. The surface pipeline work at Hedgewar Udyan is completed. Further, the"
+        },
+        {
+          "element_id": "2_p42_e380",
+          "sequence_order": 380,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "surface pipeline work at TLLR and THLR is in progress."
+        },
+        {
+          "element_id": "2_p42_e381",
+          "sequence_order": 381,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "At present the overall progress of the project is 93% and is expected to be complete by 29th"
+        },
+        {
+          "element_id": "2_p42_e382",
+          "sequence_order": 382,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "September 2025. After completion of the project, the water supply in M/East and M/West Wards will be"
+        },
+        {
+          "element_id": "2_p42_e383",
+          "sequence_order": 383,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "improved."
+        },
+        {
+          "element_id": "2_p42_e384",
+          "sequence_order": 384,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "7. Amar Mahal-Wadala-Parel tunnel (2.5 mtrs dia, 9.7 kms length): The first stretch of 4.2 Km of"
+        },
+        {
+          "element_id": "2_p42_e385",
+          "sequence_order": 385,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "tunnel boring and subsequent tunnel lining from Amar Mahal (Ghatkoper) to Wadala (Pratiksha Nagar)"
+        },
+        {
+          "element_id": "2_p42_e386",
+          "sequence_order": 386,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "upto Parel (Sadakant Dhavan Udyan) has been completed in August 2022. The boring of second stretch i.e."
+        },
+        {
+          "element_id": "2_p42_e387",
+          "sequence_order": 387,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "from Wadala to Parelis completed. Tunnel R.C.C. lining of this stretch is in progress. The overall progress of"
+        },
+        {
+          "element_id": "2_p42_e388",
+          "sequence_order": 388,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "the project is 85%. Objective of said tunnel is to improve the water supply of 'F/North', 'F/South' and part"
+        },
+        {
+          "element_id": "2_p42_e389",
+          "sequence_order": 389,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "of 'E' and 'L' Wards and will also cater to the requirement of future development at BPT(Bombay Port Trust)"
+        },
+        {
+          "element_id": "2_p42_e390",
+          "sequence_order": 390,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "land and Wadala Truck Terminal areas."
+        },
+        {
+          "element_id": "2_p42_e391",
+          "sequence_order": 391,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
+        }
+      ]
     },
     "43": {
       "elements": 11,
@@ -461,8 +2366,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p43_e271",
-          "sequence_order": 271,
+          "element_id": "2_p43_e392",
+          "sequence_order": 392,
           "page_number": 43,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -475,11 +2380,72 @@
       ]
     },
     "44": {
-      "elements": 2,
-      "flagged": 0,
+      "elements": 6,
+      "flagged": 6,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "2_p44_e403",
+          "sequence_order": 403,
+          "page_number": 44,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "Reconstruction of Malabar Hill Reservoir at Phirozshah Mehta Garden Malabar Hill in 'D' Ward"
+        },
+        {
+          "element_id": "2_p44_e404",
+          "sequence_order": 404,
+          "page_number": 44,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "(1.47 MLD): -The work of Reconstruction of Malabar Hill Reservoir has been initiated, however at present"
+        },
+        {
+          "element_id": "2_p44_e405",
+          "sequence_order": 405,
+          "page_number": 44,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "the work is stopped. At present the remarks of IIT Roorkee has been obtained on the feasibility to repair"
+        },
+        {
+          "element_id": "2_p44_e406",
+          "sequence_order": 406,
+          "page_number": 44,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "the reservoir without constructing and additional reservoir."
+        },
+        {
+          "element_id": "2_p44_e407",
+          "sequence_order": 407,
+          "page_number": 44,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Reconstruction of Existing Reservoirs:"
+        },
+        {
+          "element_id": "2_p44_e408",
+          "sequence_order": 408,
+          "page_number": 44,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
+        }
+      ]
     },
     "45": {
       "elements": 8,
@@ -503,11 +2469,212 @@
       "issues": []
     },
     "48": {
-      "elements": 6,
-      "flagged": 0,
+      "elements": 20,
+      "flagged": 20,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "2_p48_e427",
+          "sequence_order": 427,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "as compare to last two years. Hence, it is necessary to create awareness among the citizens of Mumbai to"
+        },
+        {
+          "element_id": "2_p48_e428",
+          "sequence_order": 428,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "avoid wastage of water. As a part of awareness campaign it is decided to distribute and display the Save"
+        },
+        {
+          "element_id": "2_p48_e429",
+          "sequence_order": 429,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "Water Awareness posters in 24 wards of BMC, to publish advertisement in local daily newspaper, to"
+        },
+        {
+          "element_id": "2_p48_e430",
+          "sequence_order": 430,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "broadcast audio clip though FM radio and to display save water messages on BMC portal."
+        },
+        {
+          "element_id": "2_p48_e431",
+          "sequence_order": 431,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "It is necessary to create awareness among the citizens of Mumbai to avoid wastage of water. As a"
+        },
+        {
+          "element_id": "2_p48_e432",
+          "sequence_order": 432,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "part of awareness campaign it is decided to distribute and display the Save Water Awareness posters in 24"
+        },
+        {
+          "element_id": "2_p48_e433",
+          "sequence_order": 433,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "wards of BMC and to publish advertisement in local daily newspaper."
+        },
+        {
+          "element_id": "2_p48_e434",
+          "sequence_order": 434,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "The Central Government has launched the Jal Shakti Abhiyan, a nationwide campaign to \"Catch"
+        },
+        {
+          "element_id": "2_p48_e435",
+          "sequence_order": 435,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "the Rain,\" in 2019. Under this campaign, the Jal Sanchay Jal Bhagidari initiative had been launched on"
+        },
+        {
+          "element_id": "2_p48_e436",
+          "sequence_order": 436,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "06.09.2024. The main objective of this initiative is to save water. The Jal Sanchay Jan Bhagidari campaign"
+        },
+        {
+          "element_id": "2_p48_e437",
+          "sequence_order": 437,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "aims to build 10,000 recharge structures within the limits/jurisdiction of each Municipal Corporation. As"
+        },
+        {
+          "element_id": "2_p48_e438",
+          "sequence_order": 438,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "part of the Jal Shakti Abhiyan, a separate website has been launched for the Jal Sanchay Jan Bhagidari"
+        },
+        {
+          "element_id": "2_p48_e439",
+          "sequence_order": 439,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "initiative, where information such as photos of the recharge structures, latitude and longitude, and the"
+        },
+        {
+          "element_id": "2_p48_e440",
+          "sequence_order": 440,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "current status of the structures must be submitted."
+        },
+        {
+          "element_id": "2_p48_e441",
+          "sequence_order": 441,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Brihanmumbai Municipal Corporation takes efforts in all directions to support Rain Water"
+        },
+        {
+          "element_id": "2_p48_e442",
+          "sequence_order": 442,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "Harvesting which is one of the Best Management Practices for a Corporation. It is the duty of all citizens to"
+        },
+        {
+          "element_id": "2_p48_e443",
+          "sequence_order": 443,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "contribute their own efforts to this cause to help themselves."
+        },
+        {
+          "element_id": "2_p48_e444",
+          "sequence_order": 444,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Save water awareness campaign–2025"
+        },
+        {
+          "element_id": "2_p48_e445",
+          "sequence_order": 445,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Jal Shakti Abhiyan – Jal Sanchay Jan Bhagidari -2025"
+        },
+        {
+          "element_id": "2_p48_e446",
+          "sequence_order": 446,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
+        }
+      ]
     },
     "49": {
       "elements": 8,
@@ -525,8 +2692,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p50_e316",
-          "sequence_order": 316,
+          "element_id": "2_p50_e455",
+          "sequence_order": 455,
           "page_number": 50,
           "quality_score": 0.6,
           "element_type": "paragraph",
@@ -542,14 +2709,14 @@
       "elements": 14,
       "flagged": 2,
       "flags": [
-        "corrupted_text",
-        "low_content"
+        "low_content",
+        "corrupted_text"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p51_e330",
-          "sequence_order": 330,
+          "element_id": "2_p51_e469",
+          "sequence_order": 469,
           "page_number": 51,
           "quality_score": 0.6,
           "element_type": "paragraph",
@@ -560,8 +2727,8 @@
           "text_preview": "Dissolved Oxygen"
         },
         {
-          "element_id": "2_p51_e331",
-          "sequence_order": 331,
+          "element_id": "2_p51_e470",
+          "sequence_order": 470,
           "page_number": 51,
           "quality_score": 0.3,
           "element_type": "paragraph",
@@ -571,6 +2738,24 @@
           ],
           "token_count": 1,
           "text_preview": "B.O.D.:"
+        }
+      ]
+    },
+    "52": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "2_p52_e476",
+          "sequence_order": 476,
+          "page_number": 52,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
         }
       ]
     },
@@ -597,8 +2782,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p55_e354",
-          "sequence_order": 354,
+          "element_id": "2_p55_e494",
+          "sequence_order": 494,
           "page_number": 55,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -611,18 +2796,297 @@
       ]
     },
     "56": {
-      "elements": 6,
-      "flagged": 0,
-      "flags": [],
+      "elements": 22,
+      "flagged": 22,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "2_p56_e498",
+          "sequence_order": 498,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "during high tide. This helps in the rapid drainage of rainwater. Also, flood control valves are arranged at"
+        },
+        {
+          "element_id": "2_p56_e499",
+          "sequence_order": 499,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "necessary places to prevent high tide water from entering urban areas. Apart from this, trash dumps have"
+        },
+        {
+          "element_id": "2_p56_e500",
+          "sequence_order": 500,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "been arranged on some drains to prevent waste from urban areas from entering the sea."
+        },
+        {
+          "element_id": "2_p56_e501",
+          "sequence_order": 501,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "The Brihanmumbai Municipal Corporation has undertaken the work of revitalizing the Dahisar,"
+        },
+        {
+          "element_id": "2_p56_e502",
+          "sequence_order": 502,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "Poisar and Oshiwara river, and the work revitalizing the Dahisar, Poisar and Oshiwara in progress."
+        },
+        {
+          "element_id": "2_p56_e503",
+          "sequence_order": 503,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "River revitalization works include widening rivers, improving river water quality, preventing"
+        },
+        {
+          "element_id": "2_p56_e504",
+          "sequence_order": 504,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "pollution from entering the river from the river catchment area, constructing a network of sewage"
+        },
+        {
+          "element_id": "2_p56_e505",
+          "sequence_order": 505,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "channels, access roads for sewage treatment, beautifying river banks, and setting up sewage treatment"
+        },
+        {
+          "element_id": "2_p56_e506",
+          "sequence_order": 506,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "plants, etc."
+        },
+        {
+          "element_id": "2_p56_e507",
+          "sequence_order": 507,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "For the effective implementation of Mithi river Development Project, the Government of"
+        },
+        {
+          "element_id": "2_p56_e508",
+          "sequence_order": 508,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Maharashtra vide Government Decision No.MRD-3305/PR.No.-109/dated 19.08.2005 established the"
+        },
+        {
+          "element_id": "2_p56_e509",
+          "sequence_order": 509,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Mithi River Development and Protection Authority under the chairmanship of Hon. Chief Minister,"
+        },
+        {
+          "element_id": "2_p56_e510",
+          "sequence_order": 510,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 18,
+          "text_preview": "Government of Maharashtra. As per the said Government decision, out of the total 17 km length of the"
+        },
+        {
+          "element_id": "2_p56_e511",
+          "sequence_order": 511,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "river, 11 km length (between Filterpada, Powai to CST Bridge Kurla) development works have been carried"
+        },
+        {
+          "element_id": "2_p56_e512",
+          "sequence_order": 512,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "out by the Mumbai Municipal Corporation and the remaining 6 km length (between CST bridge, Kurla to"
+        },
+        {
+          "element_id": "2_p56_e513",
+          "sequence_order": 513,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Mahim Causeway) development works have been carried out by the Mumbai Metropolitan Region"
+        },
+        {
+          "element_id": "2_p56_e514",
+          "sequence_order": 514,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Development Authority under the guidance of Mithi River Development and Protection Authority. The"
+        },
+        {
+          "element_id": "2_p56_e515",
+          "sequence_order": 515,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "widening and deepening of Mithi River which is under the jurisdiction of the Brihanmumbai Municipal"
+        },
+        {
+          "element_id": "2_p56_e516",
+          "sequence_order": 516,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "Corporation is almost complete, except for the section between the Kurla-Kalina Bridge and CST Bridge."
+        },
+        {
+          "element_id": "2_p56_e517",
+          "sequence_order": 517,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "As of now, the work of widening and deepening of the 17 Km long Mithi river is 93.96% completed"
+        },
+        {
+          "element_id": "2_p56_e518",
+          "sequence_order": 518,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Development of Mithi River:"
+        },
+        {
+          "element_id": "2_p56_e519",
+          "sequence_order": 519,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
+        }
+      ]
     },
     "57": {
-      "elements": 1,
-      "flagged": 0,
+      "elements": 5,
+      "flagged": 5,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "2_p57_e520",
+          "sequence_order": 520,
+          "page_number": 57,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "and the work of constructing the protective wall is 94.60% completed, Thus, the retention capacity of the"
+        },
+        {
+          "element_id": "2_p57_e521",
+          "sequence_order": 521,
+          "page_number": 57,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "Mithi river has increased by two times and the carrying capacity has increased by three times. A Mithi river"
+        },
+        {
+          "element_id": "2_p57_e522",
+          "sequence_order": 522,
+          "page_number": 57,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "pollution control plan has been prepared for the pollution control in the Mithi River. The said plan is being"
+        },
+        {
+          "element_id": "2_p57_e523",
+          "sequence_order": 523,
+          "page_number": 57,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "implemented in four packages from Filterpada, Powai to Mahim Causeway."
+        },
+        {
+          "element_id": "2_p57_e524",
+          "sequence_order": 524,
+          "page_number": 57,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
+        }
+      ]
     },
     "58": {
       "elements": 5,
@@ -632,11 +3096,228 @@
       "issues": []
     },
     "59": {
-      "elements": 4,
-      "flagged": 0,
-      "flags": [],
+      "elements": 20,
+      "flagged": 20,
+      "flags": [
+        "low_content"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "2_p59_e530",
+          "sequence_order": 530,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "Scientific Closure Project of old site at Gorai has been completed in 2009 and operation and maintenance"
+        },
+        {
+          "element_id": "2_p59_e531",
+          "sequence_order": 531,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "of the site is in progress. Area of different dumping grounds is given in table 13.2. Input loads of MSW at"
+        },
+        {
+          "element_id": "2_p59_e532",
+          "sequence_order": 532,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "various dumping sites are given in Table 13.3."
+        },
+        {
+          "element_id": "2_p59_e533",
+          "sequence_order": 533,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Table 13.2: CAPACITY OF VARIOUS DISPOSAL SITES IN MUMBAI"
+        },
+        {
+          "element_id": "2_p59_e534",
+          "sequence_order": 534,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Disposal Site   Area (Ha) Filling m*  No. of Years in Use"
+        },
+        {
+          "element_id": "2_p59_e535",
+          "sequence_order": 535,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Deonar"
+        },
+        {
+          "element_id": "2_p59_e536",
+          "sequence_order": 536,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Mulund"
+        },
+        {
+          "element_id": "2_p59_e537",
+          "sequence_order": 537,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Kanjur"
+        },
+        {
+          "element_id": "2_p59_e538",
+          "sequence_order": 538,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "120  88"
+        },
+        {
+          "element_id": "2_p59_e539",
+          "sequence_order": 539,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "24  47**"
+        },
+        {
+          "element_id": "2_p59_e540",
+          "sequence_order": 540,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "118.41  14"
+        },
+        {
+          "element_id": "2_p59_e541",
+          "sequence_order": 541,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "** Receiving of fresh MSW at Mulund Dumping Ground is stopped w.e.f. 21.12.2018"
+        },
+        {
+          "element_id": "2_p59_e542",
+          "sequence_order": 542,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Table 13.3: INPUT LOAD OF WASTE"
+        },
+        {
+          "element_id": "2_p59_e543",
+          "sequence_order": 543,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Sr. No. Disposal Ground Classification of Waste Tonnes/day"
+        },
+        {
+          "element_id": "2_p59_e544",
+          "sequence_order": 544,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "1  Deonar Municipal Solid Waste Approx. 500-700 TPD"
+        },
+        {
+          "element_id": "2_p59_e545",
+          "sequence_order": 545,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "2  Mulund Municipal Solid Waste The activity of receiving of fresh MSW at Mulund Dumping Ground is stopped w.e.f."
+        },
+        {
+          "element_id": "2_p59_e546",
+          "sequence_order": 546,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "21.12.2018 and the project work of recovering the land by processing the existing waste with suitable technology is"
+        },
+        {
+          "element_id": "2_p59_e547",
+          "sequence_order": 547,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "in progress."
+        },
+        {
+          "element_id": "2_p59_e548",
+          "sequence_order": 548,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "3  Kanjur Municipal Solid Waste Approx. 5900"
+        },
+        {
+          "element_id": "2_p59_e549",
+          "sequence_order": 549,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
+        }
+      ]
     },
     "60": {
       "elements": 8,
@@ -654,8 +3335,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p61_e387",
-          "sequence_order": 387,
+          "element_id": "2_p61_e563",
+          "sequence_order": 563,
           "page_number": 61,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -710,11 +3391,216 @@
       "issues": []
     },
     "68": {
-      "elements": 5,
-      "flagged": 0,
-      "flags": [],
+      "elements": 20,
+      "flagged": 20,
+      "flags": [
+        "low_content"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "2_p68_e603",
+          "sequence_order": 603,
+          "page_number": 68,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "repainting infrastructure, removing debris, and engaging the community. Response from citizens and"
+        },
+        {
+          "element_id": "2_p68_e604",
+          "sequence_order": 604,
+          "page_number": 68,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "active participation has created a mass movement. In 2024 more than 65,975 manpower, NGO workers,"
+        },
+        {
+          "element_id": "2_p68_e605",
+          "sequence_order": 605,
+          "page_number": 68,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "students, BMC staff has contributed to Deep Cleaning Program. More than 6,111 tons of debris, 1,150 tons"
+        },
+        {
+          "element_id": "2_p68_e606",
+          "sequence_order": 606,
+          "page_number": 68,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "of odd/ abandoned material and 3,113 tons of garbage was cleared. More than 6,777 machines and"
+        },
+        {
+          "element_id": "2_p68_e607",
+          "sequence_order": 607,
+          "page_number": 68,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "equipments were used. The program's success is evident and has been replicated across the state of"
+        },
+        {
+          "element_id": "2_p68_e608",
+          "sequence_order": 608,
+          "page_number": 68,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Maharashtra."
+        },
+        {
+          "element_id": "2_p68_e609",
+          "sequence_order": 609,
+          "page_number": 68,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Bio Medical Waste (Management and Handling) Rules, 2016 are notified by Ministry of"
+        },
+        {
+          "element_id": "2_p68_e610",
+          "sequence_order": 610,
+          "page_number": 68,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "Environment and Forest, Govt. of India, under Environment Protection Act 1986 vide Notification dated"
+        },
+        {
+          "element_id": "2_p68_e611",
+          "sequence_order": 611,
+          "page_number": 68,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "28/03/2016. As per rules it is the duty of ‘Occupierʼ/ ‘Generatorʼ to ensure that BMW is handled without"
+        },
+        {
+          "element_id": "2_p68_e612",
+          "sequence_order": 612,
+          "page_number": 68,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "any adverse effect to human health and environment by way of segregation, packing, transportation,"
+        },
+        {
+          "element_id": "2_p68_e613",
+          "sequence_order": 613,
+          "page_number": 68,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "storage, final treatment and disposal. An ‘Occupierʼ is defined as an institutions like hospital, nursing"
+        },
+        {
+          "element_id": "2_p68_e614",
+          "sequence_order": 614,
+          "page_number": 68,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "home, clinic, dispensary, veterinary institution, animal house, pathological laboratory, blood bank etc."
+        },
+        {
+          "element_id": "2_p68_e615",
+          "sequence_order": 615,
+          "page_number": 68,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "which generate BMW."
+        },
+        {
+          "element_id": "2_p68_e616",
+          "sequence_order": 616,
+          "page_number": 68,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "BMC owns major hospitals, maternity homes, dispensaries and clinics. BMC is therefore"
+        },
+        {
+          "element_id": "2_p68_e617",
+          "sequence_order": 617,
+          "page_number": 68,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "considered to be an ‘Occupierʼ and is required to dispose of the BMW generated in these institutions as"
+        },
+        {
+          "element_id": "2_p68_e618",
+          "sequence_order": 618,
+          "page_number": 68,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "per BMW Rules 2016."
+        },
+        {
+          "element_id": "2_p68_e619",
+          "sequence_order": 619,
+          "page_number": 68,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "Moreover as per the BMW sub rule 6, it is not an obligatory duty of BMC. to collect and treat the"
+        },
+        {
+          "element_id": "2_p68_e620",
+          "sequence_order": 620,
+          "page_number": 68,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "BMW generated from private health care establishments."
+        },
+        {
+          "element_id": "2_p68_e621",
+          "sequence_order": 621,
+          "page_number": 68,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Bio-Medical Waste (Management and Handling) Rules, 2016:"
+        },
+        {
+          "element_id": "2_p68_e622",
+          "sequence_order": 622,
+          "page_number": 68,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
+        }
+      ]
     },
     "69": {
       "elements": 9,
@@ -724,11 +3610,106 @@
       "issues": []
     },
     "70": {
-      "elements": 2,
-      "flagged": 0,
-      "flags": [],
+      "elements": 9,
+      "flagged": 9,
+      "flags": [
+        "low_content"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "2_p70_e632",
+          "sequence_order": 632,
+          "page_number": 70,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Hazardous Waste Management Rules are notified to ensure safe handling, generation,"
+        },
+        {
+          "element_id": "2_p70_e633",
+          "sequence_order": 633,
+          "page_number": 70,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "processing, treatment, package, storage, transportation, use reprocessing, collection, conversion, and"
+        },
+        {
+          "element_id": "2_p70_e634",
+          "sequence_order": 634,
+          "page_number": 70,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "offering for sale, destruction and disposal of Hazardous Waste. The Rules lay down corresponding duties"
+        },
+        {
+          "element_id": "2_p70_e635",
+          "sequence_order": 635,
+          "page_number": 70,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "of various authorities such as MoEF, CPCB, State/UT Govts., SPCBs/PCCs, DGFT, Port Authority and Custom"
+        },
+        {
+          "element_id": "2_p70_e636",
+          "sequence_order": 636,
+          "page_number": 70,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Authority while State Pollution Control Boards/ Pollution Control Committees have been designated with"
+        },
+        {
+          "element_id": "2_p70_e637",
+          "sequence_order": 637,
+          "page_number": 70,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "wider responsibilities touching across almost every aspect of Hazardous wastes generation, handing and"
+        },
+        {
+          "element_id": "2_p70_e638",
+          "sequence_order": 638,
+          "page_number": 70,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "their disposal."
+        },
+        {
+          "element_id": "2_p70_e639",
+          "sequence_order": 639,
+          "page_number": 70,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Hazardous Waste (Management, Handling and Transboundary Movement) Rules, 2016:"
+        },
+        {
+          "element_id": "2_p70_e640",
+          "sequence_order": 640,
+          "page_number": 70,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
+        }
+      ]
     },
     "71": {
       "elements": 8,
@@ -739,8 +3720,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p71_e443",
-          "sequence_order": 443,
+          "element_id": "2_p71_e641",
+          "sequence_order": 641,
           "page_number": 71,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -766,6 +3747,24 @@
       "ocr_conf": null,
       "issues": []
     },
+    "74": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "2_p74_e660",
+          "sequence_order": 660,
+          "page_number": 74,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
+        }
+      ]
+    },
     "75": {
       "elements": 7,
       "flagged": 1,
@@ -775,8 +3774,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p75_e462",
-          "sequence_order": 462,
+          "element_id": "2_p75_e661",
+          "sequence_order": 661,
           "page_number": 75,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -797,8 +3796,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p76_e469",
-          "sequence_order": 469,
+          "element_id": "2_p76_e668",
+          "sequence_order": 668,
           "page_number": 76,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -809,8 +3808,8 @@
           "text_preview": "Traffic Engineering:"
         },
         {
-          "element_id": "2_p76_e471",
-          "sequence_order": 471,
+          "element_id": "2_p76_e670",
+          "sequence_order": 670,
           "page_number": 76,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -831,8 +3830,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p77_e477",
-          "sequence_order": 477,
+          "element_id": "2_p77_e676",
+          "sequence_order": 676,
           "page_number": 77,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -843,8 +3842,8 @@
           "text_preview": "LED Lights:"
         },
         {
-          "element_id": "2_p77_e479",
-          "sequence_order": 479,
+          "element_id": "2_p77_e678",
+          "sequence_order": 678,
           "page_number": 77,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -853,6 +3852,24 @@
           ],
           "token_count": 2,
           "text_preview": "Traffic Signages:"
+        }
+      ]
+    },
+    "78": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "2_p78_e687",
+          "sequence_order": 687,
+          "page_number": 78,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
         }
       ]
     },
@@ -872,8 +3889,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p80_e502",
-          "sequence_order": 502,
+          "element_id": "2_p80_e702",
+          "sequence_order": 702,
           "page_number": 80,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -914,11 +3931,66 @@
       "issues": []
     },
     "85": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
+      "elements": 5,
+      "flagged": 5,
+      "flags": [
+        "low_content"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "2_p85_e724",
+          "sequence_order": 724,
+          "page_number": 85,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "BEST is a member of M/s Mumbai Waste Management Pvt. Ltd., Taloja (the authorized firm of"
+        },
+        {
+          "element_id": "2_p85_e725",
+          "sequence_order": 725,
+          "page_number": 85,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Maharashtra Pollution Control Board, under membership no. MWML-MUM-HZW-MUM-2899) for"
+        },
+        {
+          "element_id": "2_p85_e726",
+          "sequence_order": 726,
+          "page_number": 85,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "disposal of used filter. Periodically the used oil filters accumulated at Depots are sent to this disposal"
+        },
+        {
+          "element_id": "2_p85_e727",
+          "sequence_order": 727,
+          "page_number": 85,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "facility."
+        },
+        {
+          "element_id": "2_p85_e728",
+          "sequence_order": 728,
+          "page_number": 85,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
+        }
+      ]
     },
     "86": {
       "elements": 8,
@@ -950,8 +4022,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p89_e549",
-          "sequence_order": 549,
+          "element_id": "2_p89_e753",
+          "sequence_order": 753,
           "page_number": 89,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -972,8 +4044,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p90_e562",
-          "sequence_order": 562,
+          "element_id": "2_p90_e766",
+          "sequence_order": 766,
           "page_number": 90,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -1001,8 +4073,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p92_e590",
-          "sequence_order": 590,
+          "element_id": "2_p92_e794",
+          "sequence_order": 794,
           "page_number": 92,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -1023,8 +4095,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p93_e605",
-          "sequence_order": 605,
+          "element_id": "2_p93_e809",
+          "sequence_order": 809,
           "page_number": 93,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -1045,8 +4117,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p94_e615",
-          "sequence_order": 615,
+          "element_id": "2_p94_e819",
+          "sequence_order": 819,
           "page_number": 94,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -1074,8 +4146,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p96_e665",
-          "sequence_order": 665,
+          "element_id": "2_p96_e869",
+          "sequence_order": 869,
           "page_number": 96,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -1096,8 +4168,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p97_e669",
-          "sequence_order": 669,
+          "element_id": "2_p97_e873",
+          "sequence_order": 873,
           "page_number": 97,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -1117,7 +4189,257 @@
       "issues": []
     },
     "99": {
+      "elements": 15,
+      "flagged": 15,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "2_p99_e887",
+          "sequence_order": 887,
+          "page_number": 99,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Comparison of annual levels with standards prescribed by Central Pollution Control Board"
+        },
+        {
+          "element_id": "2_p99_e888",
+          "sequence_order": 888,
+          "page_number": 99,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "observations is as follows; (Table No.19.2)"
+        },
+        {
+          "element_id": "2_p99_e889",
+          "sequence_order": 889,
+          "page_number": 99,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Annual Averages:"
+        },
+        {
+          "element_id": "2_p99_e890",
+          "sequence_order": 890,
+          "page_number": 99,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "Annual average Levels of Suspended Particulates (PM10) are found to be in the range of 37-75 µg/m3"
+        },
+        {
+          "element_id": "2_p99_e891",
+          "sequence_order": 891,
+          "page_number": 99,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "during 2024-2025. Maximum level of PM10 is observed at Ghatkopar and Sewri (75 µg/m3)."
+        },
+        {
+          "element_id": "2_p99_e892",
+          "sequence_order": 892,
+          "page_number": 99,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "Annual average Levels of Suspended Particulates (PM2.5) are found to be in the range of 32-50 µg/m3"
+        },
+        {
+          "element_id": "2_p99_e893",
+          "sequence_order": 893,
+          "page_number": 99,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "during 2024-2025. Maximum level of PM2.5 is observed is observed at Shivaji Nagar (50 µg/m3)."
+        },
+        {
+          "element_id": "2_p99_e894",
+          "sequence_order": 894,
+          "page_number": 99,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "Annual average Levels of Ozone (O3) are found to be in the range of 22-38 µg/m3 during 2024-2025."
+        },
+        {
+          "element_id": "2_p99_e895",
+          "sequence_order": 895,
+          "page_number": 99,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Maximum level of O3 is observed at Byculla (38 µg/m3)."
+        },
+        {
+          "element_id": "2_p99_e896",
+          "sequence_order": 896,
+          "page_number": 99,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "Annual average Levels of Carbon Monoxide (CO) are found to be in the range of 0.4-0.6 mg/m3 during"
+        },
+        {
+          "element_id": "2_p99_e897",
+          "sequence_order": 897,
+          "page_number": 99,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "2024-2025. Maximum level of CO is observed at Shivaji Nagar and Sewri (0.6 mg/m3)."
+        },
+        {
+          "element_id": "2_p99_e898",
+          "sequence_order": 898,
+          "page_number": 99,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "Annual average Levels of Nitrogen di-oxide (NO2) are found to be in the range of 19-28 µg/m3 during"
+        },
+        {
+          "element_id": "2_p99_e899",
+          "sequence_order": 899,
+          "page_number": 99,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "2024-2025. Maximum level of NO2 is observed at Ghatkopar (28 µg/m3)."
+        },
+        {
+          "element_id": "2_p99_e900",
+          "sequence_order": 900,
+          "page_number": 99,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Graph 19.2 (A): PM10 & PM2.5 Level at Air Quality Monitoring Sites"
+        },
+        {
+          "element_id": "2_p99_e901",
+          "sequence_order": 901,
+          "page_number": 99,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
+        }
+      ]
+    },
+    "100": {
       "elements": 8,
+      "flagged": 8,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "2_p100_e902",
+          "sequence_order": 902,
+          "page_number": 100,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "The important project of SAFAR-Mumbai is a joint venture of BrihanMumbai Municipal"
+        },
+        {
+          "element_id": "2_p100_e903",
+          "sequence_order": 903,
+          "page_number": 100,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Corporation (BMC ) Indian Meteorology Department (IMD) Mumbai and; Indian Institute of Tropical"
+        },
+        {
+          "element_id": "2_p100_e904",
+          "sequence_order": 904,
+          "page_number": 100,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Meteorology (IITM) Pune.Data received from 'SAFAR-Mumbai' is further analysed by Air Quality"
+        },
+        {
+          "element_id": "2_p100_e905",
+          "sequence_order": 905,
+          "page_number": 100,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "Monitoring and Research Laboratory for NO2, CO, O3, PM10, PM2.5 pollutants. Weather Forecast and Air"
+        },
+        {
+          "element_id": "2_p100_e906",
+          "sequence_order": 906,
+          "page_number": 100,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Quality Index is now available to citizens on mobile app namely 'SAFAR-Airʼ"
+        },
+        {
+          "element_id": "2_p100_e907",
+          "sequence_order": 907,
+          "page_number": 100,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Graph 19.2 (B): O3 & NO2 Level at Air Quality Monitoring Sites"
+        },
+        {
+          "element_id": "2_p100_e908",
+          "sequence_order": 908,
+          "page_number": 100,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Graph 19.2 (C): CO Level at Air Quality Monitoring Sites"
+        },
+        {
+          "element_id": "2_p100_e909",
+          "sequence_order": 909,
+          "page_number": 100,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
+        }
+      ]
+    },
+    "101": {
+      "elements": 10,
       "flagged": 1,
       "flags": [
         "low_content"
@@ -1125,9 +4447,9 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p99_e683",
-          "sequence_order": 683,
-          "page_number": 99,
+          "element_id": "2_p101_e913",
+          "sequence_order": 913,
+          "page_number": 101,
           "quality_score": 0.6,
           "element_type": "heading",
           "reason": [
@@ -1138,20 +4460,6 @@
         }
       ]
     },
-    "100": {
-      "elements": 2,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "101": {
-      "elements": 8,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
     "102": {
       "elements": 7,
       "flagged": 1,
@@ -1161,8 +4469,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p102_e703",
-          "sequence_order": 703,
+          "element_id": "2_p102_e922",
+          "sequence_order": 922,
           "page_number": 102,
           "quality_score": 0.6,
           "element_type": "paragraph",
@@ -1183,8 +4491,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p103_e709",
-          "sequence_order": 709,
+          "element_id": "2_p103_e928",
+          "sequence_order": 928,
           "page_number": 103,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -1212,8 +4520,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p105_e724",
-          "sequence_order": 724,
+          "element_id": "2_p105_e943",
+          "sequence_order": 943,
           "page_number": 105,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -1248,8 +4556,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p108_e746",
-          "sequence_order": 746,
+          "element_id": "2_p108_e965",
+          "sequence_order": 965,
           "page_number": 108,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -1284,8 +4592,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p111_e781",
-          "sequence_order": 781,
+          "element_id": "2_p111_e1000",
+          "sequence_order": 1000,
           "page_number": 111,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -1348,8 +4656,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p118_e891",
-          "sequence_order": 891,
+          "element_id": "2_p118_e1110",
+          "sequence_order": 1110,
           "page_number": 118,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -1360,8 +4668,8 @@
           "text_preview": "Operations"
         },
         {
-          "element_id": "2_p118_e902",
-          "sequence_order": 902,
+          "element_id": "2_p118_e1121",
+          "sequence_order": 1121,
           "page_number": 118,
           "quality_score": 0.6,
           "element_type": "section",
@@ -1382,8 +4690,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p119_e911",
-          "sequence_order": 911,
+          "element_id": "2_p119_e1130",
+          "sequence_order": 1130,
           "page_number": 119,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -1404,8 +4712,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p120_e918",
-          "sequence_order": 918,
+          "element_id": "2_p120_e1137",
+          "sequence_order": 1137,
           "page_number": 120,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -1416,8 +4724,8 @@
           "text_preview": "Basic Services:"
         },
         {
-          "element_id": "2_p120_e925",
-          "sequence_order": 925,
+          "element_id": "2_p120_e1144",
+          "sequence_order": 1144,
           "page_number": 120,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -1438,8 +4746,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p121_e929",
-          "sequence_order": 929,
+          "element_id": "2_p121_e1148",
+          "sequence_order": 1148,
           "page_number": 121,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -1480,11 +4788,192 @@
       "issues": []
     },
     "126": {
-      "elements": 4,
-      "flagged": 0,
+      "elements": 18,
+      "flagged": 18,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "2_p126_e1183",
+          "sequence_order": 1183,
+          "page_number": 126,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "WORLD ENVIRONMENT DAY- Department of Pulmonary Medicine and Environmental"
+        },
+        {
+          "element_id": "2_p126_e1184",
+          "sequence_order": 1184,
+          "page_number": 126,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Pollution Research Centre 5th June 2024, KEM Hospital."
+        },
+        {
+          "element_id": "2_p126_e1185",
+          "sequence_order": 1185,
+          "page_number": 126,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "On 5th June 2024, World Environment Day was celebrated at Seth G.S. Medical College and K.E.M."
+        },
+        {
+          "element_id": "2_p126_e1186",
+          "sequence_order": 1186,
+          "page_number": 126,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Hospital at Main Lecture Theatre, organized by Department of Pulmonary Medicine and Environmental"
+        },
+        {
+          "element_id": "2_p126_e1187",
+          "sequence_order": 1187,
+          "page_number": 126,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Pollution Research Centre. There were 186 participants including medical students, physiotherapy"
+        },
+        {
+          "element_id": "2_p126_e1188",
+          "sequence_order": 1188,
+          "page_number": 126,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "students, Nursing students, Faculty and staff from medical college. A Quiz competition on ‘Environmental"
+        },
+        {
+          "element_id": "2_p126_e1189",
+          "sequence_order": 1189,
+          "page_number": 126,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Awarenessʼ was conducted for undergraduate students. Theme of the program was “Restoring Lung"
+        },
+        {
+          "element_id": "2_p126_e1190",
+          "sequence_order": 1190,
+          "page_number": 126,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "Health”. 3rd Dr. S.R. Kamat Oration was delivered by Padmashree Prof. Dr. Randeep Guleria on ‘Air"
+        },
+        {
+          "element_id": "2_p126_e1191",
+          "sequence_order": 1191,
+          "page_number": 126,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Pollution and One healthʼFeedback received regarding academic content is excellent."
+        },
+        {
+          "element_id": "2_p126_e1192",
+          "sequence_order": 1192,
+          "page_number": 126,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "To create awareness regarding ‘Lung Health and Environmentʼ, there was an educational talk by"
+        },
+        {
+          "element_id": "2_p126_e1193",
+          "sequence_order": 1193,
+          "page_number": 126,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "faculty aired on All India Radio, Asmita Vahini (March 2025). The H.O.D. of EPRC Department participated"
+        },
+        {
+          "element_id": "2_p126_e1194",
+          "sequence_order": 1194,
+          "page_number": 126,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "in seminars on Air Pollution and Lung Health in August 2024 and March 2025."
+        },
+        {
+          "element_id": "2_p126_e1195",
+          "sequence_order": 1195,
+          "page_number": 126,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Lungs are unique in their physiological function- constantly exposed to the outdoors,"
+        },
+        {
+          "element_id": "2_p126_e1196",
+          "sequence_order": 1196,
+          "page_number": 126,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "continuously working and eternally interacting with the environment. The concept of lungs as the"
+        },
+        {
+          "element_id": "2_p126_e1197",
+          "sequence_order": 1197,
+          "page_number": 126,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "epicenter of illness with poor environments has evolved into that of wellness with healthy environments."
+        },
+        {
+          "element_id": "2_p126_e1198",
+          "sequence_order": 1198,
+          "page_number": 126,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "‘Lung healthʼ is not just a concept, it is a mission. It is with a vision of wellness that we continue on our"
+        },
+        {
+          "element_id": "2_p126_e1199",
+          "sequence_order": 1199,
+          "page_number": 126,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "journey of relentlessly pursuing lung health."
+        },
+        {
+          "element_id": "2_p126_e1200",
+          "sequence_order": 1200,
+          "page_number": 126,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
+        }
+      ]
     },
     "127": {
       "elements": 19,
@@ -1495,8 +4984,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p127_e978",
-          "sequence_order": 978,
+          "element_id": "2_p127_e1211",
+          "sequence_order": 1211,
           "page_number": 127,
           "quality_score": 0.6,
           "element_type": "clause",
@@ -1530,11 +5019,202 @@
       "issues": []
     },
     "131": {
-      "elements": 6,
-      "flagged": 0,
+      "elements": 19,
+      "flagged": 19,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "2_p131_e1274",
+          "sequence_order": 1274,
+          "page_number": 131,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "government agencies and industries regarding appropriate response to impending disasters and to"
+        },
+        {
+          "element_id": "2_p131_e1275",
+          "sequence_order": 1275,
+          "page_number": 131,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "reduce the impact on mortality and the economy."
+        },
+        {
+          "element_id": "2_p131_e1276",
+          "sequence_order": 1276,
+          "page_number": 131,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "On the basis of the National Disaster Response Force (NDRF) at the national level and State"
+        },
+        {
+          "element_id": "2_p131_e1277",
+          "sequence_order": 1277,
+          "page_number": 131,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "Disaster Response Force (SDRF) at the state level, a City Disaster Response Force (CDRF) is being"
+        },
+        {
+          "element_id": "2_p131_e1278",
+          "sequence_order": 1278,
+          "page_number": 131,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "established at the city level for Mumbai. The objective of formulating CDRF for Mumbai is to develop self-"
+        },
+        {
+          "element_id": "2_p131_e1279",
+          "sequence_order": 1279,
+          "page_number": 131,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "sustainability for responding to disasters like major fires, collapsed structures, Chemical-Biological-"
+        },
+        {
+          "element_id": "2_p131_e1280",
+          "sequence_order": 1280,
+          "page_number": 131,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Radiological-Nuclear incidents, etc. The personnel appointed for CDRF are from the existing Security"
+        },
+        {
+          "element_id": "2_p131_e1281",
+          "sequence_order": 1281,
+          "page_number": 131,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "Force and Mumbai Fire Brigade; doctors and paramedics of BMC are trained by the National Disaster"
+        },
+        {
+          "element_id": "2_p131_e1282",
+          "sequence_order": 1282,
+          "page_number": 131,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Response Force (NDRF)"
+        },
+        {
+          "element_id": "2_p131_e1283",
+          "sequence_order": 1283,
+          "page_number": 131,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "An online complaint management system (CPWM Module) has been operational since 2000 to"
+        },
+        {
+          "element_id": "2_p131_e1284",
+          "sequence_order": 1284,
+          "page_number": 131,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "register civic complaints. The Central Complaint Registration System is working 24x7. Civic complaints"
+        },
+        {
+          "element_id": "2_p131_e1285",
+          "sequence_order": 1285,
+          "page_number": 131,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "pertaining to BMC are registered on phone number 1916 in the central control room and sent to the"
+        },
+        {
+          "element_id": "2_p131_e1286",
+          "sequence_order": 1286,
+          "page_number": 131,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "concerned department through the online system. Citizens can lodge their complaints online on the BMC"
+        },
+        {
+          "element_id": "2_p131_e1287",
+          "sequence_order": 1287,
+          "page_number": 131,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "portal i.e., http://portal.mcgm.gov.in"
+        },
+        {
+          "element_id": "2_p131_e1288",
+          "sequence_order": 1288,
+          "page_number": 131,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Un-attempted complaints are automatically escalated to higher authorities such as Assistant"
+        },
+        {
+          "element_id": "2_p131_e1289",
+          "sequence_order": 1289,
+          "page_number": 131,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Commissioner, Deputy Municipal Commissioner, and Additional Municipal Commissioner"
+        },
+        {
+          "element_id": "2_p131_e1290",
+          "sequence_order": 1290,
+          "page_number": 131,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "City Disaster Response Force (CDRF):"
+        },
+        {
+          "element_id": "2_p131_e1291",
+          "sequence_order": 1291,
+          "page_number": 131,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Central Complaint Registration System (CCRS):"
+        },
+        {
+          "element_id": "2_p131_e1292",
+          "sequence_order": 1292,
+          "page_number": 131,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
+        }
+      ]
     },
     "132": {
       "elements": 8,
@@ -1544,18 +5224,364 @@
       "issues": []
     },
     "133": {
-      "elements": 3,
-      "flagged": 0,
+      "elements": 12,
+      "flagged": 12,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "2_p133_e1301",
+          "sequence_order": 1301,
+          "page_number": 133,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "Holika Dahan tradition while protecting the environment, use of natural colours, celebrating in a safe and"
+        },
+        {
+          "element_id": "2_p133_e1302",
+          "sequence_order": 1302,
+          "page_number": 133,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "healthy atmosphere, conserving water, and avoiding noise pollution."
+        },
+        {
+          "element_id": "2_p133_e1303",
+          "sequence_order": 1303,
+          "page_number": 133,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "All of the above-mentioned environmental awareness campaigns, programmes and initiatives"
+        },
+        {
+          "element_id": "2_p133_e1304",
+          "sequence_order": 1304,
+          "page_number": 133,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "were widely publicised by the Public Relations Department through multilingual newspapers, television"
+        },
+        {
+          "element_id": "2_p133_e1305",
+          "sequence_order": 1305,
+          "page_number": 133,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "channels and social media platforms."
+        },
+        {
+          "element_id": "2_p133_e1306",
+          "sequence_order": 1306,
+          "page_number": 133,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "In its efforts to control air pollution, the BMC administration issued detailed guidelines. ensured"
+        },
+        {
+          "element_id": "2_p133_e1307",
+          "sequence_order": 1307,
+          "page_number": 133,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "strict enforcement and took stringent action against violators. Consistent publicity was given to the"
+        },
+        {
+          "element_id": "2_p133_e1308",
+          "sequence_order": 1308,
+          "page_number": 133,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "various projects and initiatives undertaken to control and reduce air pollution. The ongoing Deep Clean"
+        },
+        {
+          "element_id": "2_p133_e1309",
+          "sequence_order": 1309,
+          "page_number": 133,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "Drive, a public sanitation initiative across Mumbai, was extensively covered through print, electronic and"
+        },
+        {
+          "element_id": "2_p133_e1310",
+          "sequence_order": 1310,
+          "page_number": 133,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "social media, leading to increased public awareness and active citizen participation. As a result, there has"
+        },
+        {
+          "element_id": "2_p133_e1311",
+          "sequence_order": 1311,
+          "page_number": 133,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "been a marked improvement in public consciousness and engagement regarding cleanliness."
+        },
+        {
+          "element_id": "2_p133_e1312",
+          "sequence_order": 1312,
+          "page_number": 133,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
+        }
+      ]
     },
     "134": {
-      "elements": 14,
-      "flagged": 0,
-      "flags": [],
+      "elements": 22,
+      "flagged": 22,
+      "flags": [
+        "low_content"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "2_p134_e1313",
+          "sequence_order": 1313,
+          "page_number": 134,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "24 MAHARASHTRA POLLUTION CONTROL BOARD"
+        },
+        {
+          "element_id": "2_p134_e1314",
+          "sequence_order": 1314,
+          "page_number": 134,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Maharashtra Pollution Control Board (MPCB) is implementing various environmental legislations"
+        },
+        {
+          "element_id": "2_p134_e1315",
+          "sequence_order": 1315,
+          "page_number": 134,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "in the state of Maharashtra, mainly including Water (Prevention and Control of Pollution) Act, 1974, Air"
+        },
+        {
+          "element_id": "2_p134_e1316",
+          "sequence_order": 1316,
+          "page_number": 134,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "(Prevention and Control of Pollution) Act, 1981 and some of the provisions under Environmental"
+        },
+        {
+          "element_id": "2_p134_e1317",
+          "sequence_order": 1317,
+          "page_number": 134,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "(Protection) Act, 1986 and the rules framed there under like, Biomedical Waste Management Rules, 1998,"
+        },
+        {
+          "element_id": "2_p134_e1318",
+          "sequence_order": 1318,
+          "page_number": 134,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "Hazardous Waste Handling Rules, 2000, Municipal Solid Waste Rules, 2000 etc. MPCB is functioning under"
+        },
+        {
+          "element_id": "2_p134_e1319",
+          "sequence_order": 1319,
+          "page_number": 134,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "the administrative control of Environment and Climate Change Department of Government of"
+        },
+        {
+          "element_id": "2_p134_e1320",
+          "sequence_order": 1320,
+          "page_number": 134,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Maharashtra."
+        },
+        {
+          "element_id": "2_p134_e1321",
+          "sequence_order": 1321,
+          "page_number": 134,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Some of the important functions of MPCB are:"
+        },
+        {
+          "element_id": "2_p134_e1322",
+          "sequence_order": 1322,
+          "page_number": 134,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "To plan comprehensive program for the prevention, control or abatement of pollution and secure  executions thereof,"
+        },
+        {
+          "element_id": "2_p134_e1323",
+          "sequence_order": 1323,
+          "page_number": 134,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "To collect and disseminate information relating to pollution and the prevention, control or abatement  thereof,"
+        },
+        {
+          "element_id": "2_p134_e1324",
+          "sequence_order": 1324,
+          "page_number": 134,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 42,
+          "text_preview": "To inspect sewage or trade effluent treatment and disposal facilities, and air pollution control systems  and to review "
+        },
+        {
+          "element_id": "2_p134_e1325",
+          "sequence_order": 1325,
+          "page_number": 134,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "Supporting and encouraging the developments in the fields of pollution control, waste recycle reuse,  eco-friendly pract"
+        },
+        {
+          "element_id": "2_p134_e1326",
+          "sequence_order": 1326,
+          "page_number": 134,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "To educate and guide the entrepreneurs in improving environment by suggesting appropriate  pollution control technologie"
+        },
+        {
+          "element_id": "2_p134_e1327",
+          "sequence_order": 1327,
+          "page_number": 134,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "Creation of public awareness about the clean and healthy environment and attending the public  complaints regarding poll"
+        },
+        {
+          "element_id": "2_p134_e1328",
+          "sequence_order": 1328,
+          "page_number": 134,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "Plan and implement an all-inclusive program to prevent and control pollution of surface water, ground  water and air pol"
+        },
+        {
+          "element_id": "2_p134_e1329",
+          "sequence_order": 1329,
+          "page_number": 134,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "Advising the State Government on prevention and control of pollution • To collect and disseminate  information on pollut"
+        },
+        {
+          "element_id": "2_p134_e1330",
+          "sequence_order": 1330,
+          "page_number": 134,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "Participating in, encouraging and organizing programs in examination and research related to  pollution prevention and c"
+        },
+        {
+          "element_id": "2_p134_e1331",
+          "sequence_order": 1331,
+          "page_number": 134,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "Coordinating with the Central Board to organize training classes for people involved in pollution  prevention and contro"
+        },
+        {
+          "element_id": "2_p134_e1332",
+          "sequence_order": 1332,
+          "page_number": 134,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "To fix standards for the quality of industrial effluents or urban effluents as well as receiving water bodies,  improve "
+        },
+        {
+          "element_id": "2_p134_e1333",
+          "sequence_order": 1333,
+          "page_number": 134,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "To provide a suitable and cost-effective method for treating industrial effluents or municipal effluents."
+        },
+        {
+          "element_id": "2_p134_e1334",
+          "sequence_order": 1334,
+          "page_number": 134,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
+        }
+      ]
     },
     "135": {
       "elements": 6,
@@ -1573,8 +5599,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p136_e1078",
-          "sequence_order": 1078,
+          "element_id": "2_p136_e1341",
+          "sequence_order": 1341,
           "page_number": 136,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -1583,6 +5609,24 @@
           ],
           "token_count": 1,
           "text_preview": "Laboratories:"
+        }
+      ]
+    },
+    "137": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "2_p137_e1348",
+          "sequence_order": 1348,
+          "page_number": 137,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
         }
       ]
     },
@@ -1609,8 +5653,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p140_e1113",
-          "sequence_order": 1113,
+          "element_id": "2_p140_e1377",
+          "sequence_order": 1377,
           "page_number": 140,
           "quality_score": 0.6,
           "element_type": "section",
@@ -1652,8 +5696,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p144_e1164",
-          "sequence_order": 1164,
+          "element_id": "2_p144_e1428",
+          "sequence_order": 1428,
           "page_number": 144,
           "quality_score": 0.6,
           "element_type": "paragraph",
@@ -1779,8 +5823,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p160_e1346",
-          "sequence_order": 1346,
+          "element_id": "2_p160_e1610",
+          "sequence_order": 1610,
           "page_number": 160,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -1808,8 +5852,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p162_e1370",
-          "sequence_order": 1370,
+          "element_id": "2_p162_e1634",
+          "sequence_order": 1634,
           "page_number": 162,
           "quality_score": 0.6,
           "element_type": "section",
@@ -1820,8 +5864,8 @@
           "text_preview": "19. Review"
         },
         {
-          "element_id": "2_p162_e1377",
-          "sequence_order": 1377,
+          "element_id": "2_p162_e1641",
+          "sequence_order": 1641,
           "page_number": 162,
           "quality_score": 0.6,
           "element_type": "heading",
@@ -1834,11 +5878,42 @@
       ]
     },
     "163": {
-      "elements": 1,
-      "flagged": 0,
+      "elements": 3,
+      "flagged": 3,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "2_p163_e1655",
+          "sequence_order": 1655,
+          "page_number": 163,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Central Pollution Control Board (MPCB), Maharashtra Pollution Control Board (MPCB)."
+        },
+        {
+          "element_id": "2_p163_e1656",
+          "sequence_order": 1656,
+          "page_number": 163,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Graded Response Action Plan."
+        },
+        {
+          "element_id": "2_p163_e1657",
+          "sequence_order": 1657,
+          "page_number": 163,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
+        }
+      ]
     },
     "164": {
       "elements": 12,
@@ -1856,8 +5931,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "2_p165_e1414",
-          "sequence_order": 1414,
+          "element_id": "2_p165_e1680",
+          "sequence_order": 1680,
           "page_number": 165,
           "quality_score": 0.6,
           "element_type": "clause",
@@ -1868,8 +5943,8 @@
           "text_preview": "One Policeman"
         },
         {
-          "element_id": "2_p165_e1415",
-          "sequence_order": 1415,
+          "element_id": "2_p165_e1681",
+          "sequence_order": 1681,
           "page_number": 165,
           "quality_score": 0.6,
           "element_type": "clause",
@@ -1880,8 +5955,8 @@
           "text_preview": "One marshal"
         },
         {
-          "element_id": "2_p165_e1416",
-          "sequence_order": 1416,
+          "element_id": "2_p165_e1682",
+          "sequence_order": 1682,
           "page_number": 165,
           "quality_score": 0.6,
           "element_type": "clause",
@@ -1908,18 +5983,215 @@
       "issues": []
     },
     "168": {
-      "elements": 4,
-      "flagged": 0,
+      "elements": 15,
+      "flagged": 15,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "2_p168_e1705",
+          "sequence_order": 1705,
+          "page_number": 168,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "The Mumbai coastal road project (South) Project of 10.58 km from Princess Street Flyover to Worli End"
+        },
+        {
+          "element_id": "2_p168_e1706",
+          "sequence_order": 1706,
+          "page_number": 168,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "of Bandra Worli Sea Link is proposed. This road will provide several environmental friendly features to"
+        },
+        {
+          "element_id": "2_p168_e1707",
+          "sequence_order": 1707,
+          "page_number": 168,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "the city. The Mumbai Coastal Road Project will reduce the travel time, de congest existing roads."
+        },
+        {
+          "element_id": "2_p168_e1708",
+          "sequence_order": 1708,
+          "page_number": 168,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "In the year 2022-2023, the Air Quality Monitoring and Research Laboratory, Continuous Ambient Air"
+        },
+        {
+          "element_id": "2_p168_e1709",
+          "sequence_order": 1709,
+          "page_number": 168,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Quality Monitoring Stations have been operational at 5 places in the Brihanmumbai Municipal"
+        },
+        {
+          "element_id": "2_p168_e1710",
+          "sequence_order": 1710,
+          "page_number": 168,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Corporation jurisdiction, through which Air Quality Levels, Air Quality Index etc. Information is"
+        },
+        {
+          "element_id": "2_p168_e1711",
+          "sequence_order": 1711,
+          "page_number": 168,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "becoming available ."
+        },
+        {
+          "element_id": "2_p168_e1712",
+          "sequence_order": 1712,
+          "page_number": 168,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "For control of Air Pollution level, the guidelines had been issued on dt. 25.10.2023 by the"
+        },
+        {
+          "element_id": "2_p168_e1713",
+          "sequence_order": 1713,
+          "page_number": 168,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Brihanmumbai Municipal Corporation due to large increase in construction, demolition and similar"
+        },
+        {
+          "element_id": "2_p168_e1714",
+          "sequence_order": 1714,
+          "page_number": 168,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "activities in the city. These guidelines are mandatory for all related stakeholders and must be followed"
+        },
+        {
+          "element_id": "2_p168_e1715",
+          "sequence_order": 1715,
+          "page_number": 168,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "strictly. Otherwise strict action can be taken by the Brihanmumbai Municipal Corporation."
+        },
+        {
+          "element_id": "2_p168_e1716",
+          "sequence_order": 1716,
+          "page_number": 168,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Citizens in case of emergency -quick and effective response,condition with all agencies, speedy"
+        },
+        {
+          "element_id": "2_p168_e1717",
+          "sequence_order": 1717,
+          "page_number": 168,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "availability of information, incentives for preparedness at all levels, immediate assistance to the"
+        },
+        {
+          "element_id": "2_p168_e1718",
+          "sequence_order": 1718,
+          "page_number": 168,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "victims and constant alerting services available through the Disaster Management Department."
+        },
+        {
+          "element_id": "2_p168_e1719",
+          "sequence_order": 1719,
+          "page_number": 168,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ENVIRONMENT STATUS REPORT 2024 - 2025"
+        }
+      ]
+    },
+    "169": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "2_p169_e1720",
+          "sequence_order": 1720,
+          "page_number": 169,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Ray Road Bridge"
+        },
+        {
+          "element_id": "2_p169_e1721",
+          "sequence_order": 1721,
+          "page_number": 169,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Gokhale Bridge"
+        }
+      ]
     },
     "170": {
       "elements": 1,
-      "flagged": 0,
+      "flagged": 1,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "2_p170_e1722",
+          "sequence_order": 1722,
+          "page_number": 170,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Coastal Road Drone View"
+        }
+      ]
     }
   }
 }

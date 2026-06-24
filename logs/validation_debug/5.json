@@ -73,24 +73,64 @@
       ]
     },
     "2": {
-      "elements": 2,
-      "flagged": 1,
+      "elements": 5,
+      "flagged": 5,
       "flags": [
-        "low_content"
+        "noise_detected"
       ],
       "ocr_conf": null,
       "issues": [
         {
+          "element_id": "5_p2_e24",
+          "sequence_order": 24,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "(૧૪) િસલેGટ ફાઈલ, અ શાખા"
+        },
+        {
           "element_id": "5_p2_e25",
           "sequence_order": 25,
           "page_number": 2,
-          "quality_score": 0.6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Letter No: FD/0180/12/2025 Approved Date: 26-12-2025"
+        },
+        {
+          "element_id": "5_p2_e26",
+          "sequence_order": 26,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "File No: FD/OTH/e-file/4/2022/3153/A(BPE) Approved By: Commissioner,FD"
+        },
+        {
+          "element_id": "5_p2_e27",
+          "sequence_order": 27,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Signed by:Mahesh I Patel Commissioner Date:2025.12.26 11:03:01 +5:30"
+        },
+        {
+          "element_id": "5_p2_e28",
+          "sequence_order": 28,
+          "page_number": 2,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
-            "low_content"
+            "noise_detected"
           ],
-          "token_count": 1,
-          "text_preview": "<unknown>"
+          "token_count": 3,
+          "text_preview": "Signature Not Verified"
         }
       ]
     }

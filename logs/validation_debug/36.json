@@ -2,126 +2,2376 @@
   "document_id": 36,
   "pages": {
     "2": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "3": {
       "elements": 16,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "4": {
-      "elements": 27,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "5": {
-      "elements": 18,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "6": {
-      "elements": 13,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "7": {
-      "elements": 13,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "8": {
-      "elements": 14,
-      "flagged": 1,
+      "flagged": 16,
       "flags": [
-        "low_content"
+        "low_content",
+        "noise_detected"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "36_p8_e92",
-          "sequence_order": 92,
-          "page_number": 8,
-          "quality_score": 0.6,
-          "element_type": "caption",
+          "element_id": "36_p2_e0",
+          "sequence_order": 0,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
-            "low_content"
+            "noise_detected"
           ],
-          "token_count": 1,
-          "text_preview": "TABLE"
-        }
-      ]
-    },
-    "9": {
-      "elements": 17,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "10": {
-      "elements": 12,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "11": {
-      "elements": 9,
-      "flagged": 3,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": null,
-      "issues": [
+          "token_count": 4,
+          "text_preview": "Page 1 of 26"
+        },
         {
-          "element_id": "36_p11_e131",
-          "sequence_order": 131,
-          "page_number": 11,
-          "quality_score": 0.6,
+          "element_id": "36_p2_e1",
+          "sequence_order": 1,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Guidelines for Implementation of New Scheme for Farmers for Installation of Solar"
+        },
+        {
+          "element_id": "36_p2_e2",
+          "sequence_order": 2,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Pumps and Grid Connected Solar Power Plants"
+        },
+        {
+          "element_id": "36_p2_e3",
+          "sequence_order": 3,
+          "page_number": 2,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
-          "text_preview": "( see"
+          "text_preview": "1. Background"
         },
         {
-          "element_id": "36_p11_e133",
+          "element_id": "36_p2_e4",
+          "sequence_order": 4,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "1.1. Government of India has taken various policy measures to increase the installed power"
+        },
+        {
+          "element_id": "36_p2_e5",
+          "sequence_order": 5,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 51,
+          "text_preview": "generation capacity from non-fossil fuel sources by 2030. To provide energy and water  security to farmers and enhance t"
+        },
+        {
+          "element_id": "36_p2_e6",
+          "sequence_order": 6,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "with due approval of Ministry of Finance. In August 2022, the scheme was extended till  March 2026."
+        },
+        {
+          "element_id": "36_p2_e7",
+          "sequence_order": 7,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "2. Components of PM KUSUM"
+        },
+        {
+          "element_id": "36_p2_e8",
+          "sequence_order": 8,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "2.1. The PM KUSUM Scheme has the following components:"
+        },
+        {
+          "element_id": "36_p2_e9",
+          "sequence_order": 9,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "i.  Component-A: Setting up of 10,000 MW of Decentralized Ground/ Stilt Mounted Grid  Connected Solar or other Renewable"
+        },
+        {
+          "element_id": "36_p2_e10",
+          "sequence_order": 10,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "ii.  Component-B: Installation of 14 Lakh Stand-alone Solar Agriculture Pumps"
+        },
+        {
+          "element_id": "36_p2_e11",
+          "sequence_order": 11,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "iii.  Component-C: Solarisation of 35 Lakh Grid Connected Agriculture Pumps including  Feeder Level Solarization"
+        },
+        {
+          "element_id": "36_p2_e12",
+          "sequence_order": 12,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "2.2. The PM-KUSUM Scheme allows inter-se transfer of quantities between Component-B and"
+        },
+        {
+          "element_id": "36_p2_e13",
+          "sequence_order": 13,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "Component-C. All three components of the scheme aim to add Solar capacity of about  34,800 MW by March 2026 with the tot"
+        },
+        {
+          "element_id": "36_p2_e14",
+          "sequence_order": 14,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "3. Implementation mechanism"
+        },
+        {
+          "element_id": "36_p2_e15",
+          "sequence_order": 15,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "These consolidated guidelines subsume all the previously issued amendments from time to  time."
+        }
+      ]
+    },
+    "3": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "36_p3_e16",
+          "sequence_order": 16,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 2 of 26"
+        },
+        {
+          "element_id": "36_p3_e17",
+          "sequence_order": 17,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "4. Component A"
+        },
+        {
+          "element_id": "36_p3_e18",
+          "sequence_order": 18,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "4.1. Salient Features"
+        },
+        {
+          "element_id": "36_p3_e19",
+          "sequence_order": 19,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 112,
+          "text_preview": "i.  This Component aims at setting up of 10,000 MW of Decentralized Ground/ Stilt  Mounted Grid Connected Solar or other"
+        },
+        {
+          "element_id": "36_p3_e20",
+          "sequence_order": 20,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 194,
+          "text_preview": "i.  The REPP under the scheme would be installed by the farmers on his own land either  directly by himself or in partne"
+        },
+        {
+          "element_id": "36_p3_e21",
+          "sequence_order": 21,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 140,
+          "text_preview": "i.  DISCOM shall assess and notify RE generation capacity that can be injected into 33/11  kV or 66/11 kV or 110/11 kV s"
+        }
+      ]
+    },
+    "4": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "36_p4_e22",
+          "sequence_order": 22,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 3 of 26"
+        },
+        {
+          "element_id": "36_p4_e23",
+          "sequence_order": 23,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 89,
+          "text_preview": "vii.  For setting up of plant, land will be required. To facilitate farmers willing to lease out  their land for develop"
+        },
+        {
+          "element_id": "36_p4_e24",
+          "sequence_order": 24,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 281,
+          "text_preview": "i.  DISCOM may invite applications for Expression of Interest (EOI) from prospective  RPGs, through their online portal."
+        },
+        {
+          "element_id": "36_p4_e25",
+          "sequence_order": 25,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 36,
+          "text_preview": "The RPG is required to obtain necessary clearances as required for setting up the REPP  in coordination with DISCOMs. Di"
+        },
+        {
+          "element_id": "36_p4_e26",
+          "sequence_order": 26,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "4.6. Power Purchase Agreement (PPA)"
+        },
+        {
+          "element_id": "36_p4_e27",
+          "sequence_order": 27,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 82,
+          "text_preview": "i.  A model PPA (Power Purchase Agreement) to be executed between RPG and  DISCOMs is as per Annexure II.  ii.  The dura"
+        }
+      ]
+    },
+    "5": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "36_p5_e28",
+          "sequence_order": 28,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 4 of 26"
+        },
+        {
+          "element_id": "36_p5_e29",
+          "sequence_order": 29,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 70,
+          "text_preview": "v.  The RPG will be free to operate the plant after expiry of the 25 years of PPA period if  other conditions (like land"
+        },
+        {
+          "element_id": "36_p5_e30",
+          "sequence_order": 30,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 166,
+          "text_preview": "i.  In case of bidding, the RPG shall provide Earnest Money Deposit (EMD) of Rs. 1  Lakh/MW in the form of Bank Guarante"
+        },
+        {
+          "element_id": "36_p5_e31",
+          "sequence_order": 31,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 140,
+          "text_preview": "i.  The selected RPG will be responsible for laying of dedicated 11 or 33 kV, 66/11 kV or  110/11 kV, line from REPP to "
+        },
+        {
+          "element_id": "36_p5_e32",
+          "sequence_order": 32,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 63,
+          "text_preview": "i.  DISCOM will be eligible to get Performance Based Incentive (PBI) @ Rs. 0.40 per unit  purchased or Rs. 6.6 lakh per "
+        },
+        {
+          "element_id": "36_p5_e33",
+          "sequence_order": 33,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "(a) Timely payment of monthly lease rent, if applicable, to the land owner of the  project."
+        },
+        {
+          "element_id": "36_p5_e34",
+          "sequence_order": 34,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "(b) Monthly units purchased from the plant and corresponding payment made to  the project developer."
+        }
+      ]
+    },
+    "6": {
+      "elements": 8,
+      "flagged": 8,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "36_p6_e35",
+          "sequence_order": 35,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 5 of 26"
+        },
+        {
+          "element_id": "36_p6_e36",
+          "sequence_order": 36,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 56,
+          "text_preview": "iii.  Applicable PBI would be released to the DISCOM after submission of these documents  by DISCOM to MNRE.  iv.  The D"
+        },
+        {
+          "element_id": "36_p6_e37",
+          "sequence_order": 37,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 95,
+          "text_preview": "i.  The selected RPG shall commission the solar power plant within 15 months from date  of issuance of LoA.  ii.  The DI"
+        },
+        {
+          "element_id": "36_p6_e38",
+          "sequence_order": 38,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 111,
+          "text_preview": "(a) Delay up to six months – The PBG on per day basis and proportionate to the  balance capacity not commissioned.  (b) "
+        },
+        {
+          "element_id": "36_p6_e39",
+          "sequence_order": 39,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 92,
+          "text_preview": "i.  In order to ensure only quality systems are installed, prevailing MNRE/BIS  specifications and quality control order"
+        },
+        {
+          "element_id": "36_p6_e40",
+          "sequence_order": 40,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "4.12. Roles and responsibilities of stakeholders"
+        },
+        {
+          "element_id": "36_p6_e41",
+          "sequence_order": 41,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "4.12.1. Ministry of New and Renewable Energy"
+        },
+        {
+          "element_id": "36_p6_e42",
+          "sequence_order": 42,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 73,
+          "text_preview": "i.  MNRE will provide Procurement Based Incentive (PBI) to the DISCOMs @ 40  paise/kWh or Rs.6.60 lakhs/MW/year, whichev"
+        }
+      ]
+    },
+    "7": {
+      "elements": 5,
+      "flagged": 5,
+      "flags": [
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "36_p7_e43",
+          "sequence_order": 43,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 6 of 26"
+        },
+        {
+          "element_id": "36_p7_e44",
+          "sequence_order": 44,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "4.12.2. DISCOMs"
+        },
+        {
+          "element_id": "36_p7_e45",
+          "sequence_order": 45,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 166,
+          "text_preview": "i.  The DISCOMs/SIAs shall aggregate the demand and send their proposal for sanction  under the scheme along with detail"
+        },
+        {
+          "element_id": "36_p7_e46",
+          "sequence_order": 46,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 171,
+          "text_preview": "i.  SIA will coordinate with State/UT, DISCOM and farmers for implementation of the  scheme.  ii.  SIA will assist the f"
+        },
+        {
+          "element_id": "36_p7_e47",
+          "sequence_order": 47,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 43,
+          "text_preview": "i.  RPG will be responsible for signing PPA and installing the plant as per provisions of  scheme guidelines  ii.  RPG m"
+        }
+      ]
+    },
+    "8": {
+      "elements": 5,
+      "flagged": 5,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "36_p8_e48",
+          "sequence_order": 48,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 7 of 26"
+        },
+        {
+          "element_id": "36_p8_e49",
+          "sequence_order": 49,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "5. Component B"
+        },
+        {
+          "element_id": "36_p8_e50",
+          "sequence_order": 50,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "5.1. Salient Features"
+        },
+        {
+          "element_id": "36_p8_e51",
+          "sequence_order": 51,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 258,
+          "text_preview": "i.  This Component is for installation of standalone Solar Pumps/replacement of diesel  pumps by solar pumps.  ii.  Unde"
+        },
+        {
+          "element_id": "36_p8_e52",
+          "sequence_order": 52,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 180,
+          "text_preview": "i.  The SIA will submit proposals to MNRE for approval.  ii.  The SIA after submitting proposal to MNRE may choose to st"
+        }
+      ]
+    },
+    "9": {
+      "elements": 5,
+      "flagged": 5,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "36_p9_e53",
+          "sequence_order": 53,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 8 of 26"
+        },
+        {
+          "element_id": "36_p9_e54",
+          "sequence_order": 54,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 94,
+          "text_preview": "In case the State Government is not in a position to give its share of subsidy of 30% but  farmers are willing to set up"
+        },
+        {
+          "element_id": "36_p9_e55",
+          "sequence_order": 55,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 111,
+          "text_preview": "The States will call for tender for installation of solar water pumping system through the  SIAs or any other agency nom"
+        },
+        {
+          "element_id": "36_p9_e56",
+          "sequence_order": 56,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 168,
+          "text_preview": "(a) System Integrators/ Aggregators/ Any other entities fulfilling technical and  financial criteria.  (b) Any manufactu"
+        },
+        {
+          "element_id": "36_p9_e57",
+          "sequence_order": 57,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 105,
+          "text_preview": "Since pumps are generally used for 150 days in a year, the installed solar capacity can be  optimally utilized by using "
+        }
+      ]
+    },
+    "10": {
+      "elements": 8,
+      "flagged": 8,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "36_p10_e58",
+          "sequence_order": 58,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 9 of 26"
+        },
+        {
+          "element_id": "36_p10_e59",
+          "sequence_order": 59,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "than benchmark price. States/UTs may bear this additional cost to facilitate use of solar  energy for other activities a"
+        },
+        {
+          "element_id": "36_p10_e60",
+          "sequence_order": 60,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 191,
+          "text_preview": "New Solar Agriculture pumps would not be covered under this component in Dark  zones/black zones. However, existing stan"
+        },
+        {
+          "element_id": "36_p10_e61",
+          "sequence_order": 61,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 46,
+          "text_preview": "MNRE will release the CFA towards the installation of solar pumps under the scheme as  per the Benchmark cost or tender "
+        },
+        {
+          "element_id": "36_p10_e62",
+          "sequence_order": 62,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "5.3.1.1. Eligible CFA with State share"
+        },
+        {
+          "element_id": "36_p10_e63",
+          "sequence_order": 63,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 112,
+          "text_preview": "i.  CFA of 30% of the benchmark cost or tender cost, whichever is lower, of a particular  category/type of the stand-alo"
+        },
+        {
+          "element_id": "36_p10_e64",
+          "sequence_order": 64,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "5.3.1.2. Eligible CFA without State share"
+        },
+        {
+          "element_id": "36_p10_e65",
+          "sequence_order": 65,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 68,
+          "text_preview": "i.  CFA of 30% of the benchmark cost or tender cost whichever is lower, of a particular  category/type of the stand-alon"
+        }
+      ]
+    },
+    "11": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "36_p11_e66",
+          "sequence_order": 66,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 10 of 26"
+        },
+        {
+          "element_id": "36_p11_e67",
+          "sequence_order": 67,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 74,
+          "text_preview": "whichever is lower, of a particular category/type of the stand-alone solar Agriculture pump  will be provided. The remai"
+        },
+        {
+          "element_id": "36_p11_e68",
+          "sequence_order": 68,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 390,
+          "text_preview": "5.3.2.  Access to Financing    i.  Bank finance may be made available for farmer’s contribution, so that farmer has to  "
+        }
+      ]
+    },
+    "12": {
+      "elements": 13,
+      "flagged": 13,
+      "flags": [
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "36_p12_e69",
+          "sequence_order": 69,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 11 of 26"
+        },
+        {
+          "element_id": "36_p12_e70",
+          "sequence_order": 70,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "5.4. Monitoring and maintenance"
+        },
+        {
+          "element_id": "36_p12_e71",
+          "sequence_order": 71,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 201,
+          "text_preview": "i.  Selected vendors shall be responsible for design, supply, installation and  commissioning of solar agriculture pumps"
+        },
+        {
+          "element_id": "36_p12_e72",
+          "sequence_order": 72,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "a) The implementing agency would be responsible for monitoring include timely"
+        },
+        {
+          "element_id": "36_p12_e73",
+          "sequence_order": 73,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 37,
+          "text_preview": "installation and functioning of the pumps. The progress report of its installation  will be submitted to the MNRE by the"
+        },
+        {
+          "element_id": "36_p12_e74",
+          "sequence_order": 74,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 50,
+          "text_preview": "bank guarantee as specified in the tender by that vendor for a period of five years.  Alternatively, BG may be provided "
+        },
+        {
+          "element_id": "36_p12_e75",
+          "sequence_order": 75,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "installed plants."
+        },
+        {
+          "element_id": "36_p12_e76",
+          "sequence_order": 76,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 58,
+          "text_preview": "v.  In case the installed systems are not as per standard, non-functional on account of poor  quality of installation, o"
+        },
+        {
+          "element_id": "36_p12_e77",
+          "sequence_order": 77,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "The Implementing Agencies will be responsible for the following activities:"
+        },
+        {
+          "element_id": "36_p12_e78",
+          "sequence_order": 78,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 38,
+          "text_preview": "(i)  Carry out wide publicity of the scheme to increase awareness, identify potential  beneficiaries, and coordinate wit"
+        },
+        {
+          "element_id": "36_p12_e79",
+          "sequence_order": 79,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "to MNRE for allocation of demand.  (iii) Carry-out the state bids/tenders for installation and maintenance of solar pump"
+        },
+        {
+          "element_id": "36_p12_e80",
+          "sequence_order": 80,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "sanctioned by MNRE under Component-‘B’.  (iv) Ensure project completion within the given timelines and compliance of MNR"
+        },
+        {
+          "element_id": "36_p12_e81",
+          "sequence_order": 81,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "guidelines, and standards."
+        }
+      ]
+    },
+    "13": {
+      "elements": 9,
+      "flagged": 9,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "36_p13_e82",
+          "sequence_order": 82,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 12 of 26"
+        },
+        {
+          "element_id": "36_p13_e83",
+          "sequence_order": 83,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "(v) Oversee installation of solar pumps, ensure timely O&M, and report periodical"
+        },
+        {
+          "element_id": "36_p13_e84",
+          "sequence_order": 84,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "progress to MNRE (this will include but is not limited to online submission of monthly  and quarterly progress reports)."
+        },
+        {
+          "element_id": "36_p13_e85",
+          "sequence_order": 85,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "MNRE.  (vii) Submission of utilization certifications and audited statement of expenditure through"
+        },
+        {
+          "element_id": "36_p13_e86",
+          "sequence_order": 86,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "EAT/PFMS module and disbursement of MNRE CFA.  (viii) Maintenance of updated records and make them available for inspect"
+        },
+        {
+          "element_id": "36_p13_e87",
+          "sequence_order": 87,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "MNRE.  (ix) Maintain real time monitoring data of the installed systems through dedicated web-"
+        },
+        {
+          "element_id": "36_p13_e88",
+          "sequence_order": 88,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "portal.  (x) Ensure the effective working of the Remote Monitoring System of the installed"
+        },
+        {
+          "element_id": "36_p13_e89",
+          "sequence_order": 89,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "pumps, and conduct periodical inspection of the same.  (xi) Submission of accurate, verified, and complete records in al"
+        },
+        {
+          "element_id": "36_p13_e90",
+          "sequence_order": 90,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "ensuring the timely payment of CFA.  (xii) Performance monitoring of installed system through third party.  (xiii) Ensur"
+        }
+      ]
+    },
+    "14": {
+      "elements": 11,
+      "flagged": 11,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "36_p14_e91",
+          "sequence_order": 91,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 13 of 26"
+        },
+        {
+          "element_id": "36_p14_e92",
+          "sequence_order": 92,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "6. Component C"
+        },
+        {
+          "element_id": "36_p14_e93",
+          "sequence_order": 93,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "6.1. Salient Features"
+        },
+        {
+          "element_id": "36_p14_e94",
+          "sequence_order": 94,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 171,
+          "text_preview": "i.  This Component aims at solarization of grid connected agriculture pumps including  Feeder Level Solarization  ii.  T"
+        },
+        {
+          "element_id": "36_p14_e95",
+          "sequence_order": 95,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 106,
+          "text_preview": "i.  State Implementing agencies will submit proposals to MNRE for approval.  ii.  Based on demand received from SIAs, MN"
+        },
+        {
+          "element_id": "36_p14_e96",
+          "sequence_order": 96,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "6.3. Individual Pump Solarization (IPS)"
+        },
+        {
+          "element_id": "36_p14_e97",
+          "sequence_order": 97,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "6.3.1.  Options for solarisation under Component C (IPS)"
+        },
+        {
+          "element_id": "36_p14_e98",
+          "sequence_order": 98,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "Followings are the two options through which grid connected pumps can be solarized; State  may choose any other option, "
+        },
+        {
+          "element_id": "36_p14_e99",
+          "sequence_order": 99,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 64,
+          "text_preview": "i.  Pump to run on both Solar and Grid: In this case the agriculture pump will continue  to run at rated capacity taking"
+        },
+        {
+          "element_id": "36_p14_e100",
+          "sequence_order": 100,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "a) Farmer would be able to import and export power to the grid at the rate specified"
+        },
+        {
+          "element_id": "36_p14_e101",
+          "sequence_order": 101,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "by the SERC."
+        }
+      ]
+    },
+    "15": {
+      "elements": 8,
+      "flagged": 8,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "36_p15_e102",
+          "sequence_order": 102,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 14 of 26"
+        },
+        {
+          "element_id": "36_p15_e103",
+          "sequence_order": 103,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "b) DISCOM may introduce different drawal and injection tariff rates so that farmers"
+        },
+        {
+          "element_id": "36_p15_e104",
+          "sequence_order": 104,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "are discouraged to draw power from the grid during the peak hours. Further, Time  of Day (ToD) tariff is also an alterna"
+        },
+        {
+          "element_id": "36_p15_e105",
+          "sequence_order": 105,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 40,
+          "text_preview": "ii.  Pump to run on solar power only: In this case the pump will only run on the solar power  as in case of stand-alone "
+        },
+        {
+          "element_id": "36_p15_e106",
+          "sequence_order": 106,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "a) The motor pump set will have to be replaced with AC/DC solar water pumping"
+        },
+        {
+          "element_id": "36_p15_e107",
+          "sequence_order": 107,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 41,
+          "text_preview": "system as per MNRE specification for standalone solar pump and when the pump  is not running the solar power can be fed "
+        },
+        {
+          "element_id": "36_p15_e108",
+          "sequence_order": 108,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 227,
+          "text_preview": "Scheme can be bifurcated into two portions, one portion of SPV capacity as per  MNRE specifications required for the sol"
+        },
+        {
+          "element_id": "36_p15_e109",
+          "sequence_order": 109,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 68,
+          "text_preview": "i.  MNRE will provide updated specifications (as amended from time to time) for solar  water pumping system, solar modul"
+        }
+      ]
+    },
+    "16": {
+      "elements": 5,
+      "flagged": 5,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "36_p16_e110",
+          "sequence_order": 110,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 15 of 26"
+        },
+        {
+          "element_id": "36_p16_e111",
+          "sequence_order": 111,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 50,
+          "text_preview": "iii.  It will be mandatory to use indigenously manufactured solar panels with indigenous solar  cellls and modules. Furt"
+        },
+        {
+          "element_id": "36_p16_e112",
+          "sequence_order": 112,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 117,
+          "text_preview": "i.  There will be State tendering for solar water pumping system through the SIAs or any  other agency nominated by the "
+        },
+        {
+          "element_id": "36_p16_e113",
+          "sequence_order": 113,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 215,
+          "text_preview": "(a) System Integrators/ Aggregators/ Any other entities fulfilling technical and  financial criteria  (b) Any manufactur"
+        },
+        {
+          "element_id": "36_p16_e114",
+          "sequence_order": 114,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 66,
+          "text_preview": "6.3.5.  Eligible CFA under Component C (IPS)    i.  The CFA will be limited to Solar PV capacity up to two times of pump"
+        }
+      ]
+    },
+    "17": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "36_p17_e115",
+          "sequence_order": 115,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 16 of 26"
+        },
+        {
+          "element_id": "36_p17_e116",
+          "sequence_order": 116,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 278,
+          "text_preview": "ii.  The solar pumps installed by the individual farmers in the North-Eastern States; UTs of  Jammu & Kashmir and Ladakh"
+        },
+        {
+          "element_id": "36_p17_e117",
+          "sequence_order": 117,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 213,
+          "text_preview": "6.3.6.  Monitoring and maintenance    i.  Vendors will mandatorily provide AMC for a period of 5 years from the date of "
+        }
+      ]
+    },
+    "18": {
+      "elements": 8,
+      "flagged": 8,
+      "flags": [
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "36_p18_e118",
+          "sequence_order": 118,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 17 of 26"
+        },
+        {
+          "element_id": "36_p18_e119",
+          "sequence_order": 119,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "a) The implementing agency would be responsible for monitoring the installation of"
+        },
+        {
+          "element_id": "36_p18_e120",
+          "sequence_order": 120,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "the solar pumps and their functioning.  b) Implementing agencies will submit monthly progress report for the sanctioned"
+        },
+        {
+          "element_id": "36_p18_e121",
+          "sequence_order": 121,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "projects.  c) Funds may be released by implementing agency to the vendor on submission of bank"
+        },
+        {
+          "element_id": "36_p18_e122",
+          "sequence_order": 122,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 50,
+          "text_preview": "guarantee as specified in the tender by that vendor for a period of five years.  Alternatively, BG may be provided initi"
+        },
+        {
+          "element_id": "36_p18_e123",
+          "sequence_order": 123,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "installed plants."
+        },
+        {
+          "element_id": "36_p18_e124",
+          "sequence_order": 124,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 98,
+          "text_preview": "v.  In case the installed systems are not as per standard, non-functional on account of poor  quality of installation, o"
+        },
+        {
+          "element_id": "36_p18_e125",
+          "sequence_order": 125,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 276,
+          "text_preview": "For the implementation of Feeder Level Solarization (FLS), the DISCOMs need to evaluate the  agricultural load, segregat"
+        }
+      ]
+    },
+    "19": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "36_p19_e126",
+          "sequence_order": 126,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 18 of 26"
+        },
+        {
+          "element_id": "36_p19_e127",
+          "sequence_order": 127,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 117,
+          "text_preview": "is no cap of the capacity of solar power plant for feeder level solarisation. The DISCOMs  may identify land near DSS, g"
+        },
+        {
+          "element_id": "36_p19_e128",
+          "sequence_order": 128,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 359,
+          "text_preview": "6.4.2.  Simplified step by step procedure    i.  Identifying the substation: State Nodal Agencies/Implementing Agencies/"
+        }
+      ]
+    },
+    "20": {
+      "elements": 9,
+      "flagged": 9,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "36_p20_e129",
+          "sequence_order": 129,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 19 of 26"
+        },
+        {
+          "element_id": "36_p20_e130",
+          "sequence_order": 130,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "iv.  Modalities for leasing"
+        },
+        {
+          "element_id": "36_p20_e131",
+          "sequence_order": 131,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "a) Public Land: The State may facilitate by providing unutilized land on lease at a"
+        },
+        {
+          "element_id": "36_p20_e132",
+          "sequence_order": 132,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "pre-decided annual rent. The State may also include their unutilized water  bodies for the development of the projects. "
+        },
+        {
+          "element_id": "36_p20_e133",
           "sequence_order": 133,
-          "page_number": 11,
-          "quality_score": 0.6,
-          "element_type": "section",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 1,
-          "text_preview": "Annexure-A"
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 86,
+          "text_preview": "land for projects may be encouraged to offer their land through the above- mentioned portal. The revenue authority shoul"
         },
         {
-          "element_id": "36_p11_e137",
+          "element_id": "36_p20_e134",
+          "sequence_order": 134,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 135,
+          "text_preview": "v.  Provision of SPV: The DISCOMs may form an SPV which can implement the project  along with arrangements for leasing t"
+        },
+        {
+          "element_id": "36_p20_e135",
+          "sequence_order": 135,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 65,
+          "text_preview": "vii.  Selection of Solar Power Developers (SPD): Since the scale of an individual solar  project with substation is rela"
+        },
+        {
+          "element_id": "36_p20_e136",
+          "sequence_order": 136,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 72,
+          "text_preview": "viii.  For the project under this mechanism, the States are free to choose Renewable Energy  Implementing Agencies of Go"
+        },
+        {
+          "element_id": "36_p20_e137",
           "sequence_order": 137,
-          "page_number": 11,
-          "quality_score": 0.6,
-          "element_type": "section",
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "that can cater to the requirement of annual power for that agriculture feeder can be  installed either through CAPEX mod"
+        }
+      ]
+    },
+    "21": {
+      "elements": 15,
+      "flagged": 15,
+      "flags": [
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "36_p21_e138",
+          "sequence_order": 138,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 20 of 26"
+        },
+        {
+          "element_id": "36_p21_e139",
+          "sequence_order": 139,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 52,
+          "text_preview": "power to that feeder. For example, a feeder having annual power requirement of say  10 lakh units, the power can be supp"
+        },
+        {
+          "element_id": "36_p21_e140",
+          "sequence_order": 140,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "plant capacity as per calculations in Para 1) above  3) Mixed feeders can also be solarized, however, MNRE CFA will be a"
+        },
+        {
+          "element_id": "36_p21_e141",
+          "sequence_order": 141,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "capacity required for agriculture consumption.  4) Solarisation of pumps of any capacity is allowed, however, in case of"
+        },
+        {
+          "element_id": "36_p21_e142",
+          "sequence_order": 142,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "capacity above 7.5 HP, the CFA will be limited to solar capacity for 7.5 HP pumps.  5) The solar pumps installed for fee"
+        },
+        {
+          "element_id": "36_p21_e143",
+          "sequence_order": 143,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 58,
+          "text_preview": "Jammu & Kashmir and Ladakh; and the state of Uttarakhand and Himachal Pradesh  the CFA will be available for pump capaci"
+        },
+        {
+          "element_id": "36_p21_e144",
+          "sequence_order": 144,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 53,
+          "text_preview": "the case may be, average consumption of 7.5 HP/15 HP pumps on the same feeder  may be considered. This average consumpti"
+        },
+        {
+          "element_id": "36_p21_e145",
+          "sequence_order": 145,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 41,
+          "text_preview": "capacity required for supplying power to agriculture feeder. However, in this case CFA  will be limited for solar capaci"
+        },
+        {
+          "element_id": "36_p21_e146",
+          "sequence_order": 146,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "losses would be reduced, therefore, losses shall not be considered in plant capacity  estimation.  9) CUF shall be taken"
+        },
+        {
+          "element_id": "36_p21_e147",
+          "sequence_order": 147,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 49,
+          "text_preview": "minimum 19% shall be considered for calculation of plant capacity eligible for CFA.  No restrictions to be made on insta"
+        },
+        {
+          "element_id": "36_p21_e148",
+          "sequence_order": 148,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
+          "token_count": 2,
+          "text_preview": "of consumption:"
+        },
+        {
+          "element_id": "36_p21_e149",
+          "sequence_order": 149,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "a. Indexation approved by the State Electricity Regulatory Commission may be"
+        },
+        {
+          "element_id": "36_p21_e150",
+          "sequence_order": 150,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "followed.  b. If both metered and unmetered connections are there on the same feeder, capacity-"
+        },
+        {
+          "element_id": "36_p21_e151",
+          "sequence_order": 151,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 38,
+          "text_preview": "wise average of consumption of the metered connections may be extended to the  unmetered connections. This shall be cros"
+        },
+        {
+          "element_id": "36_p21_e152",
+          "sequence_order": 152,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 103,
+          "text_preview": "However, if pumps of capacity higher than 7.5 HP/15 HP are there on such feeder,  capacity may be calculated based on co"
+        }
+      ]
+    },
+    "22": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "36_p22_e153",
+          "sequence_order": 153,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 21 of 26"
+        },
+        {
+          "element_id": "36_p22_e154",
+          "sequence_order": 154,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 297,
+          "text_preview": "6.4.4.  Implementation under CAPEX mode and eligible CFA    i.  FLS can be implemented in CAPEX mode. The process of ten"
+        },
+        {
+          "element_id": "36_p22_e155",
+          "sequence_order": 155,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 212,
+          "text_preview": "6.4.5.  Implementation under RESCO mode and eligible CFA    i.  For selection of RESCO developer and PPA, the Guidelines"
+        }
+      ]
+    },
+    "23": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "36_p23_e156",
+          "sequence_order": 156,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 22 of 26"
+        },
+        {
+          "element_id": "36_p23_e157",
+          "sequence_order": 157,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 387,
+          "text_preview": "vi.  In case of any liquidation of assets of the solar power plant prior to completion of PPA  period, the first charge "
+        },
+        {
+          "element_id": "36_p23_e158",
+          "sequence_order": 158,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 53,
+          "text_preview": "6.4.7.  Monitoring and maintenance    i.  Selected vendors shall be responsible for all aspects of solarisation viz., de"
+        }
+      ]
+    },
+    "24": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "36_p24_e159",
+          "sequence_order": 159,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 23 of 26"
+        },
+        {
+          "element_id": "36_p24_e160",
+          "sequence_order": 160,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 215,
+          "text_preview": "iii.  AMC will include submission of quarterly inspection report of the installation as per  prescribed format. To ensur"
+        },
+        {
+          "element_id": "36_p24_e161",
+          "sequence_order": 161,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "a) The implementing agency would be responsible for monitoring parameters such"
+        },
+        {
+          "element_id": "36_p24_e162",
+          "sequence_order": 162,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "as end-use verification and compilation of statistical information.  b) Implementing agencies will submit monthly progre"
+        },
+        {
+          "element_id": "36_p24_e163",
+          "sequence_order": 163,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "projects.  c) Funds may be released by implementing agency to the vendor on submission of"
+        },
+        {
+          "element_id": "36_p24_e164",
+          "sequence_order": 164,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 251,
+          "text_preview": "bank guarantee as specified in the tender by that vendor for a period of five  years. Alternatively, BG may be provided "
+        }
+      ]
+    },
+    "25": {
+      "elements": 10,
+      "flagged": 10,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "36_p25_e165",
+          "sequence_order": 165,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 24 of 26"
+        },
+        {
+          "element_id": "36_p25_e166",
+          "sequence_order": 166,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 155,
+          "text_preview": "iii.  Under the RESCO mode, CFA upto 100% of the total eligible CFA will be released to  the RESCO developer through DIS"
+        },
+        {
+          "element_id": "36_p25_e167",
+          "sequence_order": 167,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 69,
+          "text_preview": "i.  Projects for installation of solar agriculture pumps and feeder level solarization under  Component C shall be compl"
+        },
+        {
+          "element_id": "36_p25_e168",
+          "sequence_order": 168,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "6.6. Water saving and enhancing farmers’ income"
+        },
+        {
+          "element_id": "36_p25_e169",
+          "sequence_order": 169,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "i. Component C will enable farmers to access daytime reliable solar power for irrigation."
+        },
+        {
+          "element_id": "36_p25_e170",
+          "sequence_order": 170,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "Therefore, farmers can be incentivized for saving water and enhancing their income.  ii. The DISCOMs shall assess the av"
+        },
+        {
+          "element_id": "36_p25_e171",
+          "sequence_order": 171,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 43,
+          "text_preview": "depending upon various factors. This power requirement will be treated as their  benchmark consumption. The DISCOMs shal"
+        },
+        {
+          "element_id": "36_p25_e172",
+          "sequence_order": 172,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 63,
+          "text_preview": "be paid by DISCOMs against this saved power at pre-determined tariff. The DISCOM  will inform the farmers about the benc"
+        },
+        {
+          "element_id": "36_p25_e173",
+          "sequence_order": 173,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 44,
+          "text_preview": "be willing to install meters necessary for availing the said incentives under the scheme.  Therefore, it will be the far"
+        },
+        {
+          "element_id": "36_p25_e174",
+          "sequence_order": 174,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "the farmers using Micro irrigation systems or covered under Micro irrigation schemes  or who opt for Micro irrigation sy"
+        }
+      ]
+    },
+    "26": {
+      "elements": 8,
+      "flagged": 8,
+      "flags": [
+        "corrupted_text",
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "36_p26_e175",
+          "sequence_order": 175,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 25 of 26"
+        },
+        {
+          "element_id": "36_p26_e176",
+          "sequence_order": 176,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "6.7. Responsibilities of Implementation Agency"
+        },
+        {
+          "element_id": "36_p26_e177",
+          "sequence_order": 177,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "The Implementing Agencies will be responsible for the following activities:"
+        },
+        {
+          "element_id": "36_p26_e178",
+          "sequence_order": 178,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 234,
+          "text_preview": "i.  Carry out publicity of the scheme, in consultation with MNRE to increase awareness  amongst potential beneficiaries."
+        },
+        {
+          "element_id": "36_p26_e179",
+          "sequence_order": 179,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 56,
+          "text_preview": "The scheme permits installation of innovative stand-alone solar pumps (under Component B  and C) in test mode. The guide"
+        },
+        {
+          "element_id": "36_p26_e180",
+          "sequence_order": 180,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "8. Interpretation of the Guidelines"
+        },
+        {
+          "element_id": "36_p26_e181",
+          "sequence_order": 181,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 52,
+          "text_preview": "In case of any ambiguity in interpretation of any of the provisions of these guidelines, the  decision of the Ministry o"
+        },
+        {
+          "element_id": "36_p26_e182",
+          "sequence_order": 182,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
           "token_count": 1,
-          "text_preview": "Annexure-B"
+          "text_preview": "*****"
+        }
+      ]
+    },
+    "27": {
+      "elements": 21,
+      "flagged": 21,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "36_p27_e183",
+          "sequence_order": 183,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 4,
+          "text_preview": "Page 26 of 26"
+        },
+        {
+          "element_id": "36_p27_e184",
+          "sequence_order": 184,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Glossary and Definitions"
+        },
+        {
+          "element_id": "36_p27_e185",
+          "sequence_order": 185,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 52,
+          "text_preview": "i.  Ministry (Ministry of New & Renewable Energy)  Nodal Ministry of the Government of India for all matters relating to"
+        },
+        {
+          "element_id": "36_p27_e186",
+          "sequence_order": 186,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 39,
+          "text_preview": "Solar or other Renewable Energy based Power Plants (REPP) of capacity up to 2 MW will  be setup by individual farmers/ g"
+        },
+        {
+          "element_id": "36_p27_e187",
+          "sequence_order": 187,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "iii. Renewable Energy based Power Plant (REPP)"
+        },
+        {
+          "element_id": "36_p27_e188",
+          "sequence_order": 188,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Renewable Energy based Power Plants to be commissioned under PM KUSUM"
+        },
+        {
+          "element_id": "36_p27_e189",
+          "sequence_order": 189,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "iv. Renewable Power Obligation"
+        },
+        {
+          "element_id": "36_p27_e190",
+          "sequence_order": 190,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 50,
+          "text_preview": "Under Section 86(1) (e) of the Electricity Act 2003 (\"EA 2003\") and the National Tariff  Policy 2006, Renewable purchase"
+        },
+        {
+          "element_id": "36_p27_e191",
+          "sequence_order": 191,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "v. Commercial Operation Date"
+        },
+        {
+          "element_id": "36_p27_e192",
+          "sequence_order": 192,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "The Commercial Operation Date (COD) shall be considered as the actual date of  commissioning of the solar power plant as"
+        },
+        {
+          "element_id": "36_p27_e193",
+          "sequence_order": 193,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "vi. Expression of Interest"
+        },
+        {
+          "element_id": "36_p27_e194",
+          "sequence_order": 194,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "DISCOM may also invite applications for Expression of Interest(EOI) from prospective  RPGs to identify the interested be"
+        },
+        {
+          "element_id": "36_p27_e195",
+          "sequence_order": 195,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "vii. Power Purchase Agreement"
+        },
+        {
+          "element_id": "36_p27_e196",
+          "sequence_order": 196,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "A electricity purchase agreement signed by the DISCOM with the qualified RPG for  purchasing the electricity for a perio"
+        },
+        {
+          "element_id": "36_p27_e197",
+          "sequence_order": 197,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "viii. Letter of Award"
+        },
+        {
+          "element_id": "36_p27_e198",
+          "sequence_order": 198,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "Letter of Award (LoA) will be awarded to all eligible applicants for procurement of  renewable power at a pre-fixed leve"
+        },
+        {
+          "element_id": "36_p27_e199",
+          "sequence_order": 199,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "ix. Earnest Money Deposit (EMD)"
+        },
+        {
+          "element_id": "36_p27_e200",
+          "sequence_order": 200,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "In case of bidding, the RPG shall provide Earnest Money Deposit (EMD) in the form of  Bank Guarantee along with EoI."
+        },
+        {
+          "element_id": "36_p27_e201",
+          "sequence_order": 201,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "x. Performance Bank Guarantee(PBG)"
+        },
+        {
+          "element_id": "36_p27_e202",
+          "sequence_order": 202,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "The EMD will be converted into PBG for the successful bidders, who has signed the PPA  within stipulated time period."
+        },
+        {
+          "element_id": "36_p27_e203",
+          "sequence_order": 203,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 38,
+          "text_preview": "xi. Universal Solar Pump Controller  Universal Solar Pump Controller (USPC) is an electronic device through which farmer"
         }
       ]
     }

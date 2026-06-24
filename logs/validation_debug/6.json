@@ -2,577 +2,334 @@
   "document_id": 6,
   "pages": {
     "1": {
-      "elements": 3,
-      "flagged": 3,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": 55.42,
+      "elements": 16,
+      "flagged": 16,
+      "flags": [],
+      "ocr_conf": null,
       "issues": [
         {
           "element_id": "6_p1_e0",
           "sequence_order": 0,
           "page_number": 1,
-          "quality_score": 0.333,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "ies a4"
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Jefe] -[4]2 8 25  fhe  R228  -  lok  $8 eB  5  262s"
         },
         {
           "element_id": "6_p1_e1",
           "sequence_order": 1,
           "page_number": 1,
-          "quality_score": 0.333,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "कळकळ कळ ळ"
+          "reason": [],
+          "token_count": 49,
+          "text_preview": "toate  2 2 Pepe  2  s  5%  £ S&S  S ae  feats ii  24  gag  me Oe:  (a) aale2e 22 3  G PSE SERRE  | d| @| 2) S| 2 ee  SPE"
         },
         {
           "element_id": "6_p1_e2",
           "sequence_order": 2,
           "page_number": 1,
-          "quality_score": 0.333,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 1,
-          "text_preview": "नाय र"
+          "reason": [],
+          "token_count": 77,
+          "text_preview": "EEE:  tee  ce  =  DPS ESESer Gee e ee:  Wkc|  Gea  o 2B & gs & Gf  Ne  a  ew 2 EPEEe Es  4  S|  @) so  of |  a % 4  2eka"
+        },
+        {
+          "element_id": "6_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "4  scoped ee &  Sx’ 2 ee eere es"
+        },
+        {
+          "element_id": "6_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "|  gf  2 reat 2  + =  Ze 2 Fae | BD::  exyieehe  BB p ESeSegas 2"
+        },
+        {
+          "element_id": "6_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "d  Qo w  2» 2 Oo &  Ss  2 ean Bo eS  2"
+        },
+        {
+          "element_id": "6_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 60,
+          "text_preview": "erreee  =  goer:  2  2 ¢  a. 2  @  go 8  & 8 @nme o  Sie 52 2  éa + 4-2 #26 +  om  a ele ae  ZG  ¢  © 4  ge 2!  ae eae  "
+        },
+        {
+          "element_id": "6_p1_e7",
+          "sequence_order": 7,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 37,
+          "text_preview": "ea tisie  ri  S)  6  cs  &  2O  5%  i  Fs  » £2  =.  my  [e)  2  2  & £w@ Q  e| «| a = &  2 pg &  ee @  S$  # £22 3:  PE"
+        },
+        {
+          "element_id": "6_p1_e8",
+          "sequence_order": 8,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": ")  2!  al >| &  ae  ao 4  &&, x £4 @  ge 8:"
+        },
+        {
+          "element_id": "6_p1_e9",
+          "sequence_order": 9,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": ")  sa ¢/@e@ & &  2  Se  2  §  2 88 8  CS oe ee:  Beg 2 8 3 88 a:"
+        },
+        {
+          "element_id": "6_p1_e10",
+          "sequence_order": 10,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "A  g  i)  i a,  he BSP EES  ow 2S 2 2 o3 4"
+        },
+        {
+          "element_id": "6_p1_e11",
+          "sequence_order": 11,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 34,
+          "text_preview": "eg Pag®  Q  53 =)  Ss  +8 2.  2  a ©  ee OS  2  oe  #  = &;  oO  ae  =  5  g  a  ®  eee &  ae %  £ & B er  S"
+        },
+        {
+          "element_id": "6_p1_e12",
+          "sequence_order": 12,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": ":  fF ea eg  22 7  |  . 2s. rome  res ag  sb 2 2 3 gee:  &"
+        },
+        {
+          "element_id": "6_p1_e13",
+          "sequence_order": 13,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "‘  g  x =  aheres  &  g  2 £8 x  A  Po  & &  g  3 78°  22° PEs  22 EO"
+        },
+        {
+          "element_id": "6_p1_e14",
+          "sequence_order": 14,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "&® a2 a,a ©  ‘ . 2g"
+        },
+        {
+          "element_id": "6_p1_e15",
+          "sequence_order": 15,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "<3  £2  -"
         }
       ]
     },
     "2": {
-      "elements": 5,
-      "flagged": 0,
+      "elements": 1,
+      "flagged": 1,
       "flags": [],
-      "ocr_conf": 89.25,
-      "issues": []
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "6_p2_e16",
+          "sequence_order": 16,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 377,
+          "text_preview": "[| [| 7  [| [  [  |:  g  ag  ag  1.2  a2  a. 2  A.2  a. 2  Ae?  a2  L  oe  oe  Ge  wz  wo  © 2  wz  oz  wz  4  pa  4  & "
+        }
+      ]
+    },
+    "3": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "6_p3_e17",
+          "sequence_order": 17,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "ed  zs a  Se ee ee  3)  ag  a.¢ a2  12  ae  Wer  A  re  Bare  eeg:  Careers  bes  don)  a"
+        },
+        {
+          "element_id": "6_p3_e18",
+          "sequence_order": 18,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 139,
+          "text_preview": ",  £  |  .  .,=  a  ge  ad  até  zg  £  2a)  2  aad  a  & ee  & Ge  $a  © 3  a  =  8G|  #83|  #84)  84)  8% as  =  =  er"
+        },
+        {
+          "element_id": "6_p3_e19",
+          "sequence_order": 19,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 167,
+          "text_preview": "ors  o  £  o  a  S  x aE  <  = a:  “|  sed  =  O22 # e112 Qf 2/8 Oe 2  BQSEK LS E2 WSK 2S SG 2 EF  £5) 265) §285) ees Be"
+        }
+      ]
     },
     "4": {
-      "elements": 1,
-      "flagged": 0,
+      "elements": 6,
+      "flagged": 6,
       "flags": [],
-      "ocr_conf": 89.28,
-      "issues": []
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "6_p4_e20",
+          "sequence_order": 20,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 45,
+          "text_preview": "Es a es es es de  ge  %#, eg  e@4)  Sees) Sees) Sees) Sgesl  CS Bs  Bs  Ba Sees e2e% Sees faea Saea zgeeza  2 3:  Hs) ® "
+        },
+        {
+          "element_id": "6_p4_e21",
+          "sequence_order": 21,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 76,
+          "text_preview": "i  i  £2)  £2  She)  See)  See)  Behe  =  =  LS a  2S 4  LE a  LE wy  2a 4  BE  &  2 oy  oe oy  2a st  Sy £  oe  we]  °°"
+        },
+        {
+          "element_id": "6_p4_e22",
+          "sequence_order": 22,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 61,
+          "text_preview": "a)  wo  wo  oe  a  wo  wo  ro)  ¢  24| S2a24/ geee| geee| gegel e244] geea] SoReal:  S&el  Sees) Sees) Sees) SEER Sees) "
+        },
+        {
+          "element_id": "6_p4_e23",
+          "sequence_order": 23,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 71,
+          "text_preview": "ex) e©oexl woexel wosexel woe) woe) woex] eo2exl  «  £5) S885) S228) S225) Sees) SEs BSER ReRE) S  =  age  QO  QO 6  66 "
+        },
+        {
+          "element_id": "6_p4_e24",
+          "sequence_order": 24,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": ".  &  s&  Ss  ss  &  &  5  5  5  &  5  &  &"
+        },
+        {
+          "element_id": "6_p4_e25",
+          "sequence_order": 25,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 74,
+          "text_preview": "we DmeoLeedeokedeokeTeoe2emMeoee  De oekeTeo2e gle:  a wv  a  EY  wv  aw  & @  ay a  a Ae | SIGCSE SSG SS ESS CRESS CR E"
+        }
+      ]
     },
     "5": {
-      "elements": 9,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": 92.19,
-      "issues": []
-    },
-    "6": {
-      "elements": 19,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": 85.07,
-      "issues": []
-    },
-    "7": {
-      "elements": 19,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": 86.13,
-      "issues": []
-    },
-    "8": {
-      "elements": 18,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": 86.35,
-      "issues": []
-    },
-    "9": {
-      "elements": 21,
+      "elements": 3,
       "flagged": 3,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": 91.1,
-      "issues": [
-        {
-          "element_id": "6_p9_e74",
-          "sequence_order": 74,
-          "page_number": 9,
-          "quality_score": 0.547,
-          "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "que 'एफ 7"
-        },
-        {
-          "element_id": "6_p9_e83",
-          "sequence_order": 83,
-          "page_number": 9,
-          "quality_score": 0.547,
-          "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 1,
-          "text_preview": "र ४ i"
-        },
-        {
-          "element_id": "6_p9_e94",
-          "sequence_order": 94,
-          "page_number": 9,
-          "quality_score": 0.547,
-          "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "ee ei"
-        }
-      ]
-    },
-    "10": {
-      "elements": 15,
-      "flagged": 0,
       "flags": [],
-      "ocr_conf": 83.78,
-      "issues": []
-    },
-    "11": {
-      "elements": 20,
-      "flagged": 2,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": 76.15,
+      "ocr_conf": null,
       "issues": [
         {
-          "element_id": "6_p11_e111",
-          "sequence_order": 111,
-          "page_number": 11,
-          "quality_score": 0.457,
-          "element_type": "clause",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "ग्राम विकास"
+          "element_id": "6_p5_e26",
+          "sequence_order": 26,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 84,
+          "text_preview": "SES  es  @ 2  cSSe 6:  28 fF  ' Be:  Pt  -  EQs  Se  g 2  2 2  vow  2 2.  &RE® #,  +23  \"he  Ee¢@86 38  223  é,  a  ea &"
         },
         {
-          "element_id": "6_p11_e121",
-          "sequence_order": 121,
-          "page_number": 11,
-          "quality_score": 0.457,
+          "element_id": "6_p5_e27",
+          "sequence_order": 27,
+          "page_number": 5,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "१६/२०१८०१९"
-        }
-      ]
-    },
-    "12": {
-      "elements": 26,
-      "flagged": 4,
-      "flags": [
-        "corrupted_text",
-        "low_content"
-      ],
-      "ocr_conf": 87.06,
-      "issues": [
-        {
-          "element_id": "6_p12_e130",
-          "sequence_order": 130,
-          "page_number": 12,
-          "quality_score": 0.522,
-          "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 1,
-          "text_preview": "\"ण em"
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "|  \"EO  gfe | e348 ©  .  z  Pepe | 284s)  3:  a  & £  c  “  &  2  >  3  & &  =)  7.  £ §:  v  wy  292  29%"
         },
         {
-          "element_id": "6_p12_e132",
-          "sequence_order": 132,
-          "page_number": 12,
-          "quality_score": 0.261,
-          "element_type": "clause",
-          "reason": [
-            "corrupted_text",
-            "low_content"
-          ],
-          "token_count": 1,
-          "text_preview": "Ower):-"
-        },
-        {
-          "element_id": "6_p12_e140",
-          "sequence_order": 140,
-          "page_number": 12,
-          "quality_score": 0.522,
+          "element_id": "6_p5_e28",
+          "sequence_order": 28,
+          "page_number": 5,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "सचिवांच्या"
-        },
-        {
-          "element_id": "6_p12_e146",
-          "sequence_order": 146,
-          "page_number": 12,
-          "quality_score": 0.522,
-          "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "१६/२०१८-११"
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "=  o &  5  ” a  &"
         }
       ]
-    },
-    "13": {
-      "elements": 23,
-      "flagged": 2,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": 88.75,
-      "issues": [
-        {
-          "element_id": "6_p13_e168",
-          "sequence_order": 168,
-          "page_number": 13,
-          "quality_score": 0.532,
-          "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "केंद्रीय"
-        },
-        {
-          "element_id": "6_p13_e178",
-          "sequence_order": 178,
-          "page_number": 13,
-          "quality_score": 0.532,
-          "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "0072.. यी"
-        }
-      ]
-    },
-    "14": {
-      "elements": 19,
-      "flagged": 1,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": 83.58,
-      "issues": [
-        {
-          "element_id": "6_p14_e184",
-          "sequence_order": 184,
-          "page_number": 14,
-          "quality_score": 0.501,
-          "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "शहरें _ आणि"
-        }
-      ]
-    },
-    "15": {
-      "elements": 18,
-      "flagged": 1,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": 88.12,
-      "issues": [
-        {
-          "element_id": "6_p15_e198",
-          "sequence_order": 198,
-          "page_number": 15,
-          "quality_score": 0.529,
-          "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "a, ine"
-        }
-      ]
-    },
-    "16": {
-      "elements": 22,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": 91.62,
-      "issues": []
-    },
-    "17": {
-      "elements": 21,
-      "flagged": 1,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": 89.73,
-      "issues": [
-        {
-          "element_id": "6_p17_e245",
-          "sequence_order": 245,
-          "page_number": 17,
-          "quality_score": 0.538,
-          "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "त्यांच्या"
-        }
-      ]
-    },
-    "18": {
-      "elements": 20,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": 86.49,
-      "issues": []
-    },
-    "19": {
-      "elements": 17,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": 84.48,
-      "issues": []
-    },
-    "20": {
-      "elements": 7,
-      "flagged": 1,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": 86.18,
-      "issues": [
-        {
-          "element_id": "6_p20_e296",
-          "sequence_order": 296,
-          "page_number": 20,
-          "quality_score": 0.517,
-          "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "yaar' Fe"
-        }
-      ]
-    },
-    "21": {
-      "elements": 15,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": 85.75,
-      "issues": []
-    },
-    "22": {
-      "elements": 22,
-      "flagged": 2,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": 88.6,
-      "issues": [
-        {
-          "element_id": "6_p22_e318",
-          "sequence_order": 318,
-          "page_number": 22,
-          "quality_score": 0.532,
-          "element_type": "heading",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "परिशिष्ट १"
-        },
-        {
-          "element_id": "6_p22_e328",
-          "sequence_order": 328,
-          "page_number": 22,
-          "quality_score": 0.532,
-          "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 1,
-          "text_preview": "Sy 'याह"
-        }
-      ]
-    },
-    "23": {
-      "elements": 23,
-      "flagged": 3,
-      "flags": [
-        "corrupted_text",
-        "low_content"
-      ],
-      "ocr_conf": 88.87,
-      "issues": [
-        {
-          "element_id": "6_p23_e340",
-          "sequence_order": 340,
-          "page_number": 23,
-          "quality_score": 0.267,
-          "element_type": "paragraph",
-          "reason": [
-            "corrupted_text",
-            "low_content"
-          ],
-          "token_count": 1,
-          "text_preview": "3 पर"
-        },
-        {
-          "element_id": "6_p23_e341",
-          "sequence_order": 341,
-          "page_number": 23,
-          "quality_score": 0.533,
-          "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "सकळा ही नशा"
-        },
-        {
-          "element_id": "6_p23_e353",
-          "sequence_order": 353,
-          "page_number": 23,
-          "quality_score": 0.533,
-          "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 1,
-          "text_preview": "(Barrier)"
-        }
-      ]
-    },
-    "24": {
-      "elements": 15,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": 79.46,
-      "issues": []
-    },
-    "25": {
-      "elements": 16,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": 87.02,
-      "issues": []
-    },
-    "26": {
-      "elements": 18,
-      "flagged": 1,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": 84.86,
-      "issues": [
-        {
-          "element_id": "6_p26_e409",
-          "sequence_order": 409,
-          "page_number": 26,
-          "quality_score": 0.509,
-          "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "5.00 |"
-        }
-      ]
-    },
-    "27": {
-      "elements": 5,
-      "flagged": 1,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": 72.82,
-      "issues": [
-        {
-          "element_id": "6_p27_e415",
-          "sequence_order": 415,
-          "page_number": 27,
-          "quality_score": 0.437,
-          "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "SS ज्याला"
-        }
-      ]
-    },
-    "28": {
-      "elements": 8,
-      "flagged": 2,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": 85.75,
-      "issues": [
-        {
-          "element_id": "6_p28_e419",
-          "sequence_order": 419,
-          "page_number": 28,
-          "quality_score": 0.514,
-          "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "Emission Standard"
-        },
-        {
-          "element_id": "6_p28_e421",
-          "sequence_order": 421,
-          "page_number": 28,
-          "quality_score": 0.514,
-          "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 1,
-          "text_preview": "Ee जा"
-        }
-      ]
-    },
-    "29": {
-      "elements": 17,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": 88.9,
-      "issues": []
-    },
-    "30": {
-      "elements": 10,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": 78.45,
-      "issues": []
     }
   }
 }

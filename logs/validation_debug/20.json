@@ -1,0 +1,2744 @@
+{
+  "document_id": 20,
+  "pages": {
+    "1": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Roadmap for\u0003Job Creation in the\u0003 AI Economy | 1"
+        }
+      ]
+    },
+    "2": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p2_e1",
+          "sequence_order": 1,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "2 | Roadmap for\u0003Job Creation in the\u0003 AI Economy"
+        }
+      ]
+    },
+    "3": {
+      "elements": 13,
+      "flagged": 13,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p3_e2",
+          "sequence_order": 2,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Expert Council Members"
+        },
+        {
+          "element_id": "20_p3_e3",
+          "sequence_order": 3,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Mr. Sandeep Patel Head, India and SEA, IBM"
+        },
+        {
+          "element_id": "20_p3_e4",
+          "sequence_order": 4,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Mr. Anish Mukker  India CEO, Teleperformance"
+        },
+        {
+          "element_id": "20_p3_e5",
+          "sequence_order": 5,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Mr. Thirumala Arohi"
+        },
+        {
+          "element_id": "20_p3_e6",
+          "sequence_order": 6,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Mamunooru Executive VP, Head of India"
+        },
+        {
+          "element_id": "20_p3_e7",
+          "sequence_order": 7,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Business and Platforms,  Group head - Education  Training and Assessment,"
+        },
+        {
+          "element_id": "20_p3_e8",
+          "sequence_order": 8,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Infosys Limited"
+        },
+        {
+          "element_id": "20_p3_e9",
+          "sequence_order": 9,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Mr. Richard Lobo  Chief People Officer,"
+        },
+        {
+          "element_id": "20_p3_e10",
+          "sequence_order": 10,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Tech Mahindra"
+        },
+        {
+          "element_id": "20_p3_e11",
+          "sequence_order": 11,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Mr. Nachiket Deshpande"
+        },
+        {
+          "element_id": "20_p3_e12",
+          "sequence_order": 12,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "COO, LTIMindtree"
+        },
+        {
+          "element_id": "20_p3_e13",
+          "sequence_order": 13,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Ms. Sonia Pant  Advisor & Program  Director, NITI Aayog"
+        },
+        {
+          "element_id": "20_p3_e14",
+          "sequence_order": 14,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Mr. Rajiv Gupta MD and Senior Partner,"
+        }
+      ]
+    },
+    "4": {
+      "elements": 12,
+      "flagged": 12,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p4_e15",
+          "sequence_order": 15,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "LEAD CONTRIBUTORS:"
+        },
+        {
+          "element_id": "20_p4_e16",
+          "sequence_order": 16,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Mr. Sambhav Jain  Managing Director and Partner, Boston Consulting Group, New Delhi"
+        },
+        {
+          "element_id": "20_p4_e17",
+          "sequence_order": 17,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "Ms. Sangeeta Gupta  Senior Vice President, National Association of Software and Service Companies (NASSCOM)"
+        },
+        {
+          "element_id": "20_p4_e18",
+          "sequence_order": 18,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Ms. Namita Jain  Deputy Director, NASSCOM Research"
+        },
+        {
+          "element_id": "20_p4_e19",
+          "sequence_order": 19,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "OTHER CONTRIBUTORS:"
+        },
+        {
+          "element_id": "20_p4_e20",
+          "sequence_order": 20,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Mr. Piyush Mehra  Chief Human Resources Officer, Genpact"
+        },
+        {
+          "element_id": "20_p4_e21",
+          "sequence_order": 21,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Mr. Vikas Bhalla  President, EXL Service"
+        },
+        {
+          "element_id": "20_p4_e22",
+          "sequence_order": 22,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "Mr. Jasjit Singh Kang  Managing Partner and Global Head, Wipro Business Process Services (Wipro BPS)"
+        },
+        {
+          "element_id": "20_p4_e23",
+          "sequence_order": 23,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Mr. Deepak Wadhavan  Global Vice President, India Delivery and Operations, Concentrix"
+        },
+        {
+          "element_id": "20_p4_e24",
+          "sequence_order": 24,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Mr. Nirav Sampat  Chief Technology Officer, Accenture in India"
+        },
+        {
+          "element_id": "20_p4_e25",
+          "sequence_order": 25,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Mr. Rohit Piparsania  Senior Leader, Quality Engineering, Amdocs"
+        },
+        {
+          "element_id": "20_p4_e26",
+          "sequence_order": 26,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Mr. Nitin Rakesh  Chief Executive Officer and Managing Director, Mphasis"
+        }
+      ]
+    },
+    "5": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p5_e27",
+          "sequence_order": 27,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 53,
+          "text_preview": "s AI reshapes the global economy, India stands at  a critical juncture: we can either be disrupted by  this wave or lead"
+        },
+        {
+          "element_id": "20_p5_e28",
+          "sequence_order": 28,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 56,
+          "text_preview": "India’s strength lies in its people. With over 9 million  technology and customer experience professionals,  and the wor"
+        },
+        {
+          "element_id": "20_p5_e29",
+          "sequence_order": 29,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 50,
+          "text_preview": "This is why the recommendation to establish an India AI  Talent Mission, in this report is both timely and essential.  B"
+        },
+        {
+          "element_id": "20_p5_e30",
+          "sequence_order": 30,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "BVR Subrahmanyam"
+        },
+        {
+          "element_id": "20_p5_e31",
+          "sequence_order": 31,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "CEO, NITI Aayog"
+        },
+        {
+          "element_id": "20_p5_e32",
+          "sequence_order": 32,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Foreword"
+        }
+      ]
+    },
+    "6": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p6_e33",
+          "sequence_order": 33,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "I is rewriting the rules of the job market—faster than  any policy, curriculum, or company can keep up.  The question is"
+        },
+        {
+          "element_id": "20_p6_e34",
+          "sequence_order": 34,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "By 2031, India’s technology sector stands at a crossroads:  we could lose 1.5 million jobs or create up to 4 million new"
+        },
+        {
+          "element_id": "20_p6_e35",
+          "sequence_order": 35,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 36,
+          "text_preview": "To help navigate this pivotal moment, NITI Aayog’s Frontier  Tech Hub has developed a comprehensive roadmap using  a Wor"
+        },
+        {
+          "element_id": "20_p6_e36",
+          "sequence_order": 36,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "I am deeply grateful to BCG and NASSCOM for their  partnership in developing this report, and to the Expert  Council for"
+        },
+        {
+          "element_id": "20_p6_e37",
+          "sequence_order": 37,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Ms Debjani Ghosh,  Distinguished Fellow, NITI Aayog"
+        },
+        {
+          "element_id": "20_p6_e38",
+          "sequence_order": 38,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Foreword"
+        }
+      ]
+    },
+    "7": {
+      "elements": 8,
+      "flagged": 8,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p7_e39",
+          "sequence_order": 39,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 59,
+          "text_preview": "ut to the chase: AI (whether Generative or Agentic or any  other form) is ubiquitous. The prevalent rhetoric is that  ma"
+        },
+        {
+          "element_id": "20_p7_e40",
+          "sequence_order": 40,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 47,
+          "text_preview": "Which way would the future unfold for jobs in India’s powerhouse  IT services (euphemism for the development and mainten"
+        },
+        {
+          "element_id": "20_p7_e41",
+          "sequence_order": 41,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 56,
+          "text_preview": "In a business-as-usual case, there will be a downside. In this worst- case scenario, the headcount in the tech services "
+        },
+        {
+          "element_id": "20_p7_e42",
+          "sequence_order": 42,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 43,
+          "text_preview": "And yet, as this action plan highlights, if India acts strategically, tech  sector jobs in the country could increase ra"
+        },
+        {
+          "element_id": "20_p7_e43",
+          "sequence_order": 43,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 54,
+          "text_preview": "The action plan arrives at this view after examining the mechanics  of the AI disruption that is already unfolding in th"
+        },
+        {
+          "element_id": "20_p7_e44",
+          "sequence_order": 44,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "Three existing factors exacerbate the AI risk: high job displacement  risk, gaps in India’s computer science education, "
+        },
+        {
+          "element_id": "20_p7_e45",
+          "sequence_order": 45,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 143,
+          "text_preview": "But AI will create upward tailwinds in the long run, unlocking new  roles, technology, and use cases. More of hyper spec"
+        },
+        {
+          "element_id": "20_p7_e46",
+          "sequence_order": 46,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Executive Summary"
+        }
+      ]
+    },
+    "8": {
+      "elements": 16,
+      "flagged": 16,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p8_e47",
+          "sequence_order": 47,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "action plan calls on the Government, academia, and industry to  collaborate to capitalize on the tailwinds."
+        },
+        {
+          "element_id": "20_p8_e48",
+          "sequence_order": 48,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 77,
+          "text_preview": "This action plan calls for the establishment of an India AI Talent  Mission—a nationally coordinated, all-of-government "
+        },
+        {
+          "element_id": "20_p8_e49",
+          "sequence_order": 49,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 78,
+          "text_preview": "Today, India’s efforts to address the AI skilling imperatives are spread  thin across numerous ministries and agencies—e"
+        },
+        {
+          "element_id": "20_p8_e50",
+          "sequence_order": 50,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "This mission should be anchored on three foundational pillars:"
+        },
+        {
+          "element_id": "20_p8_e51",
+          "sequence_order": 51,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "1.  Embedding AI fluency across all levels of the education system,  from schools to universities;"
+        },
+        {
+          "element_id": "20_p8_e52",
+          "sequence_order": 52,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "2. Building a globally attractive AI talent magnet by positioning"
+        },
+        {
+          "element_id": "20_p8_e53",
+          "sequence_order": 53,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "India as a premier destination for AI skills;"
+        },
+        {
+          "element_id": "20_p8_e54",
+          "sequence_order": 54,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "3. Launching a massive AI skilling engine to reskill and upskill the"
+        },
+        {
+          "element_id": "20_p8_e55",
+          "sequence_order": 55,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "current workforce at scale"
+        },
+        {
+          "element_id": "20_p8_e56",
+          "sequence_order": 56,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 64,
+          "text_preview": "In addition, it should coordinate with India AI Mission to ensure  the following. These two are critical enablers for In"
+        },
+        {
+          "element_id": "20_p8_e57",
+          "sequence_order": 57,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "4. Establishing an India Open-Source AI Commons to democratise"
+        },
+        {
+          "element_id": "20_p8_e58",
+          "sequence_order": 58,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "innovation"
+        },
+        {
+          "element_id": "20_p8_e59",
+          "sequence_order": 59,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "5. Operationalising a federated national compute and innovation"
+        },
+        {
+          "element_id": "20_p8_e60",
+          "sequence_order": 60,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "grid to enable access to AI infrastructure"
+        },
+        {
+          "element_id": "20_p8_e61",
+          "sequence_order": 61,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "The moment of reckoning for India’s tech sector is here. Only a unified,  urgent, and mission-driven response can turn t"
+        },
+        {
+          "element_id": "20_p8_e62",
+          "sequence_order": 62,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 51,
+          "text_preview": "This roadmap is a living document, designed to evolve as new skills,  technologies, and opportunities emerge. Its purpos"
+        }
+      ]
+    },
+    "9": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p9_e63",
+          "sequence_order": 63,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Roadmap for\u0003Job Creation in the\u0003 AI Economy | 9"
+        }
+      ]
+    },
+    "10": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p10_e64",
+          "sequence_order": 64,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Index"
+        },
+        {
+          "element_id": "20_p10_e65",
+          "sequence_order": 65,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "1. INTRODUCTION 1"
+        },
+        {
+          "element_id": "20_p10_e66",
+          "sequence_order": 66,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "2. SITUATION: MECHANICS OF DISRUPTION 2"
+        },
+        {
+          "element_id": "20_p10_e67",
+          "sequence_order": 67,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "3. THE COMPLICATION: A TIPPING POINT AT RISK 8"
+        },
+        {
+          "element_id": "20_p10_e68",
+          "sequence_order": 68,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "4. THE RESOLUTION: HOW INDIA CAN CATCH THE AI UPSIDE 11"
+        },
+        {
+          "element_id": "20_p10_e69",
+          "sequence_order": 69,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "5. CONCLUSION AND NEXT STEPS 16"
+        },
+        {
+          "element_id": "20_p10_e70",
+          "sequence_order": 70,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "6. BIBLIOGRAPHY 16"
+        }
+      ]
+    },
+    "11": {
+      "elements": 12,
+      "flagged": 12,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p11_e71",
+          "sequence_order": 71,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Roadmap for\u0003Job Creation in the\u0003 AI Economy | 1"
+        },
+        {
+          "element_id": "20_p11_e72",
+          "sequence_order": 72,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "1.  INTRODUCTION"
+        },
+        {
+          "element_id": "20_p11_e73",
+          "sequence_order": 73,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 50,
+          "text_preview": "Section Summary: Artificial Intelligence is not new—it has been a century-old pursuit, punctuated  by long “AI winters.”"
+        },
+        {
+          "element_id": "20_p11_e74",
+          "sequence_order": 74,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 37,
+          "text_preview": "The critical question now is its impact—especially on jobs. While one narrative is dystopian, predicting  large-scale jo"
+        },
+        {
+          "element_id": "20_p11_e75",
+          "sequence_order": 75,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 70,
+          "text_preview": "For India, the tech services sector (IT, CX, BPM) is at the epicenter of both risk and opportunity. This  action plan em"
+        },
+        {
+          "element_id": "20_p11_e76",
+          "sequence_order": 76,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 85,
+          "text_preview": "A quick quiz question: what is common between “Metropolis”, “Eliza”, “Watson”, and “AlphaGo”?  The answer is “Generation"
+        },
+        {
+          "element_id": "20_p11_e77",
+          "sequence_order": 77,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 86,
+          "text_preview": "However, the launch of ChatGPT 3.0 (2022) has ignited interest in AI like never before.  The world has since been simult"
+        },
+        {
+          "element_id": "20_p11_e78",
+          "sequence_order": 78,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 71,
+          "text_preview": "It is different this time, though. There are many reasons for it, but to state it simplistically,  for the first time, w"
+        },
+        {
+          "element_id": "20_p11_e79",
+          "sequence_order": 79,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "AI Gen 4 is here to stay. What impact, therefore, might this have, especially on jobs?"
+        },
+        {
+          "element_id": "20_p11_e80",
+          "sequence_order": 80,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 77,
+          "text_preview": "Almost everyone has a view on this question. From those who have a general dystopian view  of the AI future (“One of the"
+        },
+        {
+          "element_id": "20_p11_e81",
+          "sequence_order": 81,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 117,
+          "text_preview": "On the other hand, many feel that this is a game-changer, and we just need to understand what  the new game may be. Acco"
+        },
+        {
+          "element_id": "20_p11_e82",
+          "sequence_order": 82,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "India’s tech services sector—strategically vital to the economy, employing 13% of the total  workforce and over 30% of t"
+        }
+      ]
+    },
+    "12": {
+      "elements": 10,
+      "flagged": 10,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p12_e83",
+          "sequence_order": 83,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "2 | Roadmap for\u0003Job Creation in the\u0003 AI Economy"
+        },
+        {
+          "element_id": "20_p12_e84",
+          "sequence_order": 84,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "It faces significant risks, but also unprecedented opportunities that could redefine its global  competitiveness."
+        },
+        {
+          "element_id": "20_p12_e85",
+          "sequence_order": 85,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 64,
+          "text_preview": "According to industry tracker finalroundai.com, by mid-2025, almost 78,000 tech employees  had lost their jobs due to AI"
+        },
+        {
+          "element_id": "20_p12_e86",
+          "sequence_order": 86,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 118,
+          "text_preview": "On the other hand, research at Stanford, which studied customer support teams, concluded  that when human agents were gi"
+        },
+        {
+          "element_id": "20_p12_e87",
+          "sequence_order": 87,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 84,
+          "text_preview": "What does this mean—for the world, and for India? The answer is not definitive. Globally,  however, the signals are shar"
+        },
+        {
+          "element_id": "20_p12_e88",
+          "sequence_order": 88,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 78,
+          "text_preview": "For India, this action plan believes that the Indian tech services industry can be in control  of its destiny. As of 202"
+        },
+        {
+          "element_id": "20_p12_e89",
+          "sequence_order": 89,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 33,
+          "text_preview": "Similarly, the Customer Service (CX) sector employs 2 to 2.5 million. Non-action can take the  headcount down to 1.8 mil"
+        },
+        {
+          "element_id": "20_p12_e90",
+          "sequence_order": 90,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "Whether our industry is a net employer, or a net loser of jobs depends on the actions we  take, as detailed subsequently"
+        },
+        {
+          "element_id": "20_p12_e91",
+          "sequence_order": 91,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "2. SITUATION: MECHANICS OF DISRUPTION"
+        },
+        {
+          "element_id": "20_p12_e92",
+          "sequence_order": 92,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 203,
+          "text_preview": "Section Summary: It is easy to fall into the trap of viewing AI’s impact as a simple story of automation  and job loss. "
+        }
+      ]
+    },
+    "13": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p13_e93",
+          "sequence_order": 93,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Roadmap for\u0003Job Creation in the\u0003 AI Economy | 3"
+        },
+        {
+          "element_id": "20_p13_e94",
+          "sequence_order": 94,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 152,
+          "text_preview": "One is at risk of getting carried away by AI’s role of automating the actual “work” done as a  simple, linear impact. Th"
+        },
+        {
+          "element_id": "20_p13_e95",
+          "sequence_order": 95,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 47,
+          "text_preview": "Hence, in order to estimate the second and third order impact of AI, we looked at changes  in three interlinked dimensio"
+        },
+        {
+          "element_id": "20_p13_e96",
+          "sequence_order": 96,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Fig. 1: The ‘Work, Worker, Workforce’ paradigm to assess impact of AI"
+        },
+        {
+          "element_id": "20_p13_e97",
+          "sequence_order": 97,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 56,
+          "text_preview": "Let’s take work first. In the pre-generative AI era, a typical mid-sized IT services firm would  have required a team of"
+        },
+        {
+          "element_id": "20_p13_e98",
+          "sequence_order": 98,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 81,
+          "text_preview": "According to a BCG analysis based on observations of over 35 pilot accounts of clients, AI is  significantly impacting m"
+        }
+      ]
+    },
+    "14": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p14_e99",
+          "sequence_order": 99,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "4 | Roadmap for\u0003Job Creation in the\u0003 AI Economy"
+        },
+        {
+          "element_id": "20_p14_e100",
+          "sequence_order": 100,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Fig. 2: Productivity improvement across SDLC using GenAI"
+        },
+        {
+          "element_id": "20_p14_e101",
+          "sequence_order": 101,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 100,
+          "text_preview": "Application development not only accounts for almost a quarter of an organisation’s tech  spending but also is an area t"
+        },
+        {
+          "element_id": "20_p14_e102",
+          "sequence_order": 102,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 82,
+          "text_preview": "Another area of work that is similarly significantly impacted by the advent of AI is customer  service. An example of an"
+        },
+        {
+          "element_id": "20_p14_e103",
+          "sequence_order": 103,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 61,
+          "text_preview": "Today, AI chatbots (and soon voicebots) can handle a bulk of the first-line queries quickly  and accurately. Bots can us"
+        },
+        {
+          "element_id": "20_p14_e104",
+          "sequence_order": 104,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 83,
+          "text_preview": "With AI, customer support agencies will find that the whole customer service representative  journey has been transforme"
+        }
+      ]
+    },
+    "15": {
+      "elements": 8,
+      "flagged": 8,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p15_e105",
+          "sequence_order": 105,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Roadmap for\u0003Job Creation in the\u0003 AI Economy | 5"
+        },
+        {
+          "element_id": "20_p15_e106",
+          "sequence_order": 106,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Fig. 3: Productivity improvement across the CX value chain using GenAI"
+        },
+        {
+          "element_id": "20_p15_e107",
+          "sequence_order": 107,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 104,
+          "text_preview": "On the other end of the spectrum, there are areas in the tech services sector that will  be less impacted by AI, at leas"
+        },
+        {
+          "element_id": "20_p15_e108",
+          "sequence_order": 108,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 54,
+          "text_preview": "The impact of AI on work, elaborated upon above, provides us with two broad learnings. One,  AI’s impact is not uniform "
+        },
+        {
+          "element_id": "20_p15_e109",
+          "sequence_order": 109,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "Secondly, while AI will render many roles redundant, it will simultaneously unlock new use  cases, technologies, and rol"
+        },
+        {
+          "element_id": "20_p15_e110",
+          "sequence_order": 110,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 65,
+          "text_preview": "Let us look at use cases first. AI is helping IT services companies push into what were  traditionally non-IT budgets, a"
+        },
+        {
+          "element_id": "20_p15_e111",
+          "sequence_order": 111,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 67,
+          "text_preview": "Secondly, AI is also accelerating technology convergence, as it intersects with new frontiers  such as 5G, Edge, and qua"
+        },
+        {
+          "element_id": "20_p15_e112",
+          "sequence_order": 112,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 56,
+          "text_preview": "India launched the National Quantum Mission in 2023 with a budget of `6,000 Cr, where  private players are expected to c"
+        }
+      ]
+    },
+    "16": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p16_e113",
+          "sequence_order": 113,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "6 | Roadmap for\u0003Job Creation in the\u0003 AI Economy"
+        },
+        {
+          "element_id": "20_p16_e114",
+          "sequence_order": 114,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 121,
+          "text_preview": "New AI-native roles such as data centre controller and AI marketing specialists are  emerging. OpenAI’s GPT-3 uses over "
+        },
+        {
+          "element_id": "20_p16_e115",
+          "sequence_order": 115,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 78,
+          "text_preview": "Thirdly, AI technologies like accent neutralisation and real-time language translation are  reducing the barriers for on"
+        },
+        {
+          "element_id": "20_p16_e116",
+          "sequence_order": 116,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 58,
+          "text_preview": "Fourthly, the Global Capability Centers (GCC) expansion in India for developing in-house  AI is also creating a tailwind"
+        },
+        {
+          "element_id": "20_p16_e117",
+          "sequence_order": 117,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 106,
+          "text_preview": "Let us now examine AI’s impact on the worker. Fig. 4 summarises this impact. There will be  roles that evolve with AI an"
+        },
+        {
+          "element_id": "20_p16_e118",
+          "sequence_order": 118,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Fig. 4: Impact of AI on IT and CX roles"
+        }
+      ]
+    },
+    "17": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p17_e119",
+          "sequence_order": 119,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Roadmap for\u0003Job Creation in the\u0003 AI Economy | 7"
+        },
+        {
+          "element_id": "20_p17_e120",
+          "sequence_order": 120,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 662,
+          "text_preview": "Pune-based Rekha is a junior QA engineer, whose core job involves designing and executing  test cases, data management, "
+        }
+      ]
+    },
+    "18": {
+      "elements": 8,
+      "flagged": 8,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p18_e121",
+          "sequence_order": 121,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "8 | Roadmap for\u0003Job Creation in the\u0003 AI Economy"
+        },
+        {
+          "element_id": "20_p18_e122",
+          "sequence_order": 122,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 83,
+          "text_preview": "Finally, there are roles ‘AI for AI’ – advanced research scientists & AI engineers who are  advancing AI itself by creat"
+        },
+        {
+          "element_id": "20_p18_e123",
+          "sequence_order": 123,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Fig. 5: Archetypes of delivery pyramids"
+        },
+        {
+          "element_id": "20_p18_e124",
+          "sequence_order": 124,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 46,
+          "text_preview": "The first possibility is of a secular productivity gain and adoption across the pyramid.  The delivery structure in the "
+        },
+        {
+          "element_id": "20_p18_e125",
+          "sequence_order": 125,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 49,
+          "text_preview": "The second possibility is of higher productivity gains and adoption in the lower layer of the  organisational pyramid. T"
+        },
+        {
+          "element_id": "20_p18_e126",
+          "sequence_order": 126,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 33,
+          "text_preview": "Under the third possibility, work at the lower layers is substantially reduced. But there is a  human in the loop, indic"
+        },
+        {
+          "element_id": "20_p18_e127",
+          "sequence_order": 127,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 86,
+          "text_preview": "In an IT services company, this typically translates to a shrinking of entry-level roles involving  QA and support, whic"
+        },
+        {
+          "element_id": "20_p18_e128",
+          "sequence_order": 128,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "In short, AI boosts productivity across the board. This means fewer layers, faster releases, and  leaner teams."
+        }
+      ]
+    },
+    "19": {
+      "elements": 9,
+      "flagged": 9,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p19_e129",
+          "sequence_order": 129,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Roadmap for\u0003Job Creation in the\u0003 AI Economy | 9"
+        },
+        {
+          "element_id": "20_p19_e130",
+          "sequence_order": 130,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "3. THE COMPLICATION: A TIPPING POINT AT RISK"
+        },
+        {
+          "element_id": "20_p19_e131",
+          "sequence_order": 131,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 76,
+          "text_preview": "Section Summary: The implications of AI for the tech services sector encompass both risks  and opportunities. India is a"
+        },
+        {
+          "element_id": "20_p19_e132",
+          "sequence_order": 132,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 38,
+          "text_preview": "The foregoing discussion shows that the implications of AI for the tech services sector encompass both  risks and opport"
+        },
+        {
+          "element_id": "20_p19_e133",
+          "sequence_order": 133,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 33,
+          "text_preview": "This urgency stems from three critical challenges: the sheer scale of the job displacement risk, fundamental  shortcomin"
+        },
+        {
+          "element_id": "20_p19_e134",
+          "sequence_order": 134,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 96,
+          "text_preview": "The first is the sheer scale of the job displacement risk unfolding in the sector. According to data from  the Centre of"
+        },
+        {
+          "element_id": "20_p19_e135",
+          "sequence_order": 135,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 63,
+          "text_preview": "The impending obsolescence poses a substantial threat to job roles like the L1 support agent and the junior  QA engineer"
+        },
+        {
+          "element_id": "20_p19_e136",
+          "sequence_order": 136,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 93,
+          "text_preview": "The second reason pertains to problems with India’s talent pipeline. At the grassroots level, India’s computer  science "
+        },
+        {
+          "element_id": "20_p19_e137",
+          "sequence_order": 137,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Fig. 6: Availability of computer science education by country"
+        }
+      ]
+    },
+    "20": {
+      "elements": 9,
+      "flagged": 9,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p20_e138",
+          "sequence_order": 138,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "10 | Roadmap for\u0003Job Creation in the\u0003 AI Economy"
+        },
+        {
+          "element_id": "20_p20_e139",
+          "sequence_order": 139,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Fig. 7: India’s share of AI citations and patents"
+        },
+        {
+          "element_id": "20_p20_e140",
+          "sequence_order": 140,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 108,
+          "text_preview": "Furthermore, a comparison with, for example, US STEM graduates indicates a gap in  curriculum depth. US graduates are sk"
+        },
+        {
+          "element_id": "20_p20_e141",
+          "sequence_order": 141,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 74,
+          "text_preview": "The third reason is that there is a critical supply-demand gap for AI talent. Supply for AI  talent is now 50% of the cu"
+        },
+        {
+          "element_id": "20_p20_e142",
+          "sequence_order": 142,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 57,
+          "text_preview": "What makes this even more challenging is the fact that India is not among the top destinations  for global AI talent, wi"
+        },
+        {
+          "element_id": "20_p20_e143",
+          "sequence_order": 143,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Global landscape"
+        },
+        {
+          "element_id": "20_p20_e144",
+          "sequence_order": 144,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "India has raised multiple AI-readiness initiatives, with the government spearheading the effort  in policy, data, resear"
+        },
+        {
+          "element_id": "20_p20_e145",
+          "sequence_order": 145,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "India’s efforts become important in the context of a big push given to AI by many governments,  academic, and industrial"
+        },
+        {
+          "element_id": "20_p20_e146",
+          "sequence_order": 146,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "For instance, it was way back in 2019 that the Saudi Arabia government spelt out its AI  ambition with the launch of the"
+        }
+      ]
+    },
+    "21": {
+      "elements": 14,
+      "flagged": 14,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p21_e147",
+          "sequence_order": 147,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Roadmap for\u0003Job Creation in the\u0003 AI Economy | 11"
+        },
+        {
+          "element_id": "20_p21_e148",
+          "sequence_order": 148,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "theme ‘Data is the New Oil.’ The oil-backed economy has set its sights on a transformation  that would make it one of th"
+        },
+        {
+          "element_id": "20_p21_e149",
+          "sequence_order": 149,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 44,
+          "text_preview": "In a country of about 35 million people, over 779,000 have already been trained in AI. Not just  that. The government ha"
+        },
+        {
+          "element_id": "20_p21_e150",
+          "sequence_order": 150,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 68,
+          "text_preview": "There are more examples from Asia itself. Singapore, for instance, has funded more than a 100  AI projects ($250,000 per"
+        },
+        {
+          "element_id": "20_p21_e151",
+          "sequence_order": 151,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 65,
+          "text_preview": "China, one of the leaders in the AI race, has built two national AI labs, producing trillions of  parameter models, and "
+        },
+        {
+          "element_id": "20_p21_e152",
+          "sequence_order": 152,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "In the US as well, NSF-backed AI-curriculum for K-12 classes has been adopted in multiple  states already."
+        },
+        {
+          "element_id": "20_p21_e153",
+          "sequence_order": 153,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 73,
+          "text_preview": "Training, job pathways, and the establishment of centres of excellence are the industry’s  mandate. German company Bosch"
+        },
+        {
+          "element_id": "20_p21_e154",
+          "sequence_order": 154,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "Many prominent companies, including IBM, Microsoft, Intel, Toyota, Mastercard, among  others, run projects around AI ski"
+        },
+        {
+          "element_id": "20_p21_e155",
+          "sequence_order": 155,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 56,
+          "text_preview": "The Indian government’s flagship AI program is the Rs 10,000 crore+ IndiaAI Mission, which  seeks to invest in compute, "
+        },
+        {
+          "element_id": "20_p21_e156",
+          "sequence_order": 156,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 40,
+          "text_preview": "The establishment of AI Centres of Excellence in agriculture, health, and smart cities marks  a step forward, but remain"
+        },
+        {
+          "element_id": "20_p21_e157",
+          "sequence_order": 157,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 60,
+          "text_preview": "In academia, while the CBSE AI curriculum and Atal Tinkering Labs (ATL) AI modules have  introduced AI learning in schoo"
+        },
+        {
+          "element_id": "20_p21_e158",
+          "sequence_order": 158,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "The risk of job losses and a fragile pipeline of available talent present a grim picture of India’s  tech industry’s imm"
+        },
+        {
+          "element_id": "20_p21_e159",
+          "sequence_order": 159,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "4. THE RESOLUTION: HOW INDIA CAN CATCH THE AI UPSIDE"
+        },
+        {
+          "element_id": "20_p21_e160",
+          "sequence_order": 160,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 65,
+          "text_preview": "Section Summary: Building an AI-ready workforce requires a concerted effort across government,  academia, and industry—e"
+        }
+      ]
+    },
+    "22": {
+      "elements": 13,
+      "flagged": 13,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p22_e161",
+          "sequence_order": 161,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "12 | Roadmap for\u0003Job Creation in the\u0003 AI Economy"
+        },
+        {
+          "element_id": "20_p22_e162",
+          "sequence_order": 162,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "To achieve this, we propose a unified “India AI Talent Mission” with three targeted  recommendations for government and "
+        },
+        {
+          "element_id": "20_p22_e163",
+          "sequence_order": 163,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "•  Become a global AI talent magnet"
+        },
+        {
+          "element_id": "20_p22_e164",
+          "sequence_order": 164,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "•  Build AI skilling engine for current workforce"
+        },
+        {
+          "element_id": "20_p22_e165",
+          "sequence_order": 165,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "•  Embed AI in education system from school, undergraduate programs"
+        },
+        {
+          "element_id": "20_p22_e166",
+          "sequence_order": 166,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 67,
+          "text_preview": "alongside two strategic partnership initiatives to align the India Talent Mission with the India  AI Mission, since thes"
+        },
+        {
+          "element_id": "20_p22_e167",
+          "sequence_order": 167,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "•  Establish India Open-Source AI commons"
+        },
+        {
+          "element_id": "20_p22_e168",
+          "sequence_order": 168,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "•  Operationalise federated National compute & innovation grid"
+        },
+        {
+          "element_id": "20_p22_e169",
+          "sequence_order": 169,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 57,
+          "text_preview": "In the now-thriving Indian tech services sector, the reality of an AI-driven world presents both  risks and opportunitie"
+        },
+        {
+          "element_id": "20_p22_e170",
+          "sequence_order": 170,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "Depending on the interplay between the headwinds and tailwinds at play, this headcount can  drastically reduce or increa"
+        },
+        {
+          "element_id": "20_p22_e171",
+          "sequence_order": 171,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Tech Workforce"
+        },
+        {
+          "element_id": "20_p22_e172",
+          "sequence_order": 172,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Fig. 8: Tech workforce in India with headwinds & tailwinds"
+        },
+        {
+          "element_id": "20_p22_e173",
+          "sequence_order": 173,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 44,
+          "text_preview": "As discussed earlier, there are headwinds such as productivity improvement, competition  from onshore AI-native service "
+        }
+      ]
+    },
+    "23": {
+      "elements": 8,
+      "flagged": 8,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p23_e174",
+          "sequence_order": 174,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Roadmap for\u0003Job Creation in the\u0003 AI Economy | 13"
+        },
+        {
+          "element_id": "20_p23_e175",
+          "sequence_order": 175,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 51,
+          "text_preview": "We estimate the IT Services industry to grow 3-9% annually, depending on the industry’s  ability to ride the tailwinds. "
+        },
+        {
+          "element_id": "20_p23_e176",
+          "sequence_order": 176,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 52,
+          "text_preview": "What this means is that the predominance of headwinds can take the total tech headcount  down to 6 million by 2031. At t"
+        },
+        {
+          "element_id": "20_p23_e177",
+          "sequence_order": 177,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Customer Service (CX) Workforce"
+        },
+        {
+          "element_id": "20_p23_e178",
+          "sequence_order": 178,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Fig. 9: CX workforce in India with headwinds & tailwinds"
+        },
+        {
+          "element_id": "20_p23_e179",
+          "sequence_order": 179,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 53,
+          "text_preview": "The headwinds here are the same: productivity improvement, competition from onshore  AI native service firms (voicebots)"
+        },
+        {
+          "element_id": "20_p23_e180",
+          "sequence_order": 180,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 53,
+          "text_preview": "What this means is that the predominance of headwinds can take the headcount from  2-2.5 million down to 1.8 million by "
+        },
+        {
+          "element_id": "20_p23_e181",
+          "sequence_order": 181,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 113,
+          "text_preview": "The difference between the stark and the hopeful scenarios rests on whether the country  is able to limit the headwinds "
+        }
+      ]
+    },
+    "24": {
+      "elements": 11,
+      "flagged": 11,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p24_e182",
+          "sequence_order": 182,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "14 | Roadmap for\u0003Job Creation in the\u0003 AI Economy"
+        },
+        {
+          "element_id": "20_p24_e183",
+          "sequence_order": 183,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Recommendations for India"
+        },
+        {
+          "element_id": "20_p24_e184",
+          "sequence_order": 184,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "India must establish an India AI Talent Mission to unify strategy and oversight, and execute the  key recommendations th"
+        },
+        {
+          "element_id": "20_p24_e185",
+          "sequence_order": 185,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "There is an urgent need for such a mission, as the AI disruption is already here. Furthermore,  it is evolving more rapi"
+        },
+        {
+          "element_id": "20_p24_e186",
+          "sequence_order": 186,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 50,
+          "text_preview": "A delay or a business-as-usual approach will mean irreversible job losses, a shrinkage in  competitiveness, and societal"
+        },
+        {
+          "element_id": "20_p24_e187",
+          "sequence_order": 187,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 52,
+          "text_preview": "Also, India’s AI skilling landscape today is fragmented, with overlapping but disconnected  programs run by different mi"
+        },
+        {
+          "element_id": "20_p24_e188",
+          "sequence_order": 188,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 40,
+          "text_preview": "An AI Talent Mission will act as a single empowered point of strategy and execution. The  setting up of the Mission will"
+        },
+        {
+          "element_id": "20_p24_e189",
+          "sequence_order": 189,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Proposed Vision Statement:"
+        },
+        {
+          "element_id": "20_p24_e190",
+          "sequence_order": 190,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 63,
+          "text_preview": "To position India as the global epicentre of AI talent by 2035—empowering every Indian to  “Build AI” and “Use AI”, and "
+        },
+        {
+          "element_id": "20_p24_e191",
+          "sequence_order": 191,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Proposed Scope of the Mission:"
+        },
+        {
+          "element_id": "20_p24_e192",
+          "sequence_order": 192,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Fig 10: Scope of the India AI Talent Mission"
+        }
+      ]
+    },
+    "25": {
+      "elements": 15,
+      "flagged": 15,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p25_e193",
+          "sequence_order": 193,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Roadmap for\u0003Job Creation in the\u0003 AI Economy | 15"
+        },
+        {
+          "element_id": "20_p25_e194",
+          "sequence_order": 194,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "The proposed scope of the mission constitute three key pillars –"
+        },
+        {
+          "element_id": "20_p25_e195",
+          "sequence_order": 195,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "•  Embedding AI in the education system,"
+        },
+        {
+          "element_id": "20_p25_e196",
+          "sequence_order": 196,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "•  Becoming a global AI talent magnet, and"
+        },
+        {
+          "element_id": "20_p25_e197",
+          "sequence_order": 197,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "•  Building an AI skilling engine"
+        },
+        {
+          "element_id": "20_p25_e198",
+          "sequence_order": 198,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 68,
+          "text_preview": "For the remaining two - the AI Talent Mission should work in collaboration with the IndiaAI  Mission. These pillars are "
+        },
+        {
+          "element_id": "20_p25_e199",
+          "sequence_order": 199,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "•  Establishing India open-source AI commons and"
+        },
+        {
+          "element_id": "20_p25_e200",
+          "sequence_order": 200,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "•  Operationalising a federated national compute and innovation grid"
+        },
+        {
+          "element_id": "20_p25_e201",
+          "sequence_order": 201,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 51,
+          "text_preview": "Firstly, if India is to lead in artificial intelligence, it must build an academic pipeline for  advanced research and i"
+        },
+        {
+          "element_id": "20_p25_e202",
+          "sequence_order": 202,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 53,
+          "text_preview": "India produces fewer than 500 AI-related PhDs annually, lagging behind countries like  China, the US, and even smaller e"
+        },
+        {
+          "element_id": "20_p25_e203",
+          "sequence_order": 203,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 75,
+          "text_preview": "India must establish dedicated AI departments and CoEs to scale up embedding AI in  different disciplines & launch AI+X "
+        },
+        {
+          "element_id": "20_p25_e204",
+          "sequence_order": 204,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 64,
+          "text_preview": "Secondly, India needs to retain talent. Nearly 44% of India’s top AI researchers work abroad,  encouraged by better-fund"
+        },
+        {
+          "element_id": "20_p25_e205",
+          "sequence_order": 205,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 50,
+          "text_preview": "Meanwhile, there are global best practices that India can draw lessons from. The US blends  world-class R&D, universitie"
+        },
+        {
+          "element_id": "20_p25_e206",
+          "sequence_order": 206,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 40,
+          "text_preview": "India now needs to respond with a clear value proposition. This should begin with the offer  of attractive grants and sa"
+        },
+        {
+          "element_id": "20_p25_e207",
+          "sequence_order": 207,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 61,
+          "text_preview": "To anchor their work, India must set up AI Centres of Excellence (CoEs) that offer institutional  autonomy. Returnees an"
+        }
+      ]
+    },
+    "26": {
+      "elements": 11,
+      "flagged": 11,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p26_e208",
+          "sequence_order": 208,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "16 | Roadmap for\u0003Job Creation in the\u0003 AI Economy"
+        },
+        {
+          "element_id": "20_p26_e209",
+          "sequence_order": 209,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 58,
+          "text_preview": "Thirdly, India needs a strong reskilling engine for its current tech services workforce which  can provide flexible AI m"
+        },
+        {
+          "element_id": "20_p26_e210",
+          "sequence_order": 210,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "The three points elaborated upon above form the core focus areas of the India AI Talent  Mission. There are two other ar"
+        },
+        {
+          "element_id": "20_p26_e211",
+          "sequence_order": 211,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 169,
+          "text_preview": "To truly build a holistic national AI talent strategy, the India AI Talent Mission must work in  close alignment with th"
+        },
+        {
+          "element_id": "20_p26_e212",
+          "sequence_order": 212,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 56,
+          "text_preview": "One, India needs a central AI Commons Portal hosting datasets, models, and benchmarks.  This effort must be powered by p"
+        },
+        {
+          "element_id": "20_p26_e213",
+          "sequence_order": 213,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 54,
+          "text_preview": "Two, India needs to have easily accessible, high-performance compute infrastructure.  Currently, India’s computing resou"
+        },
+        {
+          "element_id": "20_p26_e214",
+          "sequence_order": 214,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "5. CONCLUSION AND NEXT STEPS"
+        },
+        {
+          "element_id": "20_p26_e215",
+          "sequence_order": 215,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "AI’s disruptive ability and India’s inherent gaps in education and skills mean India’s powerhouse  tech services sector "
+        },
+        {
+          "element_id": "20_p26_e216",
+          "sequence_order": 216,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "The sector seemingly vulnerable to AI-led disruption is also one that is best-positioned  to ride the AI wave. In this s"
+        },
+        {
+          "element_id": "20_p26_e217",
+          "sequence_order": 217,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "But success isn’t a given. It requires decisive action by the Government on multiple fronts:  Open-source AI commons, ac"
+        },
+        {
+          "element_id": "20_p26_e218",
+          "sequence_order": 218,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Without this, India risks losing strategic ground in the global AI economy."
+        }
+      ]
+    },
+    "27": {
+      "elements": 16,
+      "flagged": 16,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p27_e219",
+          "sequence_order": 219,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Roadmap for\u0003Job Creation in the\u0003 AI Economy | 17"
+        },
+        {
+          "element_id": "20_p27_e220",
+          "sequence_order": 220,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "6. BIBLIOGRAPHY"
+        },
+        {
+          "element_id": "20_p27_e221",
+          "sequence_order": 221,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "•  Amazon CEO Says AI Will Lead to Smaller Workforce"
+        },
+        {
+          "element_id": "20_p27_e222",
+          "sequence_order": 222,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "•  \u0007Microsoft Layoffs: Tech giant trims fat to feed AI growth, 6,000 jobs gone — here’s  who’s out, who’s safe"
+        },
+        {
+          "element_id": "20_p27_e223",
+          "sequence_order": 223,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "•  8,000 Layoffs in India’s Tech Industry Signal Deeper Challenges"
+        },
+        {
+          "element_id": "20_p27_e224",
+          "sequence_order": 224,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "•  \u0007AI and cost reduction strategies have led to a massive increase of 136 per cent in tech  layoffs in 2024, reveals st"
+        },
+        {
+          "element_id": "20_p27_e225",
+          "sequence_order": 225,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "•  India’s AI job creation is poised to surge across multiple sectors"
+        },
+        {
+          "element_id": "20_p27_e226",
+          "sequence_order": 226,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "•  India’s demand for AI professionals to hit 1 million by 2026: Report"
+        },
+        {
+          "element_id": "20_p27_e227",
+          "sequence_order": 227,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "•  AI to act as a catalyst for job creation in India"
+        },
+        {
+          "element_id": "20_p27_e228",
+          "sequence_order": 228,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "•  AI job boom: India leads global hiring as demand for tech skills soars"
+        },
+        {
+          "element_id": "20_p27_e229",
+          "sequence_order": 229,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "•  Automation Has Threatened Nearly 60 Percent Jobs In India"
+        },
+        {
+          "element_id": "20_p27_e230",
+          "sequence_order": 230,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "•  Indians more afraid of AI taking away jobs than their global peers"
+        },
+        {
+          "element_id": "20_p27_e231",
+          "sequence_order": 231,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "•  The 2025 AI Index Report"
+        },
+        {
+          "element_id": "20_p27_e232",
+          "sequence_order": 232,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "•  \u0007NASSCOM Deloitte report on “Advancing India’s AI skills: Interventions and  programmes needed; Aug 2024”"
+        },
+        {
+          "element_id": "20_p27_e233",
+          "sequence_order": 233,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "•  NASSCOM AI Powered Tech Services: A Roadmap for Future Ready Firms"
+        },
+        {
+          "element_id": "20_p27_e234",
+          "sequence_order": 234,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "•  \u0007Employment and Unemployment Scenario of India by Directorate General of  Employment"
+        }
+      ]
+    },
+    "28": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p28_e235",
+          "sequence_order": 235,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "18 | Roadmap for\u0003Job Creation in the\u0003 AI Economy"
+        },
+        {
+          "element_id": "20_p28_e236",
+          "sequence_order": 236,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "NOTES"
+        }
+      ]
+    },
+    "29": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p29_e237",
+          "sequence_order": 237,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Roadmap for\u0003Job Creation in the\u0003 AI Economy | 19"
+        },
+        {
+          "element_id": "20_p29_e238",
+          "sequence_order": 238,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "NOTES"
+        }
+      ]
+    },
+    "30": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p30_e239",
+          "sequence_order": 239,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "20 | Roadmap for\u0003Job Creation in the\u0003 AI Economy"
+        },
+        {
+          "element_id": "20_p30_e240",
+          "sequence_order": 240,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "NOTES"
+        }
+      ]
+    },
+    "32": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "20_p32_e241",
+          "sequence_order": 241,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "22 | Roadmap for\u0003Job Creation in the\u0003 AI Economy"
+        }
+      ]
+    }
+  }
+}

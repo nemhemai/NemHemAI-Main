@@ -206,7 +206,7 @@ CREATE TABLE IF NOT EXISTS documents (
 
     -- Restrict security levels
     CONSTRAINT chk_documents_security
-    CHECK (security_level IN ('public', 'internal', 'confidential')),
+    CHECK (security_level IN ('public', 'internal', 'confidential'))
 
     -- Restrict document types (REMOVED FOR FLEXIBILITY)
     -- CONSTRAINT chk_documents_type

@@ -2,45 +2,4006 @@
   "document_id": 13,
   "pages": {
     "1": {
-      "elements": 11,
-      "flagged": 0,
+      "elements": 2,
+      "flagged": 2,
       "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "2": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "3": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "4": {
-      "elements": 18,
-      "flagged": 1,
-      "flags": [
-        "low_content"
-      ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "13_p4_e27",
-          "sequence_order": 27,
-          "page_number": 4,
-          "quality_score": 0.6,
+          "element_id": "13_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "https://docs.google.com/forms/d/e/1FAIpQLSeXsmY2HslUJWqYbjizkGBRMtTdWMbPNc_ KUqY9368srQwXMQ/viewform?usp=header"
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "3": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p3_e2",
+          "sequence_order": 2,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p3_e3",
+          "sequence_order": 3,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "4": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p4_e4",
+          "sequence_order": 4,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p4_e5",
+          "sequence_order": 5,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "5": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p5_e6",
+          "sequence_order": 6,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p5_e7",
+          "sequence_order": 7,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "6": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p6_e8",
+          "sequence_order": 8,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p6_e9",
+          "sequence_order": 9,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "7": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p7_e10",
+          "sequence_order": 10,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p7_e11",
+          "sequence_order": 11,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "8": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p8_e12",
+          "sequence_order": 12,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p8_e13",
+          "sequence_order": 13,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "9": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p9_e14",
+          "sequence_order": 14,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p9_e15",
+          "sequence_order": 15,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "10": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p10_e16",
+          "sequence_order": 16,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p10_e17",
+          "sequence_order": 17,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "11": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p11_e18",
+          "sequence_order": 18,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p11_e19",
+          "sequence_order": 19,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "12": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p12_e20",
+          "sequence_order": 20,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p12_e21",
+          "sequence_order": 21,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "13": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p13_e22",
+          "sequence_order": 22,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p13_e23",
+          "sequence_order": 23,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "15": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p15_e24",
+          "sequence_order": 24,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p15_e25",
+          "sequence_order": 25,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "16": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p16_e26",
+          "sequence_order": 26,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p16_e27",
+          "sequence_order": 27,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "17": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p17_e28",
+          "sequence_order": 28,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p17_e29",
+          "sequence_order": 29,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "18": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p18_e30",
+          "sequence_order": 30,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p18_e31",
+          "sequence_order": 31,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "19": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p19_e32",
+          "sequence_order": 32,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p19_e33",
+          "sequence_order": 33,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "20": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p20_e34",
+          "sequence_order": 34,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p20_e35",
+          "sequence_order": 35,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "21": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p21_e36",
+          "sequence_order": 36,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p21_e37",
+          "sequence_order": 37,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "22": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p22_e38",
+          "sequence_order": 38,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p22_e39",
+          "sequence_order": 39,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "23": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p23_e40",
+          "sequence_order": 40,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p23_e41",
+          "sequence_order": 41,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "24": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p24_e42",
+          "sequence_order": 42,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p24_e43",
+          "sequence_order": 43,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "25": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p25_e44",
+          "sequence_order": 44,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p25_e45",
+          "sequence_order": 45,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "26": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p26_e46",
+          "sequence_order": 46,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p26_e47",
+          "sequence_order": 47,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "27": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p27_e48",
+          "sequence_order": 48,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p27_e49",
+          "sequence_order": 49,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "28": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p28_e50",
+          "sequence_order": 50,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p28_e51",
+          "sequence_order": 51,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "29": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p29_e52",
+          "sequence_order": 52,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p29_e53",
+          "sequence_order": 53,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "30": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p30_e54",
+          "sequence_order": 54,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p30_e55",
+          "sequence_order": 55,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "31": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p31_e56",
+          "sequence_order": 56,
+          "page_number": 31,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p31_e57",
+          "sequence_order": 57,
+          "page_number": 31,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "32": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p32_e58",
+          "sequence_order": 58,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p32_e59",
+          "sequence_order": 59,
+          "page_number": 32,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "33": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p33_e60",
+          "sequence_order": 60,
+          "page_number": 33,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p33_e61",
+          "sequence_order": 61,
+          "page_number": 33,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "35": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p35_e62",
+          "sequence_order": 62,
+          "page_number": 35,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p35_e63",
+          "sequence_order": 63,
+          "page_number": 35,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "36": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p36_e64",
+          "sequence_order": 64,
+          "page_number": 36,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p36_e65",
+          "sequence_order": 65,
+          "page_number": 36,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "37": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p37_e66",
+          "sequence_order": 66,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p37_e67",
+          "sequence_order": 67,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "38": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p38_e68",
+          "sequence_order": 68,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p38_e69",
+          "sequence_order": 69,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "39": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p39_e70",
+          "sequence_order": 70,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p39_e71",
+          "sequence_order": 71,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "40": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p40_e72",
+          "sequence_order": 72,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p40_e73",
+          "sequence_order": 73,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "41": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p41_e74",
+          "sequence_order": 74,
+          "page_number": 41,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p41_e75",
+          "sequence_order": 75,
+          "page_number": 41,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "42": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p42_e76",
+          "sequence_order": 76,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p42_e77",
+          "sequence_order": 77,
+          "page_number": 42,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "43": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p43_e78",
+          "sequence_order": 78,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p43_e79",
+          "sequence_order": 79,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "44": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p44_e80",
+          "sequence_order": 80,
+          "page_number": 44,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p44_e81",
+          "sequence_order": 81,
+          "page_number": 44,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "45": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p45_e82",
+          "sequence_order": 82,
+          "page_number": 45,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p45_e83",
+          "sequence_order": 83,
+          "page_number": 45,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "46": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p46_e84",
+          "sequence_order": 84,
+          "page_number": 46,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p46_e85",
+          "sequence_order": 85,
+          "page_number": 46,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "47": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p47_e86",
+          "sequence_order": 86,
+          "page_number": 47,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p47_e87",
+          "sequence_order": 87,
+          "page_number": 47,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "48": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p48_e88",
+          "sequence_order": 88,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p48_e89",
+          "sequence_order": 89,
+          "page_number": 48,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "49": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p49_e90",
+          "sequence_order": 90,
+          "page_number": 49,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p49_e91",
+          "sequence_order": 91,
+          "page_number": 49,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "50": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p50_e92",
+          "sequence_order": 92,
+          "page_number": 50,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p50_e93",
+          "sequence_order": 93,
+          "page_number": 50,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "51": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p51_e94",
+          "sequence_order": 94,
+          "page_number": 51,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p51_e95",
+          "sequence_order": 95,
+          "page_number": 51,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "52": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p52_e96",
+          "sequence_order": 96,
+          "page_number": 52,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p52_e97",
+          "sequence_order": 97,
+          "page_number": 52,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "53": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p53_e98",
+          "sequence_order": 98,
+          "page_number": 53,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p53_e99",
+          "sequence_order": 99,
+          "page_number": 53,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "54": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p54_e100",
+          "sequence_order": 100,
+          "page_number": 54,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p54_e101",
+          "sequence_order": 101,
+          "page_number": 54,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "55": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p55_e102",
+          "sequence_order": 102,
+          "page_number": 55,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p55_e103",
+          "sequence_order": 103,
+          "page_number": 55,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "56": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p56_e104",
+          "sequence_order": 104,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p56_e105",
+          "sequence_order": 105,
+          "page_number": 56,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "57": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p57_e106",
+          "sequence_order": 106,
+          "page_number": 57,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p57_e107",
+          "sequence_order": 107,
+          "page_number": 57,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "58": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p58_e108",
+          "sequence_order": 108,
+          "page_number": 58,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p58_e109",
+          "sequence_order": 109,
+          "page_number": 58,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "59": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p59_e110",
+          "sequence_order": 110,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p59_e111",
+          "sequence_order": 111,
+          "page_number": 59,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "60": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p60_e112",
+          "sequence_order": 112,
+          "page_number": 60,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p60_e113",
+          "sequence_order": 113,
+          "page_number": 60,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "61": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p61_e114",
+          "sequence_order": 114,
+          "page_number": 61,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p61_e115",
+          "sequence_order": 115,
+          "page_number": 61,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "62": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p62_e116",
+          "sequence_order": 116,
+          "page_number": 62,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p62_e117",
+          "sequence_order": 117,
+          "page_number": 62,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "63": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p63_e118",
+          "sequence_order": 118,
+          "page_number": 63,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p63_e119",
+          "sequence_order": 119,
+          "page_number": 63,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "64": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p64_e120",
+          "sequence_order": 120,
+          "page_number": 64,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p64_e121",
+          "sequence_order": 121,
+          "page_number": 64,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "65": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p65_e122",
+          "sequence_order": 122,
+          "page_number": 65,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p65_e123",
+          "sequence_order": 123,
+          "page_number": 65,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "67": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p67_e124",
+          "sequence_order": 124,
+          "page_number": 67,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p67_e125",
+          "sequence_order": 125,
+          "page_number": 67,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "68": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p68_e126",
+          "sequence_order": 126,
+          "page_number": 68,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p68_e127",
+          "sequence_order": 127,
+          "page_number": 68,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "69": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p69_e128",
+          "sequence_order": 128,
+          "page_number": 69,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p69_e129",
+          "sequence_order": 129,
+          "page_number": 69,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "70": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p70_e130",
+          "sequence_order": 130,
+          "page_number": 70,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p70_e131",
+          "sequence_order": 131,
+          "page_number": 70,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "71": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p71_e132",
+          "sequence_order": 132,
+          "page_number": 71,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p71_e133",
+          "sequence_order": 133,
+          "page_number": 71,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "72": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p72_e134",
+          "sequence_order": 134,
+          "page_number": 72,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p72_e135",
+          "sequence_order": 135,
+          "page_number": 72,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "73": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p73_e136",
+          "sequence_order": 136,
+          "page_number": 73,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p73_e137",
+          "sequence_order": 137,
+          "page_number": 73,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "74": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p74_e138",
+          "sequence_order": 138,
+          "page_number": 74,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p74_e139",
+          "sequence_order": 139,
+          "page_number": 74,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "75": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p75_e140",
+          "sequence_order": 140,
+          "page_number": 75,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p75_e141",
+          "sequence_order": 141,
+          "page_number": 75,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "76": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p76_e142",
+          "sequence_order": 142,
+          "page_number": 76,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p76_e143",
+          "sequence_order": 143,
+          "page_number": 76,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "77": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p77_e144",
+          "sequence_order": 144,
+          "page_number": 77,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p77_e145",
+          "sequence_order": 145,
+          "page_number": 77,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "78": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p78_e146",
+          "sequence_order": 146,
+          "page_number": 78,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p78_e147",
+          "sequence_order": 147,
+          "page_number": 78,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "79": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p79_e148",
+          "sequence_order": 148,
+          "page_number": 79,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p79_e149",
+          "sequence_order": 149,
+          "page_number": 79,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "80": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p80_e150",
+          "sequence_order": 150,
+          "page_number": 80,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p80_e151",
+          "sequence_order": 151,
+          "page_number": 80,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "81": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p81_e152",
+          "sequence_order": 152,
+          "page_number": 81,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p81_e153",
+          "sequence_order": 153,
+          "page_number": 81,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "82": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p82_e154",
+          "sequence_order": 154,
+          "page_number": 82,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p82_e155",
+          "sequence_order": 155,
+          "page_number": 82,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "83": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p83_e156",
+          "sequence_order": 156,
+          "page_number": 83,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p83_e157",
+          "sequence_order": 157,
+          "page_number": 83,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "84": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p84_e158",
+          "sequence_order": 158,
+          "page_number": 84,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p84_e159",
+          "sequence_order": 159,
+          "page_number": 84,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "85": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p85_e160",
+          "sequence_order": 160,
+          "page_number": 85,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p85_e161",
+          "sequence_order": 161,
+          "page_number": 85,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "86": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p86_e162",
+          "sequence_order": 162,
+          "page_number": 86,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p86_e163",
+          "sequence_order": 163,
+          "page_number": 86,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "87": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p87_e164",
+          "sequence_order": 164,
+          "page_number": 87,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p87_e165",
+          "sequence_order": 165,
+          "page_number": 87,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "88": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p88_e166",
+          "sequence_order": 166,
+          "page_number": 88,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p88_e167",
+          "sequence_order": 167,
+          "page_number": 88,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "89": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p89_e168",
+          "sequence_order": 168,
+          "page_number": 89,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p89_e169",
+          "sequence_order": 169,
+          "page_number": 89,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "90": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p90_e170",
+          "sequence_order": 170,
+          "page_number": 90,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p90_e171",
+          "sequence_order": 171,
+          "page_number": 90,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "91": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p91_e172",
+          "sequence_order": 172,
+          "page_number": 91,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p91_e173",
+          "sequence_order": 173,
+          "page_number": 91,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "92": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p92_e174",
+          "sequence_order": 174,
+          "page_number": 92,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p92_e175",
+          "sequence_order": 175,
+          "page_number": 92,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "94": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p94_e176",
+          "sequence_order": 176,
+          "page_number": 94,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p94_e177",
+          "sequence_order": 177,
+          "page_number": 94,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "95": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p95_e178",
+          "sequence_order": 178,
+          "page_number": 95,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p95_e179",
+          "sequence_order": 179,
+          "page_number": 95,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "96": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p96_e180",
+          "sequence_order": 180,
+          "page_number": 96,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p96_e181",
+          "sequence_order": 181,
+          "page_number": 96,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "97": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p97_e182",
+          "sequence_order": 182,
+          "page_number": 97,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p97_e183",
+          "sequence_order": 183,
+          "page_number": 97,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "98": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p98_e184",
+          "sequence_order": 184,
+          "page_number": 98,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p98_e185",
+          "sequence_order": 185,
+          "page_number": 98,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "99": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p99_e186",
+          "sequence_order": 186,
+          "page_number": 99,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p99_e187",
+          "sequence_order": 187,
+          "page_number": 99,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "100": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p100_e188",
+          "sequence_order": 188,
+          "page_number": 100,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p100_e189",
+          "sequence_order": 189,
+          "page_number": 100,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "101": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p101_e190",
+          "sequence_order": 190,
+          "page_number": 101,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p101_e191",
+          "sequence_order": 191,
+          "page_number": 101,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "102": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p102_e192",
+          "sequence_order": 192,
+          "page_number": 102,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p102_e193",
+          "sequence_order": 193,
+          "page_number": 102,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "103": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p103_e194",
+          "sequence_order": 194,
+          "page_number": 103,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p103_e195",
+          "sequence_order": 195,
+          "page_number": 103,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "104": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p104_e196",
+          "sequence_order": 196,
+          "page_number": 104,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p104_e197",
+          "sequence_order": 197,
+          "page_number": 104,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "105": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p105_e198",
+          "sequence_order": 198,
+          "page_number": 105,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p105_e199",
+          "sequence_order": 199,
+          "page_number": 105,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "106": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p106_e200",
+          "sequence_order": 200,
+          "page_number": 106,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p106_e201",
+          "sequence_order": 201,
+          "page_number": 106,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "107": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p107_e202",
+          "sequence_order": 202,
+          "page_number": 107,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p107_e203",
+          "sequence_order": 203,
+          "page_number": 107,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "108": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p108_e204",
+          "sequence_order": 204,
+          "page_number": 108,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p108_e205",
+          "sequence_order": 205,
+          "page_number": 108,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "109": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p109_e206",
+          "sequence_order": 206,
+          "page_number": 109,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p109_e207",
+          "sequence_order": 207,
+          "page_number": 109,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "110": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p110_e208",
+          "sequence_order": 208,
+          "page_number": 110,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p110_e209",
+          "sequence_order": 209,
+          "page_number": 110,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "111": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p111_e210",
+          "sequence_order": 210,
+          "page_number": 111,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p111_e211",
+          "sequence_order": 211,
+          "page_number": 111,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "112": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p112_e212",
+          "sequence_order": 212,
+          "page_number": 112,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p112_e213",
+          "sequence_order": 213,
+          "page_number": 112,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "113": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p113_e214",
+          "sequence_order": 214,
+          "page_number": 113,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p113_e215",
+          "sequence_order": 215,
+          "page_number": 113,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "114": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p114_e216",
+          "sequence_order": 216,
+          "page_number": 114,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p114_e217",
+          "sequence_order": 217,
+          "page_number": 114,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "115": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p115_e218",
+          "sequence_order": 218,
+          "page_number": 115,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p115_e219",
+          "sequence_order": 219,
+          "page_number": 115,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "116": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p116_e220",
+          "sequence_order": 220,
+          "page_number": 116,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p116_e221",
+          "sequence_order": 221,
+          "page_number": 116,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "117": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p117_e222",
+          "sequence_order": 222,
+          "page_number": 117,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p117_e223",
+          "sequence_order": 223,
+          "page_number": 117,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "118": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p118_e224",
+          "sequence_order": 224,
+          "page_number": 118,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p118_e225",
+          "sequence_order": 225,
+          "page_number": 118,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "120": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p120_e226",
+          "sequence_order": 226,
+          "page_number": 120,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p120_e227",
+          "sequence_order": 227,
+          "page_number": 120,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "121": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p121_e228",
+          "sequence_order": 228,
+          "page_number": 121,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p121_e229",
+          "sequence_order": 229,
+          "page_number": 121,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "122": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p122_e230",
+          "sequence_order": 230,
+          "page_number": 122,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p122_e231",
+          "sequence_order": 231,
+          "page_number": 122,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "123": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p123_e232",
+          "sequence_order": 232,
+          "page_number": 123,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p123_e233",
+          "sequence_order": 233,
+          "page_number": 123,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "124": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p124_e234",
+          "sequence_order": 234,
+          "page_number": 124,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p124_e235",
+          "sequence_order": 235,
+          "page_number": 124,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "125": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p125_e236",
+          "sequence_order": 236,
+          "page_number": 125,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p125_e237",
+          "sequence_order": 237,
+          "page_number": 125,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "126": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p126_e238",
+          "sequence_order": 238,
+          "page_number": 126,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p126_e239",
+          "sequence_order": 239,
+          "page_number": 126,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "127": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p127_e240",
+          "sequence_order": 240,
+          "page_number": 127,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p127_e241",
+          "sequence_order": 241,
+          "page_number": 127,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "128": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p128_e242",
+          "sequence_order": 242,
+          "page_number": 128,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p128_e243",
+          "sequence_order": 243,
+          "page_number": 128,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "129": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p129_e244",
+          "sequence_order": 244,
+          "page_number": 129,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p129_e245",
+          "sequence_order": 245,
+          "page_number": 129,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "130": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p130_e246",
+          "sequence_order": 246,
+          "page_number": 130,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p130_e247",
+          "sequence_order": 247,
+          "page_number": 130,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "131": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p131_e248",
+          "sequence_order": 248,
+          "page_number": 131,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p131_e249",
+          "sequence_order": 249,
+          "page_number": 131,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "132": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p132_e250",
+          "sequence_order": 250,
+          "page_number": 132,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p132_e251",
+          "sequence_order": 251,
+          "page_number": 132,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "133": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p133_e252",
+          "sequence_order": 252,
+          "page_number": 133,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p133_e253",
+          "sequence_order": 253,
+          "page_number": 133,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "134": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p134_e254",
+          "sequence_order": 254,
+          "page_number": 134,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p134_e255",
+          "sequence_order": 255,
+          "page_number": 134,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "135": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p135_e256",
+          "sequence_order": 256,
+          "page_number": 135,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p135_e257",
+          "sequence_order": 257,
+          "page_number": 135,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "136": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p136_e258",
+          "sequence_order": 258,
+          "page_number": 136,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p136_e259",
+          "sequence_order": 259,
+          "page_number": 136,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "137": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p137_e260",
+          "sequence_order": 260,
+          "page_number": 137,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p137_e261",
+          "sequence_order": 261,
+          "page_number": 137,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "138": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p138_e262",
+          "sequence_order": 262,
+          "page_number": 138,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p138_e263",
+          "sequence_order": 263,
+          "page_number": 138,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "139": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p139_e264",
+          "sequence_order": 264,
+          "page_number": 139,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p139_e265",
+          "sequence_order": 265,
+          "page_number": 139,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "140": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p140_e266",
+          "sequence_order": 266,
+          "page_number": 140,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p140_e267",
+          "sequence_order": 267,
+          "page_number": 140,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "141": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p141_e268",
+          "sequence_order": 268,
+          "page_number": 141,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p141_e269",
+          "sequence_order": 269,
+          "page_number": 141,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "142": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p142_e270",
+          "sequence_order": 270,
+          "page_number": 142,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p142_e271",
+          "sequence_order": 271,
+          "page_number": 142,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "143": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p143_e272",
+          "sequence_order": 272,
+          "page_number": 143,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p143_e273",
+          "sequence_order": 273,
+          "page_number": 143,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "144": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p144_e274",
+          "sequence_order": 274,
+          "page_number": 144,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p144_e275",
+          "sequence_order": 275,
+          "page_number": 144,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "145": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p145_e276",
+          "sequence_order": 276,
+          "page_number": 145,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p145_e277",
+          "sequence_order": 277,
+          "page_number": 145,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "146": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p146_e278",
+          "sequence_order": 278,
+          "page_number": 146,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p146_e279",
+          "sequence_order": 279,
+          "page_number": 146,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "147": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p147_e280",
+          "sequence_order": 280,
+          "page_number": 147,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p147_e281",
+          "sequence_order": 281,
+          "page_number": 147,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "148": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p148_e282",
+          "sequence_order": 282,
+          "page_number": 148,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p148_e283",
+          "sequence_order": 283,
+          "page_number": 148,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
+        }
+      ]
+    },
+    "149": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "13_p149_e284",
+          "sequence_order": 284,
+          "page_number": 149,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Shri Mahavir Jain Aradhana Kendra www.kobatirth.org Acharya Shri Kailassagarsuri Gyanmandir"
+        },
+        {
+          "element_id": "13_p149_e285",
+          "sequence_order": 285,
+          "page_number": 149,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "For Private And Personal Use Only"
         }
       ]
     }

@@ -1,5 +1,5 @@
 {
-  "document_id": 27,
+  "document_id": 179,
   "pages": {
     "1": {
       "elements": 11,
@@ -10,7 +10,7 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "27_p1_e0",
+          "element_id": "179_p1_e0",
           "sequence_order": 0,
           "page_number": 1,
           "quality_score": 0.0,
@@ -20,7 +20,7 @@
           "text_preview": "General Property Tax Laws"
         },
         {
-          "element_id": "27_p1_e1",
+          "element_id": "179_p1_e1",
           "sequence_order": 1,
           "page_number": 1,
           "quality_score": 0.0,
@@ -30,7 +30,7 @@
           "text_preview": "A Comprehensive Reference Guide"
         },
         {
-          "element_id": "27_p1_e2",
+          "element_id": "179_p1_e2",
           "sequence_order": 2,
           "page_number": 1,
           "quality_score": 0.0,
@@ -40,7 +40,7 @@
           "text_preview": "Covering principles, assessment, exemptions, appeals, and compliance applicable across major jurisdictions worldwide."
         },
         {
-          "element_id": "27_p1_e3",
+          "element_id": "179_p1_e3",
           "sequence_order": 3,
           "page_number": 1,
           "quality_score": 0.0,
@@ -50,7 +50,7 @@
           "text_preview": "Document Type: General Legal Reference"
         },
         {
-          "element_id": "27_p1_e4",
+          "element_id": "179_p1_e4",
           "sequence_order": 4,
           "page_number": 1,
           "quality_score": 0.0,
@@ -60,7 +60,7 @@
           "text_preview": "Subject: Property Taxation Law"
         },
         {
-          "element_id": "27_p1_e5",
+          "element_id": "179_p1_e5",
           "sequence_order": 5,
           "page_number": 1,
           "quality_score": 0.0,
@@ -70,7 +70,7 @@
           "text_preview": "Scope: Multi-jurisdictional Overview"
         },
         {
-          "element_id": "27_p1_e6",
+          "element_id": "179_p1_e6",
           "sequence_order": 6,
           "page_number": 1,
           "quality_score": 0.0,
@@ -80,7 +80,7 @@
           "text_preview": "Version: 1.0 (2024 Edition)"
         },
         {
-          "element_id": "27_p1_e7",
+          "element_id": "179_p1_e7",
           "sequence_order": 7,
           "page_number": 1,
           "quality_score": 0.0,
@@ -92,7 +92,7 @@
           "text_preview": "Pages: 15"
         },
         {
-          "element_id": "27_p1_e8",
+          "element_id": "179_p1_e8",
           "sequence_order": 8,
           "page_number": 1,
           "quality_score": 0.0,
@@ -102,7 +102,7 @@
           "text_preview": "DISCLAIMER: This document is a general educational reference only. It does not constitute legal advice."
         },
         {
-          "element_id": "27_p1_e9",
+          "element_id": "179_p1_e9",
           "sequence_order": 9,
           "page_number": 1,
           "quality_score": 0.0,
@@ -112,7 +112,7 @@
           "text_preview": "Property tax laws vary significantly by country, state/province, and municipality. Always consult a qualified"
         },
         {
-          "element_id": "27_p1_e10",
+          "element_id": "179_p1_e10",
           "sequence_order": 10,
           "page_number": 1,
           "quality_score": 0.0,
@@ -132,7 +132,7 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "27_p2_e11",
+          "element_id": "179_p2_e11",
           "sequence_order": 11,
           "page_number": 2,
           "quality_score": 0.0,
@@ -142,7 +142,7 @@
           "text_preview": "General Property Tax Laws — Comprehensive Reference Guide Page 2"
         },
         {
-          "element_id": "27_p2_e12",
+          "element_id": "179_p2_e12",
           "sequence_order": 12,
           "page_number": 2,
           "quality_score": 0.0,
@@ -154,7 +154,7 @@
           "text_preview": "Table of Contents"
         },
         {
-          "element_id": "27_p2_e13",
+          "element_id": "179_p2_e13",
           "sequence_order": 13,
           "page_number": 2,
           "quality_score": 0.0,
@@ -164,7 +164,7 @@
           "text_preview": "1. Introduction to Property Tax 3"
         },
         {
-          "element_id": "27_p2_e14",
+          "element_id": "179_p2_e14",
           "sequence_order": 14,
           "page_number": 2,
           "quality_score": 0.0,
@@ -174,7 +174,7 @@
           "text_preview": "2. Legal Framework and Governing Laws 3"
         },
         {
-          "element_id": "27_p2_e15",
+          "element_id": "179_p2_e15",
           "sequence_order": 15,
           "page_number": 2,
           "quality_score": 0.0,
@@ -184,7 +184,7 @@
           "text_preview": "3. Types of Taxable Property 4"
         },
         {
-          "element_id": "27_p2_e16",
+          "element_id": "179_p2_e16",
           "sequence_order": 16,
           "page_number": 2,
           "quality_score": 0.0,
@@ -194,7 +194,7 @@
           "text_preview": "4. Assessment and Valuation 5"
         },
         {
-          "element_id": "27_p2_e17",
+          "element_id": "179_p2_e17",
           "sequence_order": 17,
           "page_number": 2,
           "quality_score": 0.0,
@@ -204,7 +204,7 @@
           "text_preview": "5. Tax Rates and Calculation 6"
         },
         {
-          "element_id": "27_p2_e18",
+          "element_id": "179_p2_e18",
           "sequence_order": 18,
           "page_number": 2,
           "quality_score": 0.0,
@@ -214,7 +214,7 @@
           "text_preview": "6. Exemptions and Reliefs 7"
         },
         {
-          "element_id": "27_p2_e19",
+          "element_id": "179_p2_e19",
           "sequence_order": 19,
           "page_number": 2,
           "quality_score": 0.0,
@@ -224,7 +224,7 @@
           "text_preview": "7. Payment Procedures and Deadlines 8"
         },
         {
-          "element_id": "27_p2_e20",
+          "element_id": "179_p2_e20",
           "sequence_order": 20,
           "page_number": 2,
           "quality_score": 0.0,
@@ -234,7 +234,7 @@
           "text_preview": "8. Penalties and Interest 9"
         },
         {
-          "element_id": "27_p2_e21",
+          "element_id": "179_p2_e21",
           "sequence_order": 21,
           "page_number": 2,
           "quality_score": 0.0,
@@ -244,7 +244,7 @@
           "text_preview": "9. Appeals and Dispute Resolution 10"
         },
         {
-          "element_id": "27_p2_e22",
+          "element_id": "179_p2_e22",
           "sequence_order": 22,
           "page_number": 2,
           "quality_score": 0.0,
@@ -254,7 +254,7 @@
           "text_preview": "10. Special Assessment Districts 11"
         },
         {
-          "element_id": "27_p2_e23",
+          "element_id": "179_p2_e23",
           "sequence_order": 23,
           "page_number": 2,
           "quality_score": 0.0,
@@ -264,7 +264,7 @@
           "text_preview": "11. Transfer Tax and Stamp Duty 11"
         },
         {
-          "element_id": "27_p2_e24",
+          "element_id": "179_p2_e24",
           "sequence_order": 24,
           "page_number": 2,
           "quality_score": 0.0,
@@ -274,7 +274,7 @@
           "text_preview": "12. Property Tax in India (Municipal Framework) 12"
         },
         {
-          "element_id": "27_p2_e25",
+          "element_id": "179_p2_e25",
           "sequence_order": 25,
           "page_number": 2,
           "quality_score": 0.0,
@@ -284,7 +284,7 @@
           "text_preview": "13. Property Tax in the United States 13"
         },
         {
-          "element_id": "27_p2_e26",
+          "element_id": "179_p2_e26",
           "sequence_order": 26,
           "page_number": 2,
           "quality_score": 0.0,
@@ -294,7 +294,7 @@
           "text_preview": "14. International Comparison 14"
         },
         {
-          "element_id": "27_p2_e27",
+          "element_id": "179_p2_e27",
           "sequence_order": 27,
           "page_number": 2,
           "quality_score": 0.0,
@@ -312,7 +312,7 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "27_p3_e28",
+          "element_id": "179_p3_e28",
           "sequence_order": 28,
           "page_number": 3,
           "quality_score": 0.0,
@@ -322,7 +322,7 @@
           "text_preview": "General Property Tax Laws — Comprehensive Reference Guide Page 3"
         },
         {
-          "element_id": "27_p3_e29",
+          "element_id": "179_p3_e29",
           "sequence_order": 29,
           "page_number": 3,
           "quality_score": 0.0,
@@ -332,7 +332,7 @@
           "text_preview": "1. Introduction to Property Tax"
         },
         {
-          "element_id": "27_p3_e30",
+          "element_id": "179_p3_e30",
           "sequence_order": 30,
           "page_number": 3,
           "quality_score": 0.0,
@@ -342,7 +342,7 @@
           "text_preview": "Property tax is a form of ad valorem tax levied by governmental authorities on the assessed value of real estate and, in"
         },
         {
-          "element_id": "27_p3_e31",
+          "element_id": "179_p3_e31",
           "sequence_order": 31,
           "page_number": 3,
           "quality_score": 0.0,
@@ -352,7 +352,7 @@
           "text_preview": "Key characteristics of property tax include:"
         },
         {
-          "element_id": "27_p3_e32",
+          "element_id": "179_p3_e32",
           "sequence_order": 32,
           "page_number": 3,
           "quality_score": 0.0,
@@ -362,7 +362,7 @@
           "text_preview": "• It is typically levied annually on an assessed value, not on income or sales."
         },
         {
-          "element_id": "27_p3_e33",
+          "element_id": "179_p3_e33",
           "sequence_order": 33,
           "page_number": 3,
           "quality_score": 0.0,
@@ -372,7 +372,7 @@
           "text_preview": "• Liability attaches to the property itself — ownership transfers the tax obligation."
         },
         {
-          "element_id": "27_p3_e34",
+          "element_id": "179_p3_e34",
           "sequence_order": 34,
           "page_number": 3,
           "quality_score": 0.0,
@@ -382,7 +382,7 @@
           "text_preview": "• Revenue is usually retained at the local (municipal or county) level."
         },
         {
-          "element_id": "27_p3_e35",
+          "element_id": "179_p3_e35",
           "sequence_order": 35,
           "page_number": 3,
           "quality_score": 0.0,
@@ -392,7 +392,7 @@
           "text_preview": "• Tax rates can be flat, tiered, or variable depending on property use."
         },
         {
-          "element_id": "27_p3_e36",
+          "element_id": "179_p3_e36",
           "sequence_order": 36,
           "page_number": 3,
           "quality_score": 0.0,
@@ -402,7 +402,7 @@
           "text_preview": "• Failure to pay can result in liens, penalties, and ultimately foreclosure."
         },
         {
-          "element_id": "27_p3_e37",
+          "element_id": "179_p3_e37",
           "sequence_order": 37,
           "page_number": 3,
           "quality_score": 0.0,
@@ -412,7 +412,7 @@
           "text_preview": "2. Legal Framework and Governing Laws"
         },
         {
-          "element_id": "27_p3_e38",
+          "element_id": "179_p3_e38",
           "sequence_order": 38,
           "page_number": 3,
           "quality_score": 0.0,
@@ -422,7 +422,7 @@
           "text_preview": "Property tax is governed by a multi-layered legal framework encompassing constitutional provisions, national statutes, s"
         },
         {
-          "element_id": "27_p3_e39",
+          "element_id": "179_p3_e39",
           "sequence_order": 39,
           "page_number": 3,
           "quality_score": 0.0,
@@ -432,7 +432,7 @@
           "text_preview": "• Constitutional Authority: Most national constitutions grant the power to tax property to sub-national governments (sta"
         },
         {
-          "element_id": "27_p3_e40",
+          "element_id": "179_p3_e40",
           "sequence_order": 40,
           "page_number": 3,
           "quality_score": 0.0,
@@ -442,7 +442,7 @@
           "text_preview": "• Enabling Legislation: National or state legislatures enact property tax acts that define taxable property, assessment "
         },
         {
-          "element_id": "27_p3_e41",
+          "element_id": "179_p3_e41",
           "sequence_order": 41,
           "page_number": 3,
           "quality_score": 0.0,
@@ -452,7 +452,7 @@
           "text_preview": "• Municipal Ordinances: Local bodies set annual mill rates and specific exemption criteria within the limits set by high"
         },
         {
-          "element_id": "27_p3_e42",
+          "element_id": "179_p3_e42",
           "sequence_order": 42,
           "page_number": 3,
           "quality_score": 0.0,
@@ -462,7 +462,7 @@
           "text_preview": "• Judicial Precedent: Court decisions interpret statutory ambiguities and establish constitutional limits, such as unifo"
         },
         {
-          "element_id": "27_p3_e43",
+          "element_id": "179_p3_e43",
           "sequence_order": 43,
           "page_number": 3,
           "quality_score": 0.0,
@@ -472,7 +472,7 @@
           "text_preview": "Examples of Governing Legislation by Jurisdiction:"
         },
         {
-          "element_id": "27_p3_e44",
+          "element_id": "179_p3_e44",
           "sequence_order": 44,
           "page_number": 3,
           "quality_score": 0.0,
@@ -482,7 +482,7 @@
           "text_preview": "Jurisdiction Key Statute / Law"
         },
         {
-          "element_id": "27_p3_e45",
+          "element_id": "179_p3_e45",
           "sequence_order": 45,
           "page_number": 3,
           "quality_score": 0.0,
@@ -492,7 +492,7 @@
           "text_preview": "India Municipal Corporation Acts; Model Municipal Laws; The Constitution (74th Amendment)"
         },
         {
-          "element_id": "27_p3_e46",
+          "element_id": "179_p3_e46",
           "sequence_order": 46,
           "page_number": 3,
           "quality_score": 0.0,
@@ -502,7 +502,7 @@
           "text_preview": "United States State Property Tax Acts (e.g., California Prop 13; Texas Tax Code Ch. 41)"
         },
         {
-          "element_id": "27_p3_e47",
+          "element_id": "179_p3_e47",
           "sequence_order": 47,
           "page_number": 3,
           "quality_score": 0.0,
@@ -512,7 +512,7 @@
           "text_preview": "United Kingdom Local Government Finance Act 1992; Council Tax Regulations"
         },
         {
-          "element_id": "27_p3_e48",
+          "element_id": "179_p3_e48",
           "sequence_order": 48,
           "page_number": 3,
           "quality_score": 0.0,
@@ -522,7 +522,7 @@
           "text_preview": "Australia State Land Tax Acts; Local Government Acts"
         },
         {
-          "element_id": "27_p3_e49",
+          "element_id": "179_p3_e49",
           "sequence_order": 49,
           "page_number": 3,
           "quality_score": 0.0,
@@ -532,7 +532,7 @@
           "text_preview": "Canada Provincial Assessment Acts; Municipal Acts"
         },
         {
-          "element_id": "27_p3_e50",
+          "element_id": "179_p3_e50",
           "sequence_order": 50,
           "page_number": 3,
           "quality_score": 0.0,
@@ -543,6 +543,28 @@
         }
       ]
     },
+    "4": {
+      "elements": 26,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "179_p4_e58",
+          "sequence_order": 58,
+          "page_number": 4,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Mixed-use developments"
+        }
+      ]
+    },
     "5": {
       "elements": 6,
       "flagged": 6,
@@ -550,8 +572,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "27_p5_e51",
-          "sequence_order": 51,
+          "element_id": "179_p5_e77",
+          "sequence_order": 77,
           "page_number": 5,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -560,8 +582,8 @@
           "text_preview": "General Property Tax Laws — Comprehensive Reference Guide Page 5"
         },
         {
-          "element_id": "27_p5_e52",
-          "sequence_order": 52,
+          "element_id": "179_p5_e78",
+          "sequence_order": 78,
           "page_number": 5,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -570,8 +592,8 @@
           "text_preview": "4.3 Unit Area Value (UAV) Method"
         },
         {
-          "element_id": "27_p5_e53",
-          "sequence_order": 53,
+          "element_id": "179_p5_e79",
+          "sequence_order": 79,
           "page_number": 5,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -580,8 +602,8 @@
           "text_preview": "Used in Delhi (India) and several other cities. Each property is assigned a per-square-metre base value based on its loc"
         },
         {
-          "element_id": "27_p5_e54",
-          "sequence_order": 54,
+          "element_id": "179_p5_e80",
+          "sequence_order": 80,
           "page_number": 5,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -590,8 +612,8 @@
           "text_preview": "4.4 Capital Value System (CVS)"
         },
         {
-          "element_id": "27_p5_e55",
-          "sequence_order": 55,
+          "element_id": "179_p5_e81",
+          "sequence_order": 81,
           "page_number": 5,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -600,8 +622,8 @@
           "text_preview": "Used in Mumbai (BMC). Tax is based on the capital (market) value of the property as determined by the state government's"
         },
         {
-          "element_id": "27_p5_e56",
-          "sequence_order": 56,
+          "element_id": "179_p5_e82",
+          "sequence_order": 82,
           "page_number": 5,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -620,8 +642,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "27_p6_e57",
-          "sequence_order": 57,
+          "element_id": "179_p6_e83",
+          "sequence_order": 83,
           "page_number": 6,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -630,8 +652,8 @@
           "text_preview": "General Property Tax Laws — Comprehensive Reference Guide Page 6"
         },
         {
-          "element_id": "27_p6_e58",
-          "sequence_order": 58,
+          "element_id": "179_p6_e84",
+          "sequence_order": 84,
           "page_number": 6,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -640,8 +662,8 @@
           "text_preview": "5. Tax Rates and Calculation"
         },
         {
-          "element_id": "27_p6_e59",
-          "sequence_order": 59,
+          "element_id": "179_p6_e85",
+          "sequence_order": 85,
           "page_number": 6,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -650,8 +672,8 @@
           "text_preview": "Property tax rates are expressed in various ways depending on the jurisdiction:"
         },
         {
-          "element_id": "27_p6_e60",
-          "sequence_order": 60,
+          "element_id": "179_p6_e86",
+          "sequence_order": 86,
           "page_number": 6,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -660,8 +682,8 @@
           "text_preview": "• Mill Rate (Millage): Common in the US. One mill = $1 of tax per $1,000 of assessed value. Example: A 20-mill rate on a"
         },
         {
-          "element_id": "27_p6_e61",
-          "sequence_order": 61,
+          "element_id": "179_p6_e87",
+          "sequence_order": 87,
           "page_number": 6,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -670,8 +692,8 @@
           "text_preview": "• Percentage of Assessed Value: A flat or tiered percentage applied directly. Example: 1.5% of assessed value."
         },
         {
-          "element_id": "27_p6_e62",
-          "sequence_order": 62,
+          "element_id": "179_p6_e88",
+          "sequence_order": 88,
           "page_number": 6,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -680,8 +702,8 @@
           "text_preview": "• Fixed Rate per Square Metre/Foot: A fixed rupee or monetary amount per unit area, sometimes adjusted by location or us"
         },
         {
-          "element_id": "27_p6_e63",
-          "sequence_order": 63,
+          "element_id": "179_p6_e89",
+          "sequence_order": 89,
           "page_number": 6,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -690,8 +712,8 @@
           "text_preview": "Sample Calculation (Unit Area Method — India):"
         },
         {
-          "element_id": "27_p6_e64",
-          "sequence_order": 64,
+          "element_id": "179_p6_e90",
+          "sequence_order": 90,
           "page_number": 6,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -702,8 +724,8 @@
           "text_preview": "Parameter Value"
         },
         {
-          "element_id": "27_p6_e65",
-          "sequence_order": 65,
+          "element_id": "179_p6_e91",
+          "sequence_order": 91,
           "page_number": 6,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -712,8 +734,8 @@
           "text_preview": "Built-up Area 1,200 sq ft"
         },
         {
-          "element_id": "27_p6_e66",
-          "sequence_order": 66,
+          "element_id": "179_p6_e92",
+          "sequence_order": 92,
           "page_number": 6,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -722,8 +744,8 @@
           "text_preview": "Base Unit Area Value (BUAV) Rs. 630 per sq ft"
         },
         {
-          "element_id": "27_p6_e67",
-          "sequence_order": 67,
+          "element_id": "179_p6_e93",
+          "sequence_order": 93,
           "page_number": 6,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -732,8 +754,8 @@
           "text_preview": "Occupancy Factor (Self-Occupied) 1.0"
         },
         {
-          "element_id": "27_p6_e68",
-          "sequence_order": 68,
+          "element_id": "179_p6_e94",
+          "sequence_order": 94,
           "page_number": 6,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -742,8 +764,8 @@
           "text_preview": "Use Factor (Residential) 1.0"
         },
         {
-          "element_id": "27_p6_e69",
-          "sequence_order": 69,
+          "element_id": "179_p6_e95",
+          "sequence_order": 95,
           "page_number": 6,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -752,8 +774,8 @@
           "text_preview": "Age Factor (10–20 yrs) 0.9"
         },
         {
-          "element_id": "27_p6_e70",
-          "sequence_order": 70,
+          "element_id": "179_p6_e96",
+          "sequence_order": 96,
           "page_number": 6,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -762,8 +784,8 @@
           "text_preview": "Structure Factor (RCC) 1.0"
         },
         {
-          "element_id": "27_p6_e71",
-          "sequence_order": 71,
+          "element_id": "179_p6_e97",
+          "sequence_order": 97,
           "page_number": 6,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -772,8 +794,8 @@
           "text_preview": "Annual Value 1,200 x 630 x 1 x 1 x 0.9 x 1 = Rs. 6,80,400"
         },
         {
-          "element_id": "27_p6_e72",
-          "sequence_order": 72,
+          "element_id": "179_p6_e98",
+          "sequence_order": 98,
           "page_number": 6,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -782,8 +804,8 @@
           "text_preview": "Tax Rate 12%"
         },
         {
-          "element_id": "27_p6_e73",
-          "sequence_order": 73,
+          "element_id": "179_p6_e99",
+          "sequence_order": 99,
           "page_number": 6,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -800,8 +822,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "27_p7_e74",
-          "sequence_order": 74,
+          "element_id": "179_p7_e100",
+          "sequence_order": 100,
           "page_number": 7,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -810,8 +832,8 @@
           "text_preview": "General Property Tax Laws — Comprehensive Reference Guide Page 7"
         },
         {
-          "element_id": "27_p7_e75",
-          "sequence_order": 75,
+          "element_id": "179_p7_e101",
+          "sequence_order": 101,
           "page_number": 7,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -820,8 +842,8 @@
           "text_preview": "6. Exemptions and Reliefs"
         },
         {
-          "element_id": "27_p7_e76",
-          "sequence_order": 76,
+          "element_id": "179_p7_e102",
+          "sequence_order": 102,
           "page_number": 7,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -830,8 +852,8 @@
           "text_preview": "Most jurisdictions provide statutory exemptions or rebates to reduce or eliminate property tax liability for specific ca"
         },
         {
-          "element_id": "27_p7_e77",
-          "sequence_order": 77,
+          "element_id": "179_p7_e103",
+          "sequence_order": 103,
           "page_number": 7,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -840,8 +862,8 @@
           "text_preview": "6.1 Full Exemptions"
         },
         {
-          "element_id": "27_p7_e78",
-          "sequence_order": 78,
+          "element_id": "179_p7_e104",
+          "sequence_order": 104,
           "page_number": 7,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -850,8 +872,8 @@
           "text_preview": "• Places of worship (churches, mosques, temples, gurudwaras)"
         },
         {
-          "element_id": "27_p7_e79",
-          "sequence_order": 79,
+          "element_id": "179_p7_e105",
+          "sequence_order": 105,
           "page_number": 7,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -860,8 +882,8 @@
           "text_preview": "• Charitable trusts and non-profit organisations (subject to regulatory approval)"
         },
         {
-          "element_id": "27_p7_e80",
-          "sequence_order": 80,
+          "element_id": "179_p7_e106",
+          "sequence_order": 106,
           "page_number": 7,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -870,8 +892,8 @@
           "text_preview": "• Agricultural land (in many states — entirely exempt or taxed at nominal rates)"
         },
         {
-          "element_id": "27_p7_e81",
-          "sequence_order": 81,
+          "element_id": "179_p7_e107",
+          "sequence_order": 107,
           "page_number": 7,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -880,8 +902,8 @@
           "text_preview": "• Properties owned by the government for public purposes"
         },
         {
-          "element_id": "27_p7_e82",
-          "sequence_order": 82,
+          "element_id": "179_p7_e108",
+          "sequence_order": 108,
           "page_number": 7,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -890,8 +912,8 @@
           "text_preview": "• Diplomatic missions and consular premises"
         },
         {
-          "element_id": "27_p7_e83",
-          "sequence_order": 83,
+          "element_id": "179_p7_e109",
+          "sequence_order": 109,
           "page_number": 7,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -900,8 +922,8 @@
           "text_preview": "6.2 Partial Exemptions and Rebates"
         },
         {
-          "element_id": "27_p7_e84",
-          "sequence_order": 84,
+          "element_id": "179_p7_e110",
+          "sequence_order": 110,
           "page_number": 7,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -910,8 +932,8 @@
           "text_preview": "• Senior Citizens: Many jurisdictions offer 25–50% rebates to elderly homeowners above a specified age (typically 60–65 "
         },
         {
-          "element_id": "27_p7_e85",
-          "sequence_order": 85,
+          "element_id": "179_p7_e111",
+          "sequence_order": 111,
           "page_number": 7,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -920,8 +942,8 @@
           "text_preview": "• Differently-abled Persons: Concessions of 25–100% in several Indian municipalities."
         },
         {
-          "element_id": "27_p7_e86",
-          "sequence_order": 86,
+          "element_id": "179_p7_e112",
+          "sequence_order": 112,
           "page_number": 7,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -930,8 +952,8 @@
           "text_preview": "• Ex-Servicemen / Veterans: Significant rebates in India, US (homestead exemptions), and other countries."
         },
         {
-          "element_id": "27_p7_e87",
-          "sequence_order": 87,
+          "element_id": "179_p7_e113",
+          "sequence_order": 113,
           "page_number": 7,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -940,8 +962,8 @@
           "text_preview": "• Green Buildings: Some municipalities offer rebates for LEED-certified or energy-efficient constructions."
         },
         {
-          "element_id": "27_p7_e88",
-          "sequence_order": 88,
+          "element_id": "179_p7_e114",
+          "sequence_order": 114,
           "page_number": 7,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -950,8 +972,8 @@
           "text_preview": "• Self-Occupied vs. Let-Out: Self-occupied properties often attract lower tax rates."
         },
         {
-          "element_id": "27_p7_e89",
-          "sequence_order": 89,
+          "element_id": "179_p7_e115",
+          "sequence_order": 115,
           "page_number": 7,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -960,8 +982,8 @@
           "text_preview": "• Timely Payment Rebate: 5–15% rebate for early or on-time payment (common in India)."
         },
         {
-          "element_id": "27_p7_e90",
-          "sequence_order": 90,
+          "element_id": "179_p7_e116",
+          "sequence_order": 116,
           "page_number": 7,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -970,8 +992,8 @@
           "text_preview": "6.3 Homestead Exemption (US Context)"
         },
         {
-          "element_id": "27_p7_e91",
-          "sequence_order": 91,
+          "element_id": "179_p7_e117",
+          "sequence_order": 117,
           "page_number": 7,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -990,8 +1012,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "27_p8_e92",
-          "sequence_order": 92,
+          "element_id": "179_p8_e118",
+          "sequence_order": 118,
           "page_number": 8,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1000,8 +1022,8 @@
           "text_preview": "General Property Tax Laws — Comprehensive Reference Guide Page 8"
         },
         {
-          "element_id": "27_p8_e93",
-          "sequence_order": 93,
+          "element_id": "179_p8_e119",
+          "sequence_order": 119,
           "page_number": 8,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1010,8 +1032,8 @@
           "text_preview": "7. Payment Procedures and Deadlines"
         },
         {
-          "element_id": "27_p8_e94",
-          "sequence_order": 94,
+          "element_id": "179_p8_e120",
+          "sequence_order": 120,
           "page_number": 8,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1020,8 +1042,8 @@
           "text_preview": "Payment procedures vary widely but typically follow a structured annual or semi-annual cycle."
         },
         {
-          "element_id": "27_p8_e95",
-          "sequence_order": 95,
+          "element_id": "179_p8_e121",
+          "sequence_order": 121,
           "page_number": 8,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1030,8 +1052,8 @@
           "text_preview": "7.1 Billing and Notice"
         },
         {
-          "element_id": "27_p8_e96",
-          "sequence_order": 96,
+          "element_id": "179_p8_e122",
+          "sequence_order": 122,
           "page_number": 8,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1040,8 +1062,8 @@
           "text_preview": "• The assessing authority issues a demand notice / tax bill specifying assessed value, rate, and amount due."
         },
         {
-          "element_id": "27_p8_e97",
-          "sequence_order": 97,
+          "element_id": "179_p8_e123",
+          "sequence_order": 123,
           "page_number": 8,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1050,8 +1072,8 @@
           "text_preview": "• Bills may be issued annually, quarterly, or bi-annually."
         },
         {
-          "element_id": "27_p8_e98",
-          "sequence_order": 98,
+          "element_id": "179_p8_e124",
+          "sequence_order": 124,
           "page_number": 8,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1060,8 +1082,8 @@
           "text_preview": "• Self-assessment systems (e.g., Delhi, Ahmedabad) require owners to file returns and compute tax."
         },
         {
-          "element_id": "27_p8_e99",
-          "sequence_order": 99,
+          "element_id": "179_p8_e125",
+          "sequence_order": 125,
           "page_number": 8,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1070,8 +1092,8 @@
           "text_preview": "7.2 Payment Methods"
         },
         {
-          "element_id": "27_p8_e100",
-          "sequence_order": 100,
+          "element_id": "179_p8_e126",
+          "sequence_order": 126,
           "page_number": 8,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1080,8 +1102,8 @@
           "text_preview": "• Online portals (municipal corporation websites, national payment gateways)"
         },
         {
-          "element_id": "27_p8_e101",
-          "sequence_order": 101,
+          "element_id": "179_p8_e127",
+          "sequence_order": 127,
           "page_number": 8,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1090,8 +1112,8 @@
           "text_preview": "• Authorised bank counters and ATMs"
         },
         {
-          "element_id": "27_p8_e102",
-          "sequence_order": 102,
+          "element_id": "179_p8_e128",
+          "sequence_order": 128,
           "page_number": 8,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1100,8 +1122,8 @@
           "text_preview": "• Cheque / Demand Draft submitted to municipal offices"
         },
         {
-          "element_id": "27_p8_e103",
-          "sequence_order": 103,
+          "element_id": "179_p8_e129",
+          "sequence_order": 129,
           "page_number": 8,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1110,8 +1132,8 @@
           "text_preview": "• Auto-debit and standing instructions (some jurisdictions)"
         },
         {
-          "element_id": "27_p8_e104",
-          "sequence_order": 104,
+          "element_id": "179_p8_e130",
+          "sequence_order": 130,
           "page_number": 8,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1120,8 +1142,8 @@
           "text_preview": "7.3 Typical Payment Deadlines"
         },
         {
-          "element_id": "27_p8_e105",
-          "sequence_order": 105,
+          "element_id": "179_p8_e131",
+          "sequence_order": 131,
           "page_number": 8,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1132,8 +1154,8 @@
           "text_preview": "Jurisdiction Typical Deadline"
         },
         {
-          "element_id": "27_p8_e106",
-          "sequence_order": 106,
+          "element_id": "179_p8_e132",
+          "sequence_order": 132,
           "page_number": 8,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1142,8 +1164,8 @@
           "text_preview": "India (General) March 31 (end of financial year); some municipalities split into two halves"
         },
         {
-          "element_id": "27_p8_e107",
-          "sequence_order": 107,
+          "element_id": "179_p8_e133",
+          "sequence_order": 133,
           "page_number": 8,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1152,8 +1174,8 @@
           "text_preview": "USA Varies by state/county — commonly December 31 or February 28"
         },
         {
-          "element_id": "27_p8_e108",
-          "sequence_order": 108,
+          "element_id": "179_p8_e134",
+          "sequence_order": 134,
           "page_number": 8,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1162,8 +1184,8 @@
           "text_preview": "UK (Council Tax) 10 monthly instalments; typically April–January"
         },
         {
-          "element_id": "27_p8_e109",
-          "sequence_order": 109,
+          "element_id": "179_p8_e135",
+          "sequence_order": 135,
           "page_number": 8,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1172,8 +1194,8 @@
           "text_preview": "Australia Quarterly instalments; dates set by respective state bodies"
         },
         {
-          "element_id": "27_p8_e110",
-          "sequence_order": 110,
+          "element_id": "179_p8_e136",
+          "sequence_order": 136,
           "page_number": 8,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1190,8 +1212,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "27_p9_e111",
-          "sequence_order": 111,
+          "element_id": "179_p9_e137",
+          "sequence_order": 137,
           "page_number": 9,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1200,8 +1222,8 @@
           "text_preview": "General Property Tax Laws — Comprehensive Reference Guide Page 9"
         },
         {
-          "element_id": "27_p9_e112",
-          "sequence_order": 112,
+          "element_id": "179_p9_e138",
+          "sequence_order": 138,
           "page_number": 9,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1210,8 +1232,8 @@
           "text_preview": "8. Penalties and Interest"
         },
         {
-          "element_id": "27_p9_e113",
-          "sequence_order": 113,
+          "element_id": "179_p9_e139",
+          "sequence_order": 139,
           "page_number": 9,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1220,8 +1242,8 @@
           "text_preview": "Non-payment or delayed payment of property tax triggers a range of consequences designed to encourage compliance and rec"
         },
         {
-          "element_id": "27_p9_e114",
-          "sequence_order": 114,
+          "element_id": "179_p9_e140",
+          "sequence_order": 140,
           "page_number": 9,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1230,8 +1252,8 @@
           "text_preview": "8.1 Interest on Late Payment"
         },
         {
-          "element_id": "27_p9_e115",
-          "sequence_order": 115,
+          "element_id": "179_p9_e141",
+          "sequence_order": 141,
           "page_number": 9,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1240,8 +1262,8 @@
           "text_preview": "• Interest rates typically range from 1% to 2% per month on the outstanding amount."
         },
         {
-          "element_id": "27_p9_e116",
-          "sequence_order": 116,
+          "element_id": "179_p9_e142",
+          "sequence_order": 142,
           "page_number": 9,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1250,8 +1272,8 @@
           "text_preview": "• In India, municipalities commonly charge 1.5–2% per month; in the US, rates vary by county (typically 1–1.5%/month)."
         },
         {
-          "element_id": "27_p9_e117",
-          "sequence_order": 117,
+          "element_id": "179_p9_e143",
+          "sequence_order": 143,
           "page_number": 9,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1260,8 +1282,8 @@
           "text_preview": "• Simple or compound interest may apply depending on the legislation."
         },
         {
-          "element_id": "27_p9_e118",
-          "sequence_order": 118,
+          "element_id": "179_p9_e144",
+          "sequence_order": 144,
           "page_number": 9,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1270,8 +1292,8 @@
           "text_preview": "8.2 Penalty Charges"
         },
         {
-          "element_id": "27_p9_e119",
-          "sequence_order": 119,
+          "element_id": "179_p9_e145",
+          "sequence_order": 145,
           "page_number": 9,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1280,8 +1302,8 @@
           "text_preview": "• A fixed penalty fee (flat amount) in addition to interest."
         },
         {
-          "element_id": "27_p9_e120",
-          "sequence_order": 120,
+          "element_id": "179_p9_e146",
+          "sequence_order": 146,
           "page_number": 9,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1290,8 +1312,8 @@
           "text_preview": "• Progressive penalties that increase the longer the tax remains unpaid."
         },
         {
-          "element_id": "27_p9_e121",
-          "sequence_order": 121,
+          "element_id": "179_p9_e147",
+          "sequence_order": 147,
           "page_number": 9,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1300,8 +1322,8 @@
           "text_preview": "• Surcharge levied on the total unpaid amount after specified periods."
         },
         {
-          "element_id": "27_p9_e122",
-          "sequence_order": 122,
+          "element_id": "179_p9_e148",
+          "sequence_order": 148,
           "page_number": 9,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1310,8 +1332,8 @@
           "text_preview": "8.3 Enforcement Actions"
         },
         {
-          "element_id": "27_p9_e123",
-          "sequence_order": 123,
+          "element_id": "179_p9_e149",
+          "sequence_order": 149,
           "page_number": 9,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1320,8 +1342,8 @@
           "text_preview": "• Tax Lien: A legal claim placed on the property, preventing sale or refinancing until arrears are cleared."
         },
         {
-          "element_id": "27_p9_e124",
-          "sequence_order": 124,
+          "element_id": "179_p9_e150",
+          "sequence_order": 150,
           "page_number": 9,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1330,8 +1352,8 @@
           "text_preview": "• Distress Warrant: Authority to seize movable property to recover unpaid taxes."
         },
         {
-          "element_id": "27_p9_e125",
-          "sequence_order": 125,
+          "element_id": "179_p9_e151",
+          "sequence_order": 151,
           "page_number": 9,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1340,8 +1362,8 @@
           "text_preview": "• Property Attachment: Attachment of property through court proceedings."
         },
         {
-          "element_id": "27_p9_e126",
-          "sequence_order": 126,
+          "element_id": "179_p9_e152",
+          "sequence_order": 152,
           "page_number": 9,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1350,8 +1372,8 @@
           "text_preview": "• Tax Sale / Foreclosure: In extreme cases, the property may be auctioned by the government to recover dues. Procedures "
         },
         {
-          "element_id": "27_p9_e127",
-          "sequence_order": 127,
+          "element_id": "179_p9_e153",
+          "sequence_order": 153,
           "page_number": 9,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1368,8 +1390,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "27_p10_e128",
-          "sequence_order": 128,
+          "element_id": "179_p10_e154",
+          "sequence_order": 154,
           "page_number": 10,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1378,8 +1400,8 @@
           "text_preview": "General Property Tax Laws — Comprehensive Reference Guide Page 10"
         },
         {
-          "element_id": "27_p10_e129",
-          "sequence_order": 129,
+          "element_id": "179_p10_e155",
+          "sequence_order": 155,
           "page_number": 10,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1388,8 +1410,8 @@
           "text_preview": "9. Appeals and Dispute Resolution"
         },
         {
-          "element_id": "27_p10_e130",
-          "sequence_order": 130,
+          "element_id": "179_p10_e156",
+          "sequence_order": 156,
           "page_number": 10,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1398,8 +1420,8 @@
           "text_preview": "Taxpayers who disagree with their property assessment or tax demand have the right to challenge the decision through for"
         },
         {
-          "element_id": "27_p10_e131",
-          "sequence_order": 131,
+          "element_id": "179_p10_e157",
+          "sequence_order": 157,
           "page_number": 10,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1408,8 +1430,8 @@
           "text_preview": "9.1 Grounds for Appeal"
         },
         {
-          "element_id": "27_p10_e132",
-          "sequence_order": 132,
+          "element_id": "179_p10_e158",
+          "sequence_order": 158,
           "page_number": 10,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1418,8 +1440,8 @@
           "text_preview": "• Incorrect property measurements or classification"
         },
         {
-          "element_id": "27_p10_e133",
-          "sequence_order": 133,
+          "element_id": "179_p10_e159",
+          "sequence_order": 159,
           "page_number": 10,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1428,8 +1450,8 @@
           "text_preview": "• Over-valuation relative to market rates"
         },
         {
-          "element_id": "27_p10_e134",
-          "sequence_order": 134,
+          "element_id": "179_p10_e160",
+          "sequence_order": 160,
           "page_number": 10,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1438,8 +1460,8 @@
           "text_preview": "• Denial of an exemption or rebate the owner is legally entitled to"
         },
         {
-          "element_id": "27_p10_e135",
-          "sequence_order": 135,
+          "element_id": "179_p10_e161",
+          "sequence_order": 161,
           "page_number": 10,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1448,8 +1470,8 @@
           "text_preview": "• Mathematical or clerical errors in the tax demand"
         },
         {
-          "element_id": "27_p10_e136",
-          "sequence_order": 136,
+          "element_id": "179_p10_e162",
+          "sequence_order": 162,
           "page_number": 10,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1458,8 +1480,8 @@
           "text_preview": "• Assessment without proper notice or hearing"
         },
         {
-          "element_id": "27_p10_e137",
-          "sequence_order": 137,
+          "element_id": "179_p10_e163",
+          "sequence_order": 163,
           "page_number": 10,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1468,8 +1490,8 @@
           "text_preview": "9.2 Typical Appeal Process"
         },
         {
-          "element_id": "27_p10_e138",
-          "sequence_order": 138,
+          "element_id": "179_p10_e164",
+          "sequence_order": 164,
           "page_number": 10,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1478,8 +1500,8 @@
           "text_preview": "• Step 1 — Internal Review: File a written objection with the assessing officer within the prescribed period (typically "
         },
         {
-          "element_id": "27_p10_e139",
-          "sequence_order": 139,
+          "element_id": "179_p10_e165",
+          "sequence_order": 165,
           "page_number": 10,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1488,8 +1510,8 @@
           "text_preview": "• Step 2 — Assessment Review Board / Tribunal: If unsatisfied, appeal to an independent review board (e.g., Assessment A"
         },
         {
-          "element_id": "27_p10_e140",
-          "sequence_order": 140,
+          "element_id": "179_p10_e166",
+          "sequence_order": 166,
           "page_number": 10,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1498,8 +1520,8 @@
           "text_preview": "• Step 3 — Tax Court / High Court: Legal challenge on questions of law or constitutional validity."
         },
         {
-          "element_id": "27_p10_e141",
-          "sequence_order": 141,
+          "element_id": "179_p10_e167",
+          "sequence_order": 167,
           "page_number": 10,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1508,8 +1530,8 @@
           "text_preview": "• Step 4 — Supreme Court: Final appellate forum for significant constitutional questions."
         },
         {
-          "element_id": "27_p10_e142",
-          "sequence_order": 142,
+          "element_id": "179_p10_e168",
+          "sequence_order": 168,
           "page_number": 10,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1518,8 +1540,8 @@
           "text_preview": "9.3 Key Procedural Rules"
         },
         {
-          "element_id": "27_p10_e143",
-          "sequence_order": 143,
+          "element_id": "179_p10_e169",
+          "sequence_order": 169,
           "page_number": 10,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1528,8 +1550,8 @@
           "text_preview": "• Strict deadlines apply — missing appeal windows typically bars further recourse."
         },
         {
-          "element_id": "27_p10_e144",
-          "sequence_order": 144,
+          "element_id": "179_p10_e170",
+          "sequence_order": 170,
           "page_number": 10,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1538,8 +1560,8 @@
           "text_preview": "• In many jurisdictions, payment of the disputed tax (or a portion) is required to maintain appeal rights."
         },
         {
-          "element_id": "27_p10_e145",
-          "sequence_order": 145,
+          "element_id": "179_p10_e171",
+          "sequence_order": 171,
           "page_number": 10,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1556,8 +1578,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "27_p11_e146",
-          "sequence_order": 146,
+          "element_id": "179_p11_e172",
+          "sequence_order": 172,
           "page_number": 11,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1566,8 +1588,8 @@
           "text_preview": "General Property Tax Laws — Comprehensive Reference Guide Page 11"
         },
         {
-          "element_id": "27_p11_e147",
-          "sequence_order": 147,
+          "element_id": "179_p11_e173",
+          "sequence_order": 173,
           "page_number": 11,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1576,8 +1598,8 @@
           "text_preview": "10. Special Assessment Districts"
         },
         {
-          "element_id": "27_p11_e148",
-          "sequence_order": 148,
+          "element_id": "179_p11_e174",
+          "sequence_order": 174,
           "page_number": 11,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1586,8 +1608,8 @@
           "text_preview": "Special Assessment Districts (SADs) or Special Benefit Districts are geographic areas where additional charges are levie"
         },
         {
-          "element_id": "27_p11_e149",
-          "sequence_order": 149,
+          "element_id": "179_p11_e175",
+          "sequence_order": 175,
           "page_number": 11,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1596,8 +1618,8 @@
           "text_preview": "• Road construction, widening, and paving within the district"
         },
         {
-          "element_id": "27_p11_e150",
-          "sequence_order": 150,
+          "element_id": "179_p11_e176",
+          "sequence_order": 176,
           "page_number": 11,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1606,8 +1628,8 @@
           "text_preview": "• Sewage and drainage infrastructure"
         },
         {
-          "element_id": "27_p11_e151",
-          "sequence_order": 151,
+          "element_id": "179_p11_e177",
+          "sequence_order": 177,
           "page_number": 11,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1616,8 +1638,8 @@
           "text_preview": "• Street lighting upgrades"
         },
         {
-          "element_id": "27_p11_e152",
-          "sequence_order": 152,
+          "element_id": "179_p11_e178",
+          "sequence_order": 178,
           "page_number": 11,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1626,8 +1648,8 @@
           "text_preview": "• Parks and public space development"
         },
         {
-          "element_id": "27_p11_e153",
-          "sequence_order": 153,
+          "element_id": "179_p11_e179",
+          "sequence_order": 179,
           "page_number": 11,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1636,8 +1658,8 @@
           "text_preview": "• Business Improvement Districts (BIDs) for commercial area maintenance"
         },
         {
-          "element_id": "27_p11_e154",
-          "sequence_order": 154,
+          "element_id": "179_p11_e180",
+          "sequence_order": 180,
           "page_number": 11,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1646,8 +1668,8 @@
           "text_preview": "Assessments in SADs are typically proportional to the benefit received by each property (e.g., frontage length, lot size"
         },
         {
-          "element_id": "27_p11_e155",
-          "sequence_order": 155,
+          "element_id": "179_p11_e181",
+          "sequence_order": 181,
           "page_number": 11,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1656,8 +1678,8 @@
           "text_preview": "11. Transfer Tax and Stamp Duty"
         },
         {
-          "element_id": "27_p11_e156",
-          "sequence_order": 156,
+          "element_id": "179_p11_e182",
+          "sequence_order": 182,
           "page_number": 11,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1666,8 +1688,8 @@
           "text_preview": "In addition to recurring property tax, the transfer of property ownership attracts one-time transaction taxes, commonly "
         },
         {
-          "element_id": "27_p11_e157",
-          "sequence_order": 157,
+          "element_id": "179_p11_e183",
+          "sequence_order": 183,
           "page_number": 11,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1676,8 +1698,8 @@
           "text_preview": "• Stamp Duty: A tax on legal documents recording property transactions. Typically 4–8% of the property value in India; 1"
         },
         {
-          "element_id": "27_p11_e158",
-          "sequence_order": 158,
+          "element_id": "179_p11_e184",
+          "sequence_order": 184,
           "page_number": 11,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1686,8 +1708,8 @@
           "text_preview": "• Registration Charges: Fees for registering the deed with the land registry (typically 1% of value in India)."
         },
         {
-          "element_id": "27_p11_e159",
-          "sequence_order": 159,
+          "element_id": "179_p11_e185",
+          "sequence_order": 185,
           "page_number": 11,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1696,8 +1718,8 @@
           "text_preview": "• Transfer Tax (US): Levied by state and/or county on property transfers; rates vary widely."
         },
         {
-          "element_id": "27_p11_e160",
-          "sequence_order": 160,
+          "element_id": "179_p11_e186",
+          "sequence_order": 186,
           "page_number": 11,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1714,8 +1736,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "27_p12_e161",
-          "sequence_order": 161,
+          "element_id": "179_p12_e187",
+          "sequence_order": 187,
           "page_number": 12,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1724,8 +1746,8 @@
           "text_preview": "General Property Tax Laws — Comprehensive Reference Guide Page 12"
         },
         {
-          "element_id": "27_p12_e162",
-          "sequence_order": 162,
+          "element_id": "179_p12_e188",
+          "sequence_order": 188,
           "page_number": 12,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1734,8 +1756,8 @@
           "text_preview": "12. Property Tax in India — Municipal Framework"
         },
         {
-          "element_id": "27_p12_e163",
-          "sequence_order": 163,
+          "element_id": "179_p12_e189",
+          "sequence_order": 189,
           "page_number": 12,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1744,8 +1766,8 @@
           "text_preview": "In India, property tax is levied by Urban Local Bodies (ULBs) — municipal corporations, councils, and panchayats — under"
         },
         {
-          "element_id": "27_p12_e164",
-          "sequence_order": 164,
+          "element_id": "179_p12_e190",
+          "sequence_order": 190,
           "page_number": 12,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1754,8 +1776,8 @@
           "text_preview": "Major Assessment Systems in India:"
         },
         {
-          "element_id": "27_p12_e165",
-          "sequence_order": 165,
+          "element_id": "179_p12_e191",
+          "sequence_order": 191,
           "page_number": 12,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1764,8 +1786,8 @@
           "text_preview": "• Annual Rental Value (ARV): Used in Chennai, Kolkata, Hyderabad. Tax is a percentage of hypothetical annual rent."
         },
         {
-          "element_id": "27_p12_e166",
-          "sequence_order": 166,
+          "element_id": "179_p12_e192",
+          "sequence_order": 192,
           "page_number": 12,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1774,8 +1796,8 @@
           "text_preview": "• Unit Area Value (UAV) / Self-Assessment: Used in Delhi, Pune, Nagpur. Property owner files a self-assessment return."
         },
         {
-          "element_id": "27_p12_e167",
-          "sequence_order": 167,
+          "element_id": "179_p12_e193",
+          "sequence_order": 193,
           "page_number": 12,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1784,8 +1806,8 @@
           "text_preview": "• Capital Value System (CVS): Used in Mumbai (BMC). Tax based on government-notified Ready Reckoner value."
         },
         {
-          "element_id": "27_p12_e168",
-          "sequence_order": 168,
+          "element_id": "179_p12_e194",
+          "sequence_order": 194,
           "page_number": 12,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1794,8 +1816,8 @@
           "text_preview": "Common Components of Property Tax in India:"
         },
         {
-          "element_id": "27_p12_e169",
-          "sequence_order": 169,
+          "element_id": "179_p12_e195",
+          "sequence_order": 195,
           "page_number": 12,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1804,8 +1826,8 @@
           "text_preview": "• General Tax (core property tax)"
         },
         {
-          "element_id": "27_p12_e170",
-          "sequence_order": 170,
+          "element_id": "179_p12_e196",
+          "sequence_order": 196,
           "page_number": 12,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1814,8 +1836,8 @@
           "text_preview": "• Water Benefit Tax"
         },
         {
-          "element_id": "27_p12_e171",
-          "sequence_order": 171,
+          "element_id": "179_p12_e197",
+          "sequence_order": 197,
           "page_number": 12,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1824,8 +1846,8 @@
           "text_preview": "• Conservancy / Sewerage Tax"
         },
         {
-          "element_id": "27_p12_e172",
-          "sequence_order": 172,
+          "element_id": "179_p12_e198",
+          "sequence_order": 198,
           "page_number": 12,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1834,8 +1856,8 @@
           "text_preview": "• Lighting Tax"
         },
         {
-          "element_id": "27_p12_e173",
-          "sequence_order": 173,
+          "element_id": "179_p12_e199",
+          "sequence_order": 199,
           "page_number": 12,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1844,8 +1866,8 @@
           "text_preview": "• Education Cess / Swachh Bharat Cess"
         },
         {
-          "element_id": "27_p12_e174",
-          "sequence_order": 174,
+          "element_id": "179_p12_e200",
+          "sequence_order": 200,
           "page_number": 12,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1862,8 +1884,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "27_p13_e175",
-          "sequence_order": 175,
+          "element_id": "179_p13_e201",
+          "sequence_order": 201,
           "page_number": 13,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1872,8 +1894,8 @@
           "text_preview": "General Property Tax Laws — Comprehensive Reference Guide Page 13"
         },
         {
-          "element_id": "27_p13_e176",
-          "sequence_order": 176,
+          "element_id": "179_p13_e202",
+          "sequence_order": 202,
           "page_number": 13,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1882,8 +1904,8 @@
           "text_preview": "13. Property Tax in the United States"
         },
         {
-          "element_id": "27_p13_e177",
-          "sequence_order": 177,
+          "element_id": "179_p13_e203",
+          "sequence_order": 203,
           "page_number": 13,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1892,8 +1914,8 @@
           "text_preview": "Property taxes in the US are administered at the county or local level, making them highly variable. There is no federal"
         },
         {
-          "element_id": "27_p13_e178",
-          "sequence_order": 178,
+          "element_id": "179_p13_e204",
+          "sequence_order": 204,
           "page_number": 13,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1902,8 +1924,8 @@
           "text_preview": "• The effective average property tax rate nationally is approximately 1.1% of assessed value."
         },
         {
-          "element_id": "27_p13_e179",
-          "sequence_order": 179,
+          "element_id": "179_p13_e205",
+          "sequence_order": 205,
           "page_number": 13,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1912,8 +1934,8 @@
           "text_preview": "• States with highest rates: New Jersey (~2.2%), Illinois (~2.1%), Texas (~1.7%)."
         },
         {
-          "element_id": "27_p13_e180",
-          "sequence_order": 180,
+          "element_id": "179_p13_e206",
+          "sequence_order": 206,
           "page_number": 13,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1922,8 +1944,8 @@
           "text_preview": "• States with lowest rates: Hawaii (~0.29%), Alabama (~0.41%), Colorado (~0.51%)."
         },
         {
-          "element_id": "27_p13_e181",
-          "sequence_order": 181,
+          "element_id": "179_p13_e207",
+          "sequence_order": 207,
           "page_number": 13,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1932,8 +1954,8 @@
           "text_preview": "• Assessment Ratio: Many states assess property at less than full market value (e.g., 80% or 60%) before applying the mi"
         },
         {
-          "element_id": "27_p13_e182",
-          "sequence_order": 182,
+          "element_id": "179_p13_e208",
+          "sequence_order": 208,
           "page_number": 13,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1942,8 +1964,8 @@
           "text_preview": "• Proposition 13 (California, 1978): Limits property tax to 1% of purchase price and caps annual increases at 2%, regard"
         },
         {
-          "element_id": "27_p13_e183",
-          "sequence_order": 183,
+          "element_id": "179_p13_e209",
+          "sequence_order": 209,
           "page_number": 13,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1952,8 +1974,8 @@
           "text_preview": "• Homestead Exemption: Available in most states to reduce taxable value of primary residences."
         },
         {
-          "element_id": "27_p13_e184",
-          "sequence_order": 184,
+          "element_id": "179_p13_e210",
+          "sequence_order": 210,
           "page_number": 13,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1962,8 +1984,8 @@
           "text_preview": "• Circuit Breaker Programs: Tax relief for low-income or elderly homeowners when property tax exceeds a set percentage o"
         },
         {
-          "element_id": "27_p13_e185",
-          "sequence_order": 185,
+          "element_id": "179_p13_e211",
+          "sequence_order": 211,
           "page_number": 13,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1980,8 +2002,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "27_p14_e186",
-          "sequence_order": 186,
+          "element_id": "179_p14_e212",
+          "sequence_order": 212,
           "page_number": 14,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -1990,8 +2012,8 @@
           "text_preview": "General Property Tax Laws — Comprehensive Reference Guide Page 14"
         },
         {
-          "element_id": "27_p14_e187",
-          "sequence_order": 187,
+          "element_id": "179_p14_e213",
+          "sequence_order": 213,
           "page_number": 14,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2000,8 +2022,8 @@
           "text_preview": "14. International Comparison"
         },
         {
-          "element_id": "27_p14_e188",
-          "sequence_order": 188,
+          "element_id": "179_p14_e214",
+          "sequence_order": 214,
           "page_number": 14,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2010,8 +2032,8 @@
           "text_preview": "Country Tax Base Avg. Rate Administering Body"
         },
         {
-          "element_id": "27_p14_e189",
-          "sequence_order": 189,
+          "element_id": "179_p14_e215",
+          "sequence_order": 215,
           "page_number": 14,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2020,8 +2042,8 @@
           "text_preview": "India ARV / UAV / Capital 0.1% – 0.5% of capital value Municipal Corporation"
         },
         {
-          "element_id": "27_p14_e190",
-          "sequence_order": 190,
+          "element_id": "179_p14_e216",
+          "sequence_order": 216,
           "page_number": 14,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2030,8 +2052,8 @@
           "text_preview": "USA Market Value 0.3% – 2.2% County Assessor"
         },
         {
-          "element_id": "27_p14_e191",
-          "sequence_order": 191,
+          "element_id": "179_p14_e217",
+          "sequence_order": 217,
           "page_number": 14,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2040,8 +2062,8 @@
           "text_preview": "UK Estimated Rent (Bands A–H)"
         },
         {
-          "element_id": "27_p14_e192",
-          "sequence_order": 192,
+          "element_id": "179_p14_e218",
+          "sequence_order": 218,
           "page_number": 14,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2050,8 +2072,8 @@
           "text_preview": "Fixed band amount Local Council"
         },
         {
-          "element_id": "27_p14_e193",
-          "sequence_order": 193,
+          "element_id": "179_p14_e219",
+          "sequence_order": 219,
           "page_number": 14,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2060,8 +2082,8 @@
           "text_preview": "Australia Unimproved Land Value 0.2% – 2.0% State Revenue Office"
         },
         {
-          "element_id": "27_p14_e194",
-          "sequence_order": 194,
+          "element_id": "179_p14_e220",
+          "sequence_order": 220,
           "page_number": 14,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2070,8 +2092,8 @@
           "text_preview": "Germany Standard Value (Einheitswert)"
         },
         {
-          "element_id": "27_p14_e195",
-          "sequence_order": 195,
+          "element_id": "179_p14_e221",
+          "sequence_order": 221,
           "page_number": 14,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2080,8 +2102,8 @@
           "text_preview": "~0.35% on standard value Municipal Office"
         },
         {
-          "element_id": "27_p14_e196",
-          "sequence_order": 196,
+          "element_id": "179_p14_e222",
+          "sequence_order": 222,
           "page_number": 14,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2090,8 +2112,8 @@
           "text_preview": "France Rental Value ~0.2% – 0.6% Local Authority"
         },
         {
-          "element_id": "27_p14_e197",
-          "sequence_order": 197,
+          "element_id": "179_p14_e223",
+          "sequence_order": 223,
           "page_number": 14,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2100,8 +2122,8 @@
           "text_preview": "Japan Assessed Value 1.4% fixed Municipal Government"
         },
         {
-          "element_id": "27_p14_e198",
-          "sequence_order": 198,
+          "element_id": "179_p14_e224",
+          "sequence_order": 224,
           "page_number": 14,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2110,8 +2132,8 @@
           "text_preview": "Canada Market Value 0.5% – 2.5% Municipal Assessor"
         },
         {
-          "element_id": "27_p14_e199",
-          "sequence_order": 199,
+          "element_id": "179_p14_e225",
+          "sequence_order": 225,
           "page_number": 14,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2120,8 +2142,8 @@
           "text_preview": "Singapore Annual Value (Rental Basis)"
         },
         {
-          "element_id": "27_p14_e200",
-          "sequence_order": 200,
+          "element_id": "179_p14_e226",
+          "sequence_order": 226,
           "page_number": 14,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2140,8 +2162,8 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "27_p15_e201",
-          "sequence_order": 201,
+          "element_id": "179_p15_e227",
+          "sequence_order": 227,
           "page_number": 15,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2150,8 +2172,8 @@
           "text_preview": "General Property Tax Laws — Comprehensive Reference Guide Page 15"
         },
         {
-          "element_id": "27_p15_e202",
-          "sequence_order": 202,
+          "element_id": "179_p15_e228",
+          "sequence_order": 228,
           "page_number": 15,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2160,8 +2182,8 @@
           "text_preview": "15. Compliance Checklist and Key Takeaways"
         },
         {
-          "element_id": "27_p15_e203",
-          "sequence_order": 203,
+          "element_id": "179_p15_e229",
+          "sequence_order": 229,
           "page_number": 15,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2170,8 +2192,8 @@
           "text_preview": "Property Owner Compliance Checklist:"
         },
         {
-          "element_id": "27_p15_e204",
-          "sequence_order": 204,
+          "element_id": "179_p15_e230",
+          "sequence_order": 230,
           "page_number": 15,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2180,8 +2202,8 @@
           "text_preview": "\u0014 Verify the property is correctly classified (residential / commercial / industrial / agricultural)."
         },
         {
-          "element_id": "27_p15_e205",
-          "sequence_order": 205,
+          "element_id": "179_p15_e231",
+          "sequence_order": 231,
           "page_number": 15,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2190,8 +2212,8 @@
           "text_preview": "\u0014 Check the assessment notice for accuracy — area, location, use, and age factors."
         },
         {
-          "element_id": "27_p15_e206",
-          "sequence_order": 206,
+          "element_id": "179_p15_e232",
+          "sequence_order": 232,
           "page_number": 15,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2200,8 +2222,8 @@
           "text_preview": "\u0014 Confirm all applicable exemptions and rebates are applied (senior citizen, self-occupied, green building, etc.)."
         },
         {
-          "element_id": "27_p15_e207",
-          "sequence_order": 207,
+          "element_id": "179_p15_e233",
+          "sequence_order": 233,
           "page_number": 15,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2210,8 +2232,8 @@
           "text_preview": "\u0014 Set reminders for tax payment deadlines to avoid interest and penalties."
         },
         {
-          "element_id": "27_p15_e208",
-          "sequence_order": 208,
+          "element_id": "179_p15_e234",
+          "sequence_order": 234,
           "page_number": 15,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2220,8 +2242,8 @@
           "text_preview": "\u0014 Maintain records of all tax payment receipts for at least 6–7 years."
         },
         {
-          "element_id": "27_p15_e209",
-          "sequence_order": 209,
+          "element_id": "179_p15_e235",
+          "sequence_order": 235,
           "page_number": 15,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2230,8 +2252,8 @@
           "text_preview": "\u0014 If you believe the assessment is incorrect, file an appeal within the statutory deadline."
         },
         {
-          "element_id": "27_p15_e210",
-          "sequence_order": 210,
+          "element_id": "179_p15_e236",
+          "sequence_order": 236,
           "page_number": 15,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2240,8 +2262,8 @@
           "text_preview": "\u0014 For properties held jointly, verify who bears the primary tax liability."
         },
         {
-          "element_id": "27_p15_e211",
-          "sequence_order": 211,
+          "element_id": "179_p15_e237",
+          "sequence_order": 237,
           "page_number": 15,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2250,8 +2272,8 @@
           "text_preview": "\u0014 When purchasing property, verify all prior year taxes are cleared — check for existing liens."
         },
         {
-          "element_id": "27_p15_e212",
-          "sequence_order": 212,
+          "element_id": "179_p15_e238",
+          "sequence_order": 238,
           "page_number": 15,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2260,8 +2282,8 @@
           "text_preview": "\u0014 Understand the stamp duty and registration obligations on any new property purchase or transfer."
         },
         {
-          "element_id": "27_p15_e213",
-          "sequence_order": 213,
+          "element_id": "179_p15_e239",
+          "sequence_order": 239,
           "page_number": 15,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2270,8 +2292,8 @@
           "text_preview": "\u0014 Register for the online tax portal of your local municipal body to receive e-bills and pay conveniently."
         },
         {
-          "element_id": "27_p15_e214",
-          "sequence_order": 214,
+          "element_id": "179_p15_e240",
+          "sequence_order": 240,
           "page_number": 15,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2282,8 +2304,8 @@
           "text_preview": "Key Takeaways:"
         },
         {
-          "element_id": "27_p15_e215",
-          "sequence_order": 215,
+          "element_id": "179_p15_e241",
+          "sequence_order": 241,
           "page_number": 15,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2292,8 +2314,8 @@
           "text_preview": "• Property tax is a local tax, meaning rates, exemptions, and procedures vary enormously — always check with your specif"
         },
         {
-          "element_id": "27_p15_e216",
-          "sequence_order": 216,
+          "element_id": "179_p15_e242",
+          "sequence_order": 242,
           "page_number": 15,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2302,8 +2324,8 @@
           "text_preview": "• Assessment accuracy is critical; errors in area measurement or classification can lead to years of over-payment."
         },
         {
-          "element_id": "27_p15_e217",
-          "sequence_order": 217,
+          "element_id": "179_p15_e243",
+          "sequence_order": 243,
           "page_number": 15,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2312,8 +2334,8 @@
           "text_preview": "• Exemptions are not always automatically applied — proactively file for rebates you are entitled to."
         },
         {
-          "element_id": "27_p15_e218",
-          "sequence_order": 218,
+          "element_id": "179_p15_e244",
+          "sequence_order": 244,
           "page_number": 15,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2322,8 +2344,8 @@
           "text_preview": "• Timely payment protects you from compounding penalties; in most jurisdictions unpaid taxes eventually become a lien on"
         },
         {
-          "element_id": "27_p15_e219",
-          "sequence_order": 219,
+          "element_id": "179_p15_e245",
+          "sequence_order": 245,
           "page_number": 15,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2332,8 +2354,8 @@
           "text_preview": "• The appeal process provides a legitimate remedy for unfair assessments, but strict deadlines must be observed."
         },
         {
-          "element_id": "27_p15_e220",
-          "sequence_order": 220,
+          "element_id": "179_p15_e246",
+          "sequence_order": 246,
           "page_number": 15,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2342,8 +2364,8 @@
           "text_preview": "• Digital governance is rapidly transforming property tax — most municipalities now offer self-assessment and online pay"
         },
         {
-          "element_id": "27_p15_e221",
-          "sequence_order": 221,
+          "element_id": "179_p15_e247",
+          "sequence_order": 247,
           "page_number": 15,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2352,8 +2374,8 @@
           "text_preview": "This document was prepared as a general educational reference. The laws, rates, and procedures described"
         },
         {
-          "element_id": "27_p15_e222",
-          "sequence_order": 222,
+          "element_id": "179_p15_e248",
+          "sequence_order": 248,
           "page_number": 15,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2362,8 +2384,8 @@
           "text_preview": "reflect general principles and commonly used examples. They are subject to change. Always consult the"
         },
         {
-          "element_id": "27_p15_e223",
-          "sequence_order": 223,
+          "element_id": "179_p15_e249",
+          "sequence_order": 249,
           "page_number": 15,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2372,8 +2394,8 @@
           "text_preview": "official notifications of the relevant tax authority or a qualified legal/tax professional for current,"
         },
         {
-          "element_id": "27_p15_e224",
-          "sequence_order": 224,
+          "element_id": "179_p15_e250",
+          "sequence_order": 250,
           "page_number": 15,
           "quality_score": 0.0,
           "element_type": "paragraph",
@@ -2384,8 +2406,8 @@
           "text_preview": "jurisdiction-specific guidance."
         },
         {
-          "element_id": "27_p15_e225",
-          "sequence_order": 225,
+          "element_id": "179_p15_e251",
+          "sequence_order": 251,
           "page_number": 15,
           "quality_score": 0.0,
           "element_type": "paragraph",

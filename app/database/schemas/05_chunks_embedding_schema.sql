@@ -112,7 +112,7 @@ DROP INDEX IF EXISTS idx_document_embeddings_dense;
 
 CREATE INDEX IF NOT EXISTS idx_document_embeddings_dense
 ON document_embeddings
-USING hnsw ((embedding::halfvec(1024)) halfvec_cosine_ops)
+USING hnsw (embedding vector_cosine_ops)
 WITH (m = 16, ef_construction = 64);
 
 

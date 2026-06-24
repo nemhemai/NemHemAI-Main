@@ -1,0 +1,343 @@
+{
+  "document_id": 21,
+  "pages": {
+    "1": {
+      "elements": 8,
+      "flagged": 8,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "21_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Extra No. 61  REGISTERED NO. G/GNR/2"
+        },
+        {
+          "element_id": "21_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "EXTRAORDINARY  PUBLISHED BY AUTHORITY"
+        },
+        {
+          "element_id": "21_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Vol. LI]  MONDAY, APRIL 26, 2010NAISAKHA 6, 1932"
+        },
+        {
+          "element_id": "21_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "Separate paging is given to this part in order that it may be filed as a Separate Compilation."
+        },
+        {
+          "element_id": "21_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "PART IV-A"
+        },
+        {
+          "element_id": "21_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "Rules and Orders (Other than those published in Part I, I-A and I-L) made  by the Government of Gujarat under the Centra"
+        },
+        {
+          "element_id": "21_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "P.  <?a till w.4 w1Xw:"
+        },
+        {
+          "element_id": "21_p1_e7",
+          "sequence_order": 7,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "(9)  YL kqql %V?Ld ~lkddl  Yh61? RqqL, ?OPO b&ql%."
+        }
+      ]
+    },
+    "2": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "21_p2_e8",
+          "sequence_order": 8,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "GUJARAT GOVERNMENT GAZETTE EX., 26-04-201 0  [PART IV-A"
+        },
+        {
+          "element_id": "21_p2_e9",
+          "sequence_order": 9,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 39,
+          "text_preview": "y i d 6-R4rl1 Y L ~ W WYZ  5?d7 ~ B d d  ~ ~ 1 4   & 7 ~ 4 tlld Rqa4  Gc-2 37 w?q1 $6$1, h i 5;1 w ? ~ 7  tlltm. 4.4 dQc"
+        },
+        {
+          "element_id": "21_p2_e10",
+          "sequence_order": 10,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 115,
+          "text_preview": "(1)  %b? rlkd wR51?74 w ? ~ t t $ ri4d r~kd,  A 4 hid rw.14 da R q a 4 Gt?  ~7fl V L S ~  %6$1 welql whRwiri RE% 3 2 ~ ~"
+        }
+      ]
+    },
+    "4": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "21_p4_e11",
+          "sequence_order": 11,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 33,
+          "text_preview": "61-4  GUJARAT GOVERNMENT GAZETTE EX., 26-04-20 10  [PART IV-A  ( 1 ~ ~ ~ ~ ~ ~ n r ~ s ~ c n ~ ~ a, ~ ~ c ~ ~ ~,"
+        },
+        {
+          "element_id": "21_p4_e12",
+          "sequence_order": 12,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "L .  6s:"
+        },
+        {
+          "element_id": "21_p4_e13",
+          "sequence_order": 13,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 40,
+          "text_preview": "?1wt 34-~QrClw~d.~,  ~~~~~4 sa34--so 4 921 sa34--(9) 26s is -ti4a &t +ti$, a&?  34-lRd wRslild i ~ 4  2534- a?st?l R9.-i"
+        }
+      ]
+    },
+    "5": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "21_p5_e14",
+          "sequence_order": 14,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "PART IV-A]  GUJARAT GOVERNMENT GAZETTE EX., 26-04-201 0"
+        }
+      ]
+    },
+    "6": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "21_p6_e15",
+          "sequence_order": 15,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "6 1-6  GUJARAT GOVERNMENT GAZETTE EX., 26-04-20 10  [PART IV-A"
+        }
+      ]
+    },
+    "7": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "21_p7_e16",
+          "sequence_order": 16,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "PART IV-A]  GUJARAT GOVERNMENT GAZETTE EX., 26-04-20 10"
+        }
+      ]
+    },
+    "8": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "21_p8_e17",
+          "sequence_order": 17,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "6 1-8  GUJARAT GOVERNMENT GAZETTE EX., 26-04-2010  [PART IV-A"
+        },
+        {
+          "element_id": "21_p8_e18",
+          "sequence_order": 18,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 48,
+          "text_preview": "3.  ~ 1 . 1  O ~ & $ c l ?$I(, 43 a p i l 4 a ~  y q s n ~ t  ~ 1 . ~ i t ~ i . 4  $10 4-5 ??A D ~ Y L  / ~ $ 4  pljpil."
+        },
+        {
+          "element_id": "21_p8_e19",
+          "sequence_order": 19,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "(  '0030-W+  qdqa  &qldl-50-  wru  3~ldl-COO-w*  WlClS-"
+        },
+        {
+          "element_id": "21_p8_e20",
+          "sequence_order": 20,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "(9\\9)--~tRd-i  W&SL? t c & R q Y /  Rqd &6ol $I  tci tcu ~ 1 % ' 2c."
+        },
+        {
+          "element_id": "21_p8_e21",
+          "sequence_order": 21,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "G ~ l n d 2 1 ~ -  HE?YL vi.1 $?~4a  W ~ I a."
+        },
+        {
+          "element_id": "21_p8_e22",
+          "sequence_order": 22,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 46,
+          "text_preview": "u.  tcd Y i k d ~ i k d   tci ~ w ~ 4 %  w l v 3 4 ?I&,  4-24 3 3 ~ 3  llelql Z Y L ~  4 G o l q q ~ ~ i ~ i i  d,  A"
+        },
+        {
+          "element_id": "21_p8_e23",
+          "sequence_order": 23,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "O ~ ~ ~ L L W L  R i d s? q t ~ i  WL+ 9."
+        }
+      ]
+    },
+    "9": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "21_p9_e24",
+          "sequence_order": 24,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "PART IV-A] '  GUJARAT GOVERNMENT GAZETTE EX., 26-04-20 10  61-9"
+        },
+        {
+          "element_id": "21_p9_e25",
+          "sequence_order": 25,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "~~krC1-i~  W ~ A L ? wIZ~RW, ~ O O Y 66(rl ~ ~ k d  / 6 h l l 4 4 WLWL ~ 1 2 . 4 hid s?d"
+        },
+        {
+          "element_id": "21_p9_e26",
+          "sequence_order": 26,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "r t l f l ~: . ........... .4 W L ' - L ~  W?YI~L  w ~ < Q L - ~ Y ~ ."
+        }
+      ]
+    }
+  }
+}

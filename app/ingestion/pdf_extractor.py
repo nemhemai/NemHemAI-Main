@@ -248,6 +248,77 @@ class PDFExtractor:
 
         except Exception:
             return None
+
+    # ─────────────────────────────────────────────────────────
+    # FAST DIGITAL PDF EXTRACTION (BYPASS DOCLING)
+    # ─────────────────────────────────────────────────────────
+
+    def _extract_page_with_fitz(self, page_file, actual_page_number):
+        import fitz
+        from app.utils.text_utils import count_tokens, detect_language, normalize_text
+        
+        try:
+            logger.info(f"Processing page with FAST extraction: {page_file}")
+            doc = fitz.open(page_file)
+            page = doc[0]
+            blocks = page.get_text("blocks")
+            
+            elements = []
+            sequence = 0
+            
+            for b in blocks:
+                text = b[4].strip()
+                if not text:
+                    continue
+                text = normalize_text(text)
+                if len(text) < 5:
+                    continue
+                
+                lang = detect_language(text)
+                token_count = count_tokens(text, lang)
+                
+                location = {
+                    "page": actual_page_number,
+                    "bbox": {"left": b[0], "top": b[1], "right": b[2], "bottom": b[3]}
+                }
+                
+                element = {
+                    "sequence_order": sequence,
+                    "element_type": "paragraph",
+                    "element_depth": 1,
+                    "section_path": None,
+                    "heading_breadcrumb": [],
+                    "content_original": text,
+                    "structured_content": None,
+                    "source_location": location,
+                    "token_count": token_count,
+                    "detected_language": lang,
+                    "metadata": {
+                        "docling_label": None,
+                        "page_number": actual_page_number,
+                        "bbox": location["bbox"],
+                        "ocr_confidence": None,
+                        "extraction_mode": "digital_fast"
+                    }
+                }
+                elements.append(element)
+                sequence += 1
+                
+            doc.close()
+            
+            health = {
+                "element_count": len(elements),
+                "text_length": sum(len(e["content_original"]) for e in elements),
+                "token_count": sum(e["token_count"] for e in elements),
+                "tables": 0
+            }
+            status = "healthy" if health["text_length"] > 50 else "weak"
+            
+            return (elements, health, status, False, page_file)
+
+        except Exception as e:
+            logger.warning(f"FAST extraction error: {page_file} | {e}")
+            return None
     
 
     # ─────────────────────────────────────────────────────────
@@ -614,7 +685,16 @@ class PDFExtractor:
                     continue
 
                 try:
-                    result = self._process_single_page_with_stats(page_file)
+                    # Find page type
+                    page_type = next((p["type"] for p in page_meta if p["file"] == page_file), "heavy")
+                    
+                    if page_type in ["light", "medium"]:
+                        logger.info(f"Using FAST parsing for page: {page_file} ({page_type})")
+                        result = self._extract_page_with_fitz(page_file, page_index + 1)
+                    else:
+                        logger.info(f"Using DOCLING for page: {page_file} ({page_type})")
+                        result = self._process_single_page_with_stats(page_file)
+                        
                     results_with_index.append((page_index, result))
                 except Exception as e:
                     logger.warning(f"Page failed: {e}")

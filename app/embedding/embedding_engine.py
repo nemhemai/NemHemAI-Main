@@ -61,7 +61,7 @@ logger = logging.getLogger(__name__)
 
 EMBEDDING_MODEL = settings.EMBED_MODEL_PATH
 DENSE_DIM            = 1024             # BGE-M3 dense output dimension
-DEFAULT_BATCH_SIZE   = 8               # optimized for 16GB RAM PC (balanced speed/memory)
+DEFAULT_BATCH_SIZE   = 32               # optimized for speed via batched inference
 MAX_INPUT_TOKENS     = 512              # hard cap passed to FlagEmbedding
 #MIN_QUALITY_TO_EMBED = 0.0              # embed everything (filter at retrieval)
 

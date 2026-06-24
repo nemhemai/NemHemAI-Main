@@ -1,0 +1,1516 @@
+{
+  "document_id": 29,
+  "pages": {
+    "4": {
+      "elements": 21,
+      "flagged": 21,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "29_p4_e0",
+          "sequence_order": 0,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "4  The Maharashtra Municipal Property Tax Board   [2011: Mah. XIV    Act, 2011"
+        },
+        {
+          "element_id": "29_p4_e1",
+          "sequence_order": 1,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "4. Composition of Board.— (1) The Board shall consist of a Chairperson and not exceeding  four other Members."
+        },
+        {
+          "element_id": "29_p4_e2",
+          "sequence_order": 2,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 45,
+          "text_preview": "(2) The Chairperson shall be a person who is a retired judge of the Supreme Court or a High  Court or a retired officer "
+        },
+        {
+          "element_id": "29_p4_e3",
+          "sequence_order": 3,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 39,
+          "text_preview": "(3) The other Members shall be the persons who have adequate knowledge and experience in the  field of municipal adminis"
+        },
+        {
+          "element_id": "29_p4_e4",
+          "sequence_order": 4,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 39,
+          "text_preview": "5. Appointment of Chairperson and Members and Chairperson and Members not to have  financial or other interest.— (1) The"
+        },
+        {
+          "element_id": "29_p4_e5",
+          "sequence_order": 5,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 88,
+          "text_preview": "(2) The person appointed as a Chairperson or a Member of the Board must not have any financial  or other interest which "
+        },
+        {
+          "element_id": "29_p4_e6",
+          "sequence_order": 6,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "(3) The appointments of the Chairperson and the Members of the Board shall be notified in the  Official Gazette."
+        },
+        {
+          "element_id": "29_p4_e7",
+          "sequence_order": 7,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "(4) The persons appointed as the Chairperson and Members of the Board shall, before entering  upon office, make and subs"
+        },
+        {
+          "element_id": "29_p4_e8",
+          "sequence_order": 8,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "(5) The person appointed as a Chairperson or a Member of the Board may, by writing under his  hand addressed to the Gove"
+        },
+        {
+          "element_id": "29_p4_e9",
+          "sequence_order": 9,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "6. Removal of Chairperson and Members.— The Governor, on recommendation of the State  Government, may, by order, remove "
+        },
+        {
+          "element_id": "29_p4_e10",
+          "sequence_order": 10,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "(a) has been adjudged as an insolvent, or"
+        },
+        {
+          "element_id": "29_p4_e11",
+          "sequence_order": 11,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "(b) has been convicted of an offence which, in the opinion of the State Government,  involves moral turpitude, or"
+        },
+        {
+          "element_id": "29_p4_e12",
+          "sequence_order": 12,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "(c) has become physically or mentally incapable of acting as a Chairperson or a Member, or"
+        },
+        {
+          "element_id": "29_p4_e13",
+          "sequence_order": 13,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "(d) has acquired such financial or other interest as is likely to affect prejudicially his  functioning as a Chairperson"
+        },
+        {
+          "element_id": "29_p4_e14",
+          "sequence_order": 14,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "(e) has so abused his position so as to render his continuance in office prejudicial to the  public interest."
+        },
+        {
+          "element_id": "29_p4_e15",
+          "sequence_order": 15,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 48,
+          "text_preview": "7. Term of office, salaries and allowances and other conditions of service of Chairperson  and Members.— (1) The Chairpe"
+        },
+        {
+          "element_id": "29_p4_e16",
+          "sequence_order": 16,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "Provided that, no Chairperson or any other Member shall hold office as such after he has  attained,—"
+        },
+        {
+          "element_id": "29_p4_e17",
+          "sequence_order": 17,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "(a) in case of Chairperson, the age of sixty-five years, and"
+        },
+        {
+          "element_id": "29_p4_e18",
+          "sequence_order": 18,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "(b) in case of any other Member, the age of sixty-two years."
+        },
+        {
+          "element_id": "29_p4_e19",
+          "sequence_order": 19,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "(2) The salaries and allowances payable to, and other terms and conditions of service of, the  Chairperson and the other"
+        },
+        {
+          "element_id": "29_p4_e20",
+          "sequence_order": 20,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "(3) The salaries and allowances payable to, and other conditions of service of, the Chairperson  and the other Members s"
+        }
+      ]
+    },
+    "5": {
+      "elements": 19,
+      "flagged": 19,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "29_p5_e21",
+          "sequence_order": 21,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "2011: Mah. XIV]  The Maharashtra Municipal Property Tax Board  5    Act, 2011"
+        },
+        {
+          "element_id": "29_p5_e22",
+          "sequence_order": 22,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 37,
+          "text_preview": "(4) If the post of Chairperson becomes vacant for any reason, the Governor may appoint any  Member to hold the additiona"
+        },
+        {
+          "element_id": "29_p5_e23",
+          "sequence_order": 23,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 50,
+          "text_preview": "8. Headquarters of and transaction of business of Board.— (1) The Headquarters of the  Board shall be at Mumbai and the "
+        },
+        {
+          "element_id": "29_p5_e24",
+          "sequence_order": 24,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "(2) The Board shall observe such rules of procedure in regard to transaction of its business at its  meeting including q"
+        },
+        {
+          "element_id": "29_p5_e25",
+          "sequence_order": 25,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 49,
+          "text_preview": "(3) The Chairperson shall preside over the meetings of the Board and if the Chairperson, for any  reason, is unable to a"
+        },
+        {
+          "element_id": "29_p5_e26",
+          "sequence_order": 26,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 48,
+          "text_preview": "(4) All questions which come up before any meeting of the Board shall be decided by majority of  the Members present and"
+        },
+        {
+          "element_id": "29_p5_e27",
+          "sequence_order": 27,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 52,
+          "text_preview": "(5) The Chairperson shall be first among equals and shall have the powers of general  superintendence and directions in "
+        },
+        {
+          "element_id": "29_p5_e28",
+          "sequence_order": 28,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "9. Vacancy, etc. not to invalidate proceedings of Board.— No act or proceedings of the Board  shall be invalid merely by"
+        },
+        {
+          "element_id": "29_p5_e29",
+          "sequence_order": 29,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "(a) any vacancy or any defect in the constitution of the Board; or"
+        },
+        {
+          "element_id": "29_p5_e30",
+          "sequence_order": 30,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "(b) any defect in the appointment of the Chairperson or a Member of the Board; or"
+        },
+        {
+          "element_id": "29_p5_e31",
+          "sequence_order": 31,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "(c) any irregularity in the procedure of the Board not affecting the merits of the case."
+        },
+        {
+          "element_id": "29_p5_e32",
+          "sequence_order": 32,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "10. Officers and employees of Board.— (1) The Board may create such posts of officers and  employees and fill up such po"
+        },
+        {
+          "element_id": "29_p5_e33",
+          "sequence_order": 33,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 43,
+          "text_preview": "(2) The terms and conditions of service including salaries and allowances of the officers and  employees appointed under"
+        },
+        {
+          "element_id": "29_p5_e34",
+          "sequence_order": 34,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "(3) The Board may take over and employ such staff of the State Government, as State  Government may make available."
+        },
+        {
+          "element_id": "29_p5_e35",
+          "sequence_order": 35,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 62,
+          "text_preview": "(4) All Government employees taken over and employed under sub- section (3), shall have a lien  on their post in the ser"
+        },
+        {
+          "element_id": "29_p5_e36",
+          "sequence_order": 36,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 39,
+          "text_preview": "(5) The Board shall have a Secretary, who shall be appointed by the State Government, to  exercise such powers, and perf"
+        },
+        {
+          "element_id": "29_p5_e37",
+          "sequence_order": 37,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "(6) The Board may appoint consultants or Committees of experts to assist the Board in the  discharge of its functions on"
+        },
+        {
+          "element_id": "29_p5_e38",
+          "sequence_order": 38,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 54,
+          "text_preview": "11. Expenditure incurred on account of salaries and allowances including contingencies.—  (1) The expenditure incurred b"
+        },
+        {
+          "element_id": "29_p5_e39",
+          "sequence_order": 39,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "(2) The expenditure towards contingencies for maintaining normal financial activities shall be  met out of the aforesaid"
+        }
+      ]
+    },
+    "6": {
+      "elements": 17,
+      "flagged": 17,
+      "flags": [
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "29_p6_e40",
+          "sequence_order": 40,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "6  The Maharashtra Municipal Property Tax Board   [2011: Mah. XIV    Act, 2011"
+        },
+        {
+          "element_id": "29_p6_e41",
+          "sequence_order": 41,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "CHAPTER III"
+        },
+        {
+          "element_id": "29_p6_e42",
+          "sequence_order": 42,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "FUNCTIONS OF BOARD"
+        },
+        {
+          "element_id": "29_p6_e43",
+          "sequence_order": 43,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "12. Functions of Board.— Notwithstanding anything contained elsewhere in this Act or  Functions any other law for the ti"
+        },
+        {
+          "element_id": "29_p6_e44",
+          "sequence_order": 44,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 67,
+          "text_preview": "(a) To do audit of the assessment done by the Commissioner of a Municipal Corporation or  as the case may be, the Chief "
+        },
+        {
+          "element_id": "29_p6_e45",
+          "sequence_order": 45,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 112,
+          "text_preview": "(b) On a joint reference made by the Commissioner of a Municipal Corporation or the Chief  Officer of a Municipal Counci"
+        },
+        {
+          "element_id": "29_p6_e46",
+          "sequence_order": 46,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "(c) As and when required by the Government to do so,—"
+        },
+        {
+          "element_id": "29_p6_e47",
+          "sequence_order": 47,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "(i) to review the property tax system and suggest suitable basis for valuation of  properties and assessment of property"
+        },
+        {
+          "element_id": "29_p6_e48",
+          "sequence_order": 48,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 36,
+          "text_preview": "(ii) to design and formulate transparent procedure for ensuring quality and  transparency in valuation or assessment pro"
+        },
+        {
+          "element_id": "29_p6_e49",
+          "sequence_order": 49,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "(iii) to recommend modalities for periodic revision of the property tax assessment."
+        },
+        {
+          "element_id": "29_p6_e50",
+          "sequence_order": 50,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "(d) To render such other advice on valuation of properties or assessment of property tax as  the State Government may, f"
+        },
+        {
+          "element_id": "29_p6_e51",
+          "sequence_order": 51,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "(e) To discharge such other functions in the field of valuation or property tax assessment  including development of exp"
+        },
+        {
+          "element_id": "29_p6_e52",
+          "sequence_order": 52,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 38,
+          "text_preview": "(f) To undertake directly or through any institution, training of officers and employees of  Corporations and Councils a"
+        },
+        {
+          "element_id": "29_p6_e53",
+          "sequence_order": 53,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "(g) To collect and record information concerning the property tax in the State."
+        },
+        {
+          "element_id": "29_p6_e54",
+          "sequence_order": 54,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "(h) To aid and advise the State Government on any other related matters referred to the  Board by the State Government."
+        },
+        {
+          "element_id": "29_p6_e55",
+          "sequence_order": 55,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 109,
+          "text_preview": "13. Production and inspection of accounts and documents.— The Board or any of its officers  authorized by the Board may,"
+        },
+        {
+          "element_id": "29_p6_e56",
+          "sequence_order": 56,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 89,
+          "text_preview": "14. Power to enter into land or building.— (1) Any officer of the Board, when so authorized  by it in writing, may, by g"
+        }
+      ]
+    },
+    "7": {
+      "elements": 17,
+      "flagged": 17,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "29_p7_e57",
+          "sequence_order": 57,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "2011: Mah. XIV]  The Maharashtra Municipal Property Tax Board  7    Act, 2011"
+        },
+        {
+          "element_id": "29_p7_e58",
+          "sequence_order": 58,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 121,
+          "text_preview": "(2) After the officer authorized under sub-section (1) gives notice in writing to the owner or the  occupier of any land"
+        },
+        {
+          "element_id": "29_p7_e59",
+          "sequence_order": 59,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "CHAPTER IV"
+        },
+        {
+          "element_id": "29_p7_e60",
+          "sequence_order": 60,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "FINANCE, ACCOUNTS AND AUDIT"
+        },
+        {
+          "element_id": "29_p7_e61",
+          "sequence_order": 61,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 68,
+          "text_preview": "15. Grants and advances to Board.— (1) The State Government may, after due appropriation  made by the State Legislature,"
+        },
+        {
+          "element_id": "29_p7_e62",
+          "sequence_order": 62,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 102,
+          "text_preview": "(2) For the purpose of giving grant to the Board, it shall be lawful for the State Government to  levy a cess at such pe"
+        },
+        {
+          "element_id": "29_p7_e63",
+          "sequence_order": 63,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "16. Constitution of Board Fund.— (1) There shall be constituted a Fund to be called  “Municipal Property Tax Board Fund”"
+        },
+        {
+          "element_id": "29_p7_e64",
+          "sequence_order": 64,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "(a) any Government grants and advances received and fees and charges, if any, levied under  this Act or the rules made t"
+        },
+        {
+          "element_id": "29_p7_e65",
+          "sequence_order": 65,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "(b) all sums received by the Board from such other sources as may be decided upon by the  State Government."
+        },
+        {
+          "element_id": "29_p7_e66",
+          "sequence_order": 66,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "(2) All moneys received by the Board shall be deposited in one or more nationalized banks."
+        },
+        {
+          "element_id": "29_p7_e67",
+          "sequence_order": 67,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "(3) The Fund shall be applied for meeting,—"
+        },
+        {
+          "element_id": "29_p7_e68",
+          "sequence_order": 68,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "(a) the salaries, allowances and other remunerations of the Chairperson and the Members,  officers and other employees o"
+        },
+        {
+          "element_id": "29_p7_e69",
+          "sequence_order": 69,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "(b) other expenses of the Board in connection with the discharge of its functions and for the  purposes of this Act."
+        },
+        {
+          "element_id": "29_p7_e70",
+          "sequence_order": 70,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 49,
+          "text_preview": "17. Budget of Board.— The Board shall prepare, in such form and at such time in each financial  year, as may be prescrib"
+        },
+        {
+          "element_id": "29_p7_e71",
+          "sequence_order": 71,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 44,
+          "text_preview": "18. Accounts and Audit of Board.— (1) The Board shall maintain proper accounts and other  relevant records and prepare a"
+        },
+        {
+          "element_id": "29_p7_e72",
+          "sequence_order": 72,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 47,
+          "text_preview": "(2) The accounts of the Board shall be audited by the Comptroller and Auditor-General of India at  such intervals as may"
+        },
+        {
+          "element_id": "29_p7_e73",
+          "sequence_order": 73,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 89,
+          "text_preview": "(3) The Comptroller and Auditor-General of India and any person appointed by him in connection  with the audit of the ac"
+        }
+      ]
+    },
+    "8": {
+      "elements": 17,
+      "flagged": 17,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "29_p8_e74",
+          "sequence_order": 74,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "8  The Maharashtra Municipal Property Tax Board   [2011: Mah. XIV    Act, 2011"
+        },
+        {
+          "element_id": "29_p8_e75",
+          "sequence_order": 75,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 70,
+          "text_preview": "(4) The accounts of the Board, as certified by the Comptroller and Auditor-General of India or  any other person appoint"
+        },
+        {
+          "element_id": "29_p8_e76",
+          "sequence_order": 76,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "19. Delegation of powers and functions by Board.— (1) The Board may delegate any of its  powers and functions including "
+        },
+        {
+          "element_id": "29_p8_e77",
+          "sequence_order": 77,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "(2) The Board may also delegate any of its powers or functions to any other officers of the Board  by a resolution adopt"
+        },
+        {
+          "element_id": "29_p8_e78",
+          "sequence_order": 78,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 87,
+          "text_preview": "20. Chairperson, Members, officers and employees to be public servants.— The Chairperson  and every Member of the Board "
+        },
+        {
+          "element_id": "29_p8_e79",
+          "sequence_order": 79,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "21. Appeal against Board decision.— (1) Any person aggrieved by any decision or order of the  Board may file an appeal t"
+        },
+        {
+          "element_id": "29_p8_e80",
+          "sequence_order": 80,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "(2) Except as aforesaid, no appeal or revision shall lie to any Court from any decision or order of  the Board."
+        },
+        {
+          "element_id": "29_p8_e81",
+          "sequence_order": 81,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "(3) Every appeal under this section shall be preferred within sixty days from the date of  communication of the decision"
+        },
+        {
+          "element_id": "29_p8_e82",
+          "sequence_order": 82,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 42,
+          "text_preview": "Provided that, the High Court may entertain an appeal after the expiry of the said period of sixty  days, if it is satis"
+        },
+        {
+          "element_id": "29_p8_e83",
+          "sequence_order": 83,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "CHAPTER V"
+        },
+        {
+          "element_id": "29_p8_e84",
+          "sequence_order": 84,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "POWER TO MAKE RULES AND REGULATIONS"
+        },
+        {
+          "element_id": "29_p8_e85",
+          "sequence_order": 85,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "22. Rules.— (1) The State Government may, by notification in the Official Gazette, make rules  for carrying out the purp"
+        },
+        {
+          "element_id": "29_p8_e86",
+          "sequence_order": 86,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 156,
+          "text_preview": "(2) Every such rule made under this Act shall be laid, as soon as may be, after it is made, before  each House of the St"
+        },
+        {
+          "element_id": "29_p8_e87",
+          "sequence_order": 87,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 36,
+          "text_preview": "23. Regulations.— (1) The Board may, with the previous approval of the State Government,  make regulations consistent wi"
+        },
+        {
+          "element_id": "29_p8_e88",
+          "sequence_order": 88,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "(2) The State Government may, in according such approval, make such additions, alterations and  modifications therein as"
+        },
+        {
+          "element_id": "29_p8_e89",
+          "sequence_order": 89,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 38,
+          "text_preview": "Provided that, before making such additions, alterations or modifications, the State Government  shall give the Board an"
+        },
+        {
+          "element_id": "29_p8_e90",
+          "sequence_order": 90,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "(3) All regulations approved by the State Government shall be published in the Official Gazette."
+        }
+      ]
+    },
+    "9": {
+      "elements": 17,
+      "flagged": 17,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "29_p9_e91",
+          "sequence_order": 91,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "2011: Mah. XIV]  The Maharashtra Municipal Property Tax Board  9    Act, 2011"
+        },
+        {
+          "element_id": "29_p9_e92",
+          "sequence_order": 92,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "CHAPTER VI"
+        },
+        {
+          "element_id": "29_p9_e93",
+          "sequence_order": 93,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "MISCELLANEOUS"
+        },
+        {
+          "element_id": "29_p9_e94",
+          "sequence_order": 94,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "24. Transparency in functioning of Board.— The Board shall ensure transparency while  exercising the powers and discharg"
+        },
+        {
+          "element_id": "29_p9_e95",
+          "sequence_order": 95,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 68,
+          "text_preview": "25. Proceedings before Board to be judicial proceedings.— All proceedings before the Board  shall be deemed to be judici"
+        },
+        {
+          "element_id": "29_p9_e96",
+          "sequence_order": 96,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 65,
+          "text_preview": "26. Protection of action taken in good faith.— No suit, prosecution or other legal proceedings  shall lie against the St"
+        },
+        {
+          "element_id": "29_p9_e97",
+          "sequence_order": 97,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 76,
+          "text_preview": "27. Power of State Government to supersede the Board.— (1) The State Government may, by  notification in the Official Ga"
+        },
+        {
+          "element_id": "29_p9_e98",
+          "sequence_order": 98,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 34,
+          "text_preview": "Provided that, before issuing any such notification, the State Government shall give reasonable  opportunity to the Boar"
+        },
+        {
+          "element_id": "29_p9_e99",
+          "sequence_order": 99,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "(2) Upon the publication of notification under sub-section (1) superseding the Board,—"
+        },
+        {
+          "element_id": "29_p9_e100",
+          "sequence_order": 100,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "(a) the Chairperson and other Members shall, as from the date of supersession, vacate their  offices as such;"
+        },
+        {
+          "element_id": "29_p9_e101",
+          "sequence_order": 101,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 44,
+          "text_preview": "(b) all the powers, functions and duties which may, by or under the provisions of this Act,  be exercised or discharged "
+        },
+        {
+          "element_id": "29_p9_e102",
+          "sequence_order": 102,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "(c) all properties owned and controlled by the Board shall, until the Board is reconstituted  under sub-section (3), ves"
+        },
+        {
+          "element_id": "29_p9_e103",
+          "sequence_order": 103,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 61,
+          "text_preview": "(3) On or before the expiration of the period of supersession specified in the notification issued  under sub-section (1"
+        },
+        {
+          "element_id": "29_p9_e104",
+          "sequence_order": 104,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 46,
+          "text_preview": "(4) The State Government shall cause a copy of the notification issued under sub-section (1) and a  full report of any a"
+        },
+        {
+          "element_id": "29_p9_e105",
+          "sequence_order": 105,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 37,
+          "text_preview": "28. Direction by State Government.— (1) In the discharge of its functions, the Board shall be  guided by such directions"
+        },
+        {
+          "element_id": "29_p9_e106",
+          "sequence_order": 106,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "(2) If any question arises as to whether any such direction relates to a matter of policy involving  public interest, th"
+        },
+        {
+          "element_id": "29_p9_e107",
+          "sequence_order": 107,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 73,
+          "text_preview": "29. Removal of difficulty.— (1) If any difficulty arises in giving effect to the provisions of a  Municipal Act or rules"
+        }
+      ]
+    },
+    "10": {
+      "elements": 19,
+      "flagged": 19,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "29_p10_e108",
+          "sequence_order": 108,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "10  The Maharashtra Municipal Property Tax Board   [2011: Mah. XIV    Act, 2011"
+        },
+        {
+          "element_id": "29_p10_e109",
+          "sequence_order": 109,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "Provided that, no such order shall be made after the expiry of a period of two years from the date  of commencement of t"
+        },
+        {
+          "element_id": "29_p10_e110",
+          "sequence_order": 110,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "(2) Every such order made under sub-section (1) shall be laid, as soon as may be, after it is made  before each House of"
+        },
+        {
+          "element_id": "29_p10_e111",
+          "sequence_order": 111,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "30. Amendment of certain enactments.— The enactments specified in the Schedule appended  to this Act shall stand amended"
+        },
+        {
+          "element_id": "29_p10_e112",
+          "sequence_order": 112,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "31. Repeal of Mah. Ord. XI of 2011 and saving.— (1) The Maharashtra Municipal Property  Tax Board Ordinance, 2011 (Mah. "
+        },
+        {
+          "element_id": "29_p10_e113",
+          "sequence_order": 113,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 42,
+          "text_preview": "(2) Notwithstanding such repeal, anything done or any action taken (including any notification or  order issued) under t"
+        },
+        {
+          "element_id": "29_p10_e114",
+          "sequence_order": 114,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "SCHEDULE"
+        },
+        {
+          "element_id": "29_p10_e115",
+          "sequence_order": 115,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "(See section 30)"
+        },
+        {
+          "element_id": "29_p10_e116",
+          "sequence_order": 116,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "AMENDMENT TO THE MUMBAI MUNICIPAL"
+        },
+        {
+          "element_id": "29_p10_e117",
+          "sequence_order": 117,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "CORPORATION ACT."
+        },
+        {
+          "element_id": "29_p10_e118",
+          "sequence_order": 118,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "1. Insertion of section 219A in Bom. III of 1888.— After section 219 of the Mumbai Municipal  Corporation Act (Bom. III "
+        },
+        {
+          "element_id": "29_p10_e119",
+          "sequence_order": 119,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 82,
+          "text_preview": "“ 219A. Assessment subject to valuation or revision by Municipal Property Tax  Board.— (1) Notwithstanding anything cont"
+        },
+        {
+          "element_id": "29_p10_e120",
+          "sequence_order": 120,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 110,
+          "text_preview": "(2) Notwithstanding anything contained in this Act, no appeal against fixing of rateable value or  the capital value, as"
+        },
+        {
+          "element_id": "29_p10_e121",
+          "sequence_order": 121,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Amendment To The 1Bombay Provincial"
+        },
+        {
+          "element_id": "29_p10_e122",
+          "sequence_order": 122,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Municipal Corporations Act, 1949."
+        },
+        {
+          "element_id": "29_p10_e123",
+          "sequence_order": 123,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "2. Insertion of section 413A in Bom. LIX of 1949.— After section 413 of the 2Bombay  Provincial Municipal Corporations A"
+        },
+        {
+          "element_id": "29_p10_e124",
+          "sequence_order": 124,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 79,
+          "text_preview": "“413A. Assessment subject to valuation or revision by Municipal Property Tax  Board.— (1) Notwithstanding anything conta"
+        },
+        {
+          "element_id": "29_p10_e125",
+          "sequence_order": 125,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 55,
+          "text_preview": "(2) Notwithstanding anything contained in this Act, no appeal against fixing of rateable value or  the capital value, as"
+        },
+        {
+          "element_id": "29_p10_e126",
+          "sequence_order": 126,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 44,
+          "text_preview": "1  The Short title of the Act has been amended as “the Maharashtra Municipal Corporation Act” by Mah. 23 of 2012, 5.4.  "
+        }
+      ]
+    },
+    "11": {
+      "elements": 15,
+      "flagged": 15,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "29_p11_e127",
+          "sequence_order": 127,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "2011: Mah. XIV]  The Maharashtra Municipal Property Tax Board  11    Act, 2011"
+        },
+        {
+          "element_id": "29_p11_e128",
+          "sequence_order": 128,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "this Act is under consideration of the Municipal Property Tax Board and where any such appeal is  already preferred or r"
+        },
+        {
+          "element_id": "29_p11_e129",
+          "sequence_order": 129,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "the same shall, upon proceedings being initiated by the Board, stand transferred to and be dealt  with by, the Municipal"
+        },
+        {
+          "element_id": "29_p11_e130",
+          "sequence_order": 130,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "AMENDMENT TO THE 1CITY OF NAGPUR"
+        },
+        {
+          "element_id": "29_p11_e131",
+          "sequence_order": 131,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "CORPORATION ACT, 1948."
+        },
+        {
+          "element_id": "29_p11_e132",
+          "sequence_order": 132,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 38,
+          "text_preview": "3. Insertion of section 134A in C. P. and Berar II of 1950.— After section 134 of the 2City of  Nagpur Corporation Act, "
+        },
+        {
+          "element_id": "29_p11_e133",
+          "sequence_order": 133,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 80,
+          "text_preview": "“134A. Assessment subject to valuation or revision by Municipal Property Tax  Board.— (1) Notwithstanding anything conta"
+        },
+        {
+          "element_id": "29_p11_e134",
+          "sequence_order": 134,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 98,
+          "text_preview": "(2) Notwithstanding anything contained in this Act, no appeal against fixing of annual value or  the capital value, as t"
+        },
+        {
+          "element_id": "29_p11_e135",
+          "sequence_order": 135,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "AMENDMENT TO THE MAHARASHTRA MUNICIPAL"
+        },
+        {
+          "element_id": "29_p11_e136",
+          "sequence_order": 136,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "COUNCILS, NAGAR PANCHAYATS AND"
+        },
+        {
+          "element_id": "29_p11_e137",
+          "sequence_order": 137,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "INDUSTRIAL TOWNSHIPS ACT, 1965."
+        },
+        {
+          "element_id": "29_p11_e138",
+          "sequence_order": 138,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 36,
+          "text_preview": "4. Insertion of section 172A in Mah. XL of 1965.— After section 172 of the Maharashtra  Municipal Councils, Nagar Pancha"
+        },
+        {
+          "element_id": "29_p11_e139",
+          "sequence_order": 139,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 85,
+          "text_preview": "“172A. Assessment subject to valuation or revision by Municipal Property Tax  Board.— (1) Notwithstanding anything conta"
+        },
+        {
+          "element_id": "29_p11_e140",
+          "sequence_order": 140,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 114,
+          "text_preview": "(2) Notwithstanding anything contained in this Act, no appeal against fixing of rateable value or  the capital value, as"
+        },
+        {
+          "element_id": "29_p11_e141",
+          "sequence_order": 141,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "1  This Act has been repealed by Mah. 23 of 2012, 5.7.  2  This Act has been repealed by Mah. 23 of 2012, 5.7."
+        }
+      ]
+    }
+  }
+}

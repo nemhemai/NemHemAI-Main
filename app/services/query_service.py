@@ -236,8 +236,11 @@ def run_query(query: str, user: dict) -> dict:
         if not is_valid_answer:
             latency = int((time.time() - start_time) * 1000)
 
-            # ✅ Language-aware fallback message
-            response_text = _get_ood_message(query)
+            # If it's a specific refusal, use it, otherwise use OOD
+            if answer:
+                response_text = answer
+            else:
+                response_text = _get_ood_message(query)
 
             log_query_event({
                 "user_id": user.get("user_id"),
@@ -255,7 +258,7 @@ def run_query(query: str, user: dict) -> dict:
                 "query": query,
                 "answer_original": response_text,
                 "answer_translated": "",
-                "citations": [],
+                "citations": response.get("citations", []),
                 "confidence": "low"
             }
             query_cache.set(query, res, expire_seconds=3600)

@@ -2,165 +2,1574 @@
   "document_id": 28,
   "pages": {
     "1": {
-      "elements": 3,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "2": {
-      "elements": 4,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "3": {
-      "elements": 3,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "4": {
       "elements": 5,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "5": {
-      "elements": 4,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "6": {
-      "elements": 5,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "7": {
-      "elements": 5,
-      "flagged": 1,
+      "flagged": 5,
       "flags": [
         "low_content"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "28_p7_e24",
-          "sequence_order": 24,
-          "page_number": 7,
-          "quality_score": 0.6,
-          "element_type": "section",
+          "element_id": "28_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "CHAPTER - IX"
+        },
+        {
+          "element_id": "28_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
-          "text_preview": "̆વાસન સҮદય½:"
+          "text_preview": "PROPERTY TAX"
+        },
+        {
+          "element_id": "28_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "A) Legal Provisions"
+        },
+        {
+          "element_id": "28_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "B) Trends in Property Tax"
+        },
+        {
+          "element_id": "28_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "C) Observations  Rate Fixation"
         }
       ]
     },
-    "8": {
-      "elements": 4,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "9": {
-      "elements": 2,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "10": {
-      "elements": 7,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "11": {
-      "elements": 6,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "12": {
-      "elements": 2,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "13": {
-      "elements": 2,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "14": {
-      "elements": 3,
-      "flagged": 2,
+    "2": {
+      "elements": 10,
+      "flagged": 10,
       "flags": [
-        "low_content",
+        "corrupted_text",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "28_p2_e5",
+          "sequence_order": 5,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "CHAPTER - II"
+        },
+        {
+          "element_id": "28_p2_e6",
+          "sequence_order": 6,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "PROPERTY TAX"
+        },
+        {
+          "element_id": "28_p2_e7",
+          "sequence_order": 7,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Property tax is to municipal Government what Income"
+        },
+        {
+          "element_id": "28_p2_e8",
+          "sequence_order": 8,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Tax is to the Central Government and Sales Tax is to State"
+        },
+        {
+          "element_id": "28_p2_e9",
+          "sequence_order": 9,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Government* Property tax, a levy on the lands and buildings"
+        },
+        {
+          "element_id": "28_p2_e10",
+          "sequence_order": 10,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "constitutes an important source of revenue next to octroi"
+        },
+        {
+          "element_id": "28_p2_e11",
+          "sequence_order": 11,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "of the municipalities, property tax is not as a tax paid"
+        },
+        {
+          "element_id": "28_p2_e12",
+          "sequence_order": 12,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "out of property. It really aims to reach the income derived"
+        },
+        {
+          "element_id": "28_p2_e13",
+          "sequence_order": 13,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "by the owner from his possessions and uses of property."
+        },
+        {
+          "element_id": "28_p2_e14",
+          "sequence_order": 14,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 4,
+          "text_preview": "• • • 44/-"
+        }
+      ]
+    },
+    "3": {
+      "elements": 24,
+      "flagged": 24,
+      "flags": [
         "corrupted_text"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "28_p14_e53",
-          "sequence_order": 53,
-          "page_number": 14,
-          "quality_score": 0.6,
-          "element_type": "section",
+          "element_id": "28_p3_e15",
+          "sequence_order": 15,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "A) LEGAL PROVISIONS IN"
+        },
+        {
+          "element_id": "28_p3_e16",
+          "sequence_order": 16,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "MAHARASHTRA MUNICIPALITY ACT# 1965 $"
+        },
+        {
+          "element_id": "28_p3_e17",
+          "sequence_order": 17,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Subject to orders of State Government Municipal"
+        },
+        {
+          "element_id": "28_p3_e18",
+          "sequence_order": 18,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Council shall Impose the taxes listed below i*e* a"
+        },
+        {
+          "element_id": "28_p3_e19",
+          "sequence_order": 19,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "consolidated property tax* Consolidated property tax can"
+        },
+        {
+          "element_id": "28_p3_e20",
+          "sequence_order": 20,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "be imposed by Council subject to minimum and maximum limits"
+        },
+        {
+          "element_id": "28_p3_e21",
+          "sequence_order": 21,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "prescribed by State Government e.g* Maharashtra state"
+        },
+        {
+          "element_id": "28_p3_e22",
+          "sequence_order": 22,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Government has prescribed limit as 22 to 25 per cent of the"
+        },
+        {
+          "element_id": "28_p3_e23",
+          "sequence_order": 23,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "property incane i.e. tax based on ‘rateable value of"
+        },
+        {
+          "element_id": "28_p3_e24",
+          "sequence_order": 24,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "property' • Consolidated property tax imposed by Gadhingla j"
+        },
+        {
+          "element_id": "28_p3_e25",
+          "sequence_order": 25,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Nagarr parishad includes t"
+        },
+        {
+          "element_id": "28_p3_e26",
+          "sequence_order": 26,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "a) a general tax"
+        },
+        {
+          "element_id": "28_p3_e27",
+          "sequence_order": 27,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "b) a general water tax"
+        },
+        {
+          "element_id": "28_p3_e28",
+          "sequence_order": 28,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "c) a lighting tax"
+        },
+        {
+          "element_id": "28_p3_e29",
+          "sequence_order": 29,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "d) a general sanitary tax"
+        },
+        {
+          "element_id": "28_p3_e30",
+          "sequence_order": 30,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "e) a special latrine tax*"
+        },
+        {
+          "element_id": "28_p3_e31",
+          "sequence_order": 31,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Another provision is that State Government"
+        },
+        {
+          "element_id": "28_p3_e32",
+          "sequence_order": 32,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "special circumstances grants exemption for any property"
+        },
+        {
+          "element_id": "28_p3_e33",
+          "sequence_order": 33,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "or lands from levy of such tax but annually# State"
+        },
+        {
+          "element_id": "28_p3_e34",
+          "sequence_order": 34,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Government may reimburse to council - concerned, equal to"
+        },
+        {
+          "element_id": "28_p3_e35",
+          "sequence_order": 35,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "loss due to such exemption* Such reimbursement cannot be"
+        },
+        {
+          "element_id": "28_p3_e36",
+          "sequence_order": 36,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "given if ‘C‘ class Municipal Council itself decides that"
+        },
+        {
+          "element_id": "28_p3_e37",
+          "sequence_order": 37,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "it cannot levy any of such tax."
+        },
+        {
+          "element_id": "28_p3_e38",
+          "sequence_order": 38,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 4,
+          "text_preview": "• • » 45/-"
+        }
+      ]
+    },
+    "5": {
+      "elements": 24,
+      "flagged": 24,
+      "flags": [
+        "corrupted_text",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "28_p5_e39",
+          "sequence_order": 39,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "TABLE NO, 3"
+        },
+        {
+          "element_id": "28_p5_e40",
+          "sequence_order": 40,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "TRENDS IN PROPERTY TAX PROCEED OF GADHINGLAJ NAGAR"
+        },
+        {
+          "element_id": "28_p5_e41",
+          "sequence_order": 41,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "PARISHAD"
+        },
+        {
+          "element_id": "28_p5_e42",
+          "sequence_order": 42,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Year.  Revenues from Property Tax (in Rs.)"
+        },
+        {
+          "element_id": "28_p5_e43",
+          "sequence_order": 43,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 46,
+          "text_preview": "aHt H •• • mm^ ^ *• §* 4 0mm 0 mm 0 mm |« 4 «■* 9 4 «m 4 4 «* 4 «• 0mm 6 «■* 4 *■* 4 *• 4 *■* 4 ***4 *** 4 ^4 ■** 0 mm 0"
+        },
+        {
+          "element_id": "28_p5_e44",
+          "sequence_order": 44,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "1980-81 2 #01, 029"
+        },
+        {
+          "element_id": "28_p5_e45",
+          "sequence_order": 45,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "1981-82 3# 03# 684"
+        },
+        {
+          "element_id": "28_p5_e46",
+          "sequence_order": 46,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
-          "text_preview": "વલસાડથી Ӕતર"
+          "text_preview": "1982-83 3*40,655"
         },
         {
-          "element_id": "28_p14_e54",
+          "element_id": "28_p5_e47",
+          "sequence_order": 47,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "1983-84 3#73,410"
+        },
+        {
+          "element_id": "28_p5_e48",
+          "sequence_order": 48,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "1984-85 4,20,548"
+        },
+        {
+          "element_id": "28_p5_e49",
+          "sequence_order": 49,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "1985-86 5,00,000 (Budgeted Figures)"
+        },
+        {
+          "element_id": "28_p5_e50",
+          "sequence_order": 50,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Source s Annual Accounts of Nagar Parishad."
+        },
+        {
+          "element_id": "28_p5_e51",
+          "sequence_order": 51,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Total proceeds of property tax is increasing yearly"
+        },
+        {
+          "element_id": "28_p5_e52",
+          "sequence_order": 52,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "especially there is perceptible rise in the proceed from"
+        },
+        {
+          "element_id": "28_p5_e53",
+          "sequence_order": 53,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "the year 1980-81 and onwards, as the Table No. 3 indicates"
+        },
+        {
+          "element_id": "28_p5_e54",
           "sequence_order": 54,
-          "page_number": 14,
-          "quality_score": 0.5,
-          "element_type": "table",
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "from 1980-81 to next year there is sharp rise by about 50%,"
+        },
+        {
+          "element_id": "28_p5_e55",
+          "sequence_order": 55,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "after that in third year growth was 12.3% in fourth year"
+        },
+        {
+          "element_id": "28_p5_e56",
+          "sequence_order": 56,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "growth was 9*7% and in fifth year growth was 12.6%. With"
+        },
+        {
+          "element_id": "28_p5_e57",
+          "sequence_order": 57,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "that authorities of municipality estimated the growth rate"
+        },
+        {
+          "element_id": "28_p5_e58",
+          "sequence_order": 58,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "at 20% for the year 1985-86."
+        },
+        {
+          "element_id": "28_p5_e59",
+          "sequence_order": 59,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Sharp growth rate in the 1981-82 (i.e. 50%) was"
+        },
+        {
+          "element_id": "28_p5_e60",
+          "sequence_order": 60,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "due to the revision of rate of property tax and additional"
+        },
+        {
+          "element_id": "28_p5_e61",
+          "sequence_order": 61,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "new constructions of buildings were more in that year."
+        },
+        {
+          "element_id": "28_p5_e62",
+          "sequence_order": 62,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "corrupted_text"
           ],
-          "token_count": 47,
-          "text_preview": "વલસાડ ૦૦ ક.મી., પારડ-૧૭ ક.મી., વાપી-૨૯ ક.મી.; તીથલ-૦૫ ક.મી., ઉદવાડા-૨૫ ક.મી., દમણ-૪૦ ક.મી.; ધરાસણા-૧૨ ક.મી., બગવ"
+          "token_count": 3,
+          "text_preview": "• •• 47/-"
         }
       ]
     },
-    "15": {
-      "elements": 1,
-      "flagged": 1,
+    "7": {
+      "elements": 24,
+      "flagged": 24,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "28_p7_e63",
+          "sequence_order": 63,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "3. Rent of house in Gadhinglaj Municipal area is"
+        },
+        {
+          "element_id": "28_p7_e64",
+          "sequence_order": 64,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "rising @ 10% p.a. as opined by some owners and"
+        },
+        {
+          "element_id": "28_p7_e65",
+          "sequence_order": 65,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "occupiers of buildings."
+        },
+        {
+          "element_id": "28_p7_e66",
+          "sequence_order": 66,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "RATE FIXATION *"
+        },
+        {
+          "element_id": "28_p7_e67",
+          "sequence_order": 67,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Assessment of tax, determination of rateable value#"
+        },
+        {
+          "element_id": "28_p7_e68",
+          "sequence_order": 68,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "preparation of assessment list, and amendments thereto etc*"
+        },
+        {
+          "element_id": "28_p7_e69",
+          "sequence_order": 69,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "is done as per Government rules and regulations i.e. as"
+        },
+        {
+          "element_id": "28_p7_e70",
+          "sequence_order": 70,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "per Maharashtra Municipality Act."
+        },
+        {
+          "element_id": "28_p7_e71",
+          "sequence_order": 71,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "As per State Government notification Valuation"
+        },
+        {
+          "element_id": "28_p7_e72",
+          "sequence_order": 72,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Officer is appointed who shall exercise powers in defined"
+        },
+        {
+          "element_id": "28_p7_e73",
+          "sequence_order": 73,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "municipal area. Reasonably expected rent or actual rent"
+        },
+        {
+          "element_id": "28_p7_e74",
+          "sequence_order": 74,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "per annum whichever is higher, is taicen and from that 10%"
+        },
+        {
+          "element_id": "28_p7_e75",
+          "sequence_order": 75,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "deduction is made."
+        },
+        {
+          "element_id": "28_p7_e76",
+          "sequence_order": 76,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Chief Officer shall cause assessment list of all"
+        },
+        {
+          "element_id": "28_p7_e77",
+          "sequence_order": 77,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "buildings and land in area. For this Chief officer may"
+        },
+        {
+          "element_id": "28_p7_e78",
+          "sequence_order": 78,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "inspect any land or building and occupier or owner shall"
+        },
+        {
+          "element_id": "28_p7_e79",
+          "sequence_order": 79,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "be bound to furnish a true infostmation about rent and"
+        },
+        {
+          "element_id": "28_p7_e80",
+          "sequence_order": 80,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "value of property under his signature. When the name of"
+        },
+        {
+          "element_id": "28_p7_e81",
+          "sequence_order": 81,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "assessee and arelated information cannot be ascertained"
+        },
+        {
+          "element_id": "28_p7_e82",
+          "sequence_order": 82,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "•holder or occupier will be liable for this. Chief Officer"
+        },
+        {
+          "element_id": "28_p7_e83",
+          "sequence_order": 83,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "can estimate the rent and value of property with the help"
+        },
+        {
+          "element_id": "28_p7_e84",
+          "sequence_order": 84,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "of Engineer. After verification by Valuation Officer, chief"
+        },
+        {
+          "element_id": "28_p7_e85",
+          "sequence_order": 85,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Officer shall publish the assessment list for the inspection"
+        },
+        {
+          "element_id": "28_p7_e86",
+          "sequence_order": 86,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 4,
+          "text_preview": "• • • 49/-"
+        }
+      ]
+    },
+    "8": {
+      "elements": 24,
+      "flagged": 24,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "28_p8_e87",
+          "sequence_order": 87,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "by the owners. Objections received from them are lodged"
+        },
+        {
+          "element_id": "28_p8_e88",
+          "sequence_order": 88,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "with Valuation Officer and he shall investigate and"
+        },
+        {
+          "element_id": "28_p8_e89",
+          "sequence_order": 89,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "dispose of the cases. Revision in rateable values is done"
+        },
+        {
+          "element_id": "28_p8_e90",
+          "sequence_order": 90,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "once in four years."
+        },
+        {
+          "element_id": "28_p8_e91",
+          "sequence_order": 91,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Government from time to time fixes the tax limits"
+        },
+        {
+          "element_id": "28_p8_e92",
+          "sequence_order": 92,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "and all the municipalities are free to levy taxes at the"
+        },
+        {
+          "element_id": "28_p8_e93",
+          "sequence_order": 93,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "rates within prescribed limits."
+        },
+        {
+          "element_id": "28_p8_e94",
+          "sequence_order": 94,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "In Gadhinglaj Nagar Parishad, generally body of"
+        },
+        {
+          "element_id": "28_p8_e95",
+          "sequence_order": 95,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "council by resolution passed ®t its meeting delegates to"
+        },
+        {
+          "element_id": "28_p8_e96",
+          "sequence_order": 96,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Chief Officer the powers regarding valuation and rent"
+        },
+        {
+          "element_id": "28_p8_e97",
+          "sequence_order": 97,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "fixation. Chief Officer can delegate his powers to Tax"
+        },
+        {
+          "element_id": "28_p8_e98",
+          "sequence_order": 98,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Inspector. If municipal council wants, then it can suggest"
+        },
+        {
+          "element_id": "28_p8_e99",
+          "sequence_order": 99,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "to Government for providing services of Valuation Officer."
+        },
+        {
+          "element_id": "28_p8_e100",
+          "sequence_order": 100,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Annual average recovery is 80% in property tax."
+        },
+        {
+          "element_id": "28_p8_e101",
+          "sequence_order": 101,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Arrears are collected by instalments with penalty interest"
+        },
+        {
+          "element_id": "28_p8_e102",
+          "sequence_order": 102,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "thereon. There is no tax evasion though there is late"
+        },
+        {
+          "element_id": "28_p8_e103",
+          "sequence_order": 103,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "recovery. Every Selected body of municipal council tries"
+        },
+        {
+          "element_id": "28_p8_e104",
+          "sequence_order": 104,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "to fix property tax at minimum level set by state"
+        },
+        {
+          "element_id": "28_p8_e105",
+          "sequence_order": 105,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Government due to which proceed from tax reduces to that"
+        },
+        {
+          "element_id": "28_p8_e106",
+          "sequence_order": 106,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "extent. Personal opinions received from some council"
+        },
+        {
+          "element_id": "28_p8_e107",
+          "sequence_order": 107,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "members revealed the following facts *-"
+        },
+        {
+          "element_id": "28_p8_e108",
+          "sequence_order": 108,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "i) People cannot bear high tax rate,"
+        },
+        {
+          "element_id": "28_p8_e109",
+          "sequence_order": 109,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "ii) Raising rates will invite opposition from"
+        },
+        {
+          "element_id": "28_p8_e110",
+          "sequence_order": 110,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 4,
+          "text_preview": "• • • 50/-"
+        }
+      ]
+    },
+    "9": {
+      "elements": 23,
+      "flagged": 23,
       "flags": [
         "low_content"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "28_p15_e55",
-          "sequence_order": 55,
-          "page_number": 15,
-          "quality_score": 0.6,
-          "element_type": "table",
+          "element_id": "28_p9_e111",
+          "sequence_order": 111,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
-          "text_preview": "Weetds-U2 (8.21."
+          "text_preview": "ii) Contd..."
+        },
+        {
+          "element_id": "28_p9_e112",
+          "sequence_order": 112,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "citizen who have given votes to the elected"
+        },
+        {
+          "element_id": "28_p9_e113",
+          "sequence_order": 113,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "body*"
+        },
+        {
+          "element_id": "28_p9_e114",
+          "sequence_order": 114,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "iii) For winning next election voters are satisfied"
+        },
+        {
+          "element_id": "28_p9_e115",
+          "sequence_order": 115,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "by lowering the tax rate."
+        },
+        {
+          "element_id": "28_p9_e116",
+          "sequence_order": 116,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Interview with tax superintendent and house owners"
+        },
+        {
+          "element_id": "28_p9_e117",
+          "sequence_order": 117,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "revealed that owners give false information i.e. under­"
+        },
+        {
+          "element_id": "28_p9_e118",
+          "sequence_order": 118,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "valuation of property and low rent figures for avoiding"
+        },
+        {
+          "element_id": "28_p9_e119",
+          "sequence_order": 119,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "tax burden. Some small house owners have no capacity to pay"
+        },
+        {
+          "element_id": "28_p9_e120",
+          "sequence_order": 120,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "annually property tax even of 8s. 100/- of their own."
+        },
+        {
+          "element_id": "28_p9_e121",
+          "sequence_order": 121,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ssa&&mms *"
+        },
+        {
+          "element_id": "28_p9_e122",
+          "sequence_order": 122,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "There is bo exemption to property in taxation except"
+        },
+        {
+          "element_id": "28_p9_e123",
+          "sequence_order": 123,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "lands and properties of 'Devasthan', Darga and crematory."
+        },
+        {
+          "element_id": "28_p9_e124",
+          "sequence_order": 124,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Reasonable rent is fixed by Chief Officer after"
+        },
+        {
+          "element_id": "28_p9_e125",
+          "sequence_order": 125,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "considering quality# period, structure# location of"
+        },
+        {
+          "element_id": "28_p9_e126",
+          "sequence_order": 126,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "construction and information received from general public"
+        },
+        {
+          "element_id": "28_p9_e127",
+          "sequence_order": 127,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "(back door information)."
+        },
+        {
+          "element_id": "28_p9_e128",
+          "sequence_order": 128,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "It is observed that rent fixation by Municipal"
+        },
+        {
+          "element_id": "28_p9_e129",
+          "sequence_order": 129,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Officers is far off from reality e.g. property, earning"
+        },
+        {
+          "element_id": "28_p9_e130",
+          "sequence_order": 130,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "rent of Rs. 6#500/- taxed upto Rs. 300/- only instead of"
+        },
+        {
+          "element_id": "28_p9_e131",
+          "sequence_order": 131,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "&. l#287/- as per legal provisions. It is also observed"
+        },
+        {
+          "element_id": "28_p9_e132",
+          "sequence_order": 132,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "that old constructions are taxed at lower rate than new one."
+        },
+        {
+          "element_id": "28_p9_e133",
+          "sequence_order": 133,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Many old houses earning total rent at very low figure due"
+        }
+      ]
+    },
+    "10": {
+      "elements": 12,
+      "flagged": 12,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "28_p10_e134",
+          "sequence_order": 134,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "to which owners are unable to pay high property tax."
+        },
+        {
+          "element_id": "28_p10_e135",
+          "sequence_order": 135,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Assessment agency sometimes tempted to underassessment"
+        },
+        {
+          "element_id": "28_p10_e136",
+          "sequence_order": 136,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "due to tipping and influence of political pressure."
+        },
+        {
+          "element_id": "28_p10_e137",
+          "sequence_order": 137,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Consequently, property tax is maladrainistered by existing"
+        },
+        {
+          "element_id": "28_p10_e138",
+          "sequence_order": 138,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "machinery and tax payers make clever bids to get their"
+        },
+        {
+          "element_id": "28_p10_e139",
+          "sequence_order": 139,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "tax reduced."
+        },
+        {
+          "element_id": "28_p10_e140",
+          "sequence_order": 140,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "It is also found that there are accumulation of"
+        },
+        {
+          "element_id": "28_p10_e141",
+          "sequence_order": 141,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "arrears due to lack of adequate employees, unwillingness"
+        },
+        {
+          "element_id": "28_p10_e142",
+          "sequence_order": 142,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "for prompt action, delay in invoicing the provisions of"
+        },
+        {
+          "element_id": "28_p10_e143",
+          "sequence_order": 143,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Land Revenue Act, delay of Government Departments to"
+        },
+        {
+          "element_id": "28_p10_e144",
+          "sequence_order": 144,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "clear the arrears and delay in the preparation of assessment"
+        },
+        {
+          "element_id": "28_p10_e145",
+          "sequence_order": 145,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "list and disposal of cases."
         }
       ]
     }

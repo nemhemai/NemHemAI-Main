@@ -1,0 +1,197 @@
+{
+  "document_id": 15,
+  "pages": {
+    "1": {
+      "elements": 13,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "15_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "र्वाचा:-"
+        }
+      ]
+    },
+    "2": {
+      "elements": 25,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "15_p2_e19",
+          "sequence_order": 19,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "प्रत,"
+        }
+      ]
+    },
+    "3": {
+      "elements": 14,
+      "flagged": 14,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "15_p3_e38",
+          "sequence_order": 38,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "शासन पमरपत्रक क्रमांकः प्रआयो-2025/प्र.क्र.235/योजना-10 तामरख 12.01.2026"
+        },
+        {
+          "element_id": "15_p3_e39",
+          "sequence_order": 39,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "पृष्ट्ठ 3 पैकी 3"
+        },
+        {
+          "element_id": "15_p3_e40",
+          "sequence_order": 40,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "19. मुख्य कायझकारी अमधकारी, महाराष्ट्र राज्य जीर्वनोन्नती अमभयान, सी.बी.डी. बेलापूर, नर्वी मुंबई"
+        },
+        {
+          "element_id": "15_p3_e41",
+          "sequence_order": 41,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "20. संचालक, राज्य व्यर्वस्थापन कक्ष-ग्रामीण गृहमनमाण, सी.बी.डी., बेलापूर, नर्वी मुंबई"
+        },
+        {
+          "element_id": "15_p3_e42",
+          "sequence_order": 42,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "21. संचालक, समाज कल्याण, महाराष्ट्र राज्य, पुणे."
+        },
+        {
+          "element_id": "15_p3_e43",
+          "sequence_order": 43,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "22. आयुक्त, आमिर्वासी मर्वकास, नामशक"
+        },
+        {
+          "element_id": "15_p3_e44",
+          "sequence_order": 44,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "23. ग्राम मर्वकास र्व जलसंधारण मर्वभागातील सर्वझ सह/उप समचर्व/अर्वर समचर्व/ कक्ष अमधकारी,"
+        },
+        {
+          "element_id": "15_p3_e45",
+          "sequence_order": 45,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "मंत्रालय, मुंबई"
+        },
+        {
+          "element_id": "15_p3_e46",
+          "sequence_order": 46,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "24. उप समचर्व, सामामजक न्याय, आमिर्वासी मर्वकास, अल्पसंख्यांक मर्वकास मर्वभाग, मंत्रालय, मुंबई"
+        },
+        {
+          "element_id": "15_p3_e47",
+          "sequence_order": 47,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "25. उप समचर्व, मनयोजन (का.१४११ र्व १४१४) र्व मर्वत्त मर्वभाग (का. व्यय-१५ र्व अथझ-१७) मंत्रालय, मुंबई"
+        },
+        {
+          "element_id": "15_p3_e48",
+          "sequence_order": 48,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "26. प्रकल्प संचालक, मजल्हा ग्रामीण मर्वकास यंत्रणा (सर्वझ)"
+        },
+        {
+          "element_id": "15_p3_e49",
+          "sequence_order": 49,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "27. गर् मर्वकास अमधकारी, पंचायत सममती (सर्वझ)"
+        },
+        {
+          "element_id": "15_p3_e50",
+          "sequence_order": 50,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "28.अमतमरक्त संचालक, एकात्तमक ग्रामीण मर्वकास कायझक्रम कक्ष, बांधकाम भर्वन, फोर्झ, मुंबई."
+        },
+        {
+          "element_id": "15_p3_e51",
+          "sequence_order": 51,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "29. मनर्वड नस्ती (कायासन योजना-१०)"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1589 @@
+{
+  "document_id": 25,
+  "pages": {
+    "1": {
+      "elements": 35,
+      "flagged": 35,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": 40.09,
+      "issues": [
+        {
+          "element_id": "25_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "De Be Be ee ee ee LD wD KN"
+        },
+        {
+          "element_id": "25_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "PRPAZPRPF POP QV Sraomopos eR"
+        },
+        {
+          "element_id": "25_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "nv cod DAunepwne AF SSexnranereon rs' *s aa ee es oe 8s, es eegegsgS FeERES et eER Fe Be"
+        },
+        {
+          "element_id": "25_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "section",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "SS FPPC TS SSCP REL SETA PEPE"
+        },
+        {
+          "element_id": "25_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Pg eri ee 5"
+        },
+        {
+          "element_id": "25_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "SSPE se GS PELE ERB EE ESE EF '"
+        },
+        {
+          "element_id": "25_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "cf @ 2 8 ind 5 E. a > ies:"
+        },
+        {
+          "element_id": "25_p1_e7",
+          "sequence_order": 7,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "section",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "SBE RG SSE EE PRE"
+        },
+        {
+          "element_id": "25_p1_e8",
+          "sequence_order": 8,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "ima > LQ"
+        },
+        {
+          "element_id": "25_p1_e9",
+          "sequence_order": 9,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Se ee ERA a 2 2 8"
+        },
+        {
+          "element_id": "25_p1_e10",
+          "sequence_order": 10,
+          "page_number": 1,
+          "quality_score": 0.12,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "BS 7"
+        },
+        {
+          "element_id": "25_p1_e11",
+          "sequence_order": 11,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "section",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "22 2 € co B&B BER eggs Syne"
+        },
+        {
+          "element_id": "25_p1_e12",
+          "sequence_order": 12,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "= ee 8"
+        },
+        {
+          "element_id": "25_p1_e13",
+          "sequence_order": 13,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "BES og €"
+        },
+        {
+          "element_id": "25_p1_e14",
+          "sequence_order": 14,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "@ oR Fo"
+        },
+        {
+          "element_id": "25_p1_e15",
+          "sequence_order": 15,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "> eS PF Fe FERS"
+        },
+        {
+          "element_id": "25_p1_e16",
+          "sequence_order": 16,
+          "page_number": 1,
+          "quality_score": 0.241,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "FE EBS"
+        },
+        {
+          "element_id": "25_p1_e17",
+          "sequence_order": 17,
+          "page_number": 1,
+          "quality_score": 0.241,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "SSR BES"
+        },
+        {
+          "element_id": "25_p1_e18",
+          "sequence_order": 18,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Ze ° 8865 & Brg"
+        },
+        {
+          "element_id": "25_p1_e19",
+          "sequence_order": 19,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "fad e§ 22z 2 ¢"
+        },
+        {
+          "element_id": "25_p1_e20",
+          "sequence_order": 20,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "clause",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "2 ed B g 5 Z y"
+        },
+        {
+          "element_id": "25_p1_e21",
+          "sequence_order": 21,
+          "page_number": 1,
+          "quality_score": 0.241,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Spe 8"
+        },
+        {
+          "element_id": "25_p1_e22",
+          "sequence_order": 22,
+          "page_number": 1,
+          "quality_score": 0.241,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "§¢e8 FI"
+        },
+        {
+          "element_id": "25_p1_e23",
+          "sequence_order": 23,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "6 6B B FS"
+        },
+        {
+          "element_id": "25_p1_e24",
+          "sequence_order": 24,
+          "page_number": 1,
+          "quality_score": 0.241,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "7228 ge"
+        },
+        {
+          "element_id": "25_p1_e25",
+          "sequence_order": 25,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "cea 68 &"
+        },
+        {
+          "element_id": "25_p1_e26",
+          "sequence_order": 26,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "co BS ="
+        },
+        {
+          "element_id": "25_p1_e27",
+          "sequence_order": 27,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "= fg 6 8"
+        },
+        {
+          "element_id": "25_p1_e28",
+          "sequence_order": 28,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "2 e 2 3"
+        },
+        {
+          "element_id": "25_p1_e29",
+          "sequence_order": 29,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "& Boe $8 Bo 2"
+        },
+        {
+          "element_id": "25_p1_e30",
+          "sequence_order": 30,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "5 8 gE a oe B ze! & g BF 3 Ss = < g ze 8 ou Bq = S < © e Ea e"
+        },
+        {
+          "element_id": "25_p1_e31",
+          "sequence_order": 31,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "B BS 6 =: sf BF @ oom Bg 5 @ 5s = & 8 BOE"
+        },
+        {
+          "element_id": "25_p1_e32",
+          "sequence_order": 32,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "g = zB a 6 5"
+        },
+        {
+          "element_id": "25_p1_e33",
+          "sequence_order": 33,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Ss 2 2 @ 5 5 ez g FS 5 > g:"
+        },
+        {
+          "element_id": "25_p1_e34",
+          "sequence_order": 34,
+          "page_number": 1,
+          "quality_score": 0.401,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "o 9° fo fS 58 8B BS 6 6 gg BOB & 8 = g BB. 6 a5 < 5 e g 3 Es g m = 2 > g 7"
+        }
+      ]
+    },
+    "2": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "3": {
+      "elements": 24,
+      "flagged": 24,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "25_p3_e36",
+          "sequence_order": 36,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "2025: Mah. XVII]  The Maharashtra Settlement of Arrears of Tax, Interest,  3  Penalty or Late Fee (payable by public Sec"
+        },
+        {
+          "element_id": "25_p3_e37",
+          "sequence_order": 37,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Undertaking Companies) Act, 2025"
+        },
+        {
+          "element_id": "25_p3_e38",
+          "sequence_order": 38,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "MAHARASHTRA ACT No. XVII OF 20251"
+        },
+        {
+          "element_id": "25_p3_e39",
+          "sequence_order": 39,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "[THE MAHARASHTRA SETTLEMENT OF ARREARS OF TAX, INTEREST, PENALTY OR"
+        },
+        {
+          "element_id": "25_p3_e40",
+          "sequence_order": 40,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "LATE FEE (PAYABLE BY PUBLIC SECTOR UNDERTAKING COMPANIES) ACT, 2025.]"
+        },
+        {
+          "element_id": "25_p3_e41",
+          "sequence_order": 41,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "[This Act received the assent of the Governor on the 21st March 2025; assent was first published in the"
+        },
+        {
+          "element_id": "25_p3_e42",
+          "sequence_order": 42,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Maharashtra Government Gazette, Extraordinary No. 17, Part IV, on the 21st March, 2025.]"
+        },
+        {
+          "element_id": "25_p3_e43",
+          "sequence_order": 43,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "An Act to provide for settlement of certain arrears of tax, interest, penalty or late fee which"
+        },
+        {
+          "element_id": "25_p3_e44",
+          "sequence_order": 44,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "were levied, imposed or payable under various Acts implemented by the Department of"
+        },
+        {
+          "element_id": "25_p3_e45",
+          "sequence_order": 45,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Goods and Services Tax, Government of Maharashtra and for matters"
+        },
+        {
+          "element_id": "25_p3_e46",
+          "sequence_order": 46,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "connected therewith or incidental thereto."
+        },
+        {
+          "element_id": "25_p3_e47",
+          "sequence_order": 47,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 213,
+          "text_preview": "WHEREAS it is expedient to provide for settlement of certain arrears of tax, interest, penalty or  late fee which were l"
+        },
+        {
+          "element_id": "25_p3_e48",
+          "sequence_order": 48,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "1. Short title.— This Act may be called the Maharashtra Settlement of Arrears of Tax, Interest,  Penalty or Late Fee (Pa"
+        },
+        {
+          "element_id": "25_p3_e49",
+          "sequence_order": 49,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "2. Definitions.— (1) In this Act, unless the context otherwise requires,—"
+        },
+        {
+          "element_id": "25_p3_e50",
+          "sequence_order": 50,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "(a) “Annexure” means Annexure appended to this Act;"
+        },
+        {
+          "element_id": "25_p3_e51",
+          "sequence_order": 51,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "(b) “appellate authority” means an appellate authority specified in sub-section (1) of section  14 of this Act;"
+        },
+        {
+          "element_id": "25_p3_e52",
+          "sequence_order": 52,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 44,
+          "text_preview": "(c) “applicant” means a Public Sector Undertaking Company which is liable to pay arrears  of tax, interest, penalty or l"
+        },
+        {
+          "element_id": "25_p3_e53",
+          "sequence_order": 53,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "Explanation.— The term “Public Sector Undertaking Company” means any company  registered as Government Company under the"
+        },
+        {
+          "element_id": "25_p3_e54",
+          "sequence_order": 54,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "(d) “arrears” means the outstanding amount of tax, interest, penalty or late fee, as the case  may be,—"
+        },
+        {
+          "element_id": "25_p3_e55",
+          "sequence_order": 55,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "(i) payable by an assesse as per any statutory order under the Relevant Act; or"
+        },
+        {
+          "element_id": "25_p3_e56",
+          "sequence_order": 56,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "(ii) admitted in the return or, as the case may be, the revised return filed under the  Relevant Act and which has not b"
+        },
+        {
+          "element_id": "25_p3_e57",
+          "sequence_order": 57,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 44,
+          "text_preview": "(iii) determined and recommended to be payable by the auditor, in the audit report  submitted as per section 61 of the V"
+        },
+        {
+          "element_id": "25_p3_e58",
+          "sequence_order": 58,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 37,
+          "text_preview": "and such arrears of tax, interest, penalty or late fee, pertains to specified period and it  also includes the interest "
+        },
+        {
+          "element_id": "25_p3_e59",
+          "sequence_order": 59,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 33,
+          "text_preview": "1  For Statement and Objects and Reasons of the L. A. Bill No. XXI of 2025, see Maharashtra Government Gazette, 2025,  E"
+        }
+      ]
+    },
+    "4": {
+      "elements": 27,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "5": {
+      "elements": 21,
+      "flagged": 21,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "25_p5_e87",
+          "sequence_order": 87,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "2025: Mah. XVII]  The Maharashtra Settlement of Arrears of Tax, Interest,  5  Penalty or Late Fee (payable by public Sec"
+        },
+        {
+          "element_id": "25_p5_e88",
+          "sequence_order": 88,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Undertaking Companies) Act, 2025"
+        },
+        {
+          "element_id": "25_p5_e89",
+          "sequence_order": 89,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "(i) the taxes collected separately under the Relevant Act; or"
+        },
+        {
+          "element_id": "25_p5_e90",
+          "sequence_order": 90,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "(ii) the taxes shown payable in the return or the revised return under the Relevant  Act; or"
+        },
+        {
+          "element_id": "25_p5_e91",
+          "sequence_order": 91,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "(iii) an amount claimed by the dealer as deductions as per rule 57 of the Value Added  Tax Rules or similar rules under "
+        },
+        {
+          "element_id": "25_p5_e92",
+          "sequence_order": 92,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "(iv) an amount forfeited under the statutory order or excess tax collection shown in the  return, revised return or audi"
+        },
+        {
+          "element_id": "25_p5_e93",
+          "sequence_order": 93,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 39,
+          "text_preview": "(v) any amount of tax determined and recommended to be payable by the auditor, in  the audit report submitted as per sec"
+        },
+        {
+          "element_id": "25_p5_e94",
+          "sequence_order": 94,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "(vi) the tax deducted at source (TDS) by the employer under the Value Added Tax  Act; or"
+        },
+        {
+          "element_id": "25_p5_e95",
+          "sequence_order": 95,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "(vii) the tax collection made under section 31A of the Value Added Tax Act; or"
+        },
+        {
+          "element_id": "25_p5_e96",
+          "sequence_order": 96,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "(viii) the tax payable by the enrolment certificate holder under the Maharashtra State  Tax on Professions, Trades, Call"
+        },
+        {
+          "element_id": "25_p5_e97",
+          "sequence_order": 97,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "(ix) the tax deducted by the employer under the Maharashtra State Tax on Professions,  Trades, Callings and Employments "
+        },
+        {
+          "element_id": "25_p5_e98",
+          "sequence_order": 98,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "(x) the amount of disallowed set-off under rules 52A or 52B of the Value Added Tax  Rules, which is eligible to be claim"
+        },
+        {
+          "element_id": "25_p5_e99",
+          "sequence_order": 99,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "also includes recovery of any refund granted erroneously or in excess and interest granted  thereon by any statutory ord"
+        },
+        {
+          "element_id": "25_p5_e100",
+          "sequence_order": 100,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "(r) “Value Added Tax Act” means the Maharashtra Value Added Tax Act, 2002  (Mah. IX of 2005);"
+        },
+        {
+          "element_id": "25_p5_e101",
+          "sequence_order": 101,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "(s) “Value Added Tax Rules” means the Maharashtra Value Added Tax Rules, 2005 made  under the Value Added Tax Act."
+        },
+        {
+          "element_id": "25_p5_e102",
+          "sequence_order": 102,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "(2) Words and expressions used in this Act but not defined herein shall have the same meanings  as are respectively assi"
+        },
+        {
+          "element_id": "25_p5_e103",
+          "sequence_order": 103,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "3. Designated authority.— (1) The Commissioner of State Tax shall be the Commissioner for  the purposes of this Act."
+        },
+        {
+          "element_id": "25_p5_e104",
+          "sequence_order": 104,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 62,
+          "text_preview": "(2) The officers specified in sub-section (2) of section 10 of the Value Added Tax Act or, as the  case may be, under se"
+        },
+        {
+          "element_id": "25_p5_e105",
+          "sequence_order": 105,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 75,
+          "text_preview": "(3) The Commissioner may, by notification published in the Official Gazette, delegate his powers  to the designated auth"
+        },
+        {
+          "element_id": "25_p5_e106",
+          "sequence_order": 106,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 59,
+          "text_preview": "4. Eligibility for settlement.— (1) Subject to other provisions of this Act, an applicant whether  registered or not und"
+        },
+        {
+          "element_id": "25_p5_e107",
+          "sequence_order": 107,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 64,
+          "text_preview": "(2) The applicant, who has availed benefits under any of the Amnesty Schemes, as declared by  the Government under any G"
+        }
+      ]
+    },
+    "6": {
+      "elements": 15,
+      "flagged": 15,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "25_p6_e108",
+          "sequence_order": 108,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "6   The Maharashtra Settlement of Arrears of Tax, Interest,  [2025: Mah. XVII  Penalty or Late Fee (payable by public Se"
+        },
+        {
+          "element_id": "25_p6_e109",
+          "sequence_order": 109,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Undertaking Companies) Act, 2025"
+        },
+        {
+          "element_id": "25_p6_e110",
+          "sequence_order": 110,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 49,
+          "text_preview": "Interest, Penalty or Late Fee Act, 2022 (Mah. XXIX of 2022) or the Maharashtra Settlement of Arrears  of Tax, Interest, "
+        },
+        {
+          "element_id": "25_p6_e111",
+          "sequence_order": 111,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "(3) For the settlement under this Act, the conditions stated in section 11 and other provisions of  this Act shall be co"
+        },
+        {
+          "element_id": "25_p6_e112",
+          "sequence_order": 112,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 108,
+          "text_preview": "5. Cases litigated by State also eligible for settlement.— Where the Department of Goods and  Services Tax has filed ref"
+        },
+        {
+          "element_id": "25_p6_e113",
+          "sequence_order": 113,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "6. Adjustment and determination of arrears of tax, interest, penalty or late fee, if any,  eligible for settlement.— (1)"
+        },
+        {
+          "element_id": "25_p6_e114",
+          "sequence_order": 114,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 63,
+          "text_preview": "(a) any payment made in respect of a statutory order either in the appeal or otherwise, on or  before the date of commen"
+        },
+        {
+          "element_id": "25_p6_e115",
+          "sequence_order": 115,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 45,
+          "text_preview": "(b) any amount of refund due to the applicant in respect of any statutory order or appeal order  or court order, which h"
+        },
+        {
+          "element_id": "25_p6_e116",
+          "sequence_order": 116,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 58,
+          "text_preview": "(i) refund shall first be adjusted towards any arrears outstanding for other periods under  the same Act in chronologica"
+        },
+        {
+          "element_id": "25_p6_e117",
+          "sequence_order": 117,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 46,
+          "text_preview": "(ii) subject to the provision of sub-clause (i), such refund shall first be adjusted towards  the amount of un-disputed "
+        },
+        {
+          "element_id": "25_p6_e118",
+          "sequence_order": 118,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "(2) The necessary adjustment order giving effect to such adjustment may be issued by the  designated authority along wit"
+        },
+        {
+          "element_id": "25_p6_e119",
+          "sequence_order": 119,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 73,
+          "text_preview": "(3) Any demand as per statutory order passed for specified period either before the commencement  of this Act or during "
+        },
+        {
+          "element_id": "25_p6_e120",
+          "sequence_order": 120,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 57,
+          "text_preview": "(4) The provisions of foregoing clauses in respect of adjustment of amount paid or any refund due  and determination of "
+        },
+        {
+          "element_id": "25_p6_e121",
+          "sequence_order": 121,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 86,
+          "text_preview": "7. Write off in respect of certain amounts.— Notwithstanding anything contained in the  Relevant Act, the arrears of int"
+        },
+        {
+          "element_id": "25_p6_e122",
+          "sequence_order": 122,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "8. Determination of requisite amount and extent of waiver.— (1) Where the outstanding  arrears consist of tax along with"
+        }
+      ]
+    },
+    "7": {
+      "elements": 15,
+      "flagged": 15,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "25_p7_e123",
+          "sequence_order": 123,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "2025: Mah. XVII]  The Maharashtra Settlement of Arrears of Tax, Interest,  7  Penalty or Late Fee (payable by public Sec"
+        },
+        {
+          "element_id": "25_p7_e124",
+          "sequence_order": 124,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Undertaking Companies) Act, 2025"
+        },
+        {
+          "element_id": "25_p7_e125",
+          "sequence_order": 125,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "requisite amount payable towards the settlement of arrears as determined under section 6, shall be as  specified in Anne"
+        },
+        {
+          "element_id": "25_p7_e126",
+          "sequence_order": 126,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 73,
+          "text_preview": "(2) The payment of the requisite amount as determined under this section shall be made in the  form of Challan prescribe"
+        },
+        {
+          "element_id": "25_p7_e127",
+          "sequence_order": 127,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 45,
+          "text_preview": "(3) (a) Any payment made on any account on or before the date of commencement of this Act or  after the last date specif"
+        },
+        {
+          "element_id": "25_p7_e128",
+          "sequence_order": 128,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 54,
+          "text_preview": "(b) Any amount of refund adjusted or deemed to be adjusted against any arrears on or before  date of commencement of thi"
+        },
+        {
+          "element_id": "25_p7_e129",
+          "sequence_order": 129,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "(4) Under any circumstances, the applicant shall not be entitled to any waiver in respect of  un-disputed tax."
+        },
+        {
+          "element_id": "25_p7_e130",
+          "sequence_order": 130,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 38,
+          "text_preview": "(5) Subject to other provisions of this Act, the applicant shall be entitled to the waiver of disputed  tax, interest, p"
+        },
+        {
+          "element_id": "25_p7_e131",
+          "sequence_order": 131,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 42,
+          "text_preview": "(6) Where the applicant has made the payment which is less than the requisite amount as  determined under this section t"
+        },
+        {
+          "element_id": "25_p7_e132",
+          "sequence_order": 132,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 37,
+          "text_preview": "Provided that, the amount so paid shall first be adjusted towards the un-disputed tax and the  amount remaining, if any,"
+        },
+        {
+          "element_id": "25_p7_e133",
+          "sequence_order": 133,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 38,
+          "text_preview": "(7) No application shall be rejected merely on the ground that the payment made by the applicant  during the period as s"
+        },
+        {
+          "element_id": "25_p7_e134",
+          "sequence_order": 134,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 55,
+          "text_preview": "9. Determination of requisite amount and extent of waiver under Tax on Entry Act.— The  applicant who is liable to pay e"
+        },
+        {
+          "element_id": "25_p7_e135",
+          "sequence_order": 135,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 64,
+          "text_preview": "(a) the requisite amount shall be the amount equivalent to the amount of entry tax determined  in the statutory order, o"
+        },
+        {
+          "element_id": "25_p7_e136",
+          "sequence_order": 136,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 96,
+          "text_preview": "(b) in case the said applicant has paid the amount as determined under clause (a), on or before  the last date specified"
+        },
+        {
+          "element_id": "25_p7_e137",
+          "sequence_order": 137,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 33,
+          "text_preview": "(c) the interest as per any statutory order shall be considered for determining the requisite  amount and waiver in that"
+        }
+      ]
+    },
+    "8": {
+      "elements": 14,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "25_p8_e142",
+          "sequence_order": 142,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "caption",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "TABLE"
+        }
+      ]
+    },
+    "9": {
+      "elements": 19,
+      "flagged": 19,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "25_p9_e152",
+          "sequence_order": 152,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "2025: Mah. XVII]  The Maharashtra Settlement of Arrears of Tax, Interest,  9  Penalty or Late Fee (payable by public Sec"
+        },
+        {
+          "element_id": "25_p9_e153",
+          "sequence_order": 153,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Undertaking Companies) Act, 2025"
+        },
+        {
+          "element_id": "25_p9_e154",
+          "sequence_order": 154,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 84,
+          "text_preview": "13. Order of settlement.— (1) If the designated authority is satisfied that the applicant has paid  the requisite amount"
+        },
+        {
+          "element_id": "25_p9_e155",
+          "sequence_order": 155,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 101,
+          "text_preview": "(2) Where, the application for settlement of arrears of tax, interest, penalty or late fee is not in  accordance with th"
+        },
+        {
+          "element_id": "25_p9_e156",
+          "sequence_order": 156,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 39,
+          "text_preview": "(3) The designated authority may, on his own motion or on application of the applicant, within six  months from the date"
+        },
+        {
+          "element_id": "25_p9_e157",
+          "sequence_order": 157,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "Provided that, the application for rectification shall be made within sixty days from the date of the  receipt of the or"
+        },
+        {
+          "element_id": "25_p9_e158",
+          "sequence_order": 158,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "Provided further that, no order adversely affecting the applicant shall be passed without giving  him a reasonable oppor"
+        },
+        {
+          "element_id": "25_p9_e159",
+          "sequence_order": 159,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "14. Appeal against order passed under this Act.— (1) An appeal against any order passed under  this Act shall lie to,—"
+        },
+        {
+          "element_id": "25_p9_e160",
+          "sequence_order": 160,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "(a) the concerned Deputy Commissioner of State Tax (Administration or Nodal), if the order  is passed by the authority s"
+        },
+        {
+          "element_id": "25_p9_e161",
+          "sequence_order": 161,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "(b) the concerned Joint Commissioner of State Tax (Administration or Nodal), if the order  is passed by the Deputy Commi"
+        },
+        {
+          "element_id": "25_p9_e162",
+          "sequence_order": 162,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "(c) the concerned Additional Commissioner of State Tax, if the order is passed by the Joint  Commissioner of State Tax."
+        },
+        {
+          "element_id": "25_p9_e163",
+          "sequence_order": 163,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "(2) The appeal shall be filed within sixty days from the date of receipt of any order passed under  this Act and any app"
+        },
+        {
+          "element_id": "25_p9_e164",
+          "sequence_order": 164,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "(3) The appellate authority as specified in sub-section (1) of this section shall, after making such  further enquiry, a"
+        },
+        {
+          "element_id": "25_p9_e165",
+          "sequence_order": 165,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "(4) There shall be no second appeal against an order passed under sub-section (3) of this section."
+        },
+        {
+          "element_id": "25_p9_e166",
+          "sequence_order": 166,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 38,
+          "text_preview": "15. Review of order passed under this Act.— (1) Any order passed under this Act may be  reviewed by the Commissioner, on"
+        },
+        {
+          "element_id": "25_p9_e167",
+          "sequence_order": 167,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 49,
+          "text_preview": "(2) After noticing any error in such order, in so far as it is prejudicial to the interest of revenue,  the Commissioner"
+        },
+        {
+          "element_id": "25_p9_e168",
+          "sequence_order": 168,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "(3) No order adversely affecting the applicant shall be passed without giving him a reasonable  opportunity of being hea"
+        },
+        {
+          "element_id": "25_p9_e169",
+          "sequence_order": 169,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 83,
+          "text_preview": "16. Bar on reopening of settled cases under Relevant Act.— Subject to other provisions of this  Act, an order of settlem"
+        },
+        {
+          "element_id": "25_p9_e170",
+          "sequence_order": 170,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "17. Revocation of order of settlement.— (1) Notwithstanding anything contained in section 16,  where it appears to the d"
+        }
+      ]
+    },
+    "10": {
+      "elements": 14,
+      "flagged": 14,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "25_p10_e171",
+          "sequence_order": 171,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "10   The Maharashtra Settlement of Arrears of Tax, Interest,  [2025: Mah. XVII  Penalty or Late Fee (payable by public S"
+        },
+        {
+          "element_id": "25_p10_e172",
+          "sequence_order": 172,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Undertaking Companies) Act, 2025"
+        },
+        {
+          "element_id": "25_p10_e173",
+          "sequence_order": 173,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 93,
+          "text_preview": "by suppressing any material information or particulars or by furnishing any incorrect or false  information, if any, or "
+        },
+        {
+          "element_id": "25_p10_e174",
+          "sequence_order": 174,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 97,
+          "text_preview": "(2) If an order of settlement is revoked under sub-section (1), the assessment, re-assessment,  rectification, revision,"
+        },
+        {
+          "element_id": "25_p10_e175",
+          "sequence_order": 175,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 67,
+          "text_preview": "Provided that, where the period of limitation for re-assessment, rectification, revision or review  under the Relevant A"
+        },
+        {
+          "element_id": "25_p10_e176",
+          "sequence_order": 176,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "Provided further that, an original appeal under the Relevant Act shall be reinstated on application  made in this behalf"
+        },
+        {
+          "element_id": "25_p10_e177",
+          "sequence_order": 177,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "18. No refund under this Act.— Under no circumstances, the applicant shall be entitled to get  the refund of any amount "
+        },
+        {
+          "element_id": "25_p10_e178",
+          "sequence_order": 178,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 38,
+          "text_preview": "Provided that, in case the order of settlement is revoked or rejected under the provisions of this  Act, the amount paid"
+        },
+        {
+          "element_id": "25_p10_e179",
+          "sequence_order": 179,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 55,
+          "text_preview": "Provided further that, in case the order of settlement is reviewed under section 15 of this Act, and  the amount paid by"
+        },
+        {
+          "element_id": "25_p10_e180",
+          "sequence_order": 180,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 36,
+          "text_preview": "19. Power of Commissioner under this Act.— (1) The Commissioner may, from time to time,  issue instructions and directio"
+        },
+        {
+          "element_id": "25_p10_e181",
+          "sequence_order": 181,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "(2) The Commissioner may, by an order, prescribe the forms for the purpose of this Act and the  manner in which the form"
+        },
+        {
+          "element_id": "25_p10_e182",
+          "sequence_order": 182,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 59,
+          "text_preview": "20. Power to remove difficulty.— (1) If any difficulty arises in giving effect to the provisions of  this Act, the Gover"
+        },
+        {
+          "element_id": "25_p10_e183",
+          "sequence_order": 183,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "Provided that, no order shall be made after the expiry of a period of one year from the date of  commencement of this Ac"
+        },
+        {
+          "element_id": "25_p10_e184",
+          "sequence_order": 184,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "(2) Every order made under sub-section (1) shall be laid, as soon as may be, after it is made, before  each House of the"
+        }
+      ]
+    },
+    "11": {
+      "elements": 9,
+      "flagged": 3,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "25_p11_e185",
+          "sequence_order": 185,
+          "page_number": 11,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "( see"
+        },
+        {
+          "element_id": "25_p11_e187",
+          "sequence_order": 187,
+          "page_number": 11,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Annexure-A"
+        },
+        {
+          "element_id": "25_p11_e191",
+          "sequence_order": 191,
+          "page_number": 11,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Annexure-B"
+        }
+      ]
+    }
+  }
+}

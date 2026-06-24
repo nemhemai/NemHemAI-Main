@@ -1,0 +1,274 @@
+{
+  "document_id": 19,
+  "pages": {
+    "1": {
+      "elements": 11,
+      "flagged": 11,
+      "flags": [
+        "noise_detected",
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "19_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "RTI Application Form"
+        },
+        {
+          "element_id": "19_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "FORM ‘A’  See Rule 3(1)"
+        },
+        {
+          "element_id": "19_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 3,
+          "text_preview": "I. D. No…………….."
+        },
+        {
+          "element_id": "19_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "(For Office Use Only)  To  The Public Information Officer/  Assistant Public Information Officer"
+        },
+        {
+          "element_id": "19_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 25,
+          "text_preview": "1.Full Name of The Applicant: ____________________________  2.Father Name/Spouse Name: ____________________________  3.P"
+        },
+        {
+          "element_id": "19_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 7,
+          "text_preview": "a)  Subject Matter of Information (*): ____________________________"
+        },
+        {
+          "element_id": "19_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 68,
+          "text_preview": "b)  The period to which information relates (**): ____________________________  c)  Specific Details of Information requ"
+        },
+        {
+          "element_id": "19_p1_e7",
+          "sequence_order": 7,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 46,
+          "text_preview": "public authority under voluntary disclosure?: ____________________________  7.Do you agree to pay the required fee?: ___"
+        },
+        {
+          "element_id": "19_p1_e8",
+          "sequence_order": 8,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "application?)"
+        },
+        {
+          "element_id": "19_p1_e9",
+          "sequence_order": 9,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Place:  Signature of Applicant  Date:"
+        },
+        {
+          "element_id": "19_p1_e10",
+          "sequence_order": 10,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 39,
+          "text_preview": "(*) Broad Category of the subject to be indicated (such as grant of government service  matters/Licenses etc.)  (**) Rel"
+        }
+      ]
+    },
+    "2": {
+      "elements": 11,
+      "flagged": 11,
+      "flags": [
+        "noise_detected",
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "19_p2_e11",
+          "sequence_order": 11,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Name of the Department or Public Authority"
+        },
+        {
+          "element_id": "19_p2_e12",
+          "sequence_order": 12,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "FORM “B”  [See rule3 (2)]"
+        },
+        {
+          "element_id": "19_p2_e13",
+          "sequence_order": 13,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Acknowledgement"
+        },
+        {
+          "element_id": "19_p2_e14",
+          "sequence_order": 14,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Office of the State Public Information Officer"
+        },
+        {
+          "element_id": "19_p2_e15",
+          "sequence_order": 15,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Received the application form from"
+        },
+        {
+          "element_id": "19_p2_e16",
+          "sequence_order": 16,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Mr/Ms: ____________________________"
+        },
+        {
+          "element_id": "19_p2_e17",
+          "sequence_order": 17,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 13,
+          "text_preview": "Address: ____________________________: ____________________________: ____________________________  Seeking information o"
+        },
+        {
+          "element_id": "19_p2_e18",
+          "sequence_order": 18,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 4,
+          "text_preview": "Vide Diary No.: ____________________________Dated:_________________________"
+        },
+        {
+          "element_id": "19_p2_e19",
+          "sequence_order": 19,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Place  Date"
+        },
+        {
+          "element_id": "19_p2_e20",
+          "sequence_order": 20,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Full Name of State Public Information Officer/  State Assistant Public Information Officer"
+        },
+        {
+          "element_id": "19_p2_e21",
+          "sequence_order": 21,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Designation and Seal"
+        }
+      ]
+    }
+  }
+}
