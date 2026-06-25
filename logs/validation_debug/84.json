@@ -1,0 +1,72 @@
+{
+  "document_id": 84,
+  "pages": {
+    "1": {
+      "elements": 9,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "84_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Vol. LXVII]"
+        }
+      ]
+    },
+    "2": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "3": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "4": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "5": {
+      "elements": 3,
+      "flagged": 1,
+      "flags": [
+        "corrupted_text",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "84_p5_e14",
+          "sequence_order": 14,
+          "page_number": 5,
+          "quality_score": 0.3,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ગાંધીનગર."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "document_id": 85,
+  "pages": {
+    "1": {
+      "elements": 11,
+      "flagged": 11,
+      "flags": [
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "85_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "The Gujarat Government Gazette"
+        },
+        {
+          "element_id": "85_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "PUBLISHED BY AUTHORITY"
+        },
+        {
+          "element_id": "85_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "Vol. LXVII ]  THURSDAY, JUNE 25, 2026 / ASHADHA 4, 1948  [ No. 26"
+        },
+        {
+          "element_id": "85_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "Separate paging is given to this Part in order that it may be filed as a Separate Compilation."
+        },
+        {
+          "element_id": "85_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "PART IX"
+        },
+        {
+          "element_id": "85_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Gujarati translation of Bills, Acts and Notifications other than"
+        },
+        {
+          "element_id": "85_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "those published in other parts"
+        },
+        {
+          "element_id": "85_p1_e7",
+          "sequence_order": 7,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "વૈધાનિક અિે સંસદીય બાબતોિો નવભાગ"
+        },
+        {
+          "element_id": "85_p1_e8",
+          "sequence_order": 8,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "સચિવાલય, ગાાંધીનગર, ૧૫મી જૂન, ૨૦૨૬"
+        },
+        {
+          "element_id": "85_p1_e9",
+          "sequence_order": 9,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 54,
+          "text_preview": "ગુજરાત ગેઝેટમાાં અાંગ્રેજીમાાં પ્રચસદ્ધ થયેલા ગુજરાત સરકારના ગૃહ ચવભાગના તારીખઃ ૧૧મી માિચ, ૨૦૨૬ના સરકારી જાહેરનામા  ક્રમ"
+        },
+        {
+          "element_id": "85_p1_e10",
+          "sequence_order": 10,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "પરિમલ જોષી,  સરકારના આચસસ્ટન્ટ ડ્રાફ્ટ્સમેન."
+        }
+      ]
+    },
+    "2": {
+      "elements": 15,
+      "flagged": 6,
+      "flags": [
+        "corrupted_text",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "85_p2_e14",
+          "sequence_order": 14,
+          "page_number": 2,
+          "quality_score": 0.3,
+          "element_type": "caption",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "અિુસૂનિ"
+        },
+        {
+          "element_id": "85_p2_e15",
+          "sequence_order": 15,
+          "page_number": 2,
+          "quality_score": 0.5,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 11,
+          "text_preview": "સિવે િંબિ, સ્થળોિા િામ અિે સ્થળિી હદોિું વર્ણિ"
+        },
+        {
+          "element_id": "85_p2_e18",
+          "sequence_order": 18,
+          "page_number": 2,
+          "quality_score": 0.3,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "મોનિકા ભેડા"
+        },
+        {
+          "element_id": "85_p2_e20",
+          "sequence_order": 20,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "NOTIFICATION Under"
+        },
+        {
+          "element_id": "85_p2_e22",
+          "sequence_order": 22,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ગૃહ નવભાગ"
+        },
+        {
+          "element_id": "85_p2_e24",
+          "sequence_order": 24,
+          "page_number": 2,
+          "quality_score": 0.5,
+          "element_type": "table",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 79,
+          "text_preview": "અિુક્રમ િંબિ: ૧, અસાધાિર્ િાજપત્રિો િંબિ: ૨, જાહેિિામાિો િંબિ અિે તાિીખ (ભાગ-૯): ૩, પ્રનસનિિી તાિીખ: ૪, નવભાગિું િામ: ૫;"
+        }
+      ]
+    },
+    "3": {
+      "elements": 5,
+      "flagged": 3,
+      "flags": [
+        "corrupted_text",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "85_p3_e26",
+          "sequence_order": 26,
+          "page_number": 3,
+          "quality_score": 0.5,
+          "element_type": "table",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 288,
+          "text_preview": "અિુક્રમ િંબિ: ૧, અસાધાિર્ િાજપત્રિો િંબિ: ૨, જાહેિિામાિો િંબિ અિે તાિીખ (ભાગ-૯): ૩, પ્રનસનિિી તાિીખ: ૪, નવભાગિું િામ: ૫;"
+        },
+        {
+          "element_id": "85_p3_e27",
+          "sequence_order": 27,
+          "page_number": 3,
+          "quality_score": 0.5,
+          "element_type": "heading",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 3,
+          "text_preview": "બી. જી. ઠાકુિ,"
+        },
+        {
+          "element_id": "85_p3_e30",
+          "sequence_order": 30,
+          "page_number": 3,
+          "quality_score": 0.3,
+          "element_type": "clause",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ગાાંધીનગર."
+        }
+      ]
+    }
+  }
+}

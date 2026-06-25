@@ -251,15 +251,15 @@ function EntitlementDashboard() {
   const [verificationPipelineLogs, setVerificationPipelineLogs] = useState(null);
   const [reconfirmResult, setReconfirmResult] = useState(null);
 
-  // Application Guidance & Submissions (Step 11-13)
-  const [selectedScheme, setSelectedScheme] = useState("PM SVANidhi");
+  // Application Guidance & Submissions (Step 11-13) - Unused variables commented out
+  const [selectedScheme] = useState("PM SVANidhi");
   const [guidanceData, setGuidanceData] = useState(null);
-  const [guidanceLoading, setGuidanceLoading] = useState(false);
-  const [submittingApp, setSubmittingApp] = useState(false);
-  const [submissionResult, setSubmissionResult] = useState(null);
+  // const [guidanceLoading, setGuidanceLoading] = useState(false);
+  // const [submittingApp, setSubmittingApp] = useState(false);
+  // const [submissionResult, setSubmissionResult] = useState(null);
   const [trackingId, setTrackingId] = useState("");
-  const [trackingResult, setTrackingResult] = useState(null);
-  const [trackingLoading, setTrackingLoading] = useState(false);
+  // const [trackingResult, setTrackingResult] = useState(null);
+  // const [trackingLoading, setTrackingLoading] = useState(false);
 
   // Audit Logs (Step 14)
   const [auditLogs, setAuditLogs] = useState([]);
@@ -559,62 +559,62 @@ function EntitlementDashboard() {
   };
 
   // Fetch Guidance
-  const handleFetchGuidance = async () => {
-    if (!citizenId) return;
-    setGuidanceLoading(true);
-    setGuidanceData(null);
-    setSubmissionResult(null);
-    try {
-      const data = await fetchApplicationGuidance({
-        citizenId,
-        schemeName: selectedScheme
-      });
-      setGuidanceData(data);
-    } catch (err) {
-      alert(err.message);
-    } finally {
-      setGuidanceLoading(false);
-    }
-  };
+  // const handleFetchGuidance = async () => {
+  //   if (!citizenId) return;
+  //   setGuidanceLoading(true);
+  //   setGuidanceData(null);
+  //   setSubmissionResult(null);
+  //   try {
+  //     const data = await fetchApplicationGuidance({
+  //       citizenId,
+  //       schemeName: selectedScheme
+  //     });
+  //     setGuidanceData(data);
+  //   } catch (err) {
+  //     alert(err.message);
+  //   } finally {
+  //     setGuidanceLoading(false);
+  //   }
+  // };
 
   // Submit application
-  const handleAppSubmit = async (channel) => {
-    if (!citizenId || !guidanceData) return;
-    setSubmittingApp(true);
-    try {
-      const res = await submitApplication({
-        citizenId,
-        schemeName: selectedScheme,
-        formData: guidanceData.prefilled_form,
-        submissionChannel: channel
-      });
-      setSubmissionResult(res);
-      setTrackingId(res.application_id);
-      setTrackingResult(res);
-      setActiveTab("audit");
-    } catch (err) {
-      alert(err.message);
-    } finally {
-      setSubmittingApp(false);
-    }
-  };
+  // const handleAppSubmit = async (channel) => {
+  //   if (!citizenId || !guidanceData) return;
+  //   setSubmittingApp(true);
+  //   try {
+  //     const res = await submitApplication({
+  //       citizenId,
+  //       schemeName: selectedScheme,
+  //       formData: guidanceData.prefilled_form,
+  //       submissionChannel: channel
+  //     });
+  //     setSubmissionResult(res);
+  //     setTrackingId(res.application_id);
+  //     setTrackingResult(res);
+  //     setActiveTab("audit");
+  //   } catch (err) {
+  //     alert(err.message);
+  //   } finally {
+  //     setSubmittingApp(false);
+  //   }
+  // };
 
   // Live status track
-  const handleTrackStatus = async () => {
-    if (!trackingId.trim()) {
-      alert("Application or Tracking ID is required.");
-      return;
-    }
-    setTrackingLoading(true);
-    try {
-      const res = await fetchApplicationStatus(trackingId.trim());
-      setTrackingResult(res);
-    } catch (err) {
-      alert(err.message);
-    } finally {
-      setTrackingLoading(false);
-    }
-  };
+  // const handleTrackStatus = async () => {
+  //   if (!trackingId.trim()) {
+  //     alert("Application or Tracking ID is required.");
+  //     return;
+  //   }
+  //   setTrackingLoading(true);
+  //   try {
+  //     const res = await fetchApplicationStatus(trackingId.trim());
+  //     setTrackingResult(res);
+  //   } catch (err) {
+  //     alert(err.message);
+  //   } finally {
+  //     setTrackingLoading(false);
+  //   }
+  // };
 
   const checkDetermination = checkResult?.determination || {};
 

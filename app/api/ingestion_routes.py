@@ -215,9 +215,6 @@ async def bulk_upload(
     if len(files) == 0:
         raise HTTPException(status_code=400, detail="No PDF files provided")
 
-    if len(metadata_files) == 0:
-        raise HTTPException(status_code=400, detail="No metadata files provided")
-
     metadata_map = {}
 
     for meta_file in metadata_files:
@@ -251,8 +248,31 @@ async def bulk_upload(
             import re
             base_name = re.sub(r'(?i)\.pdf$', '', file.filename)
 
-            if base_name not in metadata_map:
-                continue
+            if base_name not in metadata_map or not metadata_map[base_name] or "title" not in metadata_map[base_name]:
+                # 🚀 AUTO-GENERATE METADATA ON THE FLY
+                title = re.sub(r'[-_]', ' ', base_name).title()
+                metadata_map[base_name] = {
+                    "title": title,
+                    "document_number": "UNKNOWN",
+                    "issuing_authority": "Government of India",
+                    "department_code": "GENERAL",
+                    "jurisdiction": "central",
+                    "state_origin": None,
+                    "document_type": "manual",
+                    "security_level": "public",
+                    "primary_language": "en",
+                    "version_label": "2024"
+                }
+                
+                # Save to data/raw (best-effort, lightning fast write won't hurt latency)
+                try:
+                    os.makedirs(os.path.join("data", "raw"), exist_ok=True)
+                    json_path = os.path.join("data", "raw", f"{base_name}.json")
+                    if not os.path.exists(json_path):
+                        with open(json_path, 'w', encoding='utf-8') as f:
+                            json.dump(metadata_map[base_name], f, indent=2, ensure_ascii=False)
+                except Exception as e:
+                    print(f"Warning: Could not save auto-generated metadata to disk: {e}")
 
             # -----------------------------------------------
             # DUPLICATE CHECK: skip if already in pipeline

@@ -57,8 +57,17 @@ function BulkIngestionDashboard({ goBack }) {
       const baseName = pdf.name.replace(".pdf", "");
 
       if (!jsonMap[baseName]) {
-        errorList.push(`❌ Missing JSON for: ${pdf.name}`);
-        return;
+        // Provide a dummy JSON file since the backend will now auto-generate the metadata for us
+        const dummyBlob = new Blob(['{}'], { type: 'application/json' });
+        const newJson = new File([dummyBlob], `${baseName}.json`, { type: 'application/json' });
+        jsonMap[baseName] = newJson;
+        // Update the UI counter to reflect this newly generated JSON
+        setJsonFiles(prev => {
+          if (!prev.find(f => f.name === newJson.name)) {
+            return [...prev, newJson];
+          }
+          return prev;
+        });
       }
 
       matched.push({

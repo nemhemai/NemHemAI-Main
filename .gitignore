@@ -62,3 +62,5 @@ chroma.sqlite3
 # Logs / temp
 # -------------------------
 *.log
+*.tar
+*.pdf

@@ -1,0 +1,1353 @@
+{
+  "document_id": 83,
+  "pages": {
+    "1": {
+      "elements": 7,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "2": {
+      "elements": 20,
+      "flagged": 8,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "83_p2_e7",
+          "sequence_order": 7,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Date: 12/05/2026."
+        },
+        {
+          "element_id": "83_p2_e8",
+          "sequence_order": 8,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Date: 04/06/2026."
+        },
+        {
+          "element_id": "83_p2_e12",
+          "sequence_order": 12,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A.1211/2026"
+        },
+        {
+          "element_id": "83_p2_e16",
+          "sequence_order": 16,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Registrar General."
+        },
+        {
+          "element_id": "83_p2_e17",
+          "sequence_order": 17,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "No.A./HC01882/2026 No.A.1325/2023"
+        },
+        {
+          "element_id": "83_p2_e22",
+          "sequence_order": 22,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Sd/- Illegible,"
+        },
+        {
+          "element_id": "83_p2_e24",
+          "sequence_order": 24,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC00366/2026"
+        },
+        {
+          "element_id": "83_p2_e25",
+          "sequence_order": 25,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A.1353/2024"
+        }
+      ]
+    },
+    "3": {
+      "elements": 19,
+      "flagged": 4,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "83_p3_e27",
+          "sequence_order": 27,
+          "page_number": 3,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Date: 10/06/2026."
+        },
+        {
+          "element_id": "83_p3_e32",
+          "sequence_order": 32,
+          "page_number": 3,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC00366/2025"
+        },
+        {
+          "element_id": "83_p3_e39",
+          "sequence_order": 39,
+          "page_number": 3,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC01877/2026"
+        },
+        {
+          "element_id": "83_p3_e40",
+          "sequence_order": 40,
+          "page_number": 3,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A.1371/2023"
+        }
+      ]
+    },
+    "4": {
+      "elements": 8,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "83_p4_e47",
+          "sequence_order": 47,
+          "page_number": 4,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "No.A./HC00386/2026 No.A.1343/2025"
+        },
+        {
+          "element_id": "83_p4_e51",
+          "sequence_order": 51,
+          "page_number": 4,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "No.A./HC00405/2026 No.A.1347/2025"
+        }
+      ]
+    },
+    "5": {
+      "elements": 13,
+      "flagged": 7,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "83_p5_e54",
+          "sequence_order": 54,
+          "page_number": 5,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Date: 12/06/2026."
+        },
+        {
+          "element_id": "83_p5_e55",
+          "sequence_order": 55,
+          "page_number": 5,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC0019/2026"
+        },
+        {
+          "element_id": "83_p5_e56",
+          "sequence_order": 56,
+          "page_number": 5,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A.1310/2009"
+        },
+        {
+          "element_id": "83_p5_e60",
+          "sequence_order": 60,
+          "page_number": 5,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC00618/2026"
+        },
+        {
+          "element_id": "83_p5_e61",
+          "sequence_order": 61,
+          "page_number": 5,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A.1316/2012"
+        },
+        {
+          "element_id": "83_p5_e64",
+          "sequence_order": 64,
+          "page_number": 5,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC00165/2026"
+        },
+        {
+          "element_id": "83_p5_e65",
+          "sequence_order": 65,
+          "page_number": 5,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A.1353/2011"
+        }
+      ]
+    },
+    "6": {
+      "elements": 10,
+      "flagged": 3,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "83_p6_e69",
+          "sequence_order": 69,
+          "page_number": 6,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "No.A./HC00166/2026 No.A.1326/2013"
+        },
+        {
+          "element_id": "83_p6_e73",
+          "sequence_order": 73,
+          "page_number": 6,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC0097/2026"
+        },
+        {
+          "element_id": "83_p6_e74",
+          "sequence_order": 74,
+          "page_number": 6,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A.1345/2013"
+        }
+      ]
+    },
+    "7": {
+      "elements": 9,
+      "flagged": 3,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "83_p7_e78",
+          "sequence_order": 78,
+          "page_number": 7,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "No.A./HC00144/2026 No.A.1358/2013"
+        },
+        {
+          "element_id": "83_p7_e81",
+          "sequence_order": 81,
+          "page_number": 7,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC00212/2026"
+        },
+        {
+          "element_id": "83_p7_e82",
+          "sequence_order": 82,
+          "page_number": 7,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A.1319/2017"
+        }
+      ]
+    },
+    "8": {
+      "elements": 10,
+      "flagged": 5,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "83_p8_e86",
+          "sequence_order": 86,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC00196/2026"
+        },
+        {
+          "element_id": "83_p8_e87",
+          "sequence_order": 87,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A.1356/2014"
+        },
+        {
+          "element_id": "83_p8_e90",
+          "sequence_order": 90,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "No.A./HC01073/2026 No.A.1359/2022"
+        },
+        {
+          "element_id": "83_p8_e93",
+          "sequence_order": 93,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC00167/2026"
+        },
+        {
+          "element_id": "83_p8_e94",
+          "sequence_order": 94,
+          "page_number": 8,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A.1349/2011"
+        }
+      ]
+    },
+    "9": {
+      "elements": 21,
+      "flagged": 6,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "83_p9_e98",
+          "sequence_order": 98,
+          "page_number": 9,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "own duties."
+        },
+        {
+          "element_id": "83_p9_e101",
+          "sequence_order": 101,
+          "page_number": 9,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC00353/2026"
+        },
+        {
+          "element_id": "83_p9_e102",
+          "sequence_order": 102,
+          "page_number": 9,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A.1337/2019"
+        },
+        {
+          "element_id": "83_p9_e110",
+          "sequence_order": 110,
+          "page_number": 9,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC00199/2026"
+        },
+        {
+          "element_id": "83_p9_e111",
+          "sequence_order": 111,
+          "page_number": 9,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A.1337/2015"
+        },
+        {
+          "element_id": "83_p9_e114",
+          "sequence_order": 114,
+          "page_number": 9,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "holidays)."
+        }
+      ]
+    },
+    "10": {
+      "elements": 9,
+      "flagged": 4,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "83_p10_e118",
+          "sequence_order": 118,
+          "page_number": 10,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC00200/2026"
+        },
+        {
+          "element_id": "83_p10_e119",
+          "sequence_order": 119,
+          "page_number": 10,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A.1310/2014"
+        },
+        {
+          "element_id": "83_p10_e122",
+          "sequence_order": 122,
+          "page_number": 10,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC00174/2026"
+        },
+        {
+          "element_id": "83_p10_e123",
+          "sequence_order": 123,
+          "page_number": 10,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A.1310/2012"
+        }
+      ]
+    },
+    "11": {
+      "elements": 11,
+      "flagged": 6,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "83_p11_e126",
+          "sequence_order": 126,
+          "page_number": 11,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC00203/2026"
+        },
+        {
+          "element_id": "83_p11_e127",
+          "sequence_order": 127,
+          "page_number": 11,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A.1375/2014"
+        },
+        {
+          "element_id": "83_p11_e130",
+          "sequence_order": 130,
+          "page_number": 11,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC00180/2026"
+        },
+        {
+          "element_id": "83_p11_e131",
+          "sequence_order": 131,
+          "page_number": 11,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A.1323/2012"
+        },
+        {
+          "element_id": "83_p11_e134",
+          "sequence_order": 134,
+          "page_number": 11,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC00206/2026"
+        },
+        {
+          "element_id": "83_p11_e135",
+          "sequence_order": 135,
+          "page_number": 11,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A.1315/2016"
+        }
+      ]
+    },
+    "12": {
+      "elements": 8,
+      "flagged": 4,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "83_p12_e138",
+          "sequence_order": 138,
+          "page_number": 12,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC00187/2026"
+        },
+        {
+          "element_id": "83_p12_e139",
+          "sequence_order": 139,
+          "page_number": 12,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A.13103/2013"
+        },
+        {
+          "element_id": "83_p12_e142",
+          "sequence_order": 142,
+          "page_number": 12,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC00950/2026"
+        },
+        {
+          "element_id": "83_p12_e143",
+          "sequence_order": 143,
+          "page_number": 12,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A.1347/2018"
+        }
+      ]
+    },
+    "13": {
+      "elements": 9,
+      "flagged": 4,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "83_p13_e146",
+          "sequence_order": 146,
+          "page_number": 13,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC00211/2026"
+        },
+        {
+          "element_id": "83_p13_e147",
+          "sequence_order": 147,
+          "page_number": 13,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A.1310/2017"
+        },
+        {
+          "element_id": "83_p13_e150",
+          "sequence_order": 150,
+          "page_number": 13,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC00194/2026"
+        },
+        {
+          "element_id": "83_p13_e151",
+          "sequence_order": 151,
+          "page_number": 13,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A.1362/2014"
+        }
+      ]
+    },
+    "14": {
+      "elements": 19,
+      "flagged": 4,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "83_p14_e154",
+          "sequence_order": 154,
+          "page_number": 14,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC00957/2026"
+        },
+        {
+          "element_id": "83_p14_e155",
+          "sequence_order": 155,
+          "page_number": 14,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A.1358/2019"
+        },
+        {
+          "element_id": "83_p14_e164",
+          "sequence_order": 164,
+          "page_number": 14,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC00292/2026"
+        },
+        {
+          "element_id": "83_p14_e165",
+          "sequence_order": 165,
+          "page_number": 14,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A.1324/2024"
+        }
+      ]
+    },
+    "15": {
+      "elements": 12,
+      "flagged": 6,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "83_p15_e173",
+          "sequence_order": 173,
+          "page_number": 15,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Date: 12/06/2026"
+        },
+        {
+          "element_id": "83_p15_e174",
+          "sequence_order": 174,
+          "page_number": 15,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC00408/2026"
+        },
+        {
+          "element_id": "83_p15_e175",
+          "sequence_order": 175,
+          "page_number": 15,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "No.A.1350/2022 I"
+        },
+        {
+          "element_id": "83_p15_e178",
+          "sequence_order": 178,
+          "page_number": 15,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "(Sd)/- Illegible,"
+        },
+        {
+          "element_id": "83_p15_e180",
+          "sequence_order": 180,
+          "page_number": 15,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "No.A./HC00226/2026 No.A.1348/2019"
+        },
+        {
+          "element_id": "83_p15_e183",
+          "sequence_order": 183,
+          "page_number": 15,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "No.A./HC00301/2026 No.A.1325/2025"
+        }
+      ]
+    },
+    "16": {
+      "elements": 9,
+      "flagged": 3,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "83_p16_e188",
+          "sequence_order": 188,
+          "page_number": 16,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC00419/2026"
+        },
+        {
+          "element_id": "83_p16_e189",
+          "sequence_order": 189,
+          "page_number": 16,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "No. A.1380/2024"
+        },
+        {
+          "element_id": "83_p16_e192",
+          "sequence_order": 192,
+          "page_number": 16,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "No.A./HC00231/2026 No.A.1323/2014"
+        }
+      ]
+    },
+    "17": {
+      "elements": 9,
+      "flagged": 4,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "83_p17_e196",
+          "sequence_order": 196,
+          "page_number": 17,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC00364/2026"
+        },
+        {
+          "element_id": "83_p17_e197",
+          "sequence_order": 197,
+          "page_number": 17,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A.1350/2024"
+        },
+        {
+          "element_id": "83_p17_e200",
+          "sequence_order": 200,
+          "page_number": 17,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC00320/2026"
+        },
+        {
+          "element_id": "83_p17_e201",
+          "sequence_order": 201,
+          "page_number": 17,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A.1339/2025"
+        }
+      ]
+    },
+    "18": {
+      "elements": 7,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "83_p18_e204",
+          "sequence_order": 204,
+          "page_number": 18,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "No.A./HC00232/2026 No.A.1348/2018"
+        },
+        {
+          "element_id": "83_p18_e207",
+          "sequence_order": 207,
+          "page_number": 18,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "No.A./HC00367/2026 No.A1335/2019"
+        }
+      ]
+    },
+    "19": {
+      "elements": 9,
+      "flagged": 3,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "83_p19_e210",
+          "sequence_order": 210,
+          "page_number": 19,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC00245/2026"
+        },
+        {
+          "element_id": "83_p19_e211",
+          "sequence_order": 211,
+          "page_number": 19,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A.1357/2024"
+        },
+        {
+          "element_id": "83_p19_e217",
+          "sequence_order": 217,
+          "page_number": 19,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "No.A./HC00322/2026 No.A.1353/2020"
+        }
+      ]
+    },
+    "20": {
+      "elements": 7,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "21": {
+      "elements": 8,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "83_p21_e228",
+          "sequence_order": 228,
+          "page_number": 21,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "No.A./HC00330/2026 No.A.1340/2022"
+        },
+        {
+          "element_id": "83_p21_e231",
+          "sequence_order": 231,
+          "page_number": 21,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "No.A./HC00290/2026 No.A.1367/2024"
+        }
+      ]
+    },
+    "22": {
+      "elements": 11,
+      "flagged": 4,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "83_p22_e234",
+          "sequence_order": 234,
+          "page_number": 22,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC00405/2026"
+        },
+        {
+          "element_id": "83_p22_e238",
+          "sequence_order": 238,
+          "page_number": 22,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A./HC00621/2026"
+        },
+        {
+          "element_id": "83_p22_e239",
+          "sequence_order": 239,
+          "page_number": 22,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "No.A.1352/2015 I"
+        },
+        {
+          "element_id": "83_p22_e243",
+          "sequence_order": 243,
+          "page_number": 22,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "No.A./HC02199/2026 No.A.1358/2025"
+        }
+      ]
+    },
+    "23": {
+      "elements": 10,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "83_p23_e247",
+          "sequence_order": 247,
+          "page_number": 23,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "No.A./HC01885/2026 No.A.1379/2023"
+        },
+        {
+          "element_id": "83_p23_e251",
+          "sequence_order": 251,
+          "page_number": 23,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "No.A./HC0188/2026 No.A.1382/2023"
+        }
+      ]
+    },
+    "24": {
+      "elements": 12,
+      "flagged": 5,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "83_p24_e255",
+          "sequence_order": 255,
+          "page_number": 24,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "NO.A.1307/2026"
+        },
+        {
+          "element_id": "83_p24_e257",
+          "sequence_order": 257,
+          "page_number": 24,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Date: 16/06/2026"
+        },
+        {
+          "element_id": "83_p24_e259",
+          "sequence_order": 259,
+          "page_number": 24,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "No.A.1244/2008 [17]"
+        },
+        {
+          "element_id": "83_p24_e261",
+          "sequence_order": 261,
+          "page_number": 24,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "No.A.2405/2022"
+        },
+        {
+          "element_id": "83_p24_e265",
+          "sequence_order": 265,
+          "page_number": 24,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Date: 17/06/2026"
+        }
+      ]
+    },
+    "25": {
+      "elements": 10,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "83_p25_e276",
+          "sequence_order": 276,
+          "page_number": 25,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ગ ાંધીનગર."
+        }
+      ]
+    }
+  }
+}
