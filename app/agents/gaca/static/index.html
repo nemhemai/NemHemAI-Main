@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GACA — Governance, Audit &amp; Compliance Agent | NemHem Platform</title>
+  <meta name="description" content="Governance, Audit & Compliance Agent Dashboard — NemHem Platform. Decision accountability, regulatory compliance, explainability, fraud prevention, AI governance.">
+  <link rel="stylesheet" href="/static/style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+</head>
+<body>
+
+<div class="app-layout">
+
+  <!-- ═══════════════ SIDEBAR ═══════════════ -->
+  <aside class="sidebar">
+    <div class="sidebar-brand">
+      <div class="brand-icon">🛡️</div>
+      <div>
+        <h1>GACA</h1>
+        <div class="brand-version">NemHem v1.0</div>
+      </div>
+    </div>
+
+    <nav class="sidebar-nav">
+      <div class="nav-section-title">Overview</div>
+      <div class="nav-item active" data-view="dashboard">
+        <span class="nav-icon">📊</span><span>Executive Dashboard</span>
+      </div>
+      <div class="nav-item" data-view="workflow">
+        <span class="nav-icon">⚡</span><span>8-Stage Workflow</span>
+      </div>
+
+      <div class="nav-section-title">Audit &amp; Decisions</div>
+      <div class="nav-item" data-view="decisions">
+        <span class="nav-icon">⚖️</span><span>Decision Audit</span>
+      </div>
+      <div class="nav-item" data-view="explainability">
+        <span class="nav-icon">🔍</span><span>Explainability</span>
+      </div>
+      <div class="nav-item" data-view="replay">
+        <span class="nav-icon">🔄</span><span>Decision Replay</span>
+      </div>
+      <div class="nav-item" data-view="overrides">
+        <span class="nav-icon">👤</span><span>Human Overrides</span>
+      </div>
+
+      <div class="nav-section-title">Governance</div>
+      <div class="nav-item" data-view="policies">
+        <span class="nav-icon">📜</span><span>Policy Versioning</span>
+      </div>
+      <div class="nav-item" data-view="appeals">
+        <span class="nav-icon">📝</span><span>Appeals</span>
+      </div>
+      <div class="nav-item" data-view="rti">
+        <span class="nav-icon">📋</span><span>RTI Support</span>
+      </div>
+      <div class="nav-item" data-view="timeline">
+        <span class="nav-icon">🕐</span><span>Citizen Timeline</span>
+      </div>
+
+      <div class="nav-section-title">Operations</div>
+      <div class="nav-item" data-view="reports">
+        <span class="nav-icon">📈</span><span>Reports</span>
+      </div>
+      <div class="nav-item" data-view="ingest">
+        <span class="nav-icon">📥</span><span>Ingest Event</span>
+      </div>
+    </nav>
+  </aside>
+
+  <!-- ═══════════════ MAIN ═══════════════ -->
+  <main class="main-content">
+
+    <!-- ────────── DASHBOARD (4.17) ────────── -->
+    <section id="view-dashboard" class="view active">
+      <div class="page-header">
+        <h2>Executive Dashboard <span class="header-badge">Section 4.17</span></h2>
+        <p>Real-time governance metrics and compliance oversight</p>
+      </div>
+
+      <div class="kpi-grid">
+        <div class="kpi-card kpi-green">
+          <div class="kpi-label">Applications Processed</div>
+          <div class="kpi-value" id="kpi-apps">—</div>
+          <div class="kpi-sub">Total processed events</div>
+        </div>
+        <div class="kpi-card kpi-blue">
+          <div class="kpi-label">Approval Rate</div>
+          <div class="kpi-value" id="kpi-approval">—</div>
+          <div class="kpi-sub">Eligible / Approved / Verified</div>
+        </div>
+        <div class="kpi-card kpi-red">
+          <div class="kpi-label">Rejection Rate</div>
+          <div class="kpi-value" id="kpi-rejection">—</div>
+          <div class="kpi-sub">Not eligible / Rejected</div>
+        </div>
+        <div class="kpi-card kpi-red">
+          <div class="kpi-label">Fraud Indicators</div>
+          <div class="kpi-value" id="kpi-fraud">—</div>
+          <div class="kpi-sub">Duplicates + tampering</div>
+        </div>
+        <div class="kpi-card kpi-yellow">
+          <div class="kpi-label">Compliance Violations</div>
+          <div class="kpi-value" id="kpi-violations">—</div>
+          <div class="kpi-sub">Non-compliant records</div>
+        </div>
+        <div class="kpi-card kpi-blue">
+          <div class="kpi-label">Total Appeals</div>
+          <div class="kpi-value" id="kpi-appeals">—</div>
+          <div class="kpi-sub">Citizen appeals filed</div>
+        </div>
+        <div class="kpi-card kpi-red">
+          <div class="kpi-label">Avg Risk Score</div>
+          <div class="kpi-value" id="kpi-risk">—</div>
+          <div class="kpi-sub">Platform-wide average</div>
+        </div>
+        <div class="kpi-card kpi-yellow">
+          <div class="kpi-label">Risk Assessments</div>
+          <div class="kpi-value" id="kpi-assessments">—</div>
+          <div class="kpi-sub">Total evaluated</div>
+        </div>
+      </div>
+
+      <div class="charts-grid">
+        <div class="card">
+          <div class="card-title"><span class="ct-icon">🍩</span> Decision Distribution</div>
+          <div class="chart-container"><canvas id="chart-approval"></canvas></div>
+        </div>
+        <div class="card">
+          <div class="card-title"><span class="ct-icon">📦</span> Scheme Utilization</div>
+          <div class="chart-container"><canvas id="chart-scheme"></canvas></div>
+        </div>
+        <div class="card">
+          <div class="card-title"><span class="ct-icon">🏛️</span> Department Performance</div>
+          <div class="chart-container"><canvas id="chart-dept"></canvas></div>
+        </div>
+        <div class="card">
+          <div class="card-title"><span class="ct-icon">⚠️</span> Risk Overview</div>
+          <div class="chart-container"><canvas id="chart-risk"></canvas></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ────────── 8-STAGE WORKFLOW (Section 5) ────────── -->
+    <section id="view-workflow" class="view">
+      <div class="page-header">
+        <h2>End-to-End Workflow <span class="header-badge">Section 5</span></h2>
+        <p>8-stage governance pipeline: from event generation to reporting &amp; analytics</p>
+      </div>
+
+      <div class="pipeline">
+        <div class="pipeline-stage"><div class="stage-num">01</div><div class="stage-name">Event Generation</div></div>
+        <div class="pipeline-stage"><div class="stage-num">02</div><div class="stage-name">Audit Capture</div></div>
+        <div class="pipeline-stage"><div class="stage-num">03</div><div class="stage-name">Evidence Association</div></div>
+        <div class="pipeline-stage"><div class="stage-num">04</div><div class="stage-name">Policy Mapping</div></div>
+        <div class="pipeline-stage"><div class="stage-num">05</div><div class="stage-name">Compliance Validation</div></div>
+        <div class="pipeline-stage"><div class="stage-num">06</div><div class="stage-name">Risk Evaluation</div></div>
+        <div class="pipeline-stage"><div class="stage-num">07</div><div class="stage-name">Governance Recording</div></div>
+        <div class="pipeline-stage"><div class="stage-num">08</div><div class="stage-name">Reporting &amp; Analytics</div></div>
+      </div>
+
+      <div class="charts-grid">
+        <div class="card">
+          <div class="card-title"><span class="ct-icon">📖</span> Stage Details</div>
+          <div class="data-table-wrap">
+            <table class="data-table">
+              <thead><tr><th>Stage</th><th>Name</th><th>Engines Used</th><th>Description</th></tr></thead>
+              <tbody>
+                <tr><td class="mono">1</td><td>Event Generation</td><td><span class="badge badge-neutral">Inbound</span></td><td>Events from citizens, officers, admins, AI agents</td></tr>
+                <tr><td class="mono">2</td><td>Audit Capture</td><td><span class="badge badge-info">4.1</span> <span class="badge badge-info">4.5</span> <span class="badge badge-info">4.9</span></td><td>Decision Audit + User Activity + AI Governance</td></tr>
+                <tr><td class="mono">3</td><td>Evidence Association</td><td><span class="badge badge-info">4.3</span> <span class="badge badge-info">4.4</span></td><td>Evidence Traceability + Document Audit</td></tr>
+                <tr><td class="mono">4</td><td>Policy Mapping</td><td><span class="badge badge-info">4.2</span></td><td>Policy Versioning — exact version used</td></tr>
+                <tr><td class="mono">5</td><td>Compliance Validation</td><td><span class="badge badge-info">4.11</span></td><td>Compliance Monitoring — rules & workflows</td></tr>
+                <tr><td class="mono">6</td><td>Risk Evaluation</td><td><span class="badge badge-info">4.12</span></td><td>Fraud & Risk Intelligence — anomaly detection</td></tr>
+                <tr><td class="mono">7</td><td>Governance Recording</td><td><span class="badge badge-ok">Immutable</span></td><td>Integrity hash — immutable governance record</td></tr>
+                <tr><td class="mono">8</td><td>Reporting &amp; Analytics</td><td><span class="badge badge-info">4.16</span> <span class="badge badge-info">4.17</span></td><td>Governance Reporting + Dashboard</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+        <div class="card">
+          <div class="card-title"><span class="ct-icon">🔗</span> Integration Points (Section 7)</div>
+          <div class="data-table-wrap">
+            <table class="data-table">
+              <thead><tr><th>System</th><th>Direction</th><th>Data</th></tr></thead>
+              <tbody>
+                <tr><td>Entitlement Agent</td><td><span class="badge badge-info">→ Receives</span></td><td>Eligibility decisions, Recommendation outcomes</td></tr>
+                <tr><td>Verification Agent</td><td><span class="badge badge-info">→ Receives</span></td><td>Verification results, Fraud indicators</td></tr>
+                <tr><td>Neo4j</td><td><span class="badge badge-ok">↔ Provides</span></td><td>Relationship analysis, Fraud detection graphs</td></tr>
+                <tr><td>LlamaIndex</td><td><span class="badge badge-ok">↔ Provides</span></td><td>Policy retrieval, Knowledge traceability</td></tr>
+                <tr><td>Hermes</td><td><span class="badge badge-ok">↔ Provides</span></td><td>Historical interactions, Decision memory</td></tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ────────── DECISION AUDIT (4.1) ────────── -->
+    <section id="view-decisions" class="view">
+      <div class="page-header">
+        <h2>Decision Audit <span class="header-badge">Section 4.1</span></h2>
+        <p>Captures and records all platform decisions — eligibility, verification, approvals, rejections</p>
+      </div>
+
+      <div class="search-bar">
+        <input class="input" id="input-citizen-id" type="text" placeholder="Enter Citizen ID (e.g. CIT-100045)">
+        <button class="btn btn-primary" id="btn-decision-search">🔍 Search</button>
+      </div>
+
+      <div class="card">
+        <div class="card-title"><span class="ct-icon">📋</span> Decision History</div>
+        <div class="data-table-wrap">
+          <table class="data-table">
+            <thead><tr><th>Decision ID</th><th>Actions</th></tr></thead>
+            <tbody id="decisions-tbody">
+              <tr><td colspan="2" class="empty-state"><div class="empty-icon">🔍</div><p>Search by Citizen ID to view decision history</p></td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- ────────── EXPLAINABILITY (4.6) ────────── -->
+    <section id="view-explainability" class="view">
+      <div class="page-header">
+        <h2>Explainability <span class="header-badge">Section 4.6</span></h2>
+        <p>Human-readable explanations — why approved, why rejected, which rules applied, which evidence influenced the outcome</p>
+      </div>
+
+      <div class="search-bar">
+        <input class="input" id="input-explain-id" type="text" placeholder="Enter Decision ID (e.g. DEC-PMAY-001)">
+        <button class="btn btn-primary" id="btn-explain-search">🔍 Explain</button>
+      </div>
+
+      <div id="explain-result">
+        <div class="empty-state"><div class="empty-icon">💡</div><p>Enter a Decision ID to see its full explanation</p></div>
+      </div>
+    </section>
+
+    <!-- ────────── DECISION REPLAY (4.10) ────────── -->
+    <section id="view-replay" class="view">
+      <div class="page-header">
+        <h2>Decision Replay <span class="header-badge">Section 4.10</span></h2>
+        <p>Reproduce past decisions exactly as they occurred — citizen profile, evidence, policy version, retrieved context, model version</p>
+      </div>
+
+      <div class="search-bar">
+        <input class="input" id="input-replay-id" type="text" placeholder="Enter Decision ID (e.g. DEC-PMAY-001)">
+        <button class="btn btn-primary" id="btn-replay-search">🔄 Replay</button>
+      </div>
+
+      <div id="replay-result">
+        <div class="empty-state"><div class="empty-icon">🔄</div><p>Enter a Decision ID to reconstruct the decision</p></div>
+      </div>
+    </section>
+
+    <!-- ────────── HUMAN OVERRIDES (4.7) ────────── -->
+    <section id="view-overrides" class="view">
+      <div class="page-header">
+        <h2>Human Override Governance <span class="header-badge">Section 4.7</span></h2>
+        <p>Track situations where human officers override AI recommendations</p>
+      </div>
+
+      <div class="search-bar">
+        <input class="input" id="input-override-id" type="text" placeholder="Enter Decision ID">
+        <button class="btn btn-primary" id="btn-override-search">🔍 Search</button>
+      </div>
+
+      <div id="override-result">
+        <div class="empty-state"><div class="empty-icon">👤</div><p>Enter a Decision ID to view overrides</p></div>
+      </div>
+    </section>
+
+    <!-- ────────── POLICY VERSIONING (4.2) ────────── -->
+    <section id="view-policies" class="view">
+      <div class="page-header">
+        <h2>Policy Versioning <span class="header-badge">Section 4.2</span></h2>
+        <p>Complete version history of policies, regulations, and scheme rules</p>
+      </div>
+
+      <div class="search-bar">
+        <input class="input" id="input-policy-name" type="text" placeholder="Enter Policy Name (e.g. PMAY)">
+        <button class="btn btn-primary" id="btn-policy-search">🔍 Search</button>
+      </div>
+
+      <div class="card">
+        <div class="card-title"><span class="ct-icon">📜</span> Policy Versions</div>
+        <div class="data-table-wrap">
+          <table class="data-table">
+            <thead><tr><th>Policy ID</th><th>Rule Version</th><th>Effective Date</th></tr></thead>
+            <tbody id="policies-tbody">
+              <tr><td colspan="3" class="empty-state"><p>Search by policy name to view version history</p></td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+
+    <!-- ────────── APPEALS (4.13) ────────── -->
+    <section id="view-appeals" class="view">
+      <div class="page-header">
+        <h2>Appeals &amp; Reconsideration <span class="header-badge">Section 4.13</span></h2>
+        <p>Submit citizen appeals — Decision → Appeal Submission → Review → Reconsideration → Final Decision</p>
+      </div>
+
+      <div class="card" style="margin-bottom: var(--sp-lg)">
+        <div class="card-title"><span class="ct-icon">📝</span> Submit Appeal</div>
+        <div class="form-grid">
+          <div class="form-group">
+            <label>Decision ID</label>
+            <input class="input" id="input-appeal-decision" type="text" placeholder="e.g. DEC-PMAY-001">
+          </div>
+          <div class="form-group">
+            <label>Grounds (optional)</label>
+            <input class="input" id="input-appeal-grounds" type="text" placeholder="Reason for appeal">
+          </div>
+        </div>
+        <button class="btn btn-primary" id="btn-submit-appeal">📝 Submit Appeal</button>
+      </div>
+
+      <div id="appeal-result"></div>
+    </section>
+
+    <!-- ────────── RTI SUPPORT (4.14) ────────── -->
+    <section id="view-rti" class="view">
+      <div class="page-header">
+        <h2>RTI Support <span class="header-badge">Section 4.14</span></h2>
+        <p>Right to Information — decision summaries, evidence packages, officer actions, audit trails, eligibility explanations</p>
+      </div>
+
+      <div class="search-bar">
+        <input class="input" id="input-rti-citizen" type="text" placeholder="Enter Citizen ID (e.g. CIT-100045)">
+        <button class="btn btn-primary" id="btn-rti-search">📋 Generate RTI Package</button>
+      </div>
+
+      <div id="rti-result">
+        <div class="empty-state"><div class="empty-icon">📋</div><p>Enter a Citizen ID to generate RTI package</p></div>
+      </div>
+    </section>
+
+    <!-- ────────── CITIZEN TIMELINE (4.15) ────────── -->
+    <section id="view-timeline" class="view">
+      <div class="page-header">
+        <h2>Cross-Department Timeline <span class="header-badge">Section 4.15</span></h2>
+        <p>Citizen governance timeline across Housing, Revenue, Health, Education, Social Welfare, Municipal Services</p>
+      </div>
+
+      <div class="search-bar">
+        <input class="input" id="input-timeline-citizen" type="text" placeholder="Enter Citizen ID (e.g. CIT-100045)">
+        <button class="btn btn-primary" id="btn-timeline-search">🕐 View Timeline</button>
+      </div>
+
+      <div id="timeline-result">
+        <div class="empty-state"><div class="empty-icon">🕐</div><p>Enter a Citizen ID to view cross-department timeline</p></div>
+      </div>
+    </section>
+
+    <!-- ────────── REPORTS (4.16) ────────── -->
+    <section id="view-reports" class="view">
+      <div class="page-header">
+        <h2>Governance Reporting <span class="header-badge">Section 4.16</span></h2>
+        <p>Generate governance and compliance reports — 8 report types</p>
+      </div>
+
+      <div class="card" style="margin-bottom: var(--sp-lg)">
+        <div class="card-title"><span class="ct-icon">📊</span> Generate Report</div>
+        <div class="form-grid">
+          <div class="form-group">
+            <label>Report Type</label>
+            <select class="input" id="input-report-type">
+              <option value="citizen_audit">Citizen Audit Report</option>
+              <option value="application_audit">Application Audit Report</option>
+              <option value="department_audit">Department Audit Report</option>
+              <option value="fraud_investigation">Fraud Investigation Report</option>
+              <option value="compliance">Compliance Report</option>
+              <option value="appeal_history">Appeal History Report</option>
+              <option value="ai_governance">AI Governance Report</option>
+              <option value="executive_governance">Executive Governance Report</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label>Citizen ID (if applicable)</label>
+            <input class="input" id="input-report-citizen" type="text" placeholder="e.g. CIT-100045">
+          </div>
+          <div class="form-group">
+            <label>Application ID (if applicable)</label>
+            <input class="input" id="input-report-app" type="text" placeholder="e.g. APP-2026-0091">
+          </div>
+          <div class="form-group">
+            <label>Department (if applicable)</label>
+            <input class="input" id="input-report-dept" type="text" placeholder="e.g. Housing">
+          </div>
+        </div>
+        <button class="btn btn-primary" id="btn-generate-report">📈 Generate Report</button>
+      </div>
+
+      <div id="report-result"></div>
+    </section>
+
+    <!-- ────────── INGEST EVENT (Section 7) ────────── -->
+    <section id="view-ingest" class="view">
+      <div class="page-header">
+        <h2>Ingest Governance Event <span class="header-badge">Section 7</span></h2>
+        <p>Submit events from Entitlement Agent, Verification Agent, or other sources through the 8-stage workflow</p>
+      </div>
+
+      <div class="pipeline" style="margin-bottom: var(--sp-lg)">
+        <div class="pipeline-stage"><div class="stage-num">01</div><div class="stage-name">Event Gen</div></div>
+        <div class="pipeline-stage"><div class="stage-num">02</div><div class="stage-name">Audit</div></div>
+        <div class="pipeline-stage"><div class="stage-num">03</div><div class="stage-name">Evidence</div></div>
+        <div class="pipeline-stage"><div class="stage-num">04</div><div class="stage-name">Policy</div></div>
+        <div class="pipeline-stage"><div class="stage-num">05</div><div class="stage-name">Compliance</div></div>
+        <div class="pipeline-stage"><div class="stage-num">06</div><div class="stage-name">Risk</div></div>
+        <div class="pipeline-stage"><div class="stage-num">07</div><div class="stage-name">Record</div></div>
+        <div class="pipeline-stage"><div class="stage-num">08</div><div class="stage-name">Report</div></div>
+      </div>
+
+      <div class="card" style="margin-bottom: var(--sp-lg)">
+        <div class="card-title"><span class="ct-icon">📥</span> Event JSON</div>
+        <div style="margin-bottom: var(--sp-md); display: flex; gap: var(--sp-sm); flex-wrap: wrap">
+          <button class="btn btn-sm btn-secondary" id="btn-sample-entitlement">📋 Sample: Entitlement Decision</button>
+          <button class="btn btn-sm btn-secondary" id="btn-sample-verification">📋 Sample: Verification Result</button>
+        </div>
+        <div class="form-group full-width">
+          <textarea class="input" id="input-event-json" rows="16" placeholder='Paste GovernanceEventIn JSON here...'></textarea>
+        </div>
+        <div style="margin-top: var(--sp-md)">
+          <button class="btn btn-primary" id="btn-ingest-event">⚡ Ingest Event → Run 8-Stage Workflow</button>
+        </div>
+      </div>
+
+      <div id="workflow-result"></div>
+    </section>
+
+  </main>
+</div>
+
+<div id="toast-container" class="toast-container"></div>
+
+<script src="/static/app.js"></script>
+</body>
+</html>

@@ -1,6 +1,7 @@
 import json
 import logging
 import re
+import threading
 from dataclasses import dataclass
 from typing import Any
 
@@ -578,11 +579,12 @@ Next Steps:
 """
             }
         ]
-        response = llm.create_chat_completion(messages, temperature=0.0, max_tokens=1000)
+        response = llm.create_chat_completion(messages, temperature=0.1, max_tokens=1000)
         content = response["choices"][0]["message"]["content"]
         if content and "Error:" not in content:
             return content.strip()
     except Exception as e:
+        print("LLM EXCEPTION:", str(e))
         logger.warning("Failed to generate LLM explanation: %s. Falling back to python explanation.", e)
     return None
 
@@ -1487,6 +1489,7 @@ def entitlement_agent(raw_query: str, citizen_id: str | None = None, user_id: st
 
 def update_llm_explanation_async(
     query_id: str,
+    citizen_id: str | None,
     raw_query: str,
     profile: dict[str, Any],
     overall_status: str,
@@ -1633,6 +1636,50 @@ def update_llm_explanation_async(
                 )
                 conn.commit()
             logger.info("Successfully updated query_id %s with LLM explanation in background thread", query_id)
+
+            # ------------------------------------------------------------------
+            # TRIGGER GACA (Governance, Audit & Compliance Agent)
+            # ------------------------------------------------------------------
+            try:
+                from app.agents.gaca.database import get_db
+                from app.agents.gaca.schemas import GovernanceEventIn, AIMetadataIn
+                from app.agents.gaca.workflow import process_event
+
+                # Create the event payload based on the generated determination
+                top_scheme = det.get("schemes", [{}])[0]
+                
+                event = GovernanceEventIn(
+                    event_type="eligibility_decision",
+                    responsible_agent="entitlement",
+                    citizen_id=str(citizen_id) if citizen_id else "anonymous",
+                    decision_id=query_id,
+                    application_id=query_id,
+                    scheme_id=top_scheme.get("scheme_name", "UNKNOWN_SCHEME"),
+                    decision_type="entitlement_screening",
+                    decision_result=eligibility_status,
+                    confidence_score=confidence,
+                    policy_id=top_scheme.get("scheme_name", "UNKNOWN"),
+                    profile_snapshot=profile,
+                    retrieved_context={"citations": policy_citations},
+                    required_documents=required_documents,
+                    ai_metadata=AIMetadataIn(
+                        llm="qwen-or-gemini",
+                        generated_response=llm_formatted,
+                        confidence_score=confidence
+                    )
+                )
+                
+                # Get a SQLAlchemy session
+                db_gen = get_db()
+                db_session = next(db_gen)
+                try:
+                    process_event(db_session, event)
+                    logger.info("GACA Audit logged for decision_id %s", query_id)
+                finally:
+                    db_session.close()
+            except Exception as e:
+                logger.error("Failed to push event to GACA: %s", e)
+
         finally:
             release_db_conn(conn)
     except Exception as e:
@@ -1773,11 +1820,11 @@ def run_entitlement_check(query_id: str, raw_query: str, user_id: str = None, ve
             conn.commit()
 
         # Launch background thread to update explanation with Llama3 asynchronously
-        import threading
         threading.Thread(
             target=update_llm_explanation_async,
             args=(
                 query_id,
+                citizen_id,
                 raw_query,
                 profile,
                 determination["decision_status"],

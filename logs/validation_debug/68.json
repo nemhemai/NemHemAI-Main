@@ -2,126 +2,776 @@
   "document_id": 68,
   "pages": {
     "1": {
-      "elements": 2,
-      "flagged": 2,
-      "flags": [],
-      "ocr_conf": 31.39,
-      "issues": [
-        {
-          "element_id": "68_p1_e0",
-          "sequence_order": 0,
-          "page_number": 1,
-          "quality_score": 0.314,
-          "element_type": "heading",
-          "reason": [],
-          "token_count": 5,
-          "text_preview": "arantera Were foresitrent Hares, arergt"
-        },
-        {
-          "element_id": "68_p1_e1",
-          "sequence_order": 1,
-          "page_number": 1,
-          "quality_score": 0.314,
-          "element_type": "table",
-          "reason": [],
-          "token_count": 341,
-          "text_preview": "aaMeahset Wavad AT-at Bat: fa[2[-S =; read ara: AST, aaMeahset Wavad AT-at Bat: HpTH Ware - frat ¢ aitrss 1) AERTS seteT"
-        }
-      ]
-    },
-    "2": {
-      "elements": 1,
-      "flagged": 1,
-      "flags": [],
-      "ocr_conf": 32.64,
-      "issues": [
-        {
-          "element_id": "68_p2_e2",
-          "sequence_order": 2,
-          "page_number": 2,
-          "quality_score": 0.326,
-          "element_type": "table",
-          "reason": [],
-          "token_count": 255,
-          "text_preview": "BNA Wer sas 1959: CEaa BNA Wer 3fAfasa 1959; BNA Wer sas 1959: aca wea afer 1959, GO / - ee: reer; BNA Wer sas 1959: BNA"
-        }
-      ]
-    },
-    "3": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "4": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "5": {
-      "elements": 2,
-      "flagged": 1,
+      "elements": 18,
+      "flagged": 18,
       "flags": [
         "low_content"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "68_p5_e5",
-          "sequence_order": 5,
-          "page_number": 5,
-          "quality_score": 0.6,
+          "element_id": "68_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Chhattisgarh State Electricity Regulatory Commission"
+        },
+        {
+          "element_id": "68_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Irrigation Colony, Shanti Nagar, Raipur (C.G.) – 492001"
+        },
+        {
+          "element_id": "68_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Raipur, Dated ."
+        },
+        {
+          "element_id": "68_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
-          "token_count": 2,
-          "text_preview": "a[2 i]"
+          "token_count": 1,
+          "text_preview": "NOTIFICATION"
+        },
+        {
+          "element_id": "68_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 106,
+          "text_preview": "No. 106/CSERC/2023 - ln exercise of powers vested under Section 42, 61, 66, 86 read with Section  181 of the Electricity"
+        },
+        {
+          "element_id": "68_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "1.  Short Title and Commencement"
+        },
+        {
+          "element_id": "68_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "1.1  These Regulations shall be called Chhattisgarh State Electricity Regulatory Commission  (Grid Interactive Distribut"
+        },
+        {
+          "element_id": "68_p1_e7",
+          "sequence_order": 7,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "1.2  These Regulations shall come into force from September 01, 2023.    2.  New definition c(a) for regulation 2: Defin"
+        },
+        {
+          "element_id": "68_p1_e8",
+          "sequence_order": 8,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "New definition c)(a) shall be added after definition 2.1(c) of the Principal regulations,"
+        },
+        {
+          "element_id": "68_p1_e9",
+          "sequence_order": 9,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "namely:-"
+        },
+        {
+          "element_id": "68_p1_e10",
+          "sequence_order": 10,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "c)(a) “Banking Cycle” will be same as the financial year.    3.  New definition h(a) for regulation 2: Definitions & Int"
+        },
+        {
+          "element_id": "68_p1_e11",
+          "sequence_order": 11,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "New definition h)(a) shall be added after definition 2.1(h) of the Principal regulations,"
+        },
+        {
+          "element_id": "68_p1_e12",
+          "sequence_order": 12,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "namely:-"
+        },
+        {
+          "element_id": "68_p1_e13",
+          "sequence_order": 13,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "h)(a) “Green energy” means the electrical energy from renewable sources of energy"
+        },
+        {
+          "element_id": "68_p1_e14",
+          "sequence_order": 14,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 76,
+          "text_preview": "including hydro and storage (if the storage uses renewable energy) or any other  technology as may be notified by the Go"
+        },
+        {
+          "element_id": "68_p1_e15",
+          "sequence_order": 15,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "New sub regulation 7.3 shall be added for regulation 7 of the Principal regulations, namely:-"
+        },
+        {
+          "element_id": "68_p1_e16",
+          "sequence_order": 16,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 49,
+          "text_preview": "7.3  The distribution licensee shall give green certificate on yearly basis to the  consumers, captive users and other d"
+        },
+        {
+          "element_id": "68_p1_e17",
+          "sequence_order": 17,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "TO BE PUBLISHED IN THE GAZETTE OF CHHATTISGARH"
         }
       ]
     },
-    "6": {
-      "elements": 1,
-      "flagged": 0,
+    "2": {
+      "elements": 3,
+      "flagged": 3,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "68_p2_e18",
+          "sequence_order": 18,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 431,
+          "text_preview": "5.  New Sub regulation 7.4 for regulation 7  New sub regulation 7.4 shall be added for regulation 7 of the Principal reg"
+        },
+        {
+          "element_id": "68_p2_e19",
+          "sequence_order": 19,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "For first proviso of sub regulation a) of regulation 18.2 the CSERC DRE Regulations (First  Amendment) 2021, the followi"
+        },
+        {
+          "element_id": "68_p2_e20",
+          "sequence_order": 20,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 82,
+          "text_preview": "Provided that the minimum size of distributed renewable energy system that has been  set up upto 31st August 2023 under "
+        }
+      ]
     },
-    "7": {
-      "elements": 4,
-      "flagged": 2,
+    "3": {
+      "elements": 21,
+      "flagged": 21,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "68_p3_e21",
+          "sequence_order": 21,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 97,
+          "text_preview": "Further, that the minimum size of distributed renewable energy system for upcoming  IDRES projects (other than IDRES pro"
+        },
+        {
+          "element_id": "68_p3_e22",
+          "sequence_order": 22,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "For regulation 21 of the CSERC DRE Regulations (First Amendment) 2021, the following  sub regulation shall be substitute"
+        },
+        {
+          "element_id": "68_p3_e23",
+          "sequence_order": 23,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "21.  Banking and Charges to be levied for Open Access"
+        },
+        {
+          "element_id": "68_p3_e24",
+          "sequence_order": 24,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "Charges  IDRES projects for first 500  MW or projects which have  achieved COD by 27.12.2023,  whichever is earlier."
+        },
+        {
+          "element_id": "68_p3_e25",
+          "sequence_order": 25,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "Upcoming IDRES projects (other than  IDRES projects for first 500 MW or  projects which have achieved COD by  27.12.2023"
+        },
+        {
+          "element_id": "68_p3_e26",
+          "sequence_order": 26,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Nil for the entire useful life of  the IDRES Projects."
+        },
+        {
+          "element_id": "68_p3_e27",
+          "sequence_order": 27,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "Transmission charges shall be as specified  in the tariff order applicable from time to  time.  21.2  Wheeling  Charges"
+        },
+        {
+          "element_id": "68_p3_e28",
+          "sequence_order": 28,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Nil for the entire useful life of  the IDRES Projects."
+        },
+        {
+          "element_id": "68_p3_e29",
+          "sequence_order": 29,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "Wheeling charges shall be as specified in  the tariff order applicable from time to time.  21.3  Cross Subsidy  Surcharg"
+        },
+        {
+          "element_id": "68_p3_e30",
+          "sequence_order": 30,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Nil for the entire useful life of  the IDRES Projects."
+        },
+        {
+          "element_id": "68_p3_e31",
+          "sequence_order": 31,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 51,
+          "text_preview": "As specified in the tariff order applicable  from time to time. Green energy open access  consumer purchasing green ener"
+        },
+        {
+          "element_id": "68_p3_e32",
+          "sequence_order": 32,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Nil for the entire useful life of  the IDRES Projects."
+        },
+        {
+          "element_id": "68_p3_e33",
+          "sequence_order": 33,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "As specified in the tariff order applicable  from time to time."
+        },
+        {
+          "element_id": "68_p3_e34",
+          "sequence_order": 34,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "21.5  Standby  Charges"
+        },
+        {
+          "element_id": "68_p3_e35",
+          "sequence_order": 35,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "As specified in the applicable  tariff order."
+        },
+        {
+          "element_id": "68_p3_e36",
+          "sequence_order": 36,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "125% of the energy charges applicable to  the consumer tariff category as specified  in the tariff order.  21.6  Banking"
+        },
+        {
+          "element_id": "68_p3_e37",
+          "sequence_order": 37,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "i. Banking  facility  will  be  available for useful life period  of the project.    ii. Banking of 100% of energy"
+        },
+        {
+          "element_id": "68_p3_e38",
+          "sequence_order": 38,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "injection, after netting the  generation  with  in-house  auxiliary requirement, shall be  permitted for all captive and"
+        },
+        {
+          "element_id": "68_p3_e39",
+          "sequence_order": 39,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "i. Banking facility will be available for"
+        },
+        {
+          "element_id": "68_p3_e40",
+          "sequence_order": 40,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "useful life period of the project.      ii. Banking shall be permitted at least on"
+        },
+        {
+          "element_id": "68_p3_e41",
+          "sequence_order": 41,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 67,
+          "text_preview": "monthly basis on payment of charges to  compensate additional cost for all  captive and open access consumption.  Permit"
+        }
+      ]
+    },
+    "4": {
+      "elements": 11,
+      "flagged": 11,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "68_p4_e42",
+          "sequence_order": 42,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "Charges  IDRES projects for first 500  MW or projects which have  achieved COD by 27.12.2023,  whichever is earlier."
+        },
+        {
+          "element_id": "68_p4_e43",
+          "sequence_order": 43,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "Upcoming IDRES projects (other than  IDRES projects for first 500 MW or  projects which have achieved COD by  27.12.2023"
+        },
+        {
+          "element_id": "68_p4_e44",
+          "sequence_order": 44,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "iii. Banking charges @ 2% of"
+        },
+        {
+          "element_id": "68_p4_e45",
+          "sequence_order": 45,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "banked  energy  shall  be  payable in kind. The banking  year shall be from April to  March.  iv. Banked units redeemed "
+        },
+        {
+          "element_id": "68_p4_e46",
+          "sequence_order": 46,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 86,
+          "text_preview": "normal period (5 am to 6 pm or  as specified in the applicable  Tariff Order) and off-peak load  period (11 pm to 5 am n"
+        },
+        {
+          "element_id": "68_p4_e47",
+          "sequence_order": 47,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 97,
+          "text_preview": "sale, energy injected into the  grid  from  the  date  of  synchronization till the open  access approval date will be  "
+        },
+        {
+          "element_id": "68_p4_e48",
+          "sequence_order": 48,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "cycles and shall be adjusted during the  same banking cycle.    iii. Banking charges @ 2% of banked"
+        },
+        {
+          "element_id": "68_p4_e49",
+          "sequence_order": 49,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "energy shall be payable in kind. The  banking year shall be from April to  March.    iv. Banked units redeemed during no"
+        },
+        {
+          "element_id": "68_p4_e50",
+          "sequence_order": 50,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 79,
+          "text_preview": "period (5 am to 6 pm or as specified in  the applicable Tariff Order) and off-peak  load period (11 pm to 5 am next day "
+        },
+        {
+          "element_id": "68_p4_e51",
+          "sequence_order": 51,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "v. For captive use/ third party sale, energy"
+        },
+        {
+          "element_id": "68_p4_e52",
+          "sequence_order": 52,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 79,
+          "text_preview": "injected into the grid from the date of  synchronization till the open access  approval date will be considered as  deem"
+        }
+      ]
+    },
+    "5": {
+      "elements": 19,
+      "flagged": 19,
       "flags": [
-        "low_content",
-        "corrupted_text"
+        "low_content"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "68_p7_e8",
-          "sequence_order": 8,
-          "page_number": 7,
-          "quality_score": 0.6,
+          "element_id": "68_p5_e53",
+          "sequence_order": 53,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "Charges  IDRES projects for first 500  MW or projects which have  achieved COD by 27.12.2023,  whichever is earlier."
+        },
+        {
+          "element_id": "68_p5_e54",
+          "sequence_order": 54,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "Upcoming IDRES projects (other than  IDRES projects for first 500 MW or  projects which have achieved COD by  27.12.2023"
+        },
+        {
+          "element_id": "68_p5_e55",
+          "sequence_order": 55,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 40,
+          "text_preview": "licensee, energy injected into  the grid from date of  synchronization  to  Commercial Operation Date  (COD) will be pur"
+        },
+        {
+          "element_id": "68_p5_e56",
+          "sequence_order": 56,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "vii. For Sale to distribution licensee,"
+        },
+        {
+          "element_id": "68_p5_e57",
+          "sequence_order": 57,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 39,
+          "text_preview": "energy injected into the grid from date  of synchronization to Commercial  Operation Date (COD) will be  purchased by th"
+        },
+        {
+          "element_id": "68_p5_e58",
+          "sequence_order": 58,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "21.7  Deviation  Settlement  Charges"
+        },
+        {
+          "element_id": "68_p5_e59",
+          "sequence_order": 59,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "i. All solar power projects shall be"
+        },
+        {
+          "element_id": "68_p5_e60",
+          "sequence_order": 60,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 54,
+          "text_preview": "awarded must-run status i.e.,  injection from the solar power  projects shall be considered as  deemed to be scheduled. "
+        },
+        {
+          "element_id": "68_p5_e61",
+          "sequence_order": 61,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "i. All solar power projects shall be"
+        },
+        {
+          "element_id": "68_p5_e62",
+          "sequence_order": 62,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "awarded must-run status i.e., injection  from the solar power projects shall be  considered as deemed to be scheduled.  "
+        },
+        {
+          "element_id": "68_p5_e63",
+          "sequence_order": 63,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "any regulation framed under the  Electricity Act 2003, all IDRES projects  shall not be subjected to scheduling and  dev"
+        },
+        {
+          "element_id": "68_p5_e64",
+          "sequence_order": 64,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "21.8  Additional  Surcharge"
+        },
+        {
+          "element_id": "68_p5_e65",
+          "sequence_order": 65,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "Nil  It will not be applicable for green energy  open access consumers if fixed charges are  being paid by such a consum"
+        },
+        {
+          "element_id": "68_p5_e66",
+          "sequence_order": 66,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 51,
+          "text_preview": "21.9  CSPDCL will be the nodal agency to monitor and display of solar capacity addition. This  information will be displ"
+        },
+        {
+          "element_id": "68_p5_e67",
+          "sequence_order": 67,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 33,
+          "text_preview": "COD by 27.12.2023, whichever is earlier, shall be applicable for billing cycle starting  September 01, 2023.    21.11 Or"
+        },
+        {
+          "element_id": "68_p5_e68",
+          "sequence_order": 68,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "projects for first 500 MW or projects which have achieved COD by 27.12.2023, whichever  is earlier."
+        },
+        {
+          "element_id": "68_p5_e69",
+          "sequence_order": 69,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "By the Order of the Commission"
+        },
+        {
+          "element_id": "68_p5_e70",
+          "sequence_order": 70,
+          "page_number": 5,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
-          "text_preview": "ij 2]"
+          "text_preview": "(S.P. Shukla)"
         },
         {
-          "element_id": "68_p7_e9",
-          "sequence_order": 9,
-          "page_number": 7,
-          "quality_score": 0.5,
+          "element_id": "68_p5_e71",
+          "sequence_order": 71,
+          "page_number": 5,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
-            "corrupted_text"
+            "low_content"
           ],
-          "token_count": 6,
-          "text_preview": "© 3 - [4 [| $6"
+          "token_count": 1,
+          "text_preview": "Secretary"
         }
       ]
     }

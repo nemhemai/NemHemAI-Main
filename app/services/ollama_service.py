@@ -1,8 +1,9 @@
 import ollama
+import os
 
 class OllamaLLM:
-    def __init__(self, model="llama3.2:3b"):
-        self.model = model
+    def __init__(self, model=None):
+        self.model = model or os.getenv("OLLAMA_MODEL", "llama3.2:3b")
 
     def create_chat_completion(self, messages, temperature=0.0, max_tokens=256, format=None, **kwargs):
         try:

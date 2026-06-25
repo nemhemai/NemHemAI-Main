@@ -1,0 +1,2111 @@
+{
+  "document_id": 75,
+  "pages": {
+    "1": {
+      "elements": 16,
+      "flagged": 16,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "75_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "“fee sea a ye  FEELS \\%  ciofier ani  Sea res (fer ars fer) dar  g  \\  3%  “aecfterrg /si/09/2013-2015.”  rr ss fa. a. f"
+        },
+        {
+          "element_id": "75_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "(STATE)  mitra  S weather"
+        },
+        {
+          "element_id": "75_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "SATA 262 ]  Fan Tag, Farerany, fais 26 HE 2026 —Sre 5, 3H 1948  afrsa  vd sent feart"
+        },
+        {
+          "element_id": "75_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Aa WAG seat WR, feria 25 as 2026  afar"
+        },
+        {
+          "element_id": "75_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 34,
+          "text_preview": "wuts PROJ/2617/2025-O/O DS(C&l)— as saa, Tag, axthrrs Aarae  ws eersarg GIRS  ANT 2025-30 % sia wa Ferdort carectt at AS"
+        },
+        {
+          "element_id": "75_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "1. ATF Ud SaTaafosar- (1) 3 aA STR TS Fees WISHES PG, 2026 HESTET|"
+        },
+        {
+          "element_id": "75_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "(2) 3 fran wea 4 ver & fein S erate eh"
+        },
+        {
+          "element_id": "75_p1_e7",
+          "sequence_order": 7,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "(3) sitet faepra fife 2024-30 cht cremate 3 ora eh ares odes gen sa Revs &  wera Frere fete of sea att srdert or Pee sa "
+        },
+        {
+          "element_id": "75_p1_e8",
+          "sequence_order": 8,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "2. GRATST-  We ae Gey S sever afta a, sa Maal 4 fa S sda @, odhers sare wi  eereary MRT AHS 2025-301"
+        },
+        {
+          "element_id": "75_p1_e9",
+          "sequence_order": 9,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "3. fie sicria eighaa Acdiet We et og Tara  TPR ITE DY Sit gga Dicaet ora ERY og Prt areal At gfe fear GAT"
+        },
+        {
+          "element_id": "75_p1_e10",
+          "sequence_order": 10,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "1)  garg ot fe At Hisar  51) 4 sigskea ceréa Hr oferst sterar vet ve  Greiser contre sath eT (OPIIT) SeOIey We SOM Hae, "
+        },
+        {
+          "element_id": "75_p1_e11",
+          "sequence_order": 11,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "(2) srs, Set ve sitaRe ao dae fet (PIT), afer vt GET Fas,  ART GRP SRT ANT Fey SeTESTT WATT Vt aT S|"
+        },
+        {
+          "element_id": "75_p1_e12",
+          "sequence_order": 12,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "3) garg or ovine 4 Adenia sang ger hurt afta, 2013 & sicria  t"
+        },
+        {
+          "element_id": "75_p1_e13",
+          "sequence_order": 13,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 42,
+          "text_preview": "fort (DPLT), WISE Vs SEAM FAHY, ART TRO SRI GAMA WR FETE Uy  AY ory dentin soy G wT F dole sar siftarl |r cen Ate & sicr"
+        },
+        {
+          "element_id": "75_p1_e14",
+          "sequence_order": 14,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "(9) eg Mae Seite TIE aTfhror vd set fart arr ait silent  aie, 2024-30 & uRRre-3 F aia sara eit cen oRBTE -5 4 afoic are "
+        },
+        {
+          "element_id": "75_p1_e15",
+          "sequence_order": 15,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "(5) 4 Tere sy SHAT Gt aes Us A eerfta oRGReE aren sorsal Ht gaa"
+        }
+      ]
+    },
+    "2": {
+      "elements": 21,
+      "flagged": 21,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "75_p2_e16",
+          "sequence_order": 16,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "524  orterre waa, fare 26 HE 2026  SSS  20 6"
+        },
+        {
+          "element_id": "75_p2_e17",
+          "sequence_order": 17,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 40,
+          "text_preview": "(6) 34 Prot & sieng Poa scared og aet 8g ae otras ebm fe eeréary wy  Roe EMA Fereary aes AAS SRT site hes array 2024-30 "
+        },
+        {
+          "element_id": "75_p2_e18",
+          "sequence_order": 18,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "4, ufpar-"
+        },
+        {
+          "element_id": "75_p2_e19",
+          "sequence_order": 19,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "(1) er tert wer 10(3) & rg roa enter wera wa AAAI ae"
+        },
+        {
+          "element_id": "75_p2_e20",
+          "sequence_order": 20,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "(i) Wares, SENT sera SA SrA ATA HSA — sezer"
+        },
+        {
+          "element_id": "75_p2_e21",
+          "sequence_order": 21,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "(ii) MSME-DFO & oferta  at aera Rea OPT RR & Bl GRAHATAR)"
+        },
+        {
+          "element_id": "75_p2_e22",
+          "sequence_order": 22,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "(iii) Wom Fae (fen, set GaeATSI"
+        },
+        {
+          "element_id": "75_p2_e23",
+          "sequence_order": 23,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "(iv) Wath FASS, SIM GaAs — Fee aa"
+        },
+        {
+          "element_id": "75_p2_e24",
+          "sequence_order": 24,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "(v) fas (CHIPS) & waa (AIRAPAGAR)"
+        },
+        {
+          "element_id": "75_p2_e25",
+          "sequence_order": 25,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "WoT  BRA Of oq ATs  4 Gea Ht onazerepen  eh"
+        },
+        {
+          "element_id": "75_p2_e26",
+          "sequence_order": 26,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "(2) Wor RNa cereay Gaels UPS A aa vd Sara  a a"
+        },
+        {
+          "element_id": "75_p2_e27",
+          "sequence_order": 27,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "(i) TPR SRA asi seer  wife widest Bt atten aeett qe sree"
+        },
+        {
+          "element_id": "75_p2_e28",
+          "sequence_order": 28,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Cid ARR ee  wrayaeet  ota,  Be & aguies  8g"
+        },
+        {
+          "element_id": "75_p2_e29",
+          "sequence_order": 29,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "(iv) Sif eercare  dae A gah sea Poker SY ag of aiflger ehh wa  Foleo SHAE & fecora S Safer az Pola Sa ar afer SMT"
+        },
+        {
+          "element_id": "75_p2_e30",
+          "sequence_order": 30,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "(0) SoCo Ad SRR wh GR areas  Wer oe & yard &  gelagem & ase  | aA Goes aie Say eee tga  ATTA WH FETE ST SHIA Het STAT"
+        },
+        {
+          "element_id": "75_p2_e31",
+          "sequence_order": 31,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "v) GPa arr fay ay Pofat & fay ah ake wr S suaerht  WaT  set efor oS See On| eee  a ET eo ee  ferege oreo BPRS & are Ege "
+        },
+        {
+          "element_id": "75_p2_e32",
+          "sequence_order": 32,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "(3) Fare gargat are Me sierfa Bigfa wea ora ae arr @ syaler  We oe it fsa  3"
+        },
+        {
+          "element_id": "75_p2_e33",
+          "sequence_order": 33,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "(1) Perera genrg wt feat aiées Fichter ae Gers arranien ore aA rege ATI"
+        },
+        {
+          "element_id": "75_p2_e34",
+          "sequence_order": 34,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "2) SEPT STEDTEH STE RA & Tae FTES SoS ERT Hess bre a sia  oat  Frater eeise oer mee ae"
+        },
+        {
+          "element_id": "75_p2_e35",
+          "sequence_order": 35,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "(i) PRA FATT OF / GofteneoT FATOT Ot"
+        },
+        {
+          "element_id": "75_p2_e36",
+          "sequence_order": 36,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "(ii) Shersarsct  part oa"
+        }
+      ]
+    },
+    "3": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "75_p3_e37",
+          "sequence_order": 37,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "#  z al Fs  a9  a9 ae 4 ay"
+        },
+        {
+          "element_id": "75_p3_e38",
+          "sequence_order": 38,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "aa, ia 45  ig duu res"
+        },
+        {
+          "element_id": "75_p3_e39",
+          "sequence_order": 39,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "«BS  ag .:  rs  344 ai a  oH iiba y  Bag  #8  ab.  ab a 8"
+        }
+      ]
+    },
+    "4": {
+      "elements": 15,
+      "flagged": 15,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "75_p4_e40",
+          "sequence_order": 40,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "524 (2  oettang  ta, feats 26 FE 2026"
+        },
+        {
+          "element_id": "75_p4_e41",
+          "sequence_order": 41,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "DISS, Cra, HS ch SARA Vs STAT aT flaRuy, Te MVP"
+        },
+        {
+          "element_id": "75_p4_e42",
+          "sequence_order": 42,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "© tis Hs Uhr Ht srazaenan & Heer 4 rege Ht"
+        },
+        {
+          "element_id": "75_p4_e43",
+          "sequence_order": 43,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 48,
+          "text_preview": "(H) WOA-1 STAIR  TT  © ths He wer og SRAM che HT GSA Ts OVA -2 STAIR)  SRAM  ha Se  saa  & Mer ade eT EN vera Gaels SA  "
+        },
+        {
+          "element_id": "75_p4_e44",
+          "sequence_order": 44,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 134,
+          "text_preview": "(1) STTae TE BF & aT HepeUT argUl el cht Bre AL peor A Hal wr sara BA  SoA aay RT GS ee a eg Lg SEG STOO  feat ht srafet"
+        },
+        {
+          "element_id": "75_p4_e45",
+          "sequence_order": 45,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "(iv) teres Sarg & SaRaafaca"
+        },
+        {
+          "element_id": "75_p4_e46",
+          "sequence_order": 46,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 38,
+          "text_preview": "(®) teres garg ant dts ths Gera Ue or saat Sa err Pata set ¥  ae FRAT GT MPT TAT SGA OTT GY OR Te MUR AA 12.5 wferare as"
+        },
+        {
+          "element_id": "75_p4_e47",
+          "sequence_order": 47,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "CS) eel Forests RE ara kee (MVP) 2 AoE BP Te SET AT  GH UEees Bt ae, Walia SRAM Sha F SAayVeS LEAT  erm!"
+        },
+        {
+          "element_id": "75_p4_e48",
+          "sequence_order": 48,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "TT) CCEHT  SR GT SSM 8g Bae Wea A S  ayeM eg wafer  Oe  et aS saa  ee  %"
+        },
+        {
+          "element_id": "75_p4_e49",
+          "sequence_order": 49,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "(2) wea sierhite satel 4 anflent og ayer"
+        },
+        {
+          "element_id": "75_p4_e50",
+          "sequence_order": 50,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "i) Ha & afsar6(5) a, Fores sarge  aresayeigenia sate"
+        },
+        {
+          "element_id": "75_p4_e51",
+          "sequence_order": 51,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "(ii) Ferear-dfta oriaa 8 apa WS arate & 8 frat seer verse aT  SIR Sree GMT, fora wear, Acafer Fa cen sHrecy & dae fy saa"
+        },
+        {
+          "element_id": "75_p4_e52",
+          "sequence_order": 52,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "ora ert |"
+        },
+        {
+          "element_id": "75_p4_e53",
+          "sequence_order": 53,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "(iv) SRAM 8g He sera Wor AR & feet ora ary 8 GAM WHR A Perse  OTE ET OR ECTS SHTS HY ST STEM HI UAT AT Veh"
+        },
+        {
+          "element_id": "75_p4_e54",
+          "sequence_order": 54,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "(v) Teles SHTy HT HHA F APT SA og SRA rahe ht Praia  fafa  RTT 15 fT Ot SET HaTOSAS HT ST VSM PRAT SARAH SMT |"
+        }
+      ]
+    },
+    "5": {
+      "elements": 17,
+      "flagged": 17,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "75_p5_e55",
+          "sequence_order": 55,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "oedtarrg ta1, feria 26 FE 2026  524  (3)"
+        },
+        {
+          "element_id": "75_p5_e56",
+          "sequence_order": 56,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "i) ge fet & orfetafed ah & cara WS orator free fart A weiter St ae  ST  ey Ht staan  al Vth"
+        },
+        {
+          "element_id": "75_p5_e57",
+          "sequence_order": 57,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 37,
+          "text_preview": "(vii) feat og ora ar  @) adabio oRaeq 8 dalle aa ae (RR sore core gag aa, to aT  eH Sof Bisa Ter aa Aa BAS ehh! ist sera"
+        },
+        {
+          "element_id": "75_p5_e58",
+          "sequence_order": 58,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "(BH) TEMhta Yow GA Toller you, wat Yew, wf fe ara seas)"
+        },
+        {
+          "element_id": "75_p5_e59",
+          "sequence_order": 59,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 42,
+          "text_preview": "CD Sete Forage Fee oe (Rees TAC, SEA TAT aa MUTE eA  ob ofrafe  area set  ert  OS veneoll A ore rare feet ger F fever ra"
+        },
+        {
+          "element_id": "75_p5_e60",
+          "sequence_order": 60,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "(S) eae rigs aftanas ct eieoraa Pear arfier wera gi ora ef  Pe oN eo nae ee"
+        },
+        {
+          "element_id": "75_p5_e61",
+          "sequence_order": 61,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "(viii) STARA SEATS  () sao ware aA & ara, teres sors wr 60 awl & sfae Parts dees  WR SCTE STH Pea CRT 8 ATT Get BRAT EPT"
+        },
+        {
+          "element_id": "75_p5_e62",
+          "sequence_order": 62,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "(a) ae ated arin uictdes, freAscerée edhe” ar Sri (logo) FTE"
+        },
+        {
+          "element_id": "75_p5_e63",
+          "sequence_order": 63,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "(S) arr feel ht whe vs pra fraxor"
+        },
+        {
+          "element_id": "75_p5_e64",
+          "sequence_order": 64,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "(H) Retesger Yow TCT Ht AS, ewe Yow; SMa MTT TET"
+        },
+        {
+          "element_id": "75_p5_e65",
+          "sequence_order": 65,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "(©) sierersty oreies F arftent ht fate A gor fara dae eearast"
+        },
+        {
+          "element_id": "75_p5_e66",
+          "sequence_order": 66,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 38,
+          "text_preview": "(&) WI TA (ATA -3)  SCTE SHS Hl HAHA F APT OF  SISA  MAT & ATTA S AT  $m iF eee Rene cor ron aah ee ae  8PM, TT  orisbs "
+        },
+        {
+          "element_id": "75_p5_e67",
+          "sequence_order": 67,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "(3) SN Ser  aie cht eefSerr 6(4) & SPAR UST SRI ARTA  UT Fevesea sorgat  ar aa"
+        },
+        {
+          "element_id": "75_p5_e68",
+          "sequence_order": 68,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "vipat after va sett fT ant oINt afeeHT wAISGENS/1105/1/2025—  COMM.& INDUS feria 25 ses 2025 Sea Seat aye BAT ox sey foo"
+        },
+        {
+          "element_id": "75_p5_e69",
+          "sequence_order": 69,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "(4) Sess fase eer wfergls"
+        },
+        {
+          "element_id": "75_p5_e70",
+          "sequence_order": 70,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "(i) ie St HhSor 6(6) & SAGAR WI IRI AAT We KeresT soreal wr afer F  VIGhEd AAT sions fess cae wfeglea Bt ora Seth"
+        },
+        {
+          "element_id": "75_p5_e71",
+          "sequence_order": 71,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "(ii) ae ital FT ecmrt 8g GEL eth -"
+        }
+      ]
+    },
+    "6": {
+      "elements": 20,
+      "flagged": 20,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "75_p6_e72",
+          "sequence_order": 72,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "524 (4  oedierre uataa, fais 26 FE 2026"
+        },
+        {
+          "element_id": "75_p6_e73",
+          "sequence_order": 73,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "(®) Meta (Facebook/Instagram/ Threads) Ads"
+        },
+        {
+          "element_id": "75_p6_e74",
+          "sequence_order": 74,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "(84) YouTube Ads"
+        },
+        {
+          "element_id": "75_p6_e75",
+          "sequence_order": 75,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "@) LinkedIn Ads"
+        },
+        {
+          "element_id": "75_p6_e76",
+          "sequence_order": 76,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "(8) Microsoft Ads"
+        },
+        {
+          "element_id": "75_p6_e77",
+          "sequence_order": 77,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "(S.) Google Ads"
+        },
+        {
+          "element_id": "75_p6_e78",
+          "sequence_order": 78,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "(a) X (Twitter) Ads"
+        },
+        {
+          "element_id": "75_p6_e79",
+          "sequence_order": 79,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "(8) E-commerce platform Ads  Sain cH & after Aart ERI ATA WR aaagledt sa enn wage  ag oF er"
+        },
+        {
+          "element_id": "75_p6_e80",
+          "sequence_order": 80,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "(ii) Forearm gargat FHA ved S fret ora aor oT he ROR HH aie & sierfer"
+        },
+        {
+          "element_id": "75_p6_e81",
+          "sequence_order": 81,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "(iv) ASAT:-  Se AF IST HW RCFE Re A ST  unmet"
+        },
+        {
+          "element_id": "75_p6_e82",
+          "sequence_order": 82,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "(@) vores sag at simon fauna ade 4 fer ceaedell & oer andes"
+        },
+        {
+          "element_id": "75_p6_e83",
+          "sequence_order": 83,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "vie, fort wet cae cht fetet vd Safi Ferear or ATA eae we & siferet eT"
+        },
+        {
+          "element_id": "75_p6_e84",
+          "sequence_order": 84,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "GaSe fae cea Statement)  #1 Ufa, Ret Safes IAAT wT Hae wo S afar  Ta"
+        },
+        {
+          "element_id": "75_p6_e85",
+          "sequence_order": 85,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "(S) FTI & Hae A ares SeoNsee GT VAT TAI"
+        },
+        {
+          "element_id": "75_p6_e86",
+          "sequence_order": 86,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "©) Fey Ty fasnot & Shae /Pevleea arts fsa (TET STesee VN!"
+        },
+        {
+          "element_id": "75_p6_e87",
+          "sequence_order": 87,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "(5) Whe Heri og facta wicaet"
+        },
+        {
+          "element_id": "75_p6_e88",
+          "sequence_order": 88,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 36,
+          "text_preview": "() 3H Aiea Hr SfSo7 6(7)% SPAR  Wes ERI ATA WA Ferésrg gaHisat HT SEBI  dips aiecwifea seaeete Geet (AIFs) 12747 daR Hft"
+        },
+        {
+          "element_id": "75_p6_e89",
+          "sequence_order": 89,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "(ii) WaT"
+        },
+        {
+          "element_id": "75_p6_e90",
+          "sequence_order": 90,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "ua ert |"
+        },
+        {
+          "element_id": "75_p6_e91",
+          "sequence_order": 91,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 42,
+          "text_preview": "(@) Fe Heated Shs Hus sera Cores Paar S ore dar oR OP AT SAT  rereat at anda vera site faze aS GEBI) RIG  ent  a  tase A"
+        }
+      ]
+    },
+    "7": {
+      "elements": 16,
+      "flagged": 16,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "75_p7_e92",
+          "sequence_order": 92,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "orients usta, exis 26 HE 2026  524 (5"
+        },
+        {
+          "element_id": "75_p7_e93",
+          "sequence_order": 93,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "(&) Wea & rereary (fess) HVS HI VTA aX aS AIF are fA we Pda oe  US WATT  OP] Ae et |"
+        },
+        {
+          "element_id": "75_p7_e94",
+          "sequence_order": 94,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "(6, aie & sa mea sat 4S ora cercarcg a azar A art  Co oa ere oe Re HY feet oA ator Se Far ere & FS A"
+        },
+        {
+          "element_id": "75_p7_e95",
+          "sequence_order": 95,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "|  Bp REIT Bag Fer Aes HY afERGST cr  A eigetwe Fetgor"
+        },
+        {
+          "element_id": "75_p7_e96",
+          "sequence_order": 96,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "|  CY RCE OTOH aR Array Her Her ERT aT OH Bes Wop AT MT aR"
+        },
+        {
+          "element_id": "75_p7_e97",
+          "sequence_order": 97,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "BH) Yes Sars SRI wre Pear or saahT Hass sr & sae Pata saat  een  sen"
+        },
+        {
+          "element_id": "75_p7_e98",
+          "sequence_order": 98,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "SHR TSTT STI Wega HA cH A Teo sharener/arftent  sera 7 ws  ORach gst eT"
+        },
+        {
+          "element_id": "75_p7_e99",
+          "sequence_order": 99,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 43,
+          "text_preview": "(©) Feréara ar Pear aeo Ur sep Gra 4 ora aA A AD Bo ae & oer facta  wed & fSy smog veréem tds we ander Ge afvarl em flay"
+        },
+        {
+          "element_id": "75_p7_e100",
+          "sequence_order": 100,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "(©) FEST HT STIS & Tre PASS AAT Ge AT ST"
+        },
+        {
+          "element_id": "75_p7_e101",
+          "sequence_order": 101,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 65,
+          "text_preview": "(3) AIFERR efticfesee 8 ora Fea HT FATT (Sanction Letter/Confirmation)  (a) feat aasitcT (SSA/SHA/Term Sheet)  (@) Prear"
+        },
+        {
+          "element_id": "75_p7_e102",
+          "sequence_order": 102,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "(Q  Pea at & recite soar ar flexor Utilization Plan)  SR Tae ey aR Ciliza"
+        },
+        {
+          "element_id": "75_p7_e103",
+          "sequence_order": 103,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 52,
+          "text_preview": "(6) caret Got Pree sgqert  Qype)  2 aT ea ant al  Weer gorge ar ier  SBR ATA Feet  CRCRECOMICCI  | Sent Vela va  focror "
+        },
+        {
+          "element_id": "75_p7_e104",
+          "sequence_order": 104,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "(i) SA TAT oa Sar aaa oR var ua ene eerésmy sarsar a se  ayer  Sg OF eit"
+        },
+        {
+          "element_id": "75_p7_e105",
+          "sequence_order": 105,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "(ii) Fis Hs Tera ae HORT FETT UAT Hr AT caret deh Freer & Arex  Sarat  fea SET"
+        },
+        {
+          "element_id": "75_p7_e106",
+          "sequence_order": 106,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "iv)  féeerat  Ie teres garsal & ats wd waa He F Mafra we wr vere"
+        },
+        {
+          "element_id": "75_p7_e107",
+          "sequence_order": 107,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "(7) FIFA HATO  Star"
+        }
+      ]
+    },
+    "8": {
+      "elements": 16,
+      "flagged": 16,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "75_p8_e108",
+          "sequence_order": 108,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "524 (6)  Bedterrg UAT, faais 26 FE 2026"
+        },
+        {
+          "element_id": "75_p8_e109",
+          "sequence_order": 109,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 52,
+          "text_preview": "(i) UST AR SRI ASAT OTe CTS SETS opr Hite ct hse 12 ) A slgeherct  FARM sige St orate arth agers edtepher ve fercreor st"
+        },
+        {
+          "element_id": "75_p8_e110",
+          "sequence_order": 110,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "(i) SUTET DAT va Sar afefafet we vA ua eRe Keres gargat et st  Sart  8g TF eh"
+        },
+        {
+          "element_id": "75_p8_e111",
+          "sequence_order": 111,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "(8) GRatST  We ser"
+        },
+        {
+          "element_id": "75_p8_e112",
+          "sequence_order": 112,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 51,
+          "text_preview": "(i) TSI ARM SRI AAT Ua KerTeaT sHTSAt ot ifer ht Hfsewr6(13) + sis feIa  FATE sigert Ht Ora Vrth seer Kepler ve fern At "
+        },
+        {
+          "element_id": "75_p8_e113",
+          "sequence_order": 113,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "(i) BUTE WaT vasa afefafe Ret vA ua aka vere sarsat ot sa  ayer  ég oF ei"
+        },
+        {
+          "element_id": "75_p8_e114",
+          "sequence_order": 114,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "(9) Terih  tee ayer"
+        },
+        {
+          "element_id": "75_p8_e115",
+          "sequence_order": 115,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "(i) UST ARM SRI AIA Ge Kees SHTSA ot aAhfer ht dfset6(14) + sleet  FER  ayer ht ota ert"
+        },
+        {
+          "element_id": "75_p8_e116",
+          "sequence_order": 116,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "(ii) Forest garg are Ue Se AHS state A ora fear va Vt"
+        },
+        {
+          "element_id": "75_p8_e117",
+          "sequence_order": 117,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "(iii) TS AAS SETS SHS SRI VCS Aa Tafahe oe Het & ye ore fee aT  arab aur ae ee verona a AAA aE a"
+        },
+        {
+          "element_id": "75_p8_e118",
+          "sequence_order": 118,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 86,
+          "text_preview": "(iv) PETIA WTA FTES SepTs aT feos tee ar aries tercary garg & ura st  wT wre seg a uv tee & afte way Ww aero  (commercia"
+        },
+        {
+          "element_id": "75_p8_e119",
+          "sequence_order": 119,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "v) Has F PTA GH eeréars gars & SH Gard S Wee wa HS? og fey ays steer  thee TRS, HCaH(CEM) Yow, GAA) Yoo, IRA AE) Yor HI "
+        },
+        {
+          "element_id": "75_p8_e120",
+          "sequence_order": 120,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "(vi) Ser SAHA Vd fear ht what arfoies ve seit fest errant afer  HATH GENS/32/2025-COMM.&INDUS fori 14 HRN, 2025 SAR Te W"
+        },
+        {
+          "element_id": "75_p8_e121",
+          "sequence_order": 121,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "(10) Sten Pr sea se"
+        },
+        {
+          "element_id": "75_p8_e122",
+          "sequence_order": 122,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "(i) UST WA SRI ATA Te SeTesrT sHTSAT ar iter cht fSse16(15) F sigh  FER  ger & ora eri"
+        },
+        {
+          "element_id": "75_p8_e123",
+          "sequence_order": 123,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "(ii) SCTET SETS Seo WATT ora/ Bar Teale ARE WATT at Te A TTT  Osa ayant eg Wa eit"
+        }
+      ]
+    },
+    "9": {
+      "elements": 17,
+      "flagged": 17,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "75_p9_e124",
+          "sequence_order": 124,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "otter uaa, ais 26 FE 2026  524 (7)"
+        },
+        {
+          "element_id": "75_p9_e125",
+          "sequence_order": 125,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "(a rer SIEM  Seal Us ISAT. RDC) & alent wer fey GTA At  4 al argent Ht oat ehh"
+        },
+        {
+          "element_id": "75_p9_e126",
+          "sequence_order": 126,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "(iy) sea St mg EAP aor eter Sores Tae & eres gang H a far a"
+        },
+        {
+          "element_id": "75_p9_e127",
+          "sequence_order": 127,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 34,
+          "text_preview": "(v) SRM Cpe va flee bt wiper aftres yd seit ery ert at afer  HATH GENS/32/2025-COMM.&INDUS  fA 14 HR, 2025 & SIAR Te GAI"
+        },
+        {
+          "element_id": "75_p9_e128",
+          "sequence_order": 128,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "(11) SOIR OH SEFEMAT"
+        },
+        {
+          "element_id": "75_p9_e129",
+          "sequence_order": 129,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "(i) UOT ARM SR APTA OTe SeTeSTT SHTSAT Hr Aer Ht HSH 16) F skRsVa  FATT otgart Hl Osa er  Sea er were AA ee eT STEHT TE "
+        },
+        {
+          "element_id": "75_p9_e130",
+          "sequence_order": 130,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "(iii) TAT"
+        },
+        {
+          "element_id": "75_p9_e131",
+          "sequence_order": 131,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "(®) SHS UST UA S AA We eres Vt ae"
+        },
+        {
+          "element_id": "75_p9_e132",
+          "sequence_order": 132,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "(GB) FETE HT SHTS SI ATA 10 S aefelen Fereht Vow Ofsta fee Ae el"
+        },
+        {
+          "element_id": "75_p9_e133",
+          "sequence_order": 133,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "() Raita ofant ohare & 465 Fart ah are"
+        },
+        {
+          "element_id": "75_p9_e134",
+          "sequence_order": 134,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "(&) aNd wr ASH Fat F50,000 de st Tee!  ) ated eer Praiort eeresre gong A were rates & wr # aha TRE"
+        },
+        {
+          "element_id": "75_p9_e135",
+          "sequence_order": 135,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "(iv) HRI ATT  @) aaa Ht ah, ores ar, ve, Pgfes aie, des ve fest or aera  Cw areata & frafes GF (Appointment Letter) dem "
+        },
+        {
+          "element_id": "75_p9_e136",
+          "sequence_order": 136,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 37,
+          "text_preview": "!  Fife er PTCA oT SY ae HATO ATT a |  (a otaRat & otk & ys art aA or vA EPF/ESIG dafea  aearas,  afe ore  Ca eee a  Rem"
+        },
+        {
+          "element_id": "75_p9_e137",
+          "sequence_order": 137,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "(i) USS A SRL ASAT He eereaT HTSAl ar AH at chfSen16(17) 4 wkezfera  FAIR  argent At ora ert  SET HAT SP DEY  HUN HU TOS"
+        },
+        {
+          "element_id": "75_p9_e138",
+          "sequence_order": 138,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "FAIA OR fey Ty Sate & STAR Vth"
+        },
+        {
+          "element_id": "75_p9_e139",
+          "sequence_order": 139,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "(13) fox ayer"
+        },
+        {
+          "element_id": "75_p9_e140",
+          "sequence_order": 140,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "(i) Ae Ht HiSer HAS 6(10) & SFA USI SRI ARIAT Ha Kerears sept wr"
+        }
+      ]
+    },
+    "10": {
+      "elements": 14,
+      "flagged": 14,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "75_p10_e141",
+          "sequence_order": 141,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "524 (8  Bedterrg UAT, faais 26 FE 2026"
+        },
+        {
+          "element_id": "75_p10_e142",
+          "sequence_order": 142,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "afer 4 sfgsferct at sre feo sigan cht ora eri"
+        },
+        {
+          "element_id": "75_p10_e143",
+          "sequence_order": 143,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "(ii),  Ufecses IeteER Keres vd BRR sHMrh 4 aria cera gargal ar5%  after argent cre er"
+        },
+        {
+          "element_id": "75_p10_e144",
+          "sequence_order": 144,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 42,
+          "text_preview": "(ii) WAT:  eapear_oe 4 orka verésm sagal a fra vee F  a  Greater enone Bers  S aaa Va saaae eT  w  @ frat Ss ga aa & wre"
+        },
+        {
+          "element_id": "75_p10_e145",
+          "sequence_order": 145,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 102,
+          "text_preview": "FRR EY, rey germ ae EMT YF  () wea aera de aR & fet sea flo S FAM GT oT esa WA  SCE SHS FH BISA SF TAT Fel SrA  &, CEA E"
+        },
+        {
+          "element_id": "75_p10_e146",
+          "sequence_order": 146,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "(iv) Ufpar ¢ afetore:-"
+        },
+        {
+          "element_id": "75_p10_e147",
+          "sequence_order": 147,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "(®) were 3m somal at cece tds 4 Paifea aael & er"
+        },
+        {
+          "element_id": "75_p10_e148",
+          "sequence_order": 148,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "{Sparen Ser ea a"
+        },
+        {
+          "element_id": "75_p10_e149",
+          "sequence_order": 149,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "@) ferret S Safeic orqer oa (ou tule wrafess 4 coftera!"
+        },
+        {
+          "element_id": "75_p10_e150",
+          "sequence_order": 150,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "(BH) YeaTa  GT WATT  © SRR oe 4 tale eh A Poe 4 saa Gite A whe"
+        },
+        {
+          "element_id": "75_p10_e151",
+          "sequence_order": 151,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "(GB) TIES SHS BNI SMG sdeH Arita ales H FLSA A HAT STII"
+        },
+        {
+          "element_id": "75_p10_e152",
+          "sequence_order": 152,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "@) Tee Tae FT ores He Are A ega fear oT saz etm Fafa  Tae & Gare Mega ata edtperpa afeeont ene edie et feet GT"
+        },
+        {
+          "element_id": "75_p10_e153",
+          "sequence_order": 153,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 45,
+          "text_preview": "(B) STIS TT BY & Gare HenROT TET Vy cht HRSrher A Mee FH apPat ar gard ga  Se A ay RT GS ee ad eg eg SB BRTGO  feat ht c"
+        },
+        {
+          "element_id": "75_p10_e154",
+          "sequence_order": 154,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 50,
+          "text_preview": "(S.) WTA WT veoit & Mar fitor GOR the  waren aE War RR  afttent ert fear ore  | ae Peo wets 6 Ae A feat OTT) Scores WATT"
+        }
+      ]
+    },
+    "11": {
+      "elements": 4,
+      "flagged": 4,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "75_p11_e155",
+          "sequence_order": 155,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 33,
+          "text_preview": "4  3  9E0  = 12% 9: dag a bas peas 2 995  8a gas Hdd  BS gos  S 4  z  faut a Tbr Hin f 4] i 2u4 | re agar  a a,"
+        },
+        {
+          "element_id": "75_p11_e156",
+          "sequence_order": 156,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "af ¥92  ds q i ys FLEES: is  3"
+        },
+        {
+          "element_id": "75_p11_e157",
+          "sequence_order": 157,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "4a age  a3: UG ae:  q aa  We  TA lig"
+        },
+        {
+          "element_id": "75_p11_e158",
+          "sequence_order": 158,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "‘4 ro  ee  ha"
+        }
+      ]
+    },
+    "12": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "75_p12_e159",
+          "sequence_order": 159,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "13 4S  5 aguas ae as pas das S  PIAS FPS 30"
+        },
+        {
+          "element_id": "75_p12_e160",
+          "sequence_order": 160,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "tea: ee del? Ay Une  aoe  Vave  ee a: bleu Haat:;d  a ahi eae aa Giada?"
+        }
+      ]
+    },
+    "13": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "75_p13_e161",
+          "sequence_order": 161,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "S 4A 4s 28118 |:"
+        },
+        {
+          "element_id": "75_p13_e162",
+          "sequence_order": 162,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "aa ei dy (ay tad  re"
+        },
+        {
+          "element_id": "75_p13_e163",
+          "sequence_order": 163,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "a i ia  re L  | pieliie;"
+        }
+      ]
+    },
+    "14": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "75_p14_e164",
+          "sequence_order": 164,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "teed  a4 24 2e 4 aq is iu"
+        },
+        {
+          "element_id": "75_p14_e165",
+          "sequence_order": 165,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "4  ag 4 i a,"
+        }
+      ]
+    },
+    "15": {
+      "elements": 23,
+      "flagged": 23,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "75_p15_e166",
+          "sequence_order": 166,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "oatierrg Unt, feria 26 HE 2026  524 (13)"
+        },
+        {
+          "element_id": "75_p15_e167",
+          "sequence_order": 167,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "WO -2  ais hs (MVP fa@rt 8g) & Sy ayaieT UA wT ROT"
+        },
+        {
+          "element_id": "75_p15_e168",
+          "sequence_order": 168,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "TROT aIaT Sa race SRN erat SS ERT fee rats"
+        },
+        {
+          "element_id": "75_p15_e169",
+          "sequence_order": 169,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "1. teresa  or fraxur"
+        },
+        {
+          "element_id": "75_p15_e170",
+          "sequence_order": 170,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "(1) Sates  @T AT:"
+        },
+        {
+          "element_id": "75_p15_e171",
+          "sequence_order": 171,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "(2) Goftepeor (DPIITABA) GEM:"
+        },
+        {
+          "element_id": "75_p15_e172",
+          "sequence_order": 172,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "(3) SAG  aw:"
+        },
+        {
+          "element_id": "75_p15_e173",
+          "sequence_order": 173,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "(4) Bea TTT ST AT:"
+        },
+        {
+          "element_id": "75_p15_e174",
+          "sequence_order": 174,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "(5) Softee  eT:"
+        },
+        {
+          "element_id": "75_p15_e175",
+          "sequence_order": 175,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "2. URaT/Scae  aT fazer"
+        },
+        {
+          "element_id": "75_p15_e176",
+          "sequence_order": 176,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "(1) SeUreRaT  BT A:"
+        },
+        {
+          "element_id": "75_p15_e177",
+          "sequence_order": 177,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "(2) 84 (Sector):"
+        },
+        {
+          "element_id": "75_p15_e178",
+          "sequence_order": 178,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "(3) Sea oT afer fran:"
+        },
+        {
+          "element_id": "75_p15_e179",
+          "sequence_order": 179,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "(4) weaTfaet SaTa:"
+        },
+        {
+          "element_id": "75_p15_e180",
+          "sequence_order": 180,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "3. Proof of Concept (PoC) &1 Feat  Fran GIT U¥Ge Proof of Concept (PoC) oT FFT sTemt oe Wtarorercarost fear aa"
+        },
+        {
+          "element_id": "75_p15_e181",
+          "sequence_order": 181,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "(1) Tariteht cagerian:"
+        },
+        {
+          "element_id": "75_p15_e182",
+          "sequence_order": 182,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "(2) Farare/fefereat:"
+        },
+        {
+          "element_id": "75_p15_e183",
+          "sequence_order": 183,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "(3) STs SEAT:"
+        },
+        {
+          "element_id": "75_p15_e184",
+          "sequence_order": 184,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "(4) Saehrectorrese  leo a aS ey:"
+        },
+        {
+          "element_id": "75_p15_e185",
+          "sequence_order": 185,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "(5) erosfafesdd:  PoC  & fearte:"
+        },
+        {
+          "element_id": "75_p15_e186",
+          "sequence_order": 186,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 39,
+          "text_preview": "4. Stara (Recommendation)  GR avAPao & aI OR ae ate Ht ort f  oh teean of oes Tara ve vera wicares Ae 2025-30 & sicra BR"
+        },
+        {
+          "element_id": "75_p15_e187",
+          "sequence_order": 187,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "(1) aaRifeet  ser Uer: F  Q)amifaa  safe:  TS"
+        },
+        {
+          "element_id": "75_p15_e188",
+          "sequence_order": 188,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "5, fears art ate aig el)"
+        }
+      ]
+    },
+    "17": {
+      "elements": 4,
+      "flagged": 4,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "75_p17_e189",
+          "sequence_order": 189,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "PRECEETEC)  ob  ca  fa a4"
+        },
+        {
+          "element_id": "75_p17_e190",
+          "sequence_order": 190,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "aaeag  aa at ae  #|  |)  3  Ff gi qa  ho) Babe  a  4  i 4 3"
+        },
+        {
+          "element_id": "75_p17_e191",
+          "sequence_order": 191,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": ",  32  8"
+        },
+        {
+          "element_id": "75_p17_e192",
+          "sequence_order": 192,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "4 2 45"
+        }
+      ]
+    },
+    "18": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "75_p18_e193",
+          "sequence_order": 193,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "aa 5a ae a"
+        },
+        {
+          "element_id": "75_p18_e194",
+          "sequence_order": 194,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "|  at"
+        }
+      ]
+    }
+  }
+}

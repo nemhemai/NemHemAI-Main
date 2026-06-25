@@ -1,5 +1,5 @@
 {
-  "total_briefings": 8,
+  "total_briefings": 9,
   "role_patterns": {
     "field_officer": [
       "Briefing for grievance: Water Supply - \"There is a massive water pipeline that h",
@@ -9,7 +9,8 @@
       "Briefing for grievance: Water Supply - \"There is a massive water pipeline that h",
       "Briefing for grievance: Water Supply - \"There is a massive water pipeline that h",
       "Briefing for grievance: Water Supply - \"There is a massive water pipeline that h",
-      "Briefing for grievance: Electricity - Our entire neighborhood in Sector 4 has be"
+      "Briefing for grievance: Electricity - Our entire neighborhood in Sector 4 has be",
+      "Briefing for grievance: Sanitation - The municipal garbage bins outside the Gree"
     ]
   },
   "successful_templates": [],
@@ -69,6 +70,13 @@
       "doc_count": 1,
       "confidence": 0.95,
       "timestamp": "2026-06-15T18:27:27.026776"
+    },
+    {
+      "query": "Briefing for grievance: Sanitation - The municipal garbage bins outside the Green Valley apartment c",
+      "role": "field_officer",
+      "doc_count": 1,
+      "confidence": 0.95,
+      "timestamp": "2026-06-24T19:57:22.687254"
     }
   ],
   "feedback": [],

@@ -12,7 +12,8 @@ import {
   fetchApplicationGuidance,
   submitApplication,
   fetchApplicationStatus,
-  fetchAuditLogs
+  fetchAuditLogs,
+  fetchDecisionExplanation
 } from "../api/entitlementApi";
 
 // Verhoeff algorithm tables for validation check
@@ -264,6 +265,18 @@ function EntitlementDashboard() {
   const [auditLogs, setAuditLogs] = useState([]);
   const [auditLoading, setAuditLoading] = useState(false);
 
+  const [explanationModal, setExplanationModal] = useState({ isOpen: false, data: null, loading: false, error: null });
+
+  const handleOpenExplanation = async (decisionId) => {
+    setExplanationModal({ isOpen: true, data: null, loading: true, error: null });
+    try {
+      const data = await fetchDecisionExplanation(decisionId);
+      setExplanationModal({ isOpen: true, data, loading: false, error: null });
+    } catch (err) {
+      setExplanationModal({ isOpen: true, data: null, loading: false, error: err.message });
+    }
+  };
+
   // Fetch audit logs when citizenId changes or when tab opens
   const loadAuditLogs = useCallback(async () => {
     if (!citizenId) return;
@@ -474,8 +487,8 @@ function EntitlementDashboard() {
       let current = null;
       let loadedInitial = false;
 
-      // Poll up to 120 times (every 1 second = 2 minutes total)
-      for (let attempt = 0; attempt < 120; attempt += 1) {
+      // Poll up to 300 times (every 1 second = 5 minutes total)
+      for (let attempt = 0; attempt < 300; attempt += 1) {
         current = await fetchEntitlementResult(queued.query_id);
 
         if (current?.status === "GENERATING_EXPLANATION") {
@@ -1186,7 +1199,23 @@ function EntitlementDashboard() {
                           {/* Policy Citations & Reference Sources */}
                           {scheme.citations && scheme.citations.length > 0 && (
                             <div style={styles.explainableSection}>
-                              <span style={styles.explainableLabel}>Policy Citations & Reference Sources:</span>
+                              <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "8px" }}>
+                                <span style={{...styles.explainableLabel, marginBottom: 0}}>Policy Citations & Reference Sources:</span>
+                                {checkResult?.query_id && (
+                                  <button
+                                    onClick={() => handleOpenExplanation(checkResult.query_id)}
+                                    style={{
+                                      ...styles.actionButton,
+                                      backgroundColor: checkResult.status !== "COMPLETED" ? "#f3f4f6" : "#f0f9ff",
+                                      color: checkResult.status !== "COMPLETED" ? "#9ca3af" : "#0369a1",
+                                      borderColor: checkResult.status !== "COMPLETED" ? "#e5e7eb" : "#bae6fd",
+                                      cursor: checkResult.status !== "COMPLETED" ? "not-allowed" : "pointer"
+                                    }}
+                                  >
+                                    {checkResult.status !== "COMPLETED" ? "⏳ Generating Audit Trail..." : "🕵️ Audit Trail & AI Reasoning"}
+                                  </button>
+                                )}
+                              </div>
                               <div style={styles.citationsContainer}>
                                 {scheme.citations.map((cit, idx) => (
                                   <div key={idx} style={styles.citationCard}>
@@ -1439,35 +1468,40 @@ function EntitlementDashboard() {
             ) : (
               <div style={styles.auditLogsList}>
                 {auditLogs.map((log) => (
-                  <div key={log.audit_id} style={styles.auditLogCard}>
+                  <div key={log.id || log.audit_id || Math.random()} style={styles.auditLogCard}>
                     <div style={styles.auditHeader}>
-                      <strong>Scheme: {log.scheme_name}</strong>
+                      <strong>Scheme: {log.policy_id || log.scheme_id || log.scheme_name}</strong>
                       <span style={{
                         ...styles.auditActionBadge,
-                        backgroundColor: log.action === "RECOMMEND" ? "#e7f6ec" : (log.action === "REJECT" ? "#fdecea" : "#fff8e1"),
-                        color: log.action === "RECOMMEND" ? "#176b3a" : (log.action === "REJECT" ? "#b42318" : "#8a5a00")
-                      }}>{log.action}</span>
+                        backgroundColor: (log.status === "approved" || log.status === "RECOMMEND" || log.decision_result === "ELIGIBLE") ? "#e7f6ec" : ((log.status === "rejected" || log.status === "REJECT" || log.decision_result === "NOT_ELIGIBLE") ? "#fdecea" : "#fff8e1"),
+                        color: (log.status === "approved" || log.status === "RECOMMEND" || log.decision_result === "ELIGIBLE") ? "#176b3a" : ((log.status === "rejected" || log.status === "REJECT" || log.decision_result === "NOT_ELIGIBLE") ? "#b42318" : "#8a5a00")
+                      }}>{log.decision_result || log.status || log.action}</span>
                     </div>
-                    <div style={styles.auditTime}>Logged on: {new Date(log.created_at).toLocaleString()}</div>
+                    <div style={styles.auditTime}>Logged on: {new Date(log.created_at || log.timestamp || Date.now()).toLocaleString()}</div>
                     
                     <div style={styles.auditDetailGrid}>
                       <div>
-                        <strong>Verdict:</strong> <em>{log.decision_trace.verdict}</em>
+                        <strong>Verdict:</strong> <em>{log.decision_result || log.decision_trace?.verdict}</em>
                       </div>
                       <div>
-                        <strong>Met Criteria:</strong> {log.decision_trace.met_criteria?.join(", ") || "None"}
-                      </div>
-                      <div>
-                        <strong>Failed Criteria:</strong> {log.decision_trace.failed_conditions?.join(", ") || "None"}
-                      </div>
-                      <div>
-                        <strong>Required Documents:</strong> {log.decision_trace.required_documents?.join(", ") || "None"}
+                        <strong>Context ID:</strong> {log.context_id || log.decision_id || "N/A"}
                       </div>
                     </div>
                     
                     <div style={styles.auditJustify}>
-                      <strong>Eligibility Justification:</strong>
-                      <p style={styles.excerptText}>{log.decision_trace.reasons?.join(" ")}</p>
+                      <strong>Compliance Rule Results & Justification:</strong>
+                      {log.rule_results && log.rule_results.length > 0 ? (
+                        <ul style={{ margin: "8px 0 0 0", paddingLeft: "20px", fontSize: "13px", color: "#475569" }}>
+                          {log.rule_results.map((rule, idx) => (
+                            <li key={idx}>
+                              {rule.rule_id}: <strong style={{color: rule.passed ? "#166534" : "#991b1b"}}>{rule.passed ? "PASSED" : "FAILED"}</strong>
+                              {rule.evidence && <span style={{marginLeft: "6px"}}>- {rule.evidence}</span>}
+                            </li>
+                          ))}
+                        </ul>
+                      ) : (
+                        <p style={styles.excerptText}>{log.decision_trace?.reasons?.join(" ") || "No detailed rule trace available."}</p>
+                      )}
                     </div>
                   </div>
                 ))}
@@ -1477,6 +1511,103 @@ function EntitlementDashboard() {
         )}
 
       </main>
+
+      {/* Explanation Modal */}
+      {explanationModal.isOpen && (
+        <div style={{
+          position: "fixed",
+          top: 0, left: 0, right: 0, bottom: 0,
+          backgroundColor: "rgba(15, 23, 42, 0.6)",
+          display: "flex",
+          justifyContent: "center",
+          alignItems: "center",
+          zIndex: 1000,
+          padding: "20px"
+        }}>
+          <div style={{
+            background: "#fff",
+            borderRadius: "12px",
+            width: "100%",
+            maxWidth: "700px",
+            maxHeight: "90vh",
+            overflowY: "auto",
+            boxShadow: "0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04)"
+          }}>
+            <div style={{ padding: "20px", borderBottom: "1px solid #e2e8f0", display: "flex", justifyContent: "space-between", alignItems: "center" }}>
+              <h3 style={{ margin: 0, fontSize: "18px", color: "#0f172a" }}>AI Decision Reasoning & Audit Trace</h3>
+              <button 
+                onClick={() => setExplanationModal({ ...explanationModal, isOpen: false })}
+                style={{ background: "none", border: "none", fontSize: "20px", cursor: "pointer", color: "#64748b" }}
+              >
+                ✕
+              </button>
+            </div>
+            <div style={{ padding: "24px" }}>
+              {explanationModal.loading ? (
+                <div style={{ textAlign: "center", padding: "40px", color: "#64748b" }}>
+                  <div style={styles.pulseDotBlue}></div> Fetching cryptographic audit trace...
+                </div>
+              ) : explanationModal.error ? (
+                <div style={styles.errorAlert}>Error loading explanation: {explanationModal.error}</div>
+              ) : explanationModal.data ? (
+                <div style={{ display: "flex", flexDirection: "column", gap: "20px" }}>
+                  <div style={{ padding: "16px", background: "#f8fafc", borderRadius: "8px", border: "1px solid #e2e8f0" }}>
+                    <h4 style={{ margin: "0 0 12px 0", color: "#1e293b", fontSize: "16px", borderBottom: "1px solid #cbd5e1", paddingBottom: "8px" }}>
+                      Decision Verdict: {explanationModal.data.verdict}
+                    </h4>
+                    
+                    <div style={{ fontSize: "14px", color: "#334155", lineHeight: "1.6", whiteSpace: "pre-wrap" }}>
+                      <strong>AI Reasoning:</strong>
+                      <p>{explanationModal.data.reasons || explanationModal.data.ai_generated_response || "No advanced LLM explanation found for this decision."}</p>
+                    </div>
+                    
+                    <div style={{ marginTop: "16px", display: "flex", flexWrap: "wrap", gap: "10px", fontSize: "13px" }}>
+                      <div style={{ padding: "8px", background: "#fff", border: "1px solid #e2e8f0", borderRadius: "4px" }}>
+                        <strong style={{ color: "#475569" }}>Policy Checked:</strong> {explanationModal.data.policy_used || "Unknown"}
+                      </div>
+                      <div style={{ padding: "8px", background: "#fff", border: "1px solid #e2e8f0", borderRadius: "4px" }}>
+                        <strong style={{ color: "#475569" }}>Rules Version:</strong> {explanationModal.data.rules_applied || "v1"}
+                      </div>
+                      <div style={{ padding: "8px", background: "#fff", border: "1px solid #e2e8f0", borderRadius: "4px" }}>
+                        <strong style={{ color: "#475569" }}>Confidence:</strong> {parseFloat(explanationModal.data.confidence_score || 0).toFixed(1)}%
+                      </div>
+                    </div>
+
+                    {explanationModal.data.documents_used && explanationModal.data.documents_used.length > 0 && (
+                      <div style={{ marginTop: "16px" }}>
+                        <strong style={{ fontSize: "13px", color: "#475569" }}>Documents Referenced:</strong>
+                        <ul style={{ margin: "8px 0 0 0", paddingLeft: "20px", fontSize: "13px", color: "#334155" }}>
+                          {explanationModal.data.documents_used.map((d, i) => (
+                            <li key={i}>{d}</li>
+                          ))}
+                        </ul>
+                      </div>
+                    )}
+                    
+                    {explanationModal.data.evidence_influencing_outcome && explanationModal.data.evidence_influencing_outcome.length > 0 && (
+                      <div style={{ marginTop: "16px" }}>
+                        <strong style={{ fontSize: "13px", color: "#475569" }}>Traceability Chain (Evidence):</strong>
+                        <ul style={{ margin: "8px 0 0 0", paddingLeft: "20px", fontSize: "13px", color: "#334155" }}>
+                          {explanationModal.data.evidence_influencing_outcome.map((ev, i) => (
+                            <li key={i} style={{ marginBottom: "6px" }}>
+                              <strong>{ev.rule_id}</strong>
+                              <p style={{ margin: "2px 0 0 0", color: "#64748b" }}>Score: {ev.evidence_score} | Doc: {ev.document_type}</p>
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    )}
+                    
+                    <div style={{ marginTop: "16px", fontSize: "11px", color: "#94a3b8" }}>
+                      Decision ID: {explanationModal.data.decision_id}
+                    </div>
+                  </div>
+                </div>
+              ) : null}
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   );
 }

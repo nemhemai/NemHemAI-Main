@@ -1,0 +1,1163 @@
+{
+  "document_id": 81,
+  "pages": {
+    "1": {
+      "elements": 8,
+      "flagged": 8,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "81_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "m1]:  __  Bettas waa, ferries 24 HAAT 2008  2927.  ."
+        },
+        {
+          "element_id": "81_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Raipur, the 13th October 2008:  ‘"
+        },
+        {
+          "element_id": "81_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": ".  .  i  rticle 309 of the  tio of Inia, the Governor  of Chhatisparh, herby makes the folowing rules relating, tothe"
+        },
+        {
+          "element_id": "81_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "vcornitment od ens  of service to the members of Chhattisgarh Treasuries Information Technology"
+        },
+        {
+          "element_id": "81_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "(Gazetted) Service Recruitment Rules, namely:—"
+        },
+        {
+          "element_id": "81_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "RULE  1.  Short title and commencement:- (1)  These rues may be called the  Chhattisgarh Treasuries Information Technolo"
+        },
+        {
+          "element_id": "81_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 233,
+          "text_preview": "(2) It shall come into force with effect from the date of its  publication in  mo,  the “Official Gazette”,  .  2.  Deti"
+        },
+        {
+          "element_id": "81_p1_e7",
+          "sequence_order": 7,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": ":  contained in the Chhattisgarh Civil Services ( General conditions of service )  Rules 1961, these rules shall apply t"
+        }
+      ]
+    },
+    "2": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "81_p2_e8",
+          "sequence_order": 8,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 599,
+          "text_preview": "‘  a 8  .  .  °  B  g5 882 2 8,  Bases §  S33  a  -—  t B  cS  aeR 3s  p< 5 Sve U!  a  ~  ses 9  7S 8 eSenS)  B  =  ee t"
+        },
+        {
+          "element_id": "81_p2_e9",
+          "sequence_order": 9,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 3,
+          "text_preview": ".  .  ."
+        }
+      ]
+    },
+    "3": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "81_p3_e10",
+          "sequence_order": 10,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": ";  .  .  -"
+        },
+        {
+          "element_id": "81_p3_e11",
+          "sequence_order": 11,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": ".  oo  ~"
+        },
+        {
+          "element_id": "81_p3_e12",
+          "sequence_order": 12,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": ":  ~ hw  Po  D>  STEORESS  .  S95 se  33  .  .  Sp83 55S  .  a5 =  oes  aoa ez  Se  SPsS_FF,5& £38 §  =  WS ERESE SE:"
+        },
+        {
+          "element_id": "81_p3_e13",
+          "sequence_order": 13,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 59,
+          "text_preview": "'  Ge  y og  =  Ss x> oO  -~>¢ [sy  '  y  5  > a  Q  t ~  @evoesRe  Se seg OF T3428  YI Be  Bw Bo!  =  Tegs  ree ae ee S"
+        },
+        {
+          "element_id": "81_p3_e14",
+          "sequence_order": 14,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 92,
+          "text_preview": ":  ee ee Za SSE >F  2  ?  eB.  s  -SBSTFOOSKRv SSC CSS EC SS ae 2zengs sBS SS Fa  B5g§ 0  ook  5  OD ABO  sep eaass  of4"
+        },
+        {
+          "element_id": "81_p3_e15",
+          "sequence_order": 15,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 302,
+          "text_preview": "=  ~_  —  oe  rh  =  =  ~  -Fopete  Tso Serre  e ent Res = Fee  ye BEB D  \"EON Ee SLB Zs  = SB epssg.2, SS.  =  San  ne "
+        }
+      ]
+    },
+    "5": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "81_p5_e16",
+          "sequence_order": 16,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": ".  .  —  .*  ~  S"
+        },
+        {
+          "element_id": "81_p5_e17",
+          "sequence_order": 17,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 563,
+          "text_preview": ":  2  e  ed  aoe  =  a  ad  5  .  SBR PeEFEE  .  a:  B Tes ges ce  SS  GS 8 em Been  a  SAO Fez Ss  QS 52255  zee  g  @."
+        }
+      ]
+    },
+    "6": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "81_p6_e18",
+          "sequence_order": 18,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 576,
+          "text_preview": "ao  .  cre  NO  ~  L&  ~s  —  &  .  y  ~  ey  aa  42  a  ~  =  ~  2n  oF  S8EOERE  SeTSseey ess 2¥ <  Baz 53 go!:  PSRBR"
+        },
+        {
+          "element_id": "81_p6_e19",
+          "sequence_order": 19,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "°  Le"
+        }
+      ]
+    },
+    "7": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "81_p7_e20",
+          "sequence_order": 20,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 6,
+          "text_preview": ",  .  .  .  °  .;"
+        },
+        {
+          "element_id": "81_p7_e21",
+          "sequence_order": 21,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "‘  _—  n"
+        },
+        {
+          "element_id": "81_p7_e22",
+          "sequence_order": 22,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 463,
+          "text_preview": "~~  _~  =  2SgTnxsg ae  oo  =)  ’  .  BSs2ees ee  cH  a  SASS  SRS RE  22og8< 85%  >  2.9.  =  o  BS BREeESo 5 gg2 FOQe>"
+        }
+      ]
+    },
+    "8": {
+      "elements": 11,
+      "flagged": 11,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "81_p8_e23",
+          "sequence_order": 23,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "2934  otters Usa, fetta 24 ara 2908  (am"
+        },
+        {
+          "element_id": "81_p8_e24",
+          "sequence_order": 24,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 36,
+          "text_preview": ",  (2)  Subject to the provisions =f these rules and of the Chhattisgarh Civil  .  Services ( General Cond..:on of Servi"
+        },
+        {
+          "element_id": "81_p8_e25",
+          "sequence_order": 25,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": ":  order in which their names appear in the list."
+        },
+        {
+          "element_id": "81_p8_e26",
+          "sequence_order": 26,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": ".  (3)°  Mere inclusion of a candidate’s name in the list confers no right to him"
+        },
+        {
+          "element_id": "81_p8_e27",
+          "sequence_order": 27,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": ".  to appointment unless, the Government is satisfied, after such enquiry"
+        },
+        {
+          "element_id": "81_p8_e28",
+          "sequence_order": 28,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "'  as may be considered necessary that, the candidate is suitable in all  respects for appointment in. the Service.:  ."
+        },
+        {
+          "element_id": "81_p8_e29",
+          "sequence_order": 29,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 68,
+          "text_preview": "13-  appointment by Promotion:-{1) ‘There shall be constituted a committee  consisting of the members mentioned in Sched"
+        },
+        {
+          "element_id": "81_p8_e30",
+          "sequence_order": 30,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 54,
+          "text_preview": ".  the Scheduled Castes, Scheduie.. Tribes and Other Backward Classes  respectively who are eligible fo: promotion in ac"
+        },
+        {
+          "element_id": "81_p8_e31",
+          "sequence_order": 31,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 77,
+          "text_preview": "14.  Conditions of eligibility for Promotion/transfer:-(1)  Subject to the  “s  provisions of sub-rule (2) the committee"
+        },
+        {
+          "element_id": "81_p8_e32",
+          "sequence_order": 32,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": ".  _  and are within the zone of consideration in accordance with the provisions of  .  .,:  sub-rule(2):;"
+        },
+        {
+          "element_id": "81_p8_e33",
+          "sequence_order": 33,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 85,
+          "text_preview": "Provided that the serv::es of the released officer. of Fmergency 7  Commission and Short Service Commissions,after their"
+        }
+      ]
+    },
+    "9": {
+      "elements": 20,
+      "flagged": 20,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "81_p9_e34",
+          "sequence_order": 34,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "am.  wdrare wana, feara 24, HAZ 2008  __2938"
+        },
+        {
+          "element_id": "81_p9_e35",
+          "sequence_order": 35,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "(2)  The zone of consideration ‘or selection shall ordinarily be limited to"
+        },
+        {
+          "element_id": "81_p9_e36",
+          "sequence_order": 36,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 41,
+          "text_preview": ":  seven times the number o/ officers to be included in the select list,in  respect of posts to be filled 2m the basis o"
+        },
+        {
+          "element_id": "81_p9_e37",
+          "sequence_order": 37,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 48,
+          "text_preview": ".  -espect of posts to be fillec on the basis of seniority-cum-merit:  Provided that if suitai:e officers are not availa"
+        },
+        {
+          "element_id": "81_p9_e38",
+          "sequence_order": 38,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": ".  15.  Preparation of the list of the suitable persons:- (1)  TheCommittee shell  prepare a list of such persons as sat"
+        },
+        {
+          "element_id": "81_p9_e39",
+          "sequence_order": 39,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "‘  tule -14 above and as are held by the Committee to be suitable for"
+        },
+        {
+          "element_id": "81_p9_e40",
+          "sequence_order": 40,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "‘  promotion/transfer to the service.The list shall be sufficient lo cover the  anticipated vacancies on accoust of reti"
+        },
+        {
+          "element_id": "81_p9_e41",
+          "sequence_order": 41,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 61,
+          "text_preview": ".  course of one year from the datc of preparation of selection list.A res¢rve ist  consisting 25 percent of the number "
+        },
+        {
+          "element_id": "81_p9_e42",
+          "sequence_order": 42,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": ":  suitability in all respects, «ith due regard to seniority.  -  .  (3)  The names of the officer: included in the list"
+        },
+        {
+          "element_id": "81_p9_e43",
+          "sequence_order": 43,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": ":  of seniority in the serv ce.or posts, as specified in column(2) of  oo  Scheduled IV,:at the time wf preparation of e"
+        },
+        {
+          "element_id": "81_p9_e44",
+          "sequence_order": 44,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": ":  ‘Provided that, any junior officer who, in the opinion of the"
+        },
+        {
+          "element_id": "81_p9_e45",
+          "sequence_order": 45,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": ".  Committee, is of exceptional merit and suitability, may be assighed in"
+        },
+        {
+          "element_id": "81_p9_e46",
+          "sequence_order": 46,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "__  the list a higher place than that of officers senior to-him. -"
+        },
+        {
+          "element_id": "81_p9_e47",
+          "sequence_order": 47,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 43,
+          "text_preview": ":  Explanation:- A person whose name is included in a selection list but  who is not promoted during the validity of the"
+        },
+        {
+          "element_id": "81_p9_e48",
+          "sequence_order": 48,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": ":  (4) | The list so prepared shal! be reviewéd and revised every year."
+        },
+        {
+          "element_id": "81_p9_e49",
+          "sequence_order": 49,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": ":  (5)  If in the process of selection,review or revision, it is proposed to"
+        },
+        {
+          "element_id": "81_p9_e50",
+          "sequence_order": 50,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": ".  supersede any member o: the Subordinate Civil Service,the Commitee  shall record its reasons fur the proposed superse"
+        },
+        {
+          "element_id": "81_p9_e51",
+          "sequence_order": 51,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "-  16.  ‘Select list: — (1) The lis. of suitable candidates,as prepared by the  Departmental Promotio: Committee, shall "
+        },
+        {
+          "element_id": "81_p9_e52",
+          "sequence_order": 52,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": ";  promotion of the memt::rs from the posts specified in column (2) of"
+        },
+        {
+          "element_id": "81_p9_e53",
+          "sequence_order": 53,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": ".  Scheduled IV to the posts specified in column (3) of Schedule IV."
+        }
+      ]
+    },
+    "11": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "81_p11_e54",
+          "sequence_order": 54,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "a1]  pdtemg srry, featar 24 sar 2008  2937  ama,  I:  TT  21.  Repeal and Saving:- All rules corresponding to these rule"
+        },
+        {
+          "element_id": "81_p11_e55",
+          "sequence_order": 55,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "|  immediately before their commensement are, hereby repealed in respect of"
+        },
+        {
+          "element_id": "81_p11_e56",
+          "sequence_order": 56,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "|  matters covered by these rules: .  Provided that any order made or action taken under the  rulcs so"
+        },
+        {
+          "element_id": "81_p11_e57",
+          "sequence_order": 57,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": ":  repealed shall be deemed  to have been made or taken under the  corresponding provisions of these rules.  ©  ."
+        },
+        {
+          "element_id": "81_p11_e58",
+          "sequence_order": 58,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "By order and in the name of the Governor of Chhattisgarh,  ‘  VIJAYENDRA, Secretary.,"
+        },
+        {
+          "element_id": "81_p11_e59",
+          "sequence_order": 59,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 3,
+          "text_preview": ".  .  ."
+        }
+      ]
+    },
+    "12": {
+      "elements": 18,
+      "flagged": 18,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "81_p12_e60",
+          "sequence_order": 60,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "2938;  wdteng was, feria 24 saa 2008  .  Cot  ‘"
+        },
+        {
+          "element_id": "81_p12_e61",
+          "sequence_order": 61,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "SCHEDULE - 1"
+        },
+        {
+          "element_id": "81_p12_e62",
+          "sequence_order": 62,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": ",;  (Ses rule 6)"
+        },
+        {
+          "element_id": "81_p12_e63",
+          "sequence_order": 63,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "Classification, pay scale in service & No. of posts included in service -  5"
+        },
+        {
+          "element_id": "81_p12_e64",
+          "sequence_order": 64,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 34,
+          "text_preview": "\"Name  of posts included  in the service  | Ne. of Posts.|  Classification  | Pay sc: es Rs. |  a)  AY  System Analyst  "
+        },
+        {
+          "element_id": "81_p12_e65",
+          "sequence_order": 65,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "an;  SEUDULE - II  (ce rule 6),  a  _  __Procedussof Recruitment  a"
+        },
+        {
+          "element_id": "81_p12_e66",
+          "sequence_order": 66,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "{~~  Name of the  -|  Name ofthe  | Name of in | Number | Percentage of posts to be filled |  Department  ij  Service  |"
+        },
+        {
+          "element_id": "81_p12_e67",
+          "sequence_order": 67,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": ":  |  .  |  posts  Promotion of  recruitment:"
+        },
+        {
+          "element_id": "81_p12_e68",
+          "sequence_order": 68,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "|  the members |  .  a a  ofthe Service |  a  2"
+        },
+        {
+          "element_id": "81_p12_e69",
+          "sequence_order": 69,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "| Finance Department  Chhattisgarh  System  ]  100%  |"
+        },
+        {
+          "element_id": "81_p12_e70",
+          "sequence_order": 70,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "|  Treasuries  ‘|  Analyst  .  |:"
+        },
+        {
+          "element_id": "81_p12_e71",
+          "sequence_order": 71,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "|  information  |  '"
+        },
+        {
+          "element_id": "81_p12_e72",
+          "sequence_order": 72,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "i  Techonology  |  |  \"Finance Department  “Chhattisgarh Bros wer]  4  “00% |  Treasuries  .  |"
+        },
+        {
+          "element_id": "81_p12_e73",
+          "sequence_order": 73,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "|  .  information"
+        },
+        {
+          "element_id": "81_p12_e74",
+          "sequence_order": 74,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "|  Techonology  |  |  |:  |  Be  Po  | |  ."
+        },
+        {
+          "element_id": "81_p12_e75",
+          "sequence_order": 75,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "|:  |"
+        },
+        {
+          "element_id": "81_p12_e76",
+          "sequence_order": 76,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "|  y  pO  |  i;"
+        },
+        {
+          "element_id": "81_p12_e77",
+          "sequence_order": 77,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": ".  \\  i  '  ~~  a  ee  See  ot mn  ro"
+        }
+      ]
+    },
+    "13": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "81_p13_e78",
+          "sequence_order": 78,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "o  °  . a  _"
+        },
+        {
+          "element_id": "81_p13_e79",
+          "sequence_order": 79,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": ".  3]  Io  .  Bsl  Fs  .  22!  ts Z  38  J::  ‘  ore  ES  FI  .  8  Ps  .  g>  5%"
+        },
+        {
+          "element_id": "81_p13_e80",
+          "sequence_order": 80,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "a]  Z::  Si  |. BI:  -  8  $8  —  Pr  sala &  B2  7  2;  18>  .  a  *  >  a3  .  &"
+        },
+        {
+          "element_id": "81_p13_e81",
+          "sequence_order": 81,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": ".  .:  Led  » ="
+        },
+        {
+          "element_id": "81_p13_e82",
+          "sequence_order": 82,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": ".  _  .  i  Ey"
+        },
+        {
+          "element_id": "81_p13_e83",
+          "sequence_order": 83,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 400,
+          "text_preview": "'  .  —  3 Be  .  pd  Eat  _  |.  ‘Sint os!  y  a we  Bees s  <  mx.  to  eegse 2PSe0S #45:  ne  Betoos £>on  la]  .  ~@"
+        },
+        {
+          "element_id": "81_p13_e84",
+          "sequence_order": 84,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": ", SssiF7ES  a2  en  & 2858088 eee"
+        }
+      ]
+    },
+    "14": {
+      "elements": 19,
+      "flagged": 19,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "81_p14_e85",
+          "sequence_order": 85,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "a  on  i  ‘  es  nome)  So  .  RB  cy  g  end  ee|)  8  BS]  32,  g  a8"
+        },
+        {
+          "element_id": "81_p14_e86",
+          "sequence_order": 86,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": ".  so  as  ss"
+        },
+        {
+          "element_id": "81_p14_e87",
+          "sequence_order": 87,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": ".  TS  z  yz  33] ls Px?  g  |  Sal ics se"
+        },
+        {
+          "element_id": "81_p14_e88",
+          "sequence_order": 88,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "‘  BEGISSes  g  “Ba  B8s225  ons  3  Fy  a  3  @  assy"
+        },
+        {
+          "element_id": "81_p14_e89",
+          "sequence_order": 89,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": ".  g  IO ne"
+        },
+        {
+          "element_id": "81_p14_e90",
+          "sequence_order": 90,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 61,
+          "text_preview": "=  Serres  a  2  EPP TEF SO  eae SE FES  ofz  g  5338  Bugagga  2.  Qs  a  °  =  a}  = om  CeUSges  SSSR  R 29.)  SE  ‘B"
+        },
+        {
+          "element_id": "81_p14_e91",
+          "sequence_order": 91,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": ":  2a 6  ~&  8  |  8 8:  <"
+        },
+        {
+          "element_id": "81_p14_e92",
+          "sequence_order": 92,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "|  3  B|  | o&#  5  .  3  Ty."
+        },
+        {
+          "element_id": "81_p14_e93",
+          "sequence_order": 93,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "1  S  Bj  |  ® 2g  .  g  3"
+        },
+        {
+          "element_id": "81_p14_e94",
+          "sequence_order": 94,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": ".  .  .  2  Sk Bas  S  ag°,  4  .:,e Sw  iJ  .;  33"
+        },
+        {
+          "element_id": "81_p14_e95",
+          "sequence_order": 95,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": ".  zo  38"
+        },
+        {
+          "element_id": "81_p14_e96",
+          "sequence_order": 96,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "-  mMNEOQOQ-  Zz  SEEPOOSS RPSL GREMEOS  os:  SZESEZERR Ty SB eESSO  53  2Z28Sh883 2880 Bee. BEF  3e  .  eS eR SSa5 255 "
+        },
+        {
+          "element_id": "81_p14_e97",
+          "sequence_order": 97,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": ":  3BO53 5 YS a5 88 22935885 Baie=  .  3  aBgF 8  Sg  e223  '  eaeereaR  avs RBwESSSE!  SORBS"
+        },
+        {
+          "element_id": "81_p14_e98",
+          "sequence_order": 98,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": ".  |  BS 288858235 wows Eee wee?"
+        },
+        {
+          "element_id": "81_p14_e99",
+          "sequence_order": 99,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": ";  SSESeSaeoe es  <ee52 2 SaiPs 52"
+        },
+        {
+          "element_id": "81_p14_e100",
+          "sequence_order": 100,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "|  Bees oce eee gee S22, FB aS"
+        },
+        {
+          "element_id": "81_p14_e101",
+          "sequence_order": 101,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 53,
+          "text_preview": "i  ue  SESS  SEAS RES BR BSE meas  .;  BegSha¢eRg  \"8g  ¢-& FR w SFss  \\  akg 728  Bs  3&8  - 85  ¢  23  .:  me eREA  RF"
+        },
+        {
+          "element_id": "81_p14_e102",
+          "sequence_order": 102,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "|  i a cs  ce i"
+        },
+        {
+          "element_id": "81_p14_e103",
+          "sequence_order": 103,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": ".  .  «  ."
+        }
+      ]
+    }
+  }
+}

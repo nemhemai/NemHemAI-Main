@@ -1,0 +1,5165 @@
+{
+  "document_id": 76,
+  "pages": {
+    "1": {
+      "elements": 4,
+      "flagged": 4,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "INDUSTRIAL POLICY 2019-2024"
+        },
+        {
+          "element_id": "76_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "^^x<+cks uok NÙkhlx<+**"
+        },
+        {
+          "element_id": "76_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Towards Attaining Inclusive Growth, Self-Reliant and Mature Economy"
+        },
+        {
+          "element_id": "76_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 7,
+          "text_preview": "Government of Chhattisgarh  Commerce & Industries Department"
+        }
+      ]
+    },
+    "2": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p2_e4",
+          "sequence_order": 4,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "Index  S.No.  Description  Page  Number 1  Vision  03  2  Mission  03  3  Preface  03-05  4  Objectives  05-06  5  Strat"
+        },
+        {
+          "element_id": "76_p2_e5",
+          "sequence_order": 5,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 136,
+          "text_preview": "7  Infrastructure Development & Industrial Land Management  07  8  Marketing Support  08-09  9  Export Promotion  09  10"
+        },
+        {
+          "element_id": "76_p2_e6",
+          "sequence_order": 6,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "32-41"
+        },
+        {
+          "element_id": "76_p2_e7",
+          "sequence_order": 7,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "7  Classification of Development Blocks(A,B,C & D) under  Industrial Policy 2019-24"
+        },
+        {
+          "element_id": "76_p2_e8",
+          "sequence_order": 8,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "42-45"
+        },
+        {
+          "element_id": "76_p2_e9",
+          "sequence_order": 9,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "8  Non-Fiscal Incentives for Industrial Investment under  Industrial Policy 2019-24"
+        },
+        {
+          "element_id": "76_p2_e10",
+          "sequence_order": 10,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "46-47"
+        }
+      ]
+    },
+    "3": {
+      "elements": 10,
+      "flagged": 10,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p3_e11",
+          "sequence_order": 11,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "INDUSTRIAL POLICY 2019-2024"
+        },
+        {
+          "element_id": "76_p3_e12",
+          "sequence_order": 12,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "1.VISION"
+        },
+        {
+          "element_id": "76_p3_e13",
+          "sequence_order": 13,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "^^Xk<+cks uok NÙkhlx<+** & To build a self-reliant and ever-progressing economy in the State"
+        },
+        {
+          "element_id": "76_p3_e14",
+          "sequence_order": 14,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "through an integrated, inclusive and sustainable industrialization."
+        },
+        {
+          "element_id": "76_p3_e15",
+          "sequence_order": 15,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "2. MISSION"
+        },
+        {
+          "element_id": "76_p3_e16",
+          "sequence_order": 16,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 72,
+          "text_preview": "To attain the dream of ^^Xk<+cks uok NÙkhlx<+** (Creating a New Chhattisgarh), the State is  poised to use its own inter"
+        },
+        {
+          "element_id": "76_p3_e17",
+          "sequence_order": 17,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "To enhance necessary infrastructure in identified industrially backward development blocks &  to provide maximum incenti"
+        },
+        {
+          "element_id": "76_p3_e18",
+          "sequence_order": 18,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 64,
+          "text_preview": "To provide incentives to the mineral based core sector industries in the industrially backward  development blocks in ad"
+        },
+        {
+          "element_id": "76_p3_e19",
+          "sequence_order": 19,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 49,
+          "text_preview": "To link the symbolicaltradition of the State –Narwa, Garwa, Ghurwa and Badi (NGGB –  Scheme for conservation and rejuven"
+        },
+        {
+          "element_id": "76_p3_e20",
+          "sequence_order": 20,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 46,
+          "text_preview": "To ensure the holistic and sustainable development by making mandatory provisions of giving  priority to the local peopl"
+        }
+      ]
+    },
+    "4": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p4_e21",
+          "sequence_order": 21,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "3. Preface"
+        },
+        {
+          "element_id": "76_p4_e22",
+          "sequence_order": 22,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 83,
+          "text_preview": "Nature has blessed Chhattisgarh State with abundance of precious minerals and forest  resources. The strategic & conveni"
+        },
+        {
+          "element_id": "76_p4_e23",
+          "sequence_order": 23,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 65,
+          "text_preview": "The first three Industrial Policies of the State mainly dealt with the investment in the core  sector, resulting Chhatti"
+        },
+        {
+          "element_id": "76_p4_e24",
+          "sequence_order": 24,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 39,
+          "text_preview": "The outgoing Industrial Policy 2014-19did not have attractive provisions for investment in  core sectors resulting in se"
+        },
+        {
+          "element_id": "76_p4_e25",
+          "sequence_order": 25,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 88,
+          "text_preview": "Keeping in mind the abundant paddy production in the State and its surplus,it has been  decided toprovide special incent"
+        },
+        {
+          "element_id": "76_p4_e26",
+          "sequence_order": 26,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 69,
+          "text_preview": "By using the modern IT tools, the processes of obtaining various consents, licenses,  registrations and permissions from"
+        },
+        {
+          "element_id": "76_p4_e27",
+          "sequence_order": 27,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 72,
+          "text_preview": "To enhance the capacity of traditional & existing industries, the existing industries have been  permitted to get the as"
+        }
+      ]
+    },
+    "5": {
+      "elements": 15,
+      "flagged": 15,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p5_e28",
+          "sequence_order": 28,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "diversification & expansion of existing industriesalongwith installation of new industries in the  State."
+        },
+        {
+          "element_id": "76_p5_e29",
+          "sequence_order": 29,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 42,
+          "text_preview": "Keeping in view the requirements of various modes of transport, the State Government is  committed to complete all the u"
+        },
+        {
+          "element_id": "76_p5_e30",
+          "sequence_order": 30,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 91,
+          "text_preview": "Acknowledging the overriding importance of people’s participation, in order to formulate this  policy, detailed discussi"
+        },
+        {
+          "element_id": "76_p5_e31",
+          "sequence_order": 31,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "4.OBJECTIVES"
+        },
+        {
+          "element_id": "76_p5_e32",
+          "sequence_order": 32,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "4.1  To produce the consumer products at reasonable cost by taking advantage of  strategic geographical location of the "
+        },
+        {
+          "element_id": "76_p5_e33",
+          "sequence_order": 33,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "4.2  Balanced & integrated growth of the State."
+        },
+        {
+          "element_id": "76_p5_e34",
+          "sequence_order": 34,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "4.3 To attract more Domestic & Foreign investments in the State in comparison to"
+        },
+        {
+          "element_id": "76_p5_e35",
+          "sequence_order": 35,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "other States."
+        },
+        {
+          "element_id": "76_p5_e36",
+          "sequence_order": 36,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "4.4  To create ecosystem for value addition in herbal, medicinal and other forest  produces available in the State."
+        },
+        {
+          "element_id": "76_p5_e37",
+          "sequence_order": 37,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "4.5  To generate more job opportunities and self employment for youth of the  State."
+        },
+        {
+          "element_id": "76_p5_e38",
+          "sequence_order": 38,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "4.6  To setup maximum industries of priority /high priority categories."
+        },
+        {
+          "element_id": "76_p5_e39",
+          "sequence_order": 39,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "4.7  To facilitate economic empowerment of the entrepreneurs belonging to  weaker  sections,  SC/ST  communities,  Ex-Se"
+        },
+        {
+          "element_id": "76_p5_e40",
+          "sequence_order": 40,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "4.8  To facilitate for training of the local youths as per the requirement of the local  industries."
+        },
+        {
+          "element_id": "76_p5_e41",
+          "sequence_order": 41,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "4.9  To attract more investments in the sunrise industries such as textile, pharma,  robotics, artificial intelligence, "
+        },
+        {
+          "element_id": "76_p5_e42",
+          "sequence_order": 42,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "4.10 To ensure judicious exploitation of available mineral resources."
+        }
+      ]
+    },
+    "6": {
+      "elements": 17,
+      "flagged": 17,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p6_e43",
+          "sequence_order": 43,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "4.11  To promote modern technique of farming, food processing and ware housing  of food grain in the far-flung area of t"
+        },
+        {
+          "element_id": "76_p6_e44",
+          "sequence_order": 44,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "4.12  Overall Economic Development of the State."
+        },
+        {
+          "element_id": "76_p6_e45",
+          "sequence_order": 45,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "4.13 Special incentives for investment in Non-Polluting industries."
+        },
+        {
+          "element_id": "76_p6_e46",
+          "sequence_order": 46,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "4.14 To promote exports from the State."
+        },
+        {
+          "element_id": "76_p6_e47",
+          "sequence_order": 47,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "4.15  Environmental Conservation."
+        },
+        {
+          "element_id": "76_p6_e48",
+          "sequence_order": 48,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "4.16  To promote Gems & Jewellery industry."
+        },
+        {
+          "element_id": "76_p6_e49",
+          "sequence_order": 49,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "4.17 To develop logistics facilities in the State."
+        },
+        {
+          "element_id": "76_p6_e50",
+          "sequence_order": 50,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "5. STRATEGY"
+        },
+        {
+          "element_id": "76_p6_e51",
+          "sequence_order": 51,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "5.1  Keeping in view the present scenario of industrial development, all  development blocks of the State have been clas"
+        },
+        {
+          "element_id": "76_p6_e52",
+          "sequence_order": 52,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "5.2  More incentives to the biodiversity based industries, forest produce based  industries, herbal and food processing "
+        },
+        {
+          "element_id": "76_p6_e53",
+          "sequence_order": 53,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "5.3  More incentives for setting up industry in the same district where these local  natural resources and the raw mater"
+        },
+        {
+          "element_id": "76_p6_e54",
+          "sequence_order": 54,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "5.4  For economic & social upliftment of State more incentives have been planned  for the weaker sections of the society"
+        },
+        {
+          "element_id": "76_p6_e55",
+          "sequence_order": 55,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 36,
+          "text_preview": "5.5  To cater to the need of the local industries, and to make the educational  curriculum more job oriented, coordinati"
+        },
+        {
+          "element_id": "76_p6_e56",
+          "sequence_order": 56,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "5.6  Efforts to set up more incubation centers to promote innovation."
+        },
+        {
+          "element_id": "76_p6_e57",
+          "sequence_order": 57,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "5.7  Develop more industrial infrastructure in rural areas to promote rural  industrialization for overall development o"
+        },
+        {
+          "element_id": "76_p6_e58",
+          "sequence_order": 58,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "5.8  To ensure optimum use of the investment potential in the interest of the State  and to provide opportunities, new i"
+        },
+        {
+          "element_id": "76_p6_e59",
+          "sequence_order": 59,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "5.9  Special package for the investment in the new sectors."
+        }
+      ]
+    },
+    "7": {
+      "elements": 17,
+      "flagged": 17,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p7_e60",
+          "sequence_order": 60,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "6. ADMINISTRATIVE MANAGEMENT"
+        },
+        {
+          "element_id": "76_p7_e61",
+          "sequence_order": 61,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "6.1  The State Investment Promotion Board will be strengthened to ensure thetime  bound implementation of the medium and"
+        },
+        {
+          "element_id": "76_p7_e62",
+          "sequence_order": 62,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "6.2  Rationalization and Simplification of the process of issuing approvals,  permissions & consents during investment p"
+        },
+        {
+          "element_id": "76_p7_e63",
+          "sequence_order": 63,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "6.3  Simplification of the various applications and acceptance of the self certified  documents."
+        },
+        {
+          "element_id": "76_p7_e64",
+          "sequence_order": 64,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 43,
+          "text_preview": "6.4  To ensure the time bound disposal of the applications for approval,  permissions & consents, regular monitoring at "
+        },
+        {
+          "element_id": "76_p7_e65",
+          "sequence_order": 65,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "6.5  Monitoring of implementation of the investment proposals at regular intervals  at State level."
+        },
+        {
+          "element_id": "76_p7_e66",
+          "sequence_order": 66,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "6.6  Separate provisions on departmental website to deal with the issues related to  existing industries along with esta"
+        },
+        {
+          "element_id": "76_p7_e67",
+          "sequence_order": 67,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "6.7  Conduct  regular  workshops  &short  term  training  programmes  for  entrepreneurs & youths of the State."
+        },
+        {
+          "element_id": "76_p7_e68",
+          "sequence_order": 68,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "6.8  Special guidance scheme to ensure Quality of products of Micro & Small  industries."
+        },
+        {
+          "element_id": "76_p7_e69",
+          "sequence_order": 69,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "6.9  Provide marketing support to Micro & Small industries of the State through  Government run marketing portal E-Mane-"
+        },
+        {
+          "element_id": "76_p7_e70",
+          "sequence_order": 70,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "6.10. Provision to avail maximum benefits of various Government schemes to Micro"
+        },
+        {
+          "element_id": "76_p7_e71",
+          "sequence_order": 71,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "& Small industries for financial assistance."
+        },
+        {
+          "element_id": "76_p7_e72",
+          "sequence_order": 72,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "6.11 Make existing Single Window System more seamless and investor friendly."
+        },
+        {
+          "element_id": "76_p7_e73",
+          "sequence_order": 73,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "7.INFRASTRUCTURE DEVELOPMENT & INDUSTRIAL LAND MANAGEMENT"
+        },
+        {
+          "element_id": "76_p7_e74",
+          "sequence_order": 74,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "7.1  To ensure the holistic development of rural areas in the State, at least one  industrial area/park will be set up i"
+        },
+        {
+          "element_id": "76_p7_e75",
+          "sequence_order": 75,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "7.2  Empowerment of CSIDC to procure private land for land bank at reasonable  rates to setup new industrial areas."
+        },
+        {
+          "element_id": "76_p7_e76",
+          "sequence_order": 76,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "7.3  Formulation of consultative committees at local level for the maintenance of  the existing industrial areas."
+        }
+      ]
+    },
+    "8": {
+      "elements": 14,
+      "flagged": 14,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p8_e77",
+          "sequence_order": 77,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "7.4  Need based setting up of Water, Effluent treatment plants & solid waste  management for conservation of environment"
+        },
+        {
+          "element_id": "76_p8_e78",
+          "sequence_order": 78,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "7.5  Setting up of Cluster based Common Facility Centers in PPP model. Promotion  of private sector for setting of Commo"
+        },
+        {
+          "element_id": "76_p8_e79",
+          "sequence_order": 79,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "7.6  Provisions for setting up of Fire Brigade Station in every industrial area of more  than 100 Hectares."
+        },
+        {
+          "element_id": "76_p8_e80",
+          "sequence_order": 80,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "7.7  Rationalization of land allotment prices for development of logistics parks to  increase storage capacity of the St"
+        },
+        {
+          "element_id": "76_p8_e81",
+          "sequence_order": 81,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "7.8  Reduction of rates of the industrial land for backward & most backward  development blocks."
+        },
+        {
+          "element_id": "76_p8_e82",
+          "sequence_order": 82,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "7.9  Rationalization of Property tax & other local taxes in industrial areas."
+        },
+        {
+          "element_id": "76_p8_e83",
+          "sequence_order": 83,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "7.10. Construction of Multi storied (Flat type) industrial buildings by CSIDC in the"
+        },
+        {
+          "element_id": "76_p8_e84",
+          "sequence_order": 84,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "industrial areas for micro and small industries"
+        },
+        {
+          "element_id": "76_p8_e85",
+          "sequence_order": 85,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "7.11  Removal of encroachment in the green belts of the industrial areas for the  purpose of intensive plantation."
+        },
+        {
+          "element_id": "76_p8_e86",
+          "sequence_order": 86,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "8.MARKETING SUPPORT"
+        },
+        {
+          "element_id": "76_p8_e87",
+          "sequence_order": 87,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 57,
+          "text_preview": "8.1  For the purpose of ensuring procurement from MSME units located within the  State, efforts will be made for success"
+        },
+        {
+          "element_id": "76_p8_e88",
+          "sequence_order": 88,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 56,
+          "text_preview": "8.2  By making necessary amendments in The Chhattisgarh Store Purchase Rules,  a digital marketing platform E-MaNe-C (E "
+        },
+        {
+          "element_id": "76_p8_e89",
+          "sequence_order": 89,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "8.3  To make MSME Facilitation Council more effective."
+        },
+        {
+          "element_id": "76_p8_e90",
+          "sequence_order": 90,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "8.4  Make provision for assistance for State industries to participate in various  national & international exhibitions "
+        }
+      ]
+    },
+    "9": {
+      "elements": 17,
+      "flagged": 17,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p9_e91",
+          "sequence_order": 91,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "8.5  Preference in Government purchase to the units set up by Start-Ups in the  State."
+        },
+        {
+          "element_id": "76_p9_e92",
+          "sequence_order": 92,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "9. EXPORT FACILITATION"
+        },
+        {
+          "element_id": "76_p9_e93",
+          "sequence_order": 93,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "9.1  Coordination for special tax rebates for the products exported by the industries  of the State."
+        },
+        {
+          "element_id": "76_p9_e94",
+          "sequence_order": 94,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "9.2  To ensure competitiveness for the products exported from the State industries,  provision for transport subsidy to "
+        },
+        {
+          "element_id": "76_p9_e95",
+          "sequence_order": 95,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "9.3  Necessary steps to ensure the quality of goods to be exported from the State."
+        },
+        {
+          "element_id": "76_p9_e96",
+          "sequence_order": 96,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "9.4  To organize regular Buyer Seller meets."
+        },
+        {
+          "element_id": "76_p9_e97",
+          "sequence_order": 97,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "9.5  Maximum utilization of Regional office of APEDA (Agricultural & Processed  Food Products Export Development Authori"
+        },
+        {
+          "element_id": "76_p9_e98",
+          "sequence_order": 98,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "9.6  Coordination with National level institutions to promote export of Gramodyog  products."
+        },
+        {
+          "element_id": "76_p9_e99",
+          "sequence_order": 99,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "10. SINGLE WINDOW SYSTEM"
+        },
+        {
+          "element_id": "76_p9_e100",
+          "sequence_order": 100,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "10.1 The Single Window System (SWS) at District and State level set up under"
+        },
+        {
+          "element_id": "76_p9_e101",
+          "sequence_order": 101,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "Chhattisgarh Industrial Investment Promotion Act 2002 to ensure fast & time  bound disposal of the applications received"
+        },
+        {
+          "element_id": "76_p9_e102",
+          "sequence_order": 102,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 76,
+          "text_preview": "10.2  To make SWS more effective and to ensure the disposal of the applications for  setting up business/industries in t"
+        },
+        {
+          "element_id": "76_p9_e103",
+          "sequence_order": 103,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "11. ENTERPRENEURSHIP DEVELOPMENT & SKILL UPGRADATION"
+        },
+        {
+          "element_id": "76_p9_e104",
+          "sequence_order": 104,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "11.1 District level entrepreneurship development training programs will be"
+        },
+        {
+          "element_id": "76_p9_e105",
+          "sequence_order": 105,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "organized in collaboration with District Trade & Industries Centers, industries  associations & various educational inst"
+        },
+        {
+          "element_id": "76_p9_e106",
+          "sequence_order": 106,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "11.2 To make the curriculum of Higher education and professional courses more job"
+        },
+        {
+          "element_id": "76_p9_e107",
+          "sequence_order": 107,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "oriented, necessary coordination for inclusion of additional syllabus in  consultation with different industries associa"
+        }
+      ]
+    },
+    "10": {
+      "elements": 18,
+      "flagged": 18,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p10_e108",
+          "sequence_order": 108,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "11.3  Provision of integrated single online platform having details of various skill  development programs offered by St"
+        },
+        {
+          "element_id": "76_p10_e109",
+          "sequence_order": 109,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "12. STARTUP"
+        },
+        {
+          "element_id": "76_p10_e110",
+          "sequence_order": 110,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "12.1  Develop effective ecosystem for promoting Startups."
+        },
+        {
+          "element_id": "76_p10_e111",
+          "sequence_order": 111,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "12.2 To promote Startups in the State, extension and rationalization of incentives."
+        },
+        {
+          "element_id": "76_p10_e112",
+          "sequence_order": 112,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "12.3   Efforts to setup incubators to encourage Startups."
+        },
+        {
+          "element_id": "76_p10_e113",
+          "sequence_order": 113,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "13. CLUSTER DEVELOPMENT"
+        },
+        {
+          "element_id": "76_p10_e114",
+          "sequence_order": 114,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "Efforts for identification of potential Clusters for industries based on stone cutting,  rice, pulses and poha making an"
+        },
+        {
+          "element_id": "76_p10_e115",
+          "sequence_order": 115,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "14.BRAND CHHATTISGARH (PROSPEROUS CHHATTISGARH)"
+        },
+        {
+          "element_id": "76_p10_e116",
+          "sequence_order": 116,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "Organize various Workshops, Seminars & Road Shows at national and international  level, from time to time, to attract in"
+        },
+        {
+          "element_id": "76_p10_e117",
+          "sequence_order": 117,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "15. PROVISIONS FOR INDUSTRIAL INVESTMENT INCENTIVES"
+        },
+        {
+          "element_id": "76_p10_e118",
+          "sequence_order": 118,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 45,
+          "text_preview": "15.1  To achieve the objectives of this policy following the laid down strategy various  investment promotion incentives"
+        },
+        {
+          "element_id": "76_p10_e119",
+          "sequence_order": 119,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 37,
+          "text_preview": "S. No  Feature Description  Appendix  1  Interest Subsidy  Annexure (6.1)  2  Fixed Capital Cost Subsidy (Only for Micro"
+        },
+        {
+          "element_id": "76_p10_e120",
+          "sequence_order": 120,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Annexure (6.3)"
+        },
+        {
+          "element_id": "76_p10_e121",
+          "sequence_order": 121,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "4  Electricity Duty Exemption  (for Micro, Small, Medium & large Industries)"
+        },
+        {
+          "element_id": "76_p10_e122",
+          "sequence_order": 122,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Annexure (6.4)"
+        },
+        {
+          "element_id": "76_p10_e123",
+          "sequence_order": 123,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "5  Stamp Duty Exemption  Annexure (6.5)  6  Mandi Tax Exemption  (for Micro, Small, Medium & large Industries)"
+        },
+        {
+          "element_id": "76_p10_e124",
+          "sequence_order": 124,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Annexure (6-6)"
+        },
+        {
+          "element_id": "76_p10_e125",
+          "sequence_order": 125,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "7  Project Report Subsidy  Annexure (6.7)"
+        }
+      ]
+    },
+    "11": {
+      "elements": 11,
+      "flagged": 11,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p11_e126",
+          "sequence_order": 126,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "8  Diversion of land use Fee Exemption  Annexure (6.8)  9  Concession in Service Charges for allotment of land outside  "
+        },
+        {
+          "element_id": "76_p11_e127",
+          "sequence_order": 127,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Annexure (6.9)"
+        },
+        {
+          "element_id": "76_p11_e128",
+          "sequence_order": 128,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "10  Exemption/Concession in land premium on land allotment in  industrial areas for Entrepreneurs of Scheduled Castes /T"
+        },
+        {
+          "element_id": "76_p11_e129",
+          "sequence_order": 129,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Annexure (6.10)"
+        },
+        {
+          "element_id": "76_p11_e130",
+          "sequence_order": 130,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 52,
+          "text_preview": "11  Quality Certification Subsidy  Annexure (6.11)  12  Technology Patent Subsidy  Annexure (6.12)  13  Technology Purch"
+        },
+        {
+          "element_id": "76_p11_e131",
+          "sequence_order": 131,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Annexure (6.18)"
+        },
+        {
+          "element_id": "76_p11_e132",
+          "sequence_order": 132,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 39,
+          "text_preview": "19  Special Package for Mega/Ultra Mega Projects.  Annexure (6.19)    Detailed Description of these incentives are depic"
+        },
+        {
+          "element_id": "76_p11_e133",
+          "sequence_order": 133,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "will be eligible for incentives declared for general category industries."
+        },
+        {
+          "element_id": "76_p11_e134",
+          "sequence_order": 134,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 64,
+          "text_preview": "15.3  Industries setup by the Non- Resident Indian (NRI), Foreign Direct Investment  (FDI), Export Oriented Units (EOU),"
+        },
+        {
+          "element_id": "76_p11_e135",
+          "sequence_order": 135,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 102,
+          "text_preview": "15.4  Industries set up by SC/ST category, women entrepreneurs, Ex- Servicemen  (including paramilitary personnel), thir"
+        },
+        {
+          "element_id": "76_p11_e136",
+          "sequence_order": 136,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "15.5  Implementation of rehabilitation and resettlement policy of the Government  will be ensuredfor the affected farmer"
+        }
+      ]
+    },
+    "12": {
+      "elements": 19,
+      "flagged": 19,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p12_e137",
+          "sequence_order": 137,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "Parks and stamp duty exemption will be allowed for purchase of agricultural  land from the compensation so received."
+        },
+        {
+          "element_id": "76_p12_e138",
+          "sequence_order": 138,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "15.6 The Industrial Award scheme will be reconstituted & new Startup category will"
+        },
+        {
+          "element_id": "76_p12_e139",
+          "sequence_order": 139,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "also be awarded."
+        },
+        {
+          "element_id": "76_p12_e140",
+          "sequence_order": 140,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "15.7 The New & Existing (in case of expansion) logistic hub, warehouses (Godowns),"
+        },
+        {
+          "element_id": "76_p12_e141",
+          "sequence_order": 141,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "cold storages set up on Industrial/commercial land will get the subsidies,  exemptions/ concessions/ incentives as per t"
+        },
+        {
+          "element_id": "76_p12_e142",
+          "sequence_order": 142,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "15.8 To promote the “Film Industry”, the setting up of film studio, editing studio,"
+        },
+        {
+          "element_id": "76_p12_e143",
+          "sequence_order": 143,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "sound recording studio and the film processing related activities will get the  incentives equivalent to the incentives "
+        },
+        {
+          "element_id": "76_p12_e144",
+          "sequence_order": 144,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "15.9 To increase the opportunities of self–entrepreneurshipfor the youth of the"
+        },
+        {
+          "element_id": "76_p12_e145",
+          "sequence_order": 145,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "State, the incentives of the “Mukhyamantri Yuva Swarojgar Yojna (MMYSY)”  will also be allowed for their manufacturing a"
+        },
+        {
+          "element_id": "76_p12_e146",
+          "sequence_order": 146,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "15.10 The technology related to the production of Liquefied fuel/gas/petroleum"
+        },
+        {
+          "element_id": "76_p12_e147",
+          "sequence_order": 147,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "products from coal will be promoted on priority."
+        },
+        {
+          "element_id": "76_p12_e148",
+          "sequence_order": 148,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "15.11 “Industrial Investment Incentives” will be given for setting up new industries,"
+        },
+        {
+          "element_id": "76_p12_e149",
+          "sequence_order": 149,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "expansion  of  existingindustries  under  production,  substitution  and  diversification of existing industrial units f"
+        },
+        {
+          "element_id": "76_p12_e150",
+          "sequence_order": 150,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "15.12 All industries which get new land allotment in the new private industrial"
+        },
+        {
+          "element_id": "76_p12_e151",
+          "sequence_order": 151,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 43,
+          "text_preview": "areas/parks which are set up after “The Appointed Day”, will be eligible for  10% additional subsidy and the ceiling of "
+        },
+        {
+          "element_id": "76_p12_e152",
+          "sequence_order": 152,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "15.13 The Mega & Ultra Mega projects in Non-Core sector, whose investment is to"
+        },
+        {
+          "element_id": "76_p12_e153",
+          "sequence_order": 153,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 51,
+          "text_preview": "the tune of Rs 100 Crore or more, will be considered under “Bespoke policy”.  Final decision on the proposals for additi"
+        },
+        {
+          "element_id": "76_p12_e154",
+          "sequence_order": 154,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "15.14 The Micro, Small, Medium, Large, Mega and Ultra Mega industries who have"
+        },
+        {
+          "element_id": "76_p12_e155",
+          "sequence_order": 155,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 50,
+          "text_preview": "initiated process to set up their industrial unit during the period of Industrial  Policy 2014-19, will have the opportu"
+        }
+      ]
+    },
+    "13": {
+      "elements": 11,
+      "flagged": 11,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p13_e156",
+          "sequence_order": 156,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 54,
+          "text_preview": "proposed project from the date of Issue of Udyam Akansha /IEM within the  time limit of two years in the case of Micro &"
+        },
+        {
+          "element_id": "76_p13_e157",
+          "sequence_order": 157,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 80,
+          "text_preview": "Option for Policy period once selected for availing Industrial Investment  incentives, cannot be changed. If the option "
+        },
+        {
+          "element_id": "76_p13_e158",
+          "sequence_order": 158,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 49,
+          "text_preview": "The unit must mandatorilyintimate the option of the policy period under which  they wish to avail Industrial investment "
+        },
+        {
+          "element_id": "76_p13_e159",
+          "sequence_order": 159,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "15.15 If an investor has availed only Stamp Duty exemption during the period of"
+        },
+        {
+          "element_id": "76_p13_e160",
+          "sequence_order": 160,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 41,
+          "text_preview": "earlier industrial policy (Except Industrial Policy2014-19), it will be entitled to  get the incentives of Industrial Po"
+        },
+        {
+          "element_id": "76_p13_e161",
+          "sequence_order": 161,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "15.16 If any investor has availed only Stamp Duty Exemption during the period of"
+        },
+        {
+          "element_id": "76_p13_e162",
+          "sequence_order": 162,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 56,
+          "text_preview": "Industrial Policy 2019-24, it will be entitled to get the incentives under  Industrial Policy 2019-2024 only if it comme"
+        },
+        {
+          "element_id": "76_p13_e163",
+          "sequence_order": 163,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "15.17 Except for the Institutions mentioned under the clauses of this policy, no other"
+        },
+        {
+          "element_id": "76_p13_e164",
+          "sequence_order": 164,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "State & Central Govt. Public Sector Undertakings will be entitled to avail the  incentives (unless otherwise specially m"
+        },
+        {
+          "element_id": "76_p13_e165",
+          "sequence_order": 165,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "15.18. Incentives for industrial investment under this policy will be given to those"
+        },
+        {
+          "element_id": "76_p13_e166",
+          "sequence_order": 166,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "eligible industries, which compulsorily provide, In case of unskilled person  100% job, at least 70% in case of skilled "
+        }
+      ]
+    },
+    "14": {
+      "elements": 13,
+      "flagged": 13,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p14_e167",
+          "sequence_order": 167,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "15.19 The industrial units availing industrial investment incentives declared under"
+        },
+        {
+          "element_id": "76_p14_e168",
+          "sequence_order": 168,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 33,
+          "text_preview": "this Industrial Policy will be expected to take decision on the activities to be  taken upunder their Corporate Social R"
+        },
+        {
+          "element_id": "76_p14_e169",
+          "sequence_order": 169,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "15.20 If any investor wants to avail incentives described for “Substitution” under this"
+        },
+        {
+          "element_id": "76_p14_e170",
+          "sequence_order": 170,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 78,
+          "text_preview": "policy, they should have prior permission in this regard and hold production  certificate during policy period. To avail"
+        },
+        {
+          "element_id": "76_p14_e171",
+          "sequence_order": 171,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "15.21 Based on the requirements, for Large, Mega & Ultra Mega projects, the"
+        },
+        {
+          "element_id": "76_p14_e172",
+          "sequence_order": 172,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 33,
+          "text_preview": "proposal for incentives in addition to the incentives declared under this policy  will be considered and final decision "
+        },
+        {
+          "element_id": "76_p14_e173",
+          "sequence_order": 173,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "15.22 Industries interested to set up research & development laboratory in the State"
+        },
+        {
+          "element_id": "76_p14_e174",
+          "sequence_order": 174,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "will be encouraged, and land & other essential facilities equal to those being  given to Small Scale Industries under th"
+        },
+        {
+          "element_id": "76_p14_e175",
+          "sequence_order": 175,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "15.23 To promote development of new private Industrial Areas/Parks with minimum"
+        },
+        {
+          "element_id": "76_p14_e176",
+          "sequence_order": 176,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 64,
+          "text_preview": "25 Acres of land, subsidy of 30% of the infrastructure cost (Excluding Land)  with a ceiling of Rs. 5 Crore and 100% exe"
+        },
+        {
+          "element_id": "76_p14_e177",
+          "sequence_order": 177,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 56,
+          "text_preview": "However, for Surguja and Bastar regions, due to less availability of land for  development of new private industrial are"
+        },
+        {
+          "element_id": "76_p14_e178",
+          "sequence_order": 178,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "16.  CATEGORIES OF INDUSTRIES"
+        },
+        {
+          "element_id": "76_p14_e179",
+          "sequence_order": 179,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 43,
+          "text_preview": "16.1  On the basis of investment, to provide incentives, industries have been  categorized as Micro & Small industries; "
+        }
+      ]
+    },
+    "15": {
+      "elements": 18,
+      "flagged": 18,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p15_e180",
+          "sequence_order": 180,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "industries / service enterprises as described in ANNEXURE-1 in this policy, will  be applicable."
+        },
+        {
+          "element_id": "76_p15_e181",
+          "sequence_order": 181,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 60,
+          "text_preview": "16.2  In order to promote the investments, the industries have been classified as  High Priority Industries, Priority In"
+        },
+        {
+          "element_id": "76_p15_e182",
+          "sequence_order": 182,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "16.3 The Core Sector industries mean the Medium, Large, Mega & Ultra mega"
+        },
+        {
+          "element_id": "76_p15_e183",
+          "sequence_order": 183,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Projects of Steel, Cement, Thermal Power & Aluminum plants (as described in  ANNEXURE-5)."
+        },
+        {
+          "element_id": "76_p15_e184",
+          "sequence_order": 184,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "16.4  The General Sector industries means all the industries which are not  categorized as High Priority, Priority, Satu"
+        },
+        {
+          "element_id": "76_p15_e185",
+          "sequence_order": 185,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "17. CATEGORIES OF INVESTORS"
+        },
+        {
+          "element_id": "76_p15_e186",
+          "sequence_order": 186,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "17.1  In order to provide the investment promotion incentives, the investors have  been categorized into the following c"
+        },
+        {
+          "element_id": "76_p15_e187",
+          "sequence_order": 187,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "1. General category entrepreneurs."
+        },
+        {
+          "element_id": "76_p15_e188",
+          "sequence_order": 188,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "2. Scheduled Caste/ Scheduled Tribe entrepreneurs."
+        },
+        {
+          "element_id": "76_p15_e189",
+          "sequence_order": 189,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "3. Non-Resident Indians (NRIs), Foreign Direct Investment (FDI), Exporter  investors & Foreign Technology industries."
+        },
+        {
+          "element_id": "76_p15_e190",
+          "sequence_order": 190,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "4. Women Entrepreneurs & the Entrepreneurs of third gender."
+        },
+        {
+          "element_id": "76_p15_e191",
+          "sequence_order": 191,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "5. Ex-servicemen residents of Chhattisgarh (including Para Military Forces),  PwD (Person with Disability) entrepreneurs"
+        },
+        {
+          "element_id": "76_p15_e192",
+          "sequence_order": 192,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "6. Women Self Help Groups of the Chhattisgarh State will be entitled to avail  the incentives equivalent to the Women en"
+        },
+        {
+          "element_id": "76_p15_e193",
+          "sequence_order": 193,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "7. Farmer Producer Organizations (FPOs) of the State will be entitled to avail  the incentives as the General category e"
+        },
+        {
+          "element_id": "76_p15_e194",
+          "sequence_order": 194,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "17.2 On the basis of quantum of investment, the industries have been categorized"
+        },
+        {
+          "element_id": "76_p15_e195",
+          "sequence_order": 195,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "into the following 5 categories:"
+        },
+        {
+          "element_id": "76_p15_e196",
+          "sequence_order": 196,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "1.  Micro &Small Scale Industries."
+        },
+        {
+          "element_id": "76_p15_e197",
+          "sequence_order": 197,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "2.  Medium Scale Industries."
+        }
+      ]
+    },
+    "16": {
+      "elements": 12,
+      "flagged": 12,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p16_e198",
+          "sequence_order": 198,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "3.  Large Scale Industries."
+        },
+        {
+          "element_id": "76_p16_e199",
+          "sequence_order": 199,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "4.  Mega Projects."
+        },
+        {
+          "element_id": "76_p16_e200",
+          "sequence_order": 200,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "5.  Ultra-Mega Projects."
+        },
+        {
+          "element_id": "76_p16_e201",
+          "sequence_order": 201,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "18. NON-FISCAL FACILITIES"
+        },
+        {
+          "element_id": "76_p16_e202",
+          "sequence_order": 202,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 45,
+          "text_preview": "For rapid industrialization in the State, fulfilling the objective of the Industrial Policy  and for simplification of t"
+        },
+        {
+          "element_id": "76_p16_e203",
+          "sequence_order": 203,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "19.  Provision for additional incentives for setting up fruits, flowers, vegetables and herbal  medicine based processin"
+        },
+        {
+          "element_id": "76_p16_e204",
+          "sequence_order": 204,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 33,
+          "text_preview": "20.  Closed and Sick Industries Policy in the State shall be revived to make the best use of  investment made in State b"
+        },
+        {
+          "element_id": "76_p16_e205",
+          "sequence_order": 205,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 70,
+          "text_preview": "21.  The MSME service sector enterprises related to industries will be eligible to avail the  incentives equivalent to t"
+        },
+        {
+          "element_id": "76_p16_e206",
+          "sequence_order": 206,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "For this purpose, The District Trade & Industries Centers will issue the Operation  Certificate to the MSME service sect"
+        },
+        {
+          "element_id": "76_p16_e207",
+          "sequence_order": 207,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "22.  The provisions of The Mukhya Mantri Yuva Swarojgar Yojna (MMYSY) will be reviewed  and amended as per the requireme"
+        },
+        {
+          "element_id": "76_p16_e208",
+          "sequence_order": 208,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "23.  THE PERIOD & REVIEW OF THE POLICY"
+        },
+        {
+          "element_id": "76_p16_e209",
+          "sequence_order": 209,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 59,
+          "text_preview": "The period of the Industrial Policy 2019-24 will remain in effect from 1 November,  2019 to 31 October, 2024. During the"
+        }
+      ]
+    },
+    "17": {
+      "elements": 12,
+      "flagged": 12,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p17_e210",
+          "sequence_order": 210,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Annexure -1"
+        },
+        {
+          "element_id": "76_p17_e211",
+          "sequence_order": 211,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Definitions Acceptable under Industrial Policy 2019-24"
+        },
+        {
+          "element_id": "76_p17_e212",
+          "sequence_order": 212,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "(With reference to the clause 16.1 of this Policy)    1. \"Appointed Day\" means the date of from which Industrial Policy "
+        },
+        {
+          "element_id": "76_p17_e213",
+          "sequence_order": 213,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "2. Classification of development blocks for industrial purpose are exhibited as 'A', 'B', 'C',  and 'D' Category of Anne"
+        },
+        {
+          "element_id": "76_p17_e214",
+          "sequence_order": 214,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 91,
+          "text_preview": "3. \"Industrial Area\" means existing / under development industrial corridor, industrial  areas, industrial institutions,"
+        },
+        {
+          "element_id": "76_p17_e215",
+          "sequence_order": 215,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "4. \"Industrial Unit\" means a unit which is established / proposed to be established as  Production /Processing /Service "
+        },
+        {
+          "element_id": "76_p17_e216",
+          "sequence_order": 216,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 57,
+          "text_preview": "5. \"New Industry/New Unit\" means such industry (unit) which has commenced commercial  production on or after 01.11.2019 "
+        },
+        {
+          "element_id": "76_p17_e217",
+          "sequence_order": 217,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "5.1 For eligibility of New Unit, the following conditions must be fulfilled: -"
+        },
+        {
+          "element_id": "76_p17_e218",
+          "sequence_order": 218,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 38,
+          "text_preview": "(1) In case of sole proprietorship, land must be in the name of the Owner of the industry  / Industrial unit. In cases o"
+        },
+        {
+          "element_id": "76_p17_e219",
+          "sequence_order": 219,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "(2) Shed- Building - New Shed - Building should be constructed on the Land as mentioned  in the clause (1) above."
+        },
+        {
+          "element_id": "76_p17_e220",
+          "sequence_order": 220,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "(3) Plant and Machinery - New Plant and Machinery should be installed in the Land and  Shed/Building as mentioned in the"
+        },
+        {
+          "element_id": "76_p17_e221",
+          "sequence_order": 221,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "5.2 The new unit should be proposed within the premises of the existing unit after the  Appointed Day of Industrial Poli"
+        }
+      ]
+    },
+    "18": {
+      "elements": 12,
+      "flagged": 12,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p18_e222",
+          "sequence_order": 222,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 60,
+          "text_preview": "competent authority to establish new industry and should established and start production  within the duration of this I"
+        },
+        {
+          "element_id": "76_p18_e223",
+          "sequence_order": 223,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "(1)  The unit must hold Udyam Aakansha, I.E.M., Letter of intent, Industrial License in its  name issued after the Appoi"
+        },
+        {
+          "element_id": "76_p18_e224",
+          "sequence_order": 224,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "(2)  Separate electricity connection in the name of new industry."
+        },
+        {
+          "element_id": "76_p18_e225",
+          "sequence_order": 225,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "(3)  Separate GST Registration in the name of new industry."
+        },
+        {
+          "element_id": "76_p18_e226",
+          "sequence_order": 226,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "(4)  New shed-building should be constructed on the land as mentioned above."
+        },
+        {
+          "element_id": "76_p18_e227",
+          "sequence_order": 227,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "(5)  New plant and machinery should be installed in newly constructed Shed-Building."
+        },
+        {
+          "element_id": "76_p18_e228",
+          "sequence_order": 228,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "(6)  Purchase of raw material and sale of manufactured product, related documents  should be maintained separately by th"
+        },
+        {
+          "element_id": "76_p18_e229",
+          "sequence_order": 229,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "(7)  Production Certificate issued by competent Officer should be in the name of new  Unit."
+        },
+        {
+          "element_id": "76_p18_e230",
+          "sequence_order": 230,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "(8)  There should not be any violation of any agreement/notification with regard to the  industrial investment promotion"
+        },
+        {
+          "element_id": "76_p18_e231",
+          "sequence_order": 231,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 53,
+          "text_preview": "(9)  It will also be necessary that the raw material or product of the new industry is not  used as the raw material or "
+        },
+        {
+          "element_id": "76_p18_e232",
+          "sequence_order": 232,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "6. \"Existing Industry\" means all such industries which have commenced commercial  production before the effective date i"
+        },
+        {
+          "element_id": "76_p18_e233",
+          "sequence_order": 233,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 106,
+          "text_preview": "7. \"Expansion of the Existing Industry\" means capacity expansion of the existing industry in  production on or after the"
+        }
+      ]
+    },
+    "19": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p19_e234",
+          "sequence_order": 234,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "the procedure of \"Expansion\", the existing unit will have to take prior approval for expansion  from the competent autho"
+        },
+        {
+          "element_id": "76_p19_e235",
+          "sequence_order": 235,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 58,
+          "text_preview": "8. A. \"Micro & Small Industry\" means such industry which comes under the definition of  Micro & Small Enterprise issued "
+        },
+        {
+          "element_id": "76_p19_e236",
+          "sequence_order": 236,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 64,
+          "text_preview": "B. \"Micro & Small Service Enterprise\" means such enterprise which is in Service Category  under \"Micro, Small and Medium"
+        },
+        {
+          "element_id": "76_p19_e237",
+          "sequence_order": 237,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 79,
+          "text_preview": "9. A. \"Medium Industry\" means such Industry which comes under \"Micro, Small and Medium  Enterprises Development Act, 200"
+        },
+        {
+          "element_id": "76_p19_e238",
+          "sequence_order": 238,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 51,
+          "text_preview": "B. \"Medium Service Enterprise\" means enterprise which is in Service Category under \"Micro,  Small and Medium Enterprises"
+        },
+        {
+          "element_id": "76_p19_e239",
+          "sequence_order": 239,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 129,
+          "text_preview": "10.\"Large Industry\" means such industry whose capital investment in Plant and Machinery  exceeds Rs. 10 Crore and Fixed "
+        }
+      ]
+    },
+    "20": {
+      "elements": 18,
+      "flagged": 18,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p20_e240",
+          "sequence_order": 240,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 86,
+          "text_preview": "11. \"Mega Project\" means such industry whoseproposed Fixed Capital Investment is more  than Rs. 100 Crore up to Rs. 1000"
+        },
+        {
+          "element_id": "76_p20_e241",
+          "sequence_order": 241,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "However, under the following sectors, only those projects will be considered as Mega Projects  whose Fixed Capital Inves"
+        },
+        {
+          "element_id": "76_p20_e242",
+          "sequence_order": 242,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "S. No. Category  Fixed Capital Investment  1.  White Goods, Electronic & Electrical Consumer  Products"
+        },
+        {
+          "element_id": "76_p20_e243",
+          "sequence_order": 243,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Rs.25 Crore"
+        },
+        {
+          "element_id": "76_p20_e244",
+          "sequence_order": 244,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "2.  Pharmaceutical Industry  Rs.15 Crore  3.  Informationtechnology-based  industry  and  Information  technology  suppo"
+        },
+        {
+          "element_id": "76_p20_e245",
+          "sequence_order": 245,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Rs. 10 Crore"
+        },
+        {
+          "element_id": "76_p20_e246",
+          "sequence_order": 246,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "4.  Textile  Rs. 05 Crore  5.  Plant, Machinery and Accessories used for  generation of New and Renewable energy"
+        },
+        {
+          "element_id": "76_p20_e247",
+          "sequence_order": 247,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Rs. 15 Crores"
+        },
+        {
+          "element_id": "76_p20_e248",
+          "sequence_order": 248,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "6.  Cycle manufacturing and Products/ instruments  / Spares used for manufacturing of Cycle"
+        },
+        {
+          "element_id": "76_p20_e249",
+          "sequence_order": 249,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Rs. 10 Crores"
+        },
+        {
+          "element_id": "76_p20_e250",
+          "sequence_order": 250,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "7.  Manufacturing of two-wheeler, three-wheeler  and four-wheeler electrical vehicle and Battery  and spares for electri"
+        },
+        {
+          "element_id": "76_p20_e251",
+          "sequence_order": 251,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Rs. 10 Crores"
+        },
+        {
+          "element_id": "76_p20_e252",
+          "sequence_order": 252,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "8.  Aerospace, Aircraft repair (MRO), Industry  based on Robotic technique, Industry based on  Artificial intelligence"
+        },
+        {
+          "element_id": "76_p20_e253",
+          "sequence_order": 253,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Rs. 50 Crores"
+        },
+        {
+          "element_id": "76_p20_e254",
+          "sequence_order": 254,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "9.  Minor forest produce based Shellac and  Bamboo based industry"
+        },
+        {
+          "element_id": "76_p20_e255",
+          "sequence_order": 255,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Rs. 15 Crores"
+        },
+        {
+          "element_id": "76_p20_e256",
+          "sequence_order": 256,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 76,
+          "text_preview": "12. \"Ultra-Mega Project\" means such industry whose proposed Fixed Capital Investment is  more than Rs.1000 Crores and fo"
+        },
+        {
+          "element_id": "76_p20_e257",
+          "sequence_order": 257,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "13. “High Priority Category Industries” means industries included in Annexure-2 of Industrial  Policy 2019-24."
+        }
+      ]
+    },
+    "21": {
+      "elements": 10,
+      "flagged": 10,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p21_e258",
+          "sequence_order": 258,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "14. “Priority Category Industries” means industries included in Annexure-3 of Industrial  Policy 2019-24."
+        },
+        {
+          "element_id": "76_p21_e259",
+          "sequence_order": 259,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "15. “Industries under Saturated category” means industries included in Annexure-4 of  Industrial Policy 2019-24."
+        },
+        {
+          "element_id": "76_p21_e260",
+          "sequence_order": 260,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "16. \"Core Sector Industries” means industries included in Annexure-5 of Industrial Policy  2019-24."
+        },
+        {
+          "element_id": "76_p21_e261",
+          "sequence_order": 261,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "17. “General Category Industries” means Industries other than industries those included  under \"High Priority Category I"
+        },
+        {
+          "element_id": "76_p21_e262",
+          "sequence_order": 262,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 44,
+          "text_preview": "18. “Fixed Capital Investment” means investments made in land / land-development, shed - building, new plant &machinery,"
+        },
+        {
+          "element_id": "76_p21_e263",
+          "sequence_order": 263,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "19. \"Date of Commencement of Commercial Production\" Means -"
+        },
+        {
+          "element_id": "76_p21_e264",
+          "sequence_order": 264,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 37,
+          "text_preview": "(a)  Micro & small industry- Up to 45 days period from the date of trial production  communicated by the industrial unit"
+        },
+        {
+          "element_id": "76_p21_e265",
+          "sequence_order": 265,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "(b)  Medium Industry- Up to 75 days period from the date of trial production  communicated by the industrial unit, or th"
+        },
+        {
+          "element_id": "76_p21_e266",
+          "sequence_order": 266,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "(c)  Large Industry- Up to 100 days period from the date of trial production  communicated by the industrial unit, or th"
+        },
+        {
+          "element_id": "76_p21_e267",
+          "sequence_order": 267,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 119,
+          "text_preview": "(d)  Mega project- Mega projects of white goods, electrical and electronic consumer  products, pharmaceutical, Industry "
+        }
+      ]
+    },
+    "22": {
+      "elements": 9,
+      "flagged": 9,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p22_e268",
+          "sequence_order": 268,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 116,
+          "text_preview": "(e)  Ultra-Mega-Project- Projects with more than Rs. 1000 Crore in fixed capital  investment and white goods, electronic"
+        },
+        {
+          "element_id": "76_p22_e269",
+          "sequence_order": 269,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "20. Commercial Production Certificate -"
+        },
+        {
+          "element_id": "76_p22_e270",
+          "sequence_order": 270,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "(1)  Will be issued by the competent authority on commencement of commercial  production by an industry."
+        },
+        {
+          "element_id": "76_p22_e271",
+          "sequence_order": 271,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 53,
+          "text_preview": "(2)  Only one Commercial Production Certificate shall be issued in favor of an Industrial  unit whether production, expa"
+        },
+        {
+          "element_id": "76_p22_e272",
+          "sequence_order": 272,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "(3)  For Service Sector unit’s commencement of Service activity/operation will be issued  by the competent authority."
+        },
+        {
+          "element_id": "76_p22_e273",
+          "sequence_order": 273,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "(4)  The commercial production date of thermal power projects and other Power  Generation Units will be decided by the E"
+        },
+        {
+          "element_id": "76_p22_e274",
+          "sequence_order": 274,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 64,
+          "text_preview": "21. \"Scheduled Caste / Scheduled Tribe Entrepreneurs \" means such person who is notified  as Scheduled Caste /Scheduled "
+        },
+        {
+          "element_id": "76_p22_e275",
+          "sequence_order": 275,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "22. “Industry proposed / established by Scheduled Caste / Scheduled Tribe” means such"
+        },
+        {
+          "element_id": "76_p22_e276",
+          "sequence_order": 276,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 77,
+          "text_preview": "industry which is proposed to be established or established by the “Scheduled  Caste/Scheduled TribeEntrepreneurs”, all "
+        }
+      ]
+    },
+    "23": {
+      "elements": 9,
+      "flagged": 9,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p23_e277",
+          "sequence_order": 277,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "of intent / Industrial License and in case of commencement of commercial production is  holder of Commercial Production "
+        },
+        {
+          "element_id": "76_p23_e278",
+          "sequence_order": 278,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 52,
+          "text_preview": "23. Cooperatives society established/promoted by Govt. of Chhattisgarh will be eligible to  avail the benefits of invest"
+        },
+        {
+          "element_id": "76_p23_e279",
+          "sequence_order": 279,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 84,
+          "text_preview": "24. “Women Entrepreneur” means such domicile women of the State who has proposed to  establish / has established industr"
+        },
+        {
+          "element_id": "76_p23_e280",
+          "sequence_order": 280,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "25. “Manufacturing Industry” means and includes industries in the category of  manufacturing industry as defined under M"
+        },
+        {
+          "element_id": "76_p23_e281",
+          "sequence_order": 281,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "26. “Job Work” means such activity which is notified by the Department of Commerce and  Industries of Chhattisgarh Gover"
+        },
+        {
+          "element_id": "76_p23_e282",
+          "sequence_order": 282,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 43,
+          "text_preview": "27. “Disabled/Handicapped” means such domicile of the State who comes under the  purview of the Persons with Disabilitie"
+        },
+        {
+          "element_id": "76_p23_e283",
+          "sequence_order": 283,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 38,
+          "text_preview": "28. “Retired Soldier” means such person who has retired from the Armed forces/Para  Military forces of Government of Ind"
+        },
+        {
+          "element_id": "76_p23_e284",
+          "sequence_order": 284,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 72,
+          "text_preview": "29. “Person affected by Naxalism” means such person who himself or is related to the  person or person who has been kill"
+        },
+        {
+          "element_id": "76_p23_e285",
+          "sequence_order": 285,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "30. \"Women Self-Help Group\" means registered women Self-help group in the State."
+        }
+      ]
+    },
+    "24": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p24_e286",
+          "sequence_order": 286,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "31. “Plan” means –"
+        },
+        {
+          "element_id": "76_p24_e287",
+          "sequence_order": 287,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 37,
+          "text_preview": "(a)  In case of micro, small, medium and large industries, the project cost (Excluding  working capital) of industrycas "
+        },
+        {
+          "element_id": "76_p24_e288",
+          "sequence_order": 288,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 55,
+          "text_preview": "(b)  In mega projects and ultra-mega projects, project cost (excluding working capital)  of the industry shown in MOU ex"
+        },
+        {
+          "element_id": "76_p24_e289",
+          "sequence_order": 289,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "32. “Export Oriented Industry” means such industry in whose favor L.O.P (Letter of  Permission) has been issued by the c"
+        },
+        {
+          "element_id": "76_p24_e290",
+          "sequence_order": 290,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 120,
+          "text_preview": "33. “Diversification” means such existing industry in production which comes in the category  of Existing Industry and h"
+        },
+        {
+          "element_id": "76_p24_e291",
+          "sequence_order": 291,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 170,
+          "text_preview": "34. Substitution means a minimum 125% investment of capital investment made by the  micro, small industrial unit in its "
+        },
+        {
+          "element_id": "76_p24_e292",
+          "sequence_order": 292,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 38,
+          "text_preview": "35. Term Loan means term loan sanctioned or disbursed by scheduled bank permitted by  RBI and public welfare financial i"
+        }
+      ]
+    },
+    "25": {
+      "elements": 11,
+      "flagged": 11,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p25_e293",
+          "sequence_order": 293,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "Tribes Finance and Development Corporation, Backward Classes and Minority Finance and  Development Corporation formed un"
+        },
+        {
+          "element_id": "76_p25_e294",
+          "sequence_order": 294,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 90,
+          "text_preview": "36. “Project Report” Project report means project report for establishing a new industry  expansion and diversification "
+        },
+        {
+          "element_id": "76_p25_e295",
+          "sequence_order": 295,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "37. \"Skilled labour, Unskilled labour and Administrative/ Managerial position\"- Definition  thereof shall be considered "
+        },
+        {
+          "element_id": "76_p25_e296",
+          "sequence_order": 296,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "38. \"Non-Resident Indian\" – Definition thereof shall be considered as issued by the  Government of India from time to ti"
+        },
+        {
+          "element_id": "76_p25_e297",
+          "sequence_order": 297,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "39. \"FDI investor\"- Definition thereof shall be considered as issued by the Government of  India from time to time."
+        },
+        {
+          "element_id": "76_p25_e298",
+          "sequence_order": 298,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "40. \"Industry related to Foreign Technology\"- means such industry to which the  Government of India has given clearance "
+        },
+        {
+          "element_id": "76_p25_e299",
+          "sequence_order": 299,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 39,
+          "text_preview": "41. \"Domicile of the State\" - means those who have been defined by the State Government  from time to time, as original "
+        },
+        {
+          "element_id": "76_p25_e300",
+          "sequence_order": 300,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 37,
+          "text_preview": "42. “Closed/Sick Industrial Unit”: - means all those industries which hold production  certificate issued by the compete"
+        },
+        {
+          "element_id": "76_p25_e301",
+          "sequence_order": 301,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "43. \"Industry Premises\"- Industry premises mean the land allotted by the State Government/  Directorate of Industries/ C"
+        },
+        {
+          "element_id": "76_p25_e302",
+          "sequence_order": 302,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "Note: - In these boundaries, land for commercial or residential use will not be included."
+        },
+        {
+          "element_id": "76_p25_e303",
+          "sequence_order": 303,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "44. “Rural Area” - means such area which as per Revenue records, in addition to the  population, is under the definition"
+        }
+      ]
+    },
+    "26": {
+      "elements": 9,
+      "flagged": 9,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p26_e304",
+          "sequence_order": 304,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "more than 20,000 as per Census of 2011 or data prepared by the Central Government from  time to time."
+        },
+        {
+          "element_id": "76_p26_e305",
+          "sequence_order": 305,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "45. “Village Industry Unit”- means any village industry unit established which is classified as  such by Khadi and Villa"
+        },
+        {
+          "element_id": "76_p26_e306",
+          "sequence_order": 306,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 46,
+          "text_preview": "46. “Permanent Employment” means direct salary/wages given by industrial unit to officers  / employees / labours in cate"
+        },
+        {
+          "element_id": "76_p26_e307",
+          "sequence_order": 307,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 57,
+          "text_preview": "47. “Land Bank” means Government land and Private land acquired for any land outside the  Industrial area, Industrial pa"
+        },
+        {
+          "element_id": "76_p26_e308",
+          "sequence_order": 308,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "48. “White goods” means and includes- air conditioner, refrigerator, washing machine,  television set etc."
+        },
+        {
+          "element_id": "76_p26_e309",
+          "sequence_order": 309,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 84,
+          "text_preview": "49. Net SGST: Calculation of Net SGST will be arrived based on the actual SGST deposited  after adjustment of all eligib"
+        },
+        {
+          "element_id": "76_p26_e310",
+          "sequence_order": 310,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "Net SGST Reimbursement will be applicable only on end products consumed in state of  Chhattisgarh. Detailed guidelines/ "
+        },
+        {
+          "element_id": "76_p26_e311",
+          "sequence_order": 311,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "Note: In the event of a dispute regarding definitions, the decision of  Chhattisgarh Government, Department of Commerce "
+        },
+        {
+          "element_id": "76_p26_e312",
+          "sequence_order": 312,
+          "page_number": 26,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "----------"
+        }
+      ]
+    },
+    "27": {
+      "elements": 14,
+      "flagged": 14,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p27_e313",
+          "sequence_order": 313,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Annexure – 2"
+        },
+        {
+          "element_id": "76_p27_e314",
+          "sequence_order": 314,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "List of High Priority Industries Under Industrial Policy 2019-24  (With reference to point number 13 of the definitions "
+        },
+        {
+          "element_id": "76_p27_e315",
+          "sequence_order": 315,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "1. Herbal, Medicinal plant and minor forest produce based industries.  2. Automobile, Auto components.  3. Pharmaceutica"
+        },
+        {
+          "element_id": "76_p27_e316",
+          "sequence_order": 316,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 36,
+          "text_preview": "technologyand information technology based service industry.  6. Products covered under Biotechnology and Nano-technolog"
+        },
+        {
+          "element_id": "76_p27_e317",
+          "sequence_order": 317,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "departments, telecom and aviation companies.  9. Industries established in the private sector using foreign technology a"
+        },
+        {
+          "element_id": "76_p27_e318",
+          "sequence_order": 318,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "of foreign company and Indian company.  10. Exportindustry.  11. Refinery for Bio fuel/Ethanol (subject to procurement o"
+        },
+        {
+          "element_id": "76_p27_e319",
+          "sequence_order": 319,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "during Kharif crop & based on cooperative sugar industries).  12. Electric two-wheeler, three-wheeler and four-wheeler v"
+        },
+        {
+          "element_id": "76_p27_e320",
+          "sequence_order": 320,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "batteries for them.  13. Manufacturing of charging stations equipment for electric vehicles.  14. Aerospace, Aircraft re"
+        },
+        {
+          "element_id": "76_p27_e321",
+          "sequence_order": 321,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "the State.  16. Other such category Industries which may be notified by the State Government from"
+        },
+        {
+          "element_id": "76_p27_e322",
+          "sequence_order": 322,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "time to time."
+        },
+        {
+          "element_id": "76_p27_e323",
+          "sequence_order": 323,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "NOTE:"
+        },
+        {
+          "element_id": "76_p27_e324",
+          "sequence_order": 324,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "1. For eligibility in high priority sector it is mandatory to have minimum limit or more"
+        },
+        {
+          "element_id": "76_p27_e325",
+          "sequence_order": 325,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "capital investment on Plant & Machinery as laid down by the State Government,  Department of Commerce & Industries.  2. "
+        },
+        {
+          "element_id": "76_p27_e326",
+          "sequence_order": 326,
+          "page_number": 27,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "high priority industry, then the investment incentives for those industries will be  allowed on the basis of lower produ"
+        }
+      ]
+    },
+    "28": {
+      "elements": 11,
+      "flagged": 11,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p28_e327",
+          "sequence_order": 327,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Annexure – 3"
+        },
+        {
+          "element_id": "76_p28_e328",
+          "sequence_order": 328,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "List of Priority Industries Under Industrial Policy 2019-24  (With reference to point number 14 of the definitions descr"
+        },
+        {
+          "element_id": "76_p28_e329",
+          "sequence_order": 329,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 47,
+          "text_preview": "(A) On the basis of classification  1. Cycle and product/accessories/spares used for manufacturing of cycle.  2. Plant/m"
+        },
+        {
+          "element_id": "76_p28_e330",
+          "sequence_order": 330,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 45,
+          "text_preview": "India (Except Rice mill, Paddy parboiling and cleaning, Huller mill, Murmura Mill and  Rice Bran Solvent Extraction Plan"
+        },
+        {
+          "element_id": "76_p28_e331",
+          "sequence_order": 331,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "power from new and renewable sources.  8. Manufacturing of Machinery and equipment required for generation, transmission"
+        },
+        {
+          "element_id": "76_p28_e332",
+          "sequence_order": 332,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 48,
+          "text_preview": "and distribution of electricity.  9. Gems and Jewellery.  10. Medical and laboratory equipment.  11. Sports goods.  12. "
+        },
+        {
+          "element_id": "76_p28_e333",
+          "sequence_order": 333,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "time to time."
+        },
+        {
+          "element_id": "76_p28_e334",
+          "sequence_order": 334,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "NOTE:"
+        },
+        {
+          "element_id": "76_p28_e335",
+          "sequence_order": 335,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "1. For eligibility in priority sector it is mandatory to have minimum limit or more capital"
+        },
+        {
+          "element_id": "76_p28_e336",
+          "sequence_order": 336,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "investment on Plant & Machinery as laid down by the State Government, Department  of Commerce & Industries.  2. If any i"
+        },
+        {
+          "element_id": "76_p28_e337",
+          "sequence_order": 337,
+          "page_number": 28,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 51,
+          "text_preview": "priority industry, then the investment incentives for those industries will be allowed  on the basis of lower product ca"
+        }
+      ]
+    },
+    "29": {
+      "elements": 12,
+      "flagged": 12,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p29_e338",
+          "sequence_order": 338,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "3. Automatic agriculture equipment, tractor-based agriculture implements/ agriculture"
+        },
+        {
+          "element_id": "76_p29_e339",
+          "sequence_order": 339,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 49,
+          "text_preview": "implements.  4. Bamboo based industry (wherein Bamboo should be used as the main raw material).  5. Shellac based indust"
+        },
+        {
+          "element_id": "76_p29_e340",
+          "sequence_order": 340,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 36,
+          "text_preview": "machinery).  8. Single Super Phosphate & all types of fertilizers.  9. Wagon coach spares and fitting.  10. Cutting tool"
+        },
+        {
+          "element_id": "76_p29_e341",
+          "sequence_order": 341,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "and polishing of Marble Stone and cutting and polishing of other Mineral Rocks and  production of Tiles.  12. Polyester "
+        },
+        {
+          "element_id": "76_p29_e342",
+          "sequence_order": 342,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 52,
+          "text_preview": "Incense stick, Dona leaf plate manufacturing, Animal feed, Soap and Washing powder,  Phenyl, School bag, CFL Bulb, Steel"
+        },
+        {
+          "element_id": "76_p29_e343",
+          "sequence_order": 343,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "machinery).  15. Wooden Seasoning and Chemical Treatment Plant (with a minimum investment of Rs."
+        },
+        {
+          "element_id": "76_p29_e344",
+          "sequence_order": 344,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 54,
+          "text_preview": "25 Lakh in plant and machinery).  16. Hand pump and spares manufacturing.  17. Submersible pump and spares manufacturing"
+        },
+        {
+          "element_id": "76_p29_e345",
+          "sequence_order": 345,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "time."
+        },
+        {
+          "element_id": "76_p29_e346",
+          "sequence_order": 346,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "NOTE:"
+        },
+        {
+          "element_id": "76_p29_e347",
+          "sequence_order": 347,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "1. For eligibility in priority sector it is mandatory to have minimum limit or more capital"
+        },
+        {
+          "element_id": "76_p29_e348",
+          "sequence_order": 348,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "investment on Plant & Machinery as laid down by the State Government, Department  of Commerce & Industries.  2. If any i"
+        },
+        {
+          "element_id": "76_p29_e349",
+          "sequence_order": 349,
+          "page_number": 29,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "priority industry, then the investment incentives for those industries will be allowed  on the basis of lower product ca"
+        }
+      ]
+    },
+    "30": {
+      "elements": 5,
+      "flagged": 5,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p30_e350",
+          "sequence_order": 350,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Annexure – 4"
+        },
+        {
+          "element_id": "76_p30_e351",
+          "sequence_order": 351,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 33,
+          "text_preview": "List of Saturated Industries Under Industrial Policy 2019-24  (list of industries not eligible for industrial investment"
+        },
+        {
+          "element_id": "76_p30_e352",
+          "sequence_order": 352,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 57,
+          "text_preview": "1. Alcohol, Distillery and alcohol-based beverages.  2. Saw mill.  3. All kind of polythene bags, plastic disposable pro"
+        },
+        {
+          "element_id": "76_p30_e353",
+          "sequence_order": 353,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 92,
+          "text_preview": "mineral powder.  9. Asbestos and asbestos based industries.  10. Leather tannery.  11. Sponge Iron (only for blocks of A"
+        },
+        {
+          "element_id": "76_p30_e354",
+          "sequence_order": 354,
+          "page_number": 30,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 41,
+          "text_preview": "NOTE: In case of setting up of saturated category industry with any other category, the  investment made in the saturate"
+        }
+      ]
+    },
+    "31": {
+      "elements": 5,
+      "flagged": 5,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p31_e355",
+          "sequence_order": 355,
+          "page_number": 31,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Annexure – 5"
+        },
+        {
+          "element_id": "76_p31_e356",
+          "sequence_order": 356,
+          "page_number": 31,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "List of Core Sector Industries Under Industrial Policy 2019-24  (With reference to point number 16 of the definitions de"
+        },
+        {
+          "element_id": "76_p31_e357",
+          "sequence_order": 357,
+          "page_number": 31,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "In the purview of Industrial Investment Promotion following Medium, Large,Mega/Ultra- mega projects shall come under cor"
+        },
+        {
+          "element_id": "76_p31_e358",
+          "sequence_order": 358,
+          "page_number": 31,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "1. Steel Plant.  2. Cement Plant.  3. Thermal Power Plant.  4. Aluminum Plant."
+        },
+        {
+          "element_id": "76_p31_e359",
+          "sequence_order": 359,
+          "page_number": 31,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 39,
+          "text_preview": "NOTE: Eligible new industries under Core sector, established in C and D category  development blocks during the implemen"
+        }
+      ]
+    },
+    "34": {
+      "elements": 23,
+      "flagged": 23,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p34_e360",
+          "sequence_order": 360,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Annexure – 6.3"
+        },
+        {
+          "element_id": "76_p34_e361",
+          "sequence_order": 361,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "(3)  Net State Goods and Services Tax (Net SGST) Reimbursement:  Only for Small, Medium, and Large Industries"
+        },
+        {
+          "element_id": "76_p34_e362",
+          "sequence_order": 362,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Area  General Industry  Priority Industry  High Priority Industry"
+        },
+        {
+          "element_id": "76_p34_e363",
+          "sequence_order": 363,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Category  A  Annexure  – 7(A)"
+        },
+        {
+          "element_id": "76_p34_e364",
+          "sequence_order": 364,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "Reimbursement of Net State  Goods and Services Tax (Net  SGST) paid for a period of 5  years  from  the  date  of  comme"
+        },
+        {
+          "element_id": "76_p34_e365",
+          "sequence_order": 365,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "Reimbursement of Net State  Goods and Services Tax (Net  SGST) paid for a period of 7  years  from  the  date  of  comme"
+        },
+        {
+          "element_id": "76_p34_e366",
+          "sequence_order": 366,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "Reimbursement of Net State  Goods and Services Tax (Net  SGST) paid for a period of 9  years  from  the  date  of  comme"
+        },
+        {
+          "element_id": "76_p34_e367",
+          "sequence_order": 367,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Category  B  Appendix  – 7(B)"
+        },
+        {
+          "element_id": "76_p34_e368",
+          "sequence_order": 368,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "Reimbursement of Net State  Goods and Services Tax (Net  SGST) paid for a period of 7  years  from  the  date  of  comme"
+        },
+        {
+          "element_id": "76_p34_e369",
+          "sequence_order": 369,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "Reimbursement of Net State  Goods and Services Tax (Net  SGST) paid for a period of 8  years  from  the  date  of  comme"
+        },
+        {
+          "element_id": "76_p34_e370",
+          "sequence_order": 370,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "Reimbursement of Net State  Goods and Services Tax (Net  SGST) paid for a period of 10  years  from  the  date  of  comm"
+        },
+        {
+          "element_id": "76_p34_e371",
+          "sequence_order": 371,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Category  C  Appendix  – 7(C)"
+        },
+        {
+          "element_id": "76_p34_e372",
+          "sequence_order": 372,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "Reimbursement of Net State  Goods and Services Tax (Net  SGST) paid for a period of 8  years  from  the  date  of  comme"
+        },
+        {
+          "element_id": "76_p34_e373",
+          "sequence_order": 373,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "Reimbursement of Net State  Goods and Services Tax (Net  SGST) paid for a period of 10  years  from  the  date  of  comm"
+        },
+        {
+          "element_id": "76_p34_e374",
+          "sequence_order": 374,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 34,
+          "text_preview": "Reimbursement of Net State  Goods and Services Tax (Net  SGST) paid for a period of 12  years  from  the  date  of  comm"
+        },
+        {
+          "element_id": "76_p34_e375",
+          "sequence_order": 375,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Category  D  Appendix  – 7(D)"
+        },
+        {
+          "element_id": "76_p34_e376",
+          "sequence_order": 376,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "Reimbursement of Net State  Goods and Services Tax (Net  SGST) paid for a period of 10  years  from  the  date  of  comm"
+        },
+        {
+          "element_id": "76_p34_e377",
+          "sequence_order": 377,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "Reimbursement of Net State  Goods and Services Tax (Net  SGST) paid for a period of 12  years  from  the  date  of  comm"
+        },
+        {
+          "element_id": "76_p34_e378",
+          "sequence_order": 378,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "Reimbursement of Net State  Goods and Services Tax (Net  SGST) paid for a period of 15  years  from  the  date  of  comm"
+        },
+        {
+          "element_id": "76_p34_e379",
+          "sequence_order": 379,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "NOTE:"
+        },
+        {
+          "element_id": "76_p34_e380",
+          "sequence_order": 380,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "1. The amount of reimbursement permissible under Net State Goods and Services Tax"
+        },
+        {
+          "element_id": "76_p34_e381",
+          "sequence_order": 381,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 36,
+          "text_preview": "(Net SGST) for Mega and Ultra Mega Industries will not exceed the maximum ceiling  allowed for the large industry under "
+        },
+        {
+          "element_id": "76_p34_e382",
+          "sequence_order": 382,
+          "page_number": 34,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 36,
+          "text_preview": "eligible units shall be determined by dividing the total eligible quantum of incentive  equally within the eligible ince"
+        }
+      ]
+    },
+    "36": {
+      "elements": 14,
+      "flagged": 14,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p36_e383",
+          "sequence_order": 383,
+          "page_number": 36,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Annexure – 6.5"
+        },
+        {
+          "element_id": "76_p36_e384",
+          "sequence_order": 384,
+          "page_number": 36,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "(5) Stamp Duty Exemption"
+        },
+        {
+          "element_id": "76_p36_e385",
+          "sequence_order": 385,
+          "page_number": 36,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 49,
+          "text_preview": "In view of classification of investors, all categories of entrepreneurs who have established  eligible Micro, Small, Med"
+        },
+        {
+          "element_id": "76_p36_e386",
+          "sequence_order": 386,
+          "page_number": 36,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "5.1  (a) On Deeds executed for purchase/lease of land, shed and buildings and on deeds for  transfer of related lease do"
+        },
+        {
+          "element_id": "76_p36_e387",
+          "sequence_order": 387,
+          "page_number": 36,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "(b) On the execution of deeds related with loan & advances from the date of sanction  of loan by bank/financial institut"
+        },
+        {
+          "element_id": "76_p36_e388",
+          "sequence_order": 388,
+          "page_number": 36,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 51,
+          "text_preview": "5.2  On purchase of agriculture land within 2 years of receipt of land acquisition  compensation amount up to the extent"
+        },
+        {
+          "element_id": "76_p36_e389",
+          "sequence_order": 389,
+          "page_number": 36,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "5.3  On purchase/lease of land for Industrial areas/ Industrial park to be established in  private sector sanctioned/app"
+        },
+        {
+          "element_id": "76_p36_e390",
+          "sequence_order": 390,
+          "page_number": 36,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "5.4  On purchase/ lease of land by the Chhattisgarh State Industrial Development  Corporation Limited for industrial are"
+        },
+        {
+          "element_id": "76_p36_e391",
+          "sequence_order": 391,
+          "page_number": 36,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "5.5  On purchase/sale deeds of purchase of closed/sick industrial unit."
+        },
+        {
+          "element_id": "76_p36_e392",
+          "sequence_order": 392,
+          "page_number": 36,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "5.6  On purchase/lease of land for establishing film studio, editing studio."
+        },
+        {
+          "element_id": "76_p36_e393",
+          "sequence_order": 393,
+          "page_number": 36,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "5.7   On purchase/lease of land for establishing logistic hub, warehousing, cold-storage and  grain silo."
+        },
+        {
+          "element_id": "76_p36_e394",
+          "sequence_order": 394,
+          "page_number": 36,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Annexure - 6.6"
+        },
+        {
+          "element_id": "76_p36_e395",
+          "sequence_order": 395,
+          "page_number": 36,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "(6)  Mandi Tax Exemption"
+        },
+        {
+          "element_id": "76_p36_e396",
+          "sequence_order": 396,
+          "page_number": 36,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 90,
+          "text_preview": "All the New micro, small, medium and large agricultural and food products processing  industries to be established in th"
+        }
+      ]
+    },
+    "37": {
+      "elements": 12,
+      "flagged": 12,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p37_e397",
+          "sequence_order": 397,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Annexure – 6.7"
+        },
+        {
+          "element_id": "76_p37_e398",
+          "sequence_order": 398,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "(7)  Project Report Subsidy"
+        },
+        {
+          "element_id": "76_p37_e399",
+          "sequence_order": 399,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "Reimbursement of cost incurred on project report by eligible new Micro, Small and Medium  category industries establishe"
+        },
+        {
+          "element_id": "76_p37_e400",
+          "sequence_order": 400,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Annexure – 6.8"
+        },
+        {
+          "element_id": "76_p37_e401",
+          "sequence_order": 401,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "(8) Diversion in Land Use"
+        },
+        {
+          "element_id": "76_p37_e402",
+          "sequence_order": 402,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "All categories of entrepreneurs who have established eligible new micro and small industries  will get 50% exemption fro"
+        },
+        {
+          "element_id": "76_p37_e403",
+          "sequence_order": 403,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Annexure – 6.9"
+        },
+        {
+          "element_id": "76_p37_e404",
+          "sequence_order": 404,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "(9) Service Charges for allotment of land outside industrial area (Land Bank)"
+        },
+        {
+          "element_id": "76_p37_e405",
+          "sequence_order": 405,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 50,
+          "text_preview": "In the case of acquisition of private land and transfer of Government land for the industrial  purpose (Land Bank) the s"
+        },
+        {
+          "element_id": "76_p37_e406",
+          "sequence_order": 406,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "A. 5% amount of the land acquisition value payable to the District Administration for  acquisition of private land."
+        },
+        {
+          "element_id": "76_p37_e407",
+          "sequence_order": 407,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "B. 10% amount on the amount equal to the price of land acquisition for allotment of  Private/ Government land."
+        },
+        {
+          "element_id": "76_p37_e408",
+          "sequence_order": 408,
+          "page_number": 37,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 56,
+          "text_preview": "NOTE: It is clarified that in the private/government land allotment made outside the  industrial areas, the 10% land all"
+        }
+      ]
+    },
+    "38": {
+      "elements": 12,
+      "flagged": 12,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p38_e409",
+          "sequence_order": 409,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Annexure – 6.10"
+        },
+        {
+          "element_id": "76_p38_e410",
+          "sequence_order": 410,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "(10) Exemption/concession in Land Premium on land allotment in industrial"
+        },
+        {
+          "element_id": "76_p38_e411",
+          "sequence_order": 411,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "areas for Entrepreneurs of Scheduled Caste/Tribe Category  (Only For Micro, Small, Medium Industries/Enterprises)"
+        },
+        {
+          "element_id": "76_p38_e412",
+          "sequence_order": 412,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "(1) In the industrial areas of the Department of Commerce & Industries / Chhattisgarh"
+        },
+        {
+          "element_id": "76_p38_e413",
+          "sequence_order": 413,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 53,
+          "text_preview": "State Industrial Development Corporation Ltd., 100 % exemption of land premium  shall be given on land allotment for est"
+        },
+        {
+          "element_id": "76_p38_e414",
+          "sequence_order": 414,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "(2) In view of providing the facility of free of cost allotment of land (in industry and"
+        },
+        {
+          "element_id": "76_p38_e415",
+          "sequence_order": 415,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 71,
+          "text_preview": "services  enterprise),  the  State  Government/Chhattisgarh  State  Industrial  Development Corporation Ltd. will reserv"
+        },
+        {
+          "element_id": "76_p38_e416",
+          "sequence_order": 416,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "(3) The area of the plot/land for the entrepreneurs of SC/ST category will be determined"
+        },
+        {
+          "element_id": "76_p38_e417",
+          "sequence_order": 417,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "according to the eligibility mentioned in the Chhattisgarh Audyogik Bhumi Bhawan  Prabandhan Niyam - 2015"
+        },
+        {
+          "element_id": "76_p38_e418",
+          "sequence_order": 418,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Annexure – 6.11"
+        },
+        {
+          "element_id": "76_p38_e419",
+          "sequence_order": 419,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "(11)  Quality Certification Subsidy"
+        },
+        {
+          "element_id": "76_p38_e420",
+          "sequence_order": 420,
+          "page_number": 38,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 65,
+          "text_preview": "The new and existing Micro, Small and Medium category industries established by  general category entrepreneurs in the S"
+        }
+      ]
+    },
+    "39": {
+      "elements": 18,
+      "flagged": 18,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p39_e421",
+          "sequence_order": 421,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Annexure – 6.12"
+        },
+        {
+          "element_id": "76_p39_e422",
+          "sequence_order": 422,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "(12)  Technical Patent Subsidy"
+        },
+        {
+          "element_id": "76_p39_e423",
+          "sequence_order": 423,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 48,
+          "text_preview": "New and existing Micro, Small, and Medium industries established by general category  entrepreneurs in the State shall b"
+        },
+        {
+          "element_id": "76_p39_e424",
+          "sequence_order": 424,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Annexure – 6.13"
+        },
+        {
+          "element_id": "76_p39_e425",
+          "sequence_order": 425,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "(13)  Technology Purchase Subsidy"
+        },
+        {
+          "element_id": "76_p39_e426",
+          "sequence_order": 426,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 53,
+          "text_preview": "New and existing Micro, Small, Medium industry, Large industry and Mega and Ultra- Mega projects category excluding satu"
+        },
+        {
+          "element_id": "76_p39_e427",
+          "sequence_order": 427,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Annexure – 6.14"
+        },
+        {
+          "element_id": "76_p39_e428",
+          "sequence_order": 428,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "(14)  Margin Money Subsidy"
+        },
+        {
+          "element_id": "76_p39_e429",
+          "sequence_order": 429,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 43,
+          "text_preview": "Scheduled caste/tribe, Women Entrepreneurs, Retired Soldiers, Naxal affected person,  third gender entrepreneurs and ent"
+        },
+        {
+          "element_id": "76_p39_e430",
+          "sequence_order": 430,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Annexure – 6.15"
+        },
+        {
+          "element_id": "76_p39_e431",
+          "sequence_order": 431,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "(15) Industrial Award Subsidy"
+        },
+        {
+          "element_id": "76_p39_e432",
+          "sequence_order": 432,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "In the following categories first, second and third prizes will be of Rs.1,51,000/-,  1,00,000/- and 51,000/- respective"
+        },
+        {
+          "element_id": "76_p39_e433",
+          "sequence_order": 433,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "1. For complete evaluation of Micro & Small industries"
+        },
+        {
+          "element_id": "76_p39_e434",
+          "sequence_order": 434,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "2. Micro & Small industry established by the SC/ST category"
+        },
+        {
+          "element_id": "76_p39_e435",
+          "sequence_order": 435,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "3. Exporting Micro & Small-scale industry"
+        },
+        {
+          "element_id": "76_p39_e436",
+          "sequence_order": 436,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "4. Industry established by woman entrepreneur"
+        },
+        {
+          "element_id": "76_p39_e437",
+          "sequence_order": 437,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "5. Startup Units"
+        },
+        {
+          "element_id": "76_p39_e438",
+          "sequence_order": 438,
+          "page_number": 39,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "NOTE: Awards will not be applicable for industries which are under ineligible/  saturated category under any Industrial "
+        }
+      ]
+    },
+    "40": {
+      "elements": 20,
+      "flagged": 20,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p40_e439",
+          "sequence_order": 439,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Annexure – 6.16"
+        },
+        {
+          "element_id": "76_p40_e440",
+          "sequence_order": 440,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "(16)  Divyang (Differently able Person) Employment Subsidy"
+        },
+        {
+          "element_id": "76_p40_e441",
+          "sequence_order": 441,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 74,
+          "text_preview": "All categories of entrepreneurs who have established eligible new and existing Micro and  Small, Medium industry, Large "
+        },
+        {
+          "element_id": "76_p40_e442",
+          "sequence_order": 442,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Annexure – 6.17"
+        },
+        {
+          "element_id": "76_p40_e443",
+          "sequence_order": 443,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "(17)  Environment Management Project Subsidy"
+        },
+        {
+          "element_id": "76_p40_e444",
+          "sequence_order": 444,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "17.1 Adoption of such technology resulting receipts of Carbon Credits and if Carbon"
+        },
+        {
+          "element_id": "76_p40_e445",
+          "sequence_order": 445,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 36,
+          "text_preview": "Footprint gets reduced, such machinery will be given subsidy of 50% of cost of  machinery, subject to maximum of Rs. 25 "
+        },
+        {
+          "element_id": "76_p40_e446",
+          "sequence_order": 446,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "17.2 Consultants will be empaneledfor availing the subsidy in respect of Carbon Credit"
+        },
+        {
+          "element_id": "76_p40_e447",
+          "sequence_order": 447,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "awarded by the World Level Institutions."
+        },
+        {
+          "element_id": "76_p40_e448",
+          "sequence_order": 448,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Annexure – 6.18"
+        },
+        {
+          "element_id": "76_p40_e449",
+          "sequence_order": 449,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "(18)  Transport Subsidy  (Applicable only for Export Oriented Units (EOU))"
+        },
+        {
+          "element_id": "76_p40_e450",
+          "sequence_order": 450,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "For the transportation of goods (excluding mining related products) to the nearest"
+        },
+        {
+          "element_id": "76_p40_e451",
+          "sequence_order": 451,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "seaport/ airport from the place of manufacture to where goods are being exported, actual"
+        },
+        {
+          "element_id": "76_p40_e452",
+          "sequence_order": 452,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "transportation charges (excluding government duty and taxes) will be reimbursed. The"
+        },
+        {
+          "element_id": "76_p40_e453",
+          "sequence_order": 453,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "maximum limit would be Rs. 20 lakhs per year maximum for the period of 5 years. It will"
+        },
+        {
+          "element_id": "76_p40_e454",
+          "sequence_order": 454,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "be applicable on the first-time exported product/produce by 100% EOUs established"
+        },
+        {
+          "element_id": "76_p40_e455",
+          "sequence_order": 455,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "anywhere in the State."
+        },
+        {
+          "element_id": "76_p40_e456",
+          "sequence_order": 456,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Annexure – 6.19"
+        },
+        {
+          "element_id": "76_p40_e457",
+          "sequence_order": 457,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "(19)  Special Package for Mega/Ultra Mega Projects"
+        },
+        {
+          "element_id": "76_p40_e458",
+          "sequence_order": 458,
+          "page_number": 40,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 42,
+          "text_preview": "High Power Committee (HPC), under Chairmanship of Chief Secretary will approve the  customized package of incentives to "
+        }
+      ]
+    },
+    "43": {
+      "elements": 18,
+      "flagged": 18,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "76_p43_e459",
+          "sequence_order": 459,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Annexure - 7(D)"
+        },
+        {
+          "element_id": "76_p43_e460",
+          "sequence_order": 460,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "CATEGORY “D” (Most Backward Area- 66) Under Industrial Policy 2019-24"
+        },
+        {
+          "element_id": "76_p43_e461",
+          "sequence_order": 461,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "S. No.  Name of District  Name of Development Block"
+        },
+        {
+          "element_id": "76_p43_e462",
+          "sequence_order": 462,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "1.    Bastar  Bakawand, Bastanar, Darbha, Lohandiguda,  Bastar, Tokapal"
+        },
+        {
+          "element_id": "76_p43_e463",
+          "sequence_order": 463,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "2.    Bijapur  Bijapur, Bhairamgarh, Bhopalpatnam, Usoor"
+        },
+        {
+          "element_id": "76_p43_e464",
+          "sequence_order": 464,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "3.    Dantewada  Dantewada, Geedam, Katekalyan,  Kuwakonda"
+        },
+        {
+          "element_id": "76_p43_e465",
+          "sequence_order": 465,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "4.    Kanker  Antagarh, Bhanupratappur, Durgukondal,  Narharpur,Koylibeda"
+        },
+        {
+          "element_id": "76_p43_e466",
+          "sequence_order": 466,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "5.    Kondagaon  Keshkal, Kondagaon, Baderajpur, Makdi,  Pharasgaon"
+        },
+        {
+          "element_id": "76_p43_e467",
+          "sequence_order": 467,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "6.    Gariyaband  Deobhog, Mainpur"
+        },
+        {
+          "element_id": "76_p43_e468",
+          "sequence_order": 468,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "7.    Narayanpur  Narayanpur, Orchca (Abujmad)"
+        },
+        {
+          "element_id": "76_p43_e469",
+          "sequence_order": 469,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "8.    Sukma  Konta, Chhindgarh, Sukma"
+        },
+        {
+          "element_id": "76_p43_e470",
+          "sequence_order": 470,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "9.    Bilaspur  Marwahi"
+        },
+        {
+          "element_id": "76_p43_e471",
+          "sequence_order": 471,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "10.    Rajnandgaon  Mahula, Chhuriya, Ambagarh Chowki,  Manpur"
+        },
+        {
+          "element_id": "76_p43_e472",
+          "sequence_order": 472,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "11.    Balrampur  Balrampur, Kusmi, Rajpur, Ramchandrapur,  Shankargarh, Wadrafnagar"
+        },
+        {
+          "element_id": "76_p43_e473",
+          "sequence_order": 473,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "12.    Jashpur  Jashpur,  Kunkuri,  Patthalgaon,  Bagicha,  Duldula, Manora, Kansabel, Pharsabahar"
+        },
+        {
+          "element_id": "76_p43_e474",
+          "sequence_order": 474,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "13.    Koriya  Manendragarh, Baikunthpur, Bharatpur,  Khadgawan, Sonhat"
+        },
+        {
+          "element_id": "76_p43_e475",
+          "sequence_order": 475,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "14.    Sarguja  Lundra, Sitapur, Batoli, Lakhanpur, Mainpat,  Udaipur"
+        },
+        {
+          "element_id": "76_p43_e476",
+          "sequence_order": 476,
+          "page_number": 43,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "15.    Surajpur  Pratappur, Premnagar, Bhaiyathan, Odagi,  Ramanujnagar"
+        }
+      ]
+    }
+  }
+}

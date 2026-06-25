@@ -2,186 +2,510 @@
   "document_id": 70,
   "pages": {
     "1": {
-      "elements": 17,
-      "flagged": 17,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": 28.0,
+      "elements": 3,
+      "flagged": 3,
+      "flags": [],
+      "ocr_conf": null,
       "issues": [
         {
           "element_id": "70_p1_e0",
           "sequence_order": 0,
           "page_number": 1,
-          "quality_score": 0.168,
-          "element_type": "heading",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "dau dla:-"
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "(o)  =  =  )  -  =  an  ge"
         },
         {
           "element_id": "70_p1_e1",
           "sequence_order": 1,
           "page_number": 1,
-          "quality_score": 0.28,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [],
           "token_count": 18,
-          "text_preview": "fh. 22. ail./ris2 wis Adler WS2 2093/ PaurdalAvlaudreil/aula wialMajasl. ¢ /rs, $A S22 SAL, WAAUS WL, AGALS, dl.og/OUu/r"
+          "text_preview": "al a  D  -  FS)  -  o  ae  So  %.  zn  2.  eo  za  a =]  2  ="
         },
         {
           "element_id": "70_p1_e2",
           "sequence_order": 2,
           "page_number": 1,
-          "quality_score": 0.28,
-          "element_type": "clause",
-          "reason": [],
-          "token_count": 8,
-          "text_preview": "wrsizallal AtL.a.[AAL Yar A. WY./1020V3/UC F/SYAUY/I, A.A F/OUROVS."
-        },
-        {
-          "element_id": "70_p1_e3",
-          "sequence_order": 3,
-          "page_number": 1,
-          "quality_score": 0.28,
-          "element_type": "clause",
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [],
           "token_count": 5,
-          "text_preview": "wasizallat 4.[A.dl Ua 6:00702073/ECU/~A, al.10/09/2043."
-        },
+          "text_preview": "<< )  —]  NY  an"
+        }
+      ]
+    },
+    "3": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
         {
-          "element_id": "70_p1_e4",
+          "element_id": "70_p3_e3",
+          "sequence_order": 3,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 623,
+          "text_preview": "eo  ~ > =~ ee3nHns 2uoson g8 ft  GPS g207S FEFIS PZSS B2R28 Sear &2) 2  ~ ¢88  6B -s a 32am BSFB°  5 BEG  PF  6 ae Bam &"
+        }
+      ]
+    },
+    "4": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "70_p4_e4",
           "sequence_order": 4,
-          "page_number": 1,
-          "quality_score": 0.28,
-          "element_type": "clause",
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [],
-          "token_count": 7,
-          "text_preview": "wasirzafle 4.[ tt Urt $:424/1093/4¢02E/A, Al. 12/09/2093."
-        },
+          "token_count": 650,
+          "text_preview": "eT  a<or; me  BERreFs 5; zpPeogrr SEEGERS:  a79O02 23238  S25 58  .  PE £FEE G2ee re 4538 24  *  gs  .  Sos  ef  2 3 3  "
+        }
+      ]
+    },
+    "5": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
         {
-          "element_id": "70_p1_e5",
+          "element_id": "70_p5_e5",
           "sequence_order": 5,
-          "page_number": 1,
-          "quality_score": 0.28,
-          "element_type": "clause",
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [],
-          "token_count": 7,
-          "text_preview": "Cw) wasiraflat ata [Aa vat s:2RAllaia/102093/1¢1¢/aNdly/¥, dl.1G/03/2049S."
-        },
+          "token_count": 698,
+          "text_preview": ":  sa 3s  5  OS  § B55 ams  B33  gv 2 2  QA0QO8EFR @Qcxrt  as  BQ BLE ZRPRED BEGSESETS Fse  ze  29° ¢  22S GS BFS ERRZe "
+        }
+      ]
+    },
+    "6": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
         {
-          "element_id": "70_p1_e6",
+          "element_id": "70_p6_e6",
           "sequence_order": 6,
-          "page_number": 1,
-          "quality_score": 0.28,
-          "element_type": "clause",
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [],
-          "token_count": 9,
-          "text_preview": "(uy) wrsizeflat w.4. [Atl S24 SAWY/1OROVY/4 FOC /AUAL, AL.23/03/204."
-        },
+          "token_count": 704,
+          "text_preview": "2S  esctr  asengp FUEeFesfD 22  Beawo ose 449  BS BEERS Feo €RSF2Z88 BS  Z2S5  ES 25S  ef BESEFO ZEREY PESEZ  FE 82  o#2"
+        }
+      ]
+    },
+    "7": {
+      "elements": 25,
+      "flagged": 25,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": 38.88,
+      "issues": [
         {
-          "element_id": "70_p1_e7",
+          "element_id": "70_p7_e7",
           "sequence_order": 7,
-          "page_number": 1,
-          "quality_score": 0.28,
-          "element_type": "clause",
-          "reason": [],
-          "token_count": 8,
-          "text_preview": "arsizallar yal daABS in d.wAyrymy/10209 $/cow/laural/vory/ O4C/33, AL.2C/O3/2OVS."
-        },
-        {
-          "element_id": "70_p1_e8",
-          "sequence_order": 8,
-          "page_number": 1,
-          "quality_score": 0.28,
-          "element_type": "clause",
-          "reason": [],
-          "token_count": 11,
-          "text_preview": "wesizalary.[a.ct ABS a4 4. wrAwMy/> $/cow/Marall/104 $ /232/ ~W4/4, Al. 30/03/2049S."
-        },
-        {
-          "element_id": "70_p1_e9",
-          "sequence_order": 9,
-          "page_number": 1,
-          "quality_score": 0.28,
-          "element_type": "clause",
-          "reason": [],
-          "token_count": 12,
-          "text_preview": "(¢) wesizshar 4a. tl ABS at 4d. wAAWA/204 F/cOU/SSdl/1020404/ 423/3, dl. 3d/osRors."
-        },
-        {
-          "element_id": "70_p1_e10",
-          "sequence_order": 10,
-          "page_number": 1,
-          "quality_score": 0.28,
-          "element_type": "clause",
-          "reason": [],
-          "token_count": 10,
-          "text_preview": "(Ce) wrsirahlal Us [AGLAL Yat $212AY/102013/1 815 /MU(UL.SL.-2), AL.2F5/Ow/ROVS. )"
-        },
-        {
-          "element_id": "70_p1_e11",
-          "sequence_order": 11,
-          "page_number": 1,
-          "quality_score": 0.28,
-          "element_type": "clause",
-          "reason": [],
-          "token_count": 7,
-          "text_preview": "wesiraflar as AH Wat $4214/102093/4¥45/(UL.SL.-2), AL. V2/Ow/ROVS."
-        },
-        {
-          "element_id": "70_p1_e12",
-          "sequence_order": 12,
-          "page_number": 1,
-          "quality_score": 0.28,
-          "element_type": "clause",
-          "reason": [],
-          "token_count": 14,
-          "text_preview": "2A Sac) at.w/Y20rS al go AU. 2U2. al. aise rls wAlalaea WSE-209.3/Mrausri/Arlaudsai/rula wWiaiMa/jasl oujors"
-        },
-        {
-          "element_id": "70_p1_e13",
-          "sequence_order": 13,
-          "page_number": 1,
-          "quality_score": 0.168,
-          "element_type": "heading",
+          "page_number": 7,
+          "quality_score": 0.233,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
-          "text_preview": "MAUL gS4-"
+          "text_preview": "266 ="
         },
         {
-          "element_id": "70_p1_e14",
+          "element_id": "70_p7_e8",
+          "sequence_order": 8,
+          "page_number": 7,
+          "quality_score": 0.233,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "oe gf"
+        },
+        {
+          "element_id": "70_p7_e9",
+          "sequence_order": 9,
+          "page_number": 7,
+          "quality_score": 0.233,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "654083 |"
+        },
+        {
+          "element_id": "70_p7_e10",
+          "sequence_order": 10,
+          "page_number": 7,
+          "quality_score": 0.389,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": ": BRE SEs Ey"
+        },
+        {
+          "element_id": "70_p7_e11",
+          "sequence_order": 11,
+          "page_number": 7,
+          "quality_score": 0.389,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "7 a go ay a2"
+        },
+        {
+          "element_id": "70_p7_e12",
+          "sequence_order": 12,
+          "page_number": 7,
+          "quality_score": 0.233,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "gs ese"
+        },
+        {
+          "element_id": "70_p7_e13",
+          "sequence_order": 13,
+          "page_number": 7,
+          "quality_score": 0.117,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "gg z"
+        },
+        {
+          "element_id": "70_p7_e14",
           "sequence_order": 14,
-          "page_number": 1,
-          "quality_score": 0.28,
+          "page_number": 7,
+          "quality_score": 0.389,
           "element_type": "paragraph",
           "reason": [],
-          "token_count": 82,
-          "text_preview": "myr-a afl wrsirzailar wearer adla2 facil fl awed ude ws AMava-rjadiala waMan-2043 siael asaiyl Weal B. WHA all Arsiralle"
+          "token_count": 5,
+          "text_preview": ": a1 z g: 8"
         },
         {
-          "element_id": "70_p1_e15",
+          "element_id": "70_p7_e15",
           "sequence_order": 15,
-          "page_number": 1,
-          "quality_score": 0.28,
-          "element_type": "table",
-          "reason": [],
-          "token_count": 58,
-          "text_preview": "Vals, Uy.: UH HAL ALS ASA, Bar Wuatal WAY: wu (2a; Vals, Uy.: SUH AMAL ALO ASA, Bar Wuatal WAY: © [fay; Vals, Uy.: VSd M"
-        },
-        {
-          "element_id": "70_p1_e16",
-          "sequence_order": 16,
-          "page_number": 1,
-          "quality_score": 0.28,
+          "page_number": 7,
+          "quality_score": 0.389,
           "element_type": "paragraph",
           "reason": [],
-          "token_count": 28,
-          "text_preview": "WMYU-C WA 10 el AAL MHU-F, OWA ¢ Al wisreuHiell wise wa Aarll yl usa w2:-(a)aar yal user wsi2l(Designeted Ofiicer ),(2)s"
+          "token_count": 32,
+          "text_preview": "EB _ ! S ° = 2 o og E: e Fd 8 a:: ] 2 = 2 ES > 5 = g. > =] = ° > | oo o 3S"
+        },
+        {
+          "element_id": "70_p7_e16",
+          "sequence_order": 16,
+          "page_number": 7,
+          "quality_score": 0.117,
+          "element_type": "section",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "83 8"
+        },
+        {
+          "element_id": "70_p7_e17",
+          "sequence_order": 17,
+          "page_number": 7,
+          "quality_score": 0.389,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "~ gee ="
+        },
+        {
+          "element_id": "70_p7_e18",
+          "sequence_order": 18,
+          "page_number": 7,
+          "quality_score": 0.389,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "ae =é Be oR 5"
+        },
+        {
+          "element_id": "70_p7_e19",
+          "sequence_order": 19,
+          "page_number": 7,
+          "quality_score": 0.233,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "oE oe"
+        },
+        {
+          "element_id": "70_p7_e20",
+          "sequence_order": 20,
+          "page_number": 7,
+          "quality_score": 0.233,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Bee 3"
+        },
+        {
+          "element_id": "70_p7_e21",
+          "sequence_order": 21,
+          "page_number": 7,
+          "quality_score": 0.389,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "228 g of"
+        },
+        {
+          "element_id": "70_p7_e22",
+          "sequence_order": 22,
+          "page_number": 7,
+          "quality_score": 0.389,
+          "element_type": "heading",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "8 2 z = om =a ina > Z. a E"
+        },
+        {
+          "element_id": "70_p7_e23",
+          "sequence_order": 23,
+          "page_number": 7,
+          "quality_score": 0.233,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Bg ao"
+        },
+        {
+          "element_id": "70_p7_e24",
+          "sequence_order": 24,
+          "page_number": 7,
+          "quality_score": 0.389,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "| Z zi"
+        },
+        {
+          "element_id": "70_p7_e25",
+          "sequence_order": 25,
+          "page_number": 7,
+          "quality_score": 0.233,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "oF &F"
+        },
+        {
+          "element_id": "70_p7_e26",
+          "sequence_order": 26,
+          "page_number": 7,
+          "quality_score": 0.117,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "we B"
+        },
+        {
+          "element_id": "70_p7_e27",
+          "sequence_order": 27,
+          "page_number": 7,
+          "quality_score": 0.389,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "\" 2 & wn = o fc = ej a:: a a:: Go g [ e 3 ws 3 >} fat € | is ° Au gS"
+        },
+        {
+          "element_id": "70_p7_e28",
+          "sequence_order": 28,
+          "page_number": 7,
+          "quality_score": 0.389,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 45,
+          "text_preview": "g: a i if os i z= Zu 7 Bo a6 gf; i i PF 2 == Bs = eS: eo 2:: ' a Sm 5S i d i:: 2 Fi: 2.: g ° i x 3 BS a 7 S 7:: B @ i:"
+        },
+        {
+          "element_id": "70_p7_e29",
+          "sequence_order": 29,
+          "page_number": 7,
+          "quality_score": 0.389,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "ge gr go tod"
+        },
+        {
+          "element_id": "70_p7_e30",
+          "sequence_order": 30,
+          "page_number": 7,
+          "quality_score": 0.389,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 200,
+          "text_preview": "ad gb ar 20 gP gis g 3 26 59 2 ee 7 . Ss 3 e3 g 3 ied ag o et BY 2.3 5 | g | gU e 6p & E: go EE g SF ae Ee & 3 #8 #2 S a"
+        },
+        {
+          "element_id": "70_p7_e31",
+          "sequence_order": 31,
+          "page_number": 7,
+          "quality_score": 0.389,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 137,
+          "text_preview": "i He ae i ake gS 223 2S) . Bees aE. Ue: in in q BEES 5 BSS 6 sf) a3. 5 3b an s SB =. Za SE 28 a. R& za < AG a! 42 S a\" s"
+        }
+      ]
+    },
+    "8": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "70_p8_e32",
+          "sequence_order": 32,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Do  zy  [els  =  >"
+        },
+        {
+          "element_id": "70_p8_e33",
+          "sequence_order": 33,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 633,
+          "text_preview": ".  .  .  65 &  lot  oa  —  =  262eH Ree.  Ro  fF  #  e222  2 ¢85 §$2u8 $E;  enenen Bos §€  lalala  wool  £88 €  SS$nr FF"
+        }
+      ]
+    },
+    "10": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "70_p10_e34",
+          "sequence_order": 34,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "i-mnes}  - 22 3 |  5"
+        },
+        {
+          "element_id": "70_p10_e35",
+          "sequence_order": 35,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 551,
+          "text_preview": "z &  2  2 SES 8  gF*,  vpsespr  86 a=  s  Zz Bg 3  =  $4 332°  BR eer  g 2  eos  is  S| ow  g  5  oF 268 a7 28°  Zz  22 "
+        },
+        {
+          "element_id": "70_p10_e36",
+          "sequence_order": 36,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "™  o a  +  8  soe  g  25  “  =  Bo  = a"
+        }
+      ]
+    },
+    "11": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "70_p11_e37",
+          "sequence_order": 37,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 665,
+          "text_preview": "L~  me  w  e@gk2e  2  _  Y gg@rar  3  > to  > 2828  ZESSF89UP FS F825  'S  o  ©  aoc¢grdy¢y  @ERBRSESP REE AES  XY  =  -"
+        }
+      ]
+    },
+    "13": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "70_p13_e38",
+          "sequence_order": 38,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 592,
+          "text_preview": "|  Osa:  ‘oa  ZO FS EZS  SEBS  SS ES BRE  SEae ¢  os  ar BLY  so  gs 8  g  Be &:  =o  Bi  B  Bea  REHss  > PBo EB  Boma "
+        },
+        {
+          "element_id": "70_p13_e39",
+          "sequence_order": 39,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "z 8  a  g  oo  ead  toy  td  BaF  oR  Q  5  o oO  a"
         }
       ]
     }

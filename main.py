@@ -12,6 +12,7 @@ from app.agents.voice.routes import router as voice_router
 from app.agents.briefing.routes import router as briefing_router
 from app.agents.entitlement.api.routes import router as entitlement_router
 from app.agents.verification.api.routes import router as verification_router
+from app.agents.gaca.main import router as gaca_router
 
 from app.services.query_service import USE_OLLAMA, get_llm
 from app.services.ollama_service import get_ollama_llm
@@ -57,7 +58,7 @@ app.include_router(voice_router, prefix="/api/v1/haptik-webhook", tags=["Voice A
 app.include_router(briefing_router, prefix="/api/v1/briefings", tags=["Briefing Agent"])
 app.include_router(entitlement_router, prefix="/api", tags=["Entitlement Agent"])
 app.include_router(verification_router, prefix="/api/v1/verification", tags=["Verification Agent"])
-
+app.include_router(gaca_router, prefix="/api/v1/gaca", tags=["Governance & Audit"])
 
 # -----------------------------------------------------------------------------
 # Health Check Route
@@ -82,6 +83,14 @@ def load_model():
     """
 
     print("Loading LLM at startup...")
+
+    # Initialize GACA database tables
+    try:
+        from app.agents.gaca.database import Base, engine
+        Base.metadata.create_all(bind=engine)
+        print("OK - GACA Database Tables created/verified")
+    except Exception as e:
+        print(f"Error initializing GACA database: {e}")
 
     try:
         if USE_OLLAMA:

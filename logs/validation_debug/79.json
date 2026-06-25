@@ -1,0 +1,853 @@
+{
+  "document_id": 79,
+  "pages": {
+    "1": {
+      "elements": 20,
+      "flagged": 20,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "79_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "okf.kfT;d dj ¼iath;u½ foHkkx  ea=ky;] egkunh Hkou] uok jk;iqj vVy uxj"
+        },
+        {
+          "element_id": "79_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "uok jk;iqj vVy uxj] fnukad 14 Qjojh 2025"
+        },
+        {
+          "element_id": "79_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "vf/klwpuk"
+        },
+        {
+          "element_id": "79_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 71,
+          "text_preview": "Øekad,Q 10&40@2024@ok-d-¼ia-½@ikap ¼16½- & Hkkjrh; LVkEi vf/kfu;e] 1899 ¼1899 dk la[;kad 2½  dh /kkjk 9 dh mi&/kkjk ¼1½ "
+        },
+        {
+          "element_id": "79_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "1- ik= uohu Lkw{e] y?kq] e/;e m|e ¼vkS|ksfxd uhfr ds ifjf'k\"V&6 esa n'kkZ;s x;s m|e½] esxk izkstsDV,oa vYVªk"
+        },
+        {
+          "element_id": "79_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "esxk izkstsDV o`gn~ Js.kh m|e ¼vkS|ksfxd uhfr ds ifjf'k\"V&5 esa n'kkZ;s x;s dksj lsDVj ds m|eksa lfgr½ dh  LFkkiuk ¼vkS|"
+        },
+        {
+          "element_id": "79_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "2- Hkkjr ljdkj@jkT; ljdkj }kjk LohÑr futh {ks= esa futh fuos'kdksa }kjk LFkkfir gksus okys vkS|ksfxd"
+        },
+        {
+          "element_id": "79_p1_e7",
+          "sequence_order": 7,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "{ks=@vkS|ksfxd ikdZ dh LFkkiuk("
+        },
+        {
+          "element_id": "79_p1_e8",
+          "sequence_order": 8,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "3- ik= uohu fQYe fuekZ.k LVwfM;ks],fMfVax LVwfM;ks] lkmUM fjdkfMZax LVwfM;ks dh LFkkiuk,oa fQYe izkslsflax ls"
+        },
+        {
+          "element_id": "79_p1_e9",
+          "sequence_order": 9,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "lacaf/kr m|e("
+        },
+        {
+          "element_id": "79_p1_e10",
+          "sequence_order": 10,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "4- ik= lkSj mtkZ ifj;kstuk,a] QkekZL;qfVdy m|e rFkk lwpuk izkS|ksfxdh rFkk lwpuk izkS|ksfxdh l{ke lsok,a("
+        },
+        {
+          "element_id": "79_p1_e11",
+          "sequence_order": 11,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "5- vkS|ksfxd fodkl uhfr] 2024&30 esa of.kZr ykWftfLVDl lsok lsDVj ds uohu m|e tSls ykWftfLVd gc] os;j"
+        },
+        {
+          "element_id": "79_p1_e12",
+          "sequence_order": 12,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "gkml ¼xksnke½] dksYM LVksjst dh LFkkiuk("
+        },
+        {
+          "element_id": "79_p1_e13",
+          "sequence_order": 13,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "6- vkS|ksfxd fodkl uhfr] 2024&30 ds vUrxZr ^can,oa chekj* m|e dk Ø;("
+        },
+        {
+          "element_id": "79_p1_e14",
+          "sequence_order": 14,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "7- vkS|ksfxd fodkl uhfr] 2024&30 ds vUrxZr LVkVZvi iSdst ds vUrxZr Hkwfe ds Ø;@U;wure 5 o\"kZ dh yht"
+        },
+        {
+          "element_id": "79_p1_e15",
+          "sequence_order": 15,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "ij LVkEi 'kqYd ls NwV gksxh("
+        },
+        {
+          "element_id": "79_p1_e16",
+          "sequence_order": 16,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "8- ik= Lkw{e] y?kq] e/;e Js.kh rFkk o`gn~ Js.kh dh uohu fofuekZ.k m|e dh LFkkiuk rFkk fo|eku fofuekZ.k m|eksa"
+        },
+        {
+          "element_id": "79_p1_e17",
+          "sequence_order": 17,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "ds foLrkj@'koyhdj.k @izfrLFkkiu@ vk/kqfudhdj.k A    'krsZa@Li\"Vhdj.k %& bl vf/klwpuk ds iz;kstu gsrq]&"
+        },
+        {
+          "element_id": "79_p1_e18",
+          "sequence_order": 18,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "¼1½ mijksDr Øekad ¼1½ ls ¼8½ ds fØ;kUo;u gsrq ifjHkk\"kk,a ogh gksaxh] tks vkS|ksfxd uhfr] 2024&30 ds ifjf'k\"V&1"
+        },
+        {
+          "element_id": "79_p1_e19",
+          "sequence_order": 19,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "esa;Fkk ifjHkkf\"kr gSaA"
+        }
+      ]
+    },
+    "2": {
+      "elements": 11,
+      "flagged": 11,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "79_p2_e20",
+          "sequence_order": 20,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "¼2½ LVkEi 'kqYd ls NwV ds fy;s lw{e,oa y?kq m|ksxksa ds izdj.kksa esa] lacaf/kr ftyk O;kikj,oa m|ksx dsUnz ds"
+        },
+        {
+          "element_id": "79_p2_e21",
+          "sequence_order": 21,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "eq[;&egkizca/kd@egkizca/kd rFkk lw{e,oa y?kq m|ksxksa ls fHkUu izdj.kksa esa] m|ksx&vk;qDr@lapkyd&m|ksx  vFkok vf/klwpuk"
+        },
+        {
+          "element_id": "79_p2_e22",
+          "sequence_order": 22,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "¼3½,slk izek.k&i= iath;u ds fy, izLrqr Ø;@iV~Vk foys[k ds lkFk ewyr% izLrqr fd;k tkdj] lacaf/kr nLrkost"
+        },
+        {
+          "element_id": "79_p2_e23",
+          "sequence_order": 23,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "dh dk;kZy;hu izfr esa layXu dj fjdkMZ dk Hkkx cuk;k tk;sxkA"
+        },
+        {
+          "element_id": "79_p2_e24",
+          "sequence_order": 24,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "¼4½ LVkEi 'kqYd ls NwV ds laca/k esa vkS|ksfxd uhfr] 2024&30 esa mfYyf[kr 'krksZa dk mYya?ku djus ij nh xbZ NwV"
+        },
+        {
+          "element_id": "79_p2_e25",
+          "sequence_order": 25,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 38,
+          "text_preview": "rRdky fu\"izHkkoh gks tk;sxh rFkk NwV dh jkf'k dh olwyh Hkw&jktLo dh rjg] eqnzkad 'kqYd NwV izkfIr fnukad  ls lk<s+ ckjg "
+        },
+        {
+          "element_id": "79_p2_e26",
+          "sequence_order": 26,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "¼5½ mDr vf/klwpuk] fnukad 01@11@2024 ls izHkko'khy ekuh tk;sxhA"
+        },
+        {
+          "element_id": "79_p2_e27",
+          "sequence_order": 27,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "¼6½,sls foys[kksa ftuesa] lacaf/kr i{kdkjksa }kjk bl vf/klwpuk ds jkti= esa izdk'ku dh rkjh[k ds iwoZ LVkEi 'kqYd"
+        },
+        {
+          "element_id": "79_p2_e28",
+          "sequence_order": 28,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "pqdk fn;k x;k gks] muesa LVkEi 'kqYd ds Hkqxrku ls NwV izkIr ugha gksxhA"
+        },
+        {
+          "element_id": "79_p2_e29",
+          "sequence_order": 29,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "NRrhlx<+ ds jkT;iky ds uke ls rFkk vkns'kkuqlkj]"
+        },
+        {
+          "element_id": "79_p2_e30",
+          "sequence_order": 30,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "lh- vkj izlUuk] lfpo-"
+        }
+      ]
+    },
+    "3": {
+      "elements": 5,
+      "flagged": 5,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "79_p3_e31",
+          "sequence_order": 31,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "ifjf'k\"V&1"
+        },
+        {
+          "element_id": "79_p3_e32",
+          "sequence_order": 32,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "¼vkS|ksfxd uhfr] 2024&30 ds ifjf'k\"V&3 esa mfYyf[kr"
+        },
+        {
+          "element_id": "79_p3_e33",
+          "sequence_order": 33,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "vik= m|eksa dh lwph] ftUgsa NwV dh ik=rk ugha gS½"
+        },
+        {
+          "element_id": "79_p3_e34",
+          "sequence_order": 34,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 169,
+          "text_preview": "¼1½,Ydksgy] fMLVyjh,oa,Ydksgy vk/kkfjr csojstsl fuekZ.k ¼xSj okfudh ouksRikn ij vk/kkfjr vYdksgy  fuekZ.k dks NksM+dj½A "
+        },
+        {
+          "element_id": "79_p3_e35",
+          "sequence_order": 35,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "fuos'k esa ls vik= mRikn esa fd;s x;s fuos'k dks de dj 'ks\"k fuos'k ij vkS|ksfxd fuos'k izksRlkgu dh  ik=rk gksxhA"
+        }
+      ]
+    },
+    "5": {
+      "elements": 5,
+      "flagged": 5,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "79_p5_e36",
+          "sequence_order": 36,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "ifjf'k\"V&1"
+        },
+        {
+          "element_id": "79_p5_e37",
+          "sequence_order": 37,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "¼vkS|ksfxd uhfr] 2024&30 ds ifjf'k\"V&3 esa mfYyf[kr"
+        },
+        {
+          "element_id": "79_p5_e38",
+          "sequence_order": 38,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "vik= m|eksa dh lwph] ftUgsa NwV dh ik=rk ugha gS½"
+        },
+        {
+          "element_id": "79_p5_e39",
+          "sequence_order": 39,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 169,
+          "text_preview": "¼1½,Ydksgy] fMLVyjh,oa,Ydksgy vk/kkfjr csojstsl fuekZ.k ¼xSj okfudh ouksRikn ij vk/kkfjr vYdksgy  fuekZ.k dks NksM+dj½A "
+        },
+        {
+          "element_id": "79_p5_e40",
+          "sequence_order": 40,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "fuos'k esa ls vik= mRikn esa fd;s x;s fuos'k dks de dj 'ks\"k fuos'k ij vkS|ksfxd fuos'k izksRlkgu dh  ik=rk gksxhA"
+        }
+      ]
+    },
+    "6": {
+      "elements": 9,
+      "flagged": 9,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "79_p6_e41",
+          "sequence_order": 41,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "uok jk;iqj vVy uxj] fnukad 14 Qjojh 2025"
+        },
+        {
+          "element_id": "79_p6_e42",
+          "sequence_order": 42,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "vf/klwpuk"
+        },
+        {
+          "element_id": "79_p6_e43",
+          "sequence_order": 43,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 80,
+          "text_preview": "Øekad,Q 10&40@2024@ok-d-¼ia-½@ikap ¼18½- & Hkkjrh; LVkEi vf/kfu;e]1899 ¼1899 dk la[;kad 2½ dh  /kkjk 9 dh mi&/kkjk ¼1½ d"
+        },
+        {
+          "element_id": "79_p6_e44",
+          "sequence_order": 44,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "¼1½  LVkEi 'kqYd ls NwV ds fy;s] NRrhlx<+ b.MfLVª;y MsOgyiesaV dkiksZjs'ku fyfeVsM }kjk Hkwfe Ø;@iV~Vs ds  izdj.kksa esa"
+        },
+        {
+          "element_id": "79_p6_e45",
+          "sequence_order": 45,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "¼2½,slk izek.k&i= iath;u ds fy;s izLrqr Ø; foys[k ds lkFk ewyr% izLrqr fd;k tkdj] lacaf/kr nLrkost dh  dk;kZy;hu izfr ds"
+        },
+        {
+          "element_id": "79_p6_e46",
+          "sequence_order": 46,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "¼3½  mDr vf/klwpuks] fnukad 01@11@2024 ls izHkko'khy ekuh tk;sxhA"
+        },
+        {
+          "element_id": "79_p6_e47",
+          "sequence_order": 47,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "¼4½,sls foys[kksa ftuesa] lacaf/kr i{kdkjksa }kjk bl vf/klwpuk ds jkti= esa izdk'ku dh rkjh[k ds iwoZ LVkEi  'kqYd pqdk "
+        },
+        {
+          "element_id": "79_p6_e48",
+          "sequence_order": 48,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "NRrhlx<+ ds jkT;iky ds uke ls rFkk vkns'kkuqlkj]"
+        },
+        {
+          "element_id": "79_p6_e49",
+          "sequence_order": 49,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "lh- vkj izlUuk] lfpo-"
+        }
+      ]
+    },
+    "7": {
+      "elements": 17,
+      "flagged": 17,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "79_p7_e50",
+          "sequence_order": 50,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "uok jk;iqj vVy uxj] fnukad 14 Qjojh 2025"
+        },
+        {
+          "element_id": "79_p7_e51",
+          "sequence_order": 51,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "vf/klwpuk"
+        },
+        {
+          "element_id": "79_p7_e52",
+          "sequence_order": 52,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 106,
+          "text_preview": "Øekad,Q 10&40@2024@ok-d-¼ia-½@ikap ¼19½- & Hkkjrh; LVkEi vf/kfu;e] 1899 ¼1899 dk la[;kad 2½ dh  /kkjk 9 dh mi&/kkjk ¼1½ "
+        },
+        {
+          "element_id": "79_p7_e53",
+          "sequence_order": 53,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "1-  Hkw&vf/kxzg.k ls izHkkfor HkwfeLokfe;ksa }kjk] izfrdj ¼eqvkotk½ jkf'k izkfIr fnukad ls 02 o\"kZ dh vof/k esa] foys[k "
+        },
+        {
+          "element_id": "79_p7_e54",
+          "sequence_order": 54,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 51,
+          "text_preview": "2-  LVkEi 'kqYd ls NwV dh ik=rk izHkkfor HkwfeLokfe;ksa dks izkIr izfrdj ¼eqvkotk½ dh jde ij izHkk;Z LVkEi 'kqYd  rd ifj"
+        },
+        {
+          "element_id": "79_p7_e55",
+          "sequence_order": 55,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "3-  izHkkfor O;fDr }kjk Ø; dh xbZ Ñf\"k Hkwfe@Hkou NRrhlx<+ jkT; ds Hkhrj fLFkr gks;"
+        },
+        {
+          "element_id": "79_p7_e56",
+          "sequence_order": 56,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "4-  lacaf/kr HkwfeLokeh dks NwV dk ykHk izkIr djus ds fy,] Hkw&vtZu izkf/kdkjh }kjk tkjh izek.k&i= lfgr vkosnu]  m|ksx v"
+        },
+        {
+          "element_id": "79_p7_e57",
+          "sequence_order": 57,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "5-  LVkEi 'kqYd ls NwV ds fy, m|ksx vk;qDr@lapkyd m|ksx] m|ksx lapkyuky;] NRrhlx<+;k muds }kjk  vf/kÑr vf/kdkjh }kjk tkj"
+        },
+        {
+          "element_id": "79_p7_e58",
+          "sequence_order": 58,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "6-,sls izek.k&i= iath;u ds fy;s izLrqr Ø; foys[k ds lkFk ewyr% izLrqr fd;k tkdj] lacaf/kr nLrkost dh  dk;kZy;hu izfr esa"
+        },
+        {
+          "element_id": "79_p7_e59",
+          "sequence_order": 59,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Li\"Vhdj.k %& bl vf/klwpuk ds iz;kstu gsrq ]&"
+        },
+        {
+          "element_id": "79_p7_e60",
+          "sequence_order": 60,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "¼1½ mDr vf/klwpuk] fnukad 01@11@2024 ls izHkko'khy gksxhA"
+        },
+        {
+          "element_id": "79_p7_e61",
+          "sequence_order": 61,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "¼2½,sls foys[kksa] ftuesa lacaf/kr i{kdkjksa }kjk bl vf/klwpuk ds jkti= esa izdk'ku dh rkjh[k ds iwoZ LVkEi M~;wVh pqdk"
+        },
+        {
+          "element_id": "79_p7_e62",
+          "sequence_order": 62,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "nh xbZ gks] muesa LVkEi 'kqYd ds Hkqxrku ls NwV izkIr ugha gksxhA"
+        },
+        {
+          "element_id": "79_p7_e63",
+          "sequence_order": 63,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "¼3½;fn,d gh iath;u dk;kZy; esa,d ls vf/kd gLrkarj.k foys[k iath;u gsrq izLrqr fd;s tkrs gSa] rks ewy"
+        },
+        {
+          "element_id": "79_p7_e64",
+          "sequence_order": 64,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "izek.k&i= iqu% izLrqr djus dh vko';drk ugha gksxhA"
+        },
+        {
+          "element_id": "79_p7_e65",
+          "sequence_order": 65,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "NRrhlx<+ ds jkT;iky ds uke ls rFkk vkns'kkuqlkj]"
+        },
+        {
+          "element_id": "79_p7_e66",
+          "sequence_order": 66,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "lh- vkj izlUuk] lfpo-"
+        }
+      ]
+    },
+    "8": {
+      "elements": 9,
+      "flagged": 9,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "79_p8_e67",
+          "sequence_order": 67,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ifjf'k\"V ^^,d**"
+        },
+        {
+          "element_id": "79_p8_e68",
+          "sequence_order": 68,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "NRrhlx<+ 'kklu }kjk vkS|ksfxd uhfr 2024&30 ds rgr~ vkS|ksfxd iz;kstu gsrq Hkwfe vf/kxzg.k fd;s tkus ij"
+        },
+        {
+          "element_id": "79_p8_e69",
+          "sequence_order": 69,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "izHkkfor HkwfeLokeh }kjk izfrdj ¼eqvkotk½ dh jde ls] Ñf\"k Hkwfe@Hkou Ø; djus"
+        },
+        {
+          "element_id": "79_p8_e70",
+          "sequence_order": 70,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "laca/kh fu\"ikfnr varj.k dh fy[krksa ij LVkEi 'kqYd ls NwV gsrq"
+        },
+        {
+          "element_id": "79_p8_e71",
+          "sequence_order": 71,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 3,
+          "text_preview": "%% izek.k&i= %%"
+        },
+        {
+          "element_id": "79_p8_e72",
+          "sequence_order": 72,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "¼nLrkost iath;u gsrq izLrqr fd;s tkus ij;g izek.k&i="
+        },
+        {
+          "element_id": "79_p8_e73",
+          "sequence_order": 73,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "ewy esa dk;kZy;hu izfr ds lkFk layXu fd;k tk;s½"
+        },
+        {
+          "element_id": "79_p8_e74",
+          "sequence_order": 74,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 147,
+          "text_preview": "Øekad ---------------------   tkjh fnukad %& ---------------------      izekf.kr fd;k tkrk gS fd Jh@Jhefr@dqekjh -------"
+        },
+        {
+          "element_id": "79_p8_e75",
+          "sequence_order": 75,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "LFkku %  ¼l{ke izkf/kdkjh ds  gLrk{kj lhy lfgr½  rkjh[k %"
+        }
+      ]
+    }
+  }
+}

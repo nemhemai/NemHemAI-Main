@@ -1,0 +1,379 @@
+{
+  "document_id": 73,
+  "pages": {
+    "1": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "73_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": ":  u 4  4,  xa ee: 7 &"
+        },
+        {
+          "element_id": "73_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "pie! ai  4giag edo,  &  ¢  3"
+        },
+        {
+          "element_id": "73_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "44 POPES  oe  ae  4"
+        }
+      ]
+    },
+    "2": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "73_p2_e3",
+          "sequence_order": 3,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "920  Bedtarg  uate, fears 29 HE 2025  Ee  OS"
+        },
+        {
+          "element_id": "73_p2_e4",
+          "sequence_order": 4,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 179,
+          "text_preview": "(®) WW. &. tie vaio totes HF ar  (@) le vreriot w® yisear ST WATT |  @) surde—1 4 fetka geo ¥ add verse ot eer at  WArT—"
+        },
+        {
+          "element_id": "73_p2_e5",
+          "sequence_order": 5,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 45,
+          "text_preview": "(5)  vert darerier ent veg ar flat wet ¢ wa ¥ aac  wueel 8 Ww fear ora]  © awe oes $ apna 4 vfag a ur aa 4 facia Sa ow P"
+        },
+        {
+          "element_id": "73_p2_e6",
+          "sequence_order": 6,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 84,
+          "text_preview": "5.  ufagfe aan at ageft —  () wieght at ur stetfire soe a wrec/fdke a of F  wea fe ae wer ore & f stetfre garg ent as ce"
+        },
+        {
+          "element_id": "73_p2_e7",
+          "sequence_order": 7,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 73,
+          "text_preview": "@) siete go ert wee } ae frat a fetta gee f  Wo wwe BAM SB aa ae ae ¥ (Praia wreak as) torre  4 ofa fer orn @ a ge oR se"
+        },
+        {
+          "element_id": "73_p2_e8",
+          "sequence_order": 8,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 43,
+          "text_preview": "(3)  vert Warericea art ther 8 waa a oe ae ate  ant om oy othe garg ant a dt ond, ot aga fee oe ager  SUR, SRaTGIR eet w"
+        },
+        {
+          "element_id": "73_p2_e9",
+          "sequence_order": 9,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 33,
+          "text_preview": "@) af otetfte garg at oar & afte ofagft were a mh a, at  oan Pred ox oar a uf, oRiaTTER ens wes, aye A oT  wen /ara 2a a"
+        }
+      ]
+    },
+    "3": {
+      "elements": 8,
+      "flagged": 8,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "73_p3_e10",
+          "sequence_order": 10,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "oedierg uat7a, feiss 29 AE 2025  920 (1)"
+        },
+        {
+          "element_id": "73_p3_e11",
+          "sequence_order": 11,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 65,
+          "text_preview": "(6)  afe sienfte gad ext gt Pant 4 veofted feet afi or  frdeq wel foo ore @, a aaa feet oy agen a ufe,  BRIAR aor wed, T"
+        },
+        {
+          "element_id": "73_p3_e12",
+          "sequence_order": 12,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "(4)  age /dareae sar, sar dae eR unt fet area F  freg atta arene ufea, after vt var faart & wae simon  Ara S at oT wart]"
+        },
+        {
+          "element_id": "73_p3_e13",
+          "sequence_order": 13,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 49,
+          "text_preview": "(2)  aft yor wed 5000 oT ya sisonsa/aenst  S AeaA U  oer ue ft atta Ser ert  3)  afte yon fear & wifes ef 0852-selrT, os"
+        },
+        {
+          "element_id": "73_p3_e14",
+          "sequence_order": 14,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "4)  sttcia aftert err ceal } arene ue cen wafaa verre ot  SUT Vet WE ST ATH VAM Sed ea anit yee ar Pret fear  OTT  |"
+        },
+        {
+          "element_id": "73_p3_e15",
+          "sequence_order": 15,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "7. viagft urd sitetfra gorge or afer —"
+        },
+        {
+          "element_id": "73_p3_e16",
+          "sequence_order": 16,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 46,
+          "text_preview": "(1) stetftre  garg ot aftitae varer/ var aiefaer wea feaia &  waa 5 aS / ifs oem /afeght faa feats (Gt aearcadf a)  VTS "
+        },
+        {
+          "element_id": "73_p3_e17",
+          "sequence_order": 17,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 147,
+          "text_preview": "2) om sat 4 vert arg / wares vert at feftra gatqafe & fear  gos & Galt wa/afafas 4 as oRada sel fear wa, sor or  ols AMT"
+        }
+      ]
+    },
+    "4": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "73_p4_e18",
+          "sequence_order": 18,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": ":  Ss  Ss  8"
+        },
+        {
+          "element_id": "73_p4_e19",
+          "sequence_order": 19,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "iat i"
+        },
+        {
+          "element_id": "73_p4_e20",
+          "sequence_order": 20,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": ";  jay i: 43"
+        }
+      ]
+    },
+    "5": {
+      "elements": 5,
+      "flagged": 5,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "73_p5_e21",
+          "sequence_order": 21,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "oeciiemrg wate, feats 29 HE 2025  920 (3)"
+        },
+        {
+          "element_id": "73_p5_e22",
+          "sequence_order": 22,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "wurde—-1  [Raa 4(1))]  Weg. eis veda W yaad eg fed a aa eg ads  Verse OI VAM  (ares vaste & tex BS 1)"
+        },
+        {
+          "element_id": "73_p5_e23",
+          "sequence_order": 23,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "pra far ra &  UR (@&) | wah aR  @&)  a  2 [waitin |  2 [Reyne | |  Regulatory  Fee =  Fees"
+        },
+        {
+          "element_id": "73_p5_e24",
+          "sequence_order": 24,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Auditor Fees  a  I:"
+        },
+        {
+          "element_id": "73_p5_e25",
+          "sequence_order": 25,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "ares Varsvee I AA a OT  iter  BRE  Toi oa ATH"
+        }
+      ]
+    },
+    "6": {
+      "elements": 3,
+      "flagged": 3,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "73_p6_e26",
+          "sequence_order": 26,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "q  43  \\  2  2:  4g  %"
+        },
+        {
+          "element_id": "73_p6_e27",
+          "sequence_order": 27,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Herre Erece"
+        },
+        {
+          "element_id": "73_p6_e28",
+          "sequence_order": 28,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "*  7 9i4y fg¢sai 2 442;"
+        }
+      ]
+    },
+    "7": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "73_p7_e29",
+          "sequence_order": 29,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "TTTELEEL  EEE EET  tahiti atta gs."
+        },
+        {
+          "element_id": "73_p7_e30",
+          "sequence_order": 30,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "f  Fee 4 a3  sada"
+        }
+      ]
+    }
+  }
+}

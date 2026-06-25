@@ -1,0 +1,28 @@
+services:
+  postgres:
+    image: postgres:16
+    container_name: gaca_postgres
+    environment:
+      POSTGRES_USER: gaca
+      POSTGRES_PASSWORD: gaca_pw
+      POSTGRES_DB: gaca
+    ports: ["5432:5432"]
+    volumes: ["gaca_pgdata:/var/lib/postgresql/data"]
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U gaca"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  # Section 4.12 Fraud & Risk Engine -> Graph Analytics (Neo4j).
+  neo4j:
+    image: neo4j:5
+    container_name: gaca_neo4j
+    environment:
+      NEO4J_AUTH: neo4j/gaca_neo4j_pw
+    ports: ["7474:7474", "7687:7687"]
+    volumes: ["gaca_neo4jdata:/data"]
+
+volumes:
+  gaca_pgdata:
+  gaca_neo4jdata:

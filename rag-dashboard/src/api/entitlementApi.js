@@ -28,9 +28,21 @@ export const verifyDocument = async (formData) => {
 export const registerCitizen = async (data) => ({ success: true, citizen_id: "CIT-" + Date.now() });
 export const fetchCitizenProfile = async (id) => ({ id, name: "John Doe" });
 export const updateCitizenProfile = async (id, data) => ({ success: true });
-export const isEntitlementComplete = (res) => res && res.status === "COMPLETED";
+export const isEntitlementComplete = (res) => res && (res.status === "COMPLETED" || res.status === "FAILED");
 export const reconfirmEligibility = async () => ({ success: true });
 export const fetchApplicationGuidance = async () => ({ steps: ["Step 1"] });
 export const submitApplication = async () => ({ success: true });
 export const fetchApplicationStatus = async () => ({ status: "Pending" });
-export const fetchAuditLogs = async () => ({ logs: [] });
+
+// GACA Integration Endpoints
+export const fetchAuditLogs = async (citizenId) => {
+  const response = await fetch(`${API_BASE}/gaca/decisions/citizen/${citizenId}`);
+  if (!response.ok) throw new Error("Failed to fetch audit logs");
+  return response.json();
+};
+
+export const fetchDecisionExplanation = async (decisionId) => {
+  const response = await fetch(`${API_BASE}/gaca/explain/${decisionId}`);
+  if (!response.ok) throw new Error("Failed to fetch decision explanation");
+  return response.json();
+};

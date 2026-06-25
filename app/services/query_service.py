@@ -135,7 +135,7 @@ def run_query(query: str, user: dict) -> dict:
             "documents": [],
             "confidence": "low",
             "latency": 0,
-            "llm_model": "llama3-ollama" if USE_OLLAMA else "sarvam-1",
+            "llm_model": "llama3.2:3b" if USE_OLLAMA else "sarvam-1",
             "status": "failed",
             "error": "Empty query"
         })
@@ -202,7 +202,7 @@ def run_query(query: str, user: dict) -> dict:
                 "documents": [],
                 "confidence": "low",
                 "latency": latency,
-                "llm_model": "llama3-ollama" if USE_OLLAMA else "sarvam-1",
+                "llm_model": "llama3.2:3b" if USE_OLLAMA else "sarvam-1",
                 "status": "success"
             })
             res = {
@@ -251,7 +251,7 @@ def run_query(query: str, user: dict) -> dict:
                 "documents": [],
                 "confidence": "low",
                 "latency": latency,
-                "llm_model": "llama3-ollama" if USE_OLLAMA else "sarvam-1",
+                "llm_model": "llama3.2:3b" if USE_OLLAMA else "sarvam-1",
                 "status": "success"
             })
             res = {
@@ -276,7 +276,7 @@ def run_query(query: str, user: dict) -> dict:
             "documents": document_ids,
             "confidence": confidence,
             "latency": latency,
-            "llm_model": "llama3-ollama" if USE_OLLAMA else "sarvam-1",
+            "llm_model": "llama3.2:3b" if USE_OLLAMA else "sarvam-1",
             "status": "success"
         })
 
@@ -295,7 +295,7 @@ def run_query(query: str, user: dict) -> dict:
             "documents": [],
             "confidence": "low",
             "latency": latency,
-            "llm_model": "llama3-ollama" if USE_OLLAMA else "sarvam-1",
+            "llm_model": "llama3.2:3b" if USE_OLLAMA else "sarvam-1",
             "status": "failed",
             "error": str(e)
         })

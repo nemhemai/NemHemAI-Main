@@ -2,10 +2,10 @@
   "document_id": 71,
   "pages": {
     "1": {
-      "elements": 14,
-      "flagged": 2,
+      "elements": 5,
+      "flagged": 5,
       "flags": [
-        "corrupted_text",
+        "noise_detected",
         "low_content"
       ],
       "ocr_conf": null,
@@ -14,25 +14,1825 @@
           "element_id": "71_p1_e0",
           "sequence_order": 0,
           "page_number": 1,
-          "quality_score": 0.5,
-          "element_type": "heading",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 5,
-          "text_preview": "-: 11-o p 1)..)-C \"fl."
-        },
-        {
-          "element_id": "71_p1_e4",
-          "sequence_order": 4,
-          "page_number": 1,
-          "quality_score": 0.6,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
-          "text_preview": "\"?bOciEOI\"bE -·11->"
+          "text_preview": "Instruct Incentiv"
+        },
+        {
+          "element_id": "71_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Touri"
+        },
+        {
+          "element_id": "71_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "tions for Claimin ves in Chhattisga"
+        },
+        {
+          "element_id": "71_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "ism Policy 2020"
+        },
+        {
+          "element_id": "71_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ng  arh"
+        }
+      ]
+    },
+    "2": {
+      "elements": 16,
+      "flagged": 16,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "71_p2_e5",
+          "sequence_order": 5,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "Chhattisgarh Tourism Policy  Instructions for Claiming Incentives  (Pursuant to clause No. 5 and 6 of the Chhattisgarh T"
+        },
+        {
+          "element_id": "71_p2_e6",
+          "sequence_order": 6,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "1. Introduction"
+        },
+        {
+          "element_id": "71_p2_e7",
+          "sequence_order": 7,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 48,
+          "text_preview": "1.1  Pursuant to clause no 5.2 and 6.2 of the Chhattisgarh Tourism Policy 2020 (henceforth referred to  as the “Policy”)"
+        },
+        {
+          "element_id": "71_p2_e8",
+          "sequence_order": 8,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "1.2  The process for claiming these has been elaborated in this document and it would be applicable to  eligible tourism"
+        },
+        {
+          "element_id": "71_p2_e9",
+          "sequence_order": 9,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 49,
+          "text_preview": "1.3  As per clause 7.3 of the Policy, Chhattisgarh Tourism Board (CTB) (or Director, Tourism) will act  as the nodal age"
+        },
+        {
+          "element_id": "71_p2_e10",
+          "sequence_order": 10,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "2  Definitions of Terms"
+        },
+        {
+          "element_id": "71_p2_e11",
+          "sequence_order": 11,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "2.1  “Applicant” would be the local entrepreneur or the investor applying to claim incentive(s) under  these instruction"
+        },
+        {
+          "element_id": "71_p2_e12",
+          "sequence_order": 12,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "2.2  “Eligible Project” would be the project aimed for tourism development in the state and which is  applicable as per "
+        },
+        {
+          "element_id": "71_p2_e13",
+          "sequence_order": 13,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "2.3  “DLTC” would be the District Level Tourism Committee"
+        },
+        {
+          "element_id": "71_p2_e14",
+          "sequence_order": 14,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "2.4  “SLEC” would be the State Level Empowered Committee"
+        },
+        {
+          "element_id": "71_p2_e15",
+          "sequence_order": 15,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "2.5  “Facilitation Committee” would be the Committee formed by CTB to review, verify and shortlist  applications for cla"
+        },
+        {
+          "element_id": "71_p2_e16",
+          "sequence_order": 16,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "3  Eligibility for Applying for Incentives under the Policy"
+        },
+        {
+          "element_id": "71_p2_e17",
+          "sequence_order": 17,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "3.1  The Applicant should refer chapters 5, 6 and Annexure 1 of the Policy to check the applicability of  proposed proje"
+        },
+        {
+          "element_id": "71_p2_e18",
+          "sequence_order": 18,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "4  Formation of Facilitation Committee"
+        },
+        {
+          "element_id": "71_p2_e19",
+          "sequence_order": 19,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 40,
+          "text_preview": "4.1  Pursuant to clause 7.3.e of the Policy, CTB shall form a Facilitation Committee that would review,  verify and shor"
+        },
+        {
+          "element_id": "71_p2_e20",
+          "sequence_order": 20,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "1. Senior Officer as appointed by the CTB  2. Executive/ Assistant as appointed by the CTB  3. Representative as nominat"
+        }
+      ]
+    },
+    "3": {
+      "elements": 19,
+      "flagged": 19,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "71_p3_e21",
+          "sequence_order": 21,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "5  Process of Claiming Incentives under the Policy"
+        },
+        {
+          "element_id": "71_p3_e22",
+          "sequence_order": 22,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "5.1  The applicant shall submit the requisite documents mentioned in clause 6 of this document."
+        },
+        {
+          "element_id": "71_p3_e23",
+          "sequence_order": 23,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "5.2  The applicant shall submit all necessary forms, complete in all respect. In case any application  form is found to "
+        },
+        {
+          "element_id": "71_p3_e24",
+          "sequence_order": 24,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 49,
+          "text_preview": "5.3  The Applicant must submit a Detailed Project Report (wherever necessary), having all the requisite  information as "
+        },
+        {
+          "element_id": "71_p3_e25",
+          "sequence_order": 25,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 65,
+          "text_preview": "5.4  The application will be reviewed and verified by the Facilitation Committee within 30 days of  receiving it. If fou"
+        },
+        {
+          "element_id": "71_p3_e26",
+          "sequence_order": 26,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "5.5  The MD, CTB (or Director, Tourism) will review the application and, if found satisfactory, will  recommend it to th"
+        },
+        {
+          "element_id": "71_p3_e27",
+          "sequence_order": 27,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 41,
+          "text_preview": "5.6  While submitting the application, the applicant must go through the definition of the ‘project’  (clause 8 of the P"
+        },
+        {
+          "element_id": "71_p3_e28",
+          "sequence_order": 28,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "5.7  Along with the Application Form prescribed in this document, the Applicant must also submit the  following document"
+        },
+        {
+          "element_id": "71_p3_e29",
+          "sequence_order": 29,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "1. Annexure 1: Undertaking to adhere to the terms and conditions of the Policy and this"
+        },
+        {
+          "element_id": "71_p3_e30",
+          "sequence_order": 30,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "document  2. Annexure 2: Chartered Accountant’s Certificate  3. Annexure 3: Chartered Engineer’s Certificate"
+        },
+        {
+          "element_id": "71_p3_e31",
+          "sequence_order": 31,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "5.8  The Applicant must also submit the Detailed Project Report wherever required."
+        },
+        {
+          "element_id": "71_p3_e32",
+          "sequence_order": 32,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "5.9  The applicant should fill the requisite forms correctly."
+        },
+        {
+          "element_id": "71_p3_e33",
+          "sequence_order": 33,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "5.10 The applicant may fill “NA” in the forms wherever information is not applicable."
+        },
+        {
+          "element_id": "71_p3_e34",
+          "sequence_order": 34,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "5.11 The applicant should ensure that all the documents are signed by a person who is authorised to sign"
+        },
+        {
+          "element_id": "71_p3_e35",
+          "sequence_order": 35,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "through a valid Power of Attorney or Board Resolution."
+        },
+        {
+          "element_id": "71_p3_e36",
+          "sequence_order": 36,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "5.12 The Application Form along with the Undertaking, Chartered Accountant and Chartered Engineer/"
+        },
+        {
+          "element_id": "71_p3_e37",
+          "sequence_order": 37,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Govt. approved Valuer Certificate should be submitted in original."
+        },
+        {
+          "element_id": "71_p3_e38",
+          "sequence_order": 38,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "5.13 In case of Incentives for Local Entrepreneurs (clause 5 of the Policy), the applicant may approach"
+        },
+        {
+          "element_id": "71_p3_e39",
+          "sequence_order": 39,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "the respective DLTC for details regarding application for claiming incentives and submission of  documents."
+        }
+      ]
+    },
+    "4": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "71_p4_e40",
+          "sequence_order": 40,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Instructions"
+        },
+        {
+          "element_id": "71_p4_e41",
+          "sequence_order": 41,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Chhattisga"
+        },
+        {
+          "element_id": "71_p4_e42",
+          "sequence_order": 42,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Genera"
+        },
+        {
+          "element_id": "71_p4_e43",
+          "sequence_order": 43,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "for Claiming Incentiv arh Tourism Policy 20"
+        },
+        {
+          "element_id": "71_p4_e44",
+          "sequence_order": 44,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "al Application Form"
+        },
+        {
+          "element_id": "71_p4_e45",
+          "sequence_order": 45,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ves in"
+        }
+      ]
+    },
+    "10": {
+      "elements": 8,
+      "flagged": 8,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "71_p10_e46",
+          "sequence_order": 46,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "4. The application should be filled completely in all respect and requisite document should be"
+        },
+        {
+          "element_id": "71_p10_e47",
+          "sequence_order": 47,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "attached with the application"
+        },
+        {
+          "element_id": "71_p10_e48",
+          "sequence_order": 48,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "6.3  Location of the Proposed Tourism Project/Unit Development"
+        },
+        {
+          "element_id": "71_p10_e49",
+          "sequence_order": 49,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Sr.  No"
+        },
+        {
+          "element_id": "71_p10_e50",
+          "sequence_order": 50,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Proposed Location of Development  Yes/No"
+        },
+        {
+          "element_id": "71_p10_e51",
+          "sequence_order": 51,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "1  At any location in CG State"
+        },
+        {
+          "element_id": "71_p10_e52",
+          "sequence_order": 52,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "2  At “Tourism Destination” in CG State"
+        },
+        {
+          "element_id": "71_p10_e53",
+          "sequence_order": 53,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "3  At “Priority Tourism Destination” in CG State"
+        }
+      ]
+    },
+    "11": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "71_p11_e54",
+          "sequence_order": 54,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Instructions"
+        },
+        {
+          "element_id": "71_p11_e55",
+          "sequence_order": 55,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Chhattisga"
+        },
+        {
+          "element_id": "71_p11_e56",
+          "sequence_order": 56,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Incentives"
+        },
+        {
+          "element_id": "71_p11_e57",
+          "sequence_order": 57,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "for Claiming Incentiv arh Tourism Policy 20"
+        },
+        {
+          "element_id": "71_p11_e58",
+          "sequence_order": 58,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "for Project/Unit at “A ation” in CG State"
+        },
+        {
+          "element_id": "71_p11_e59",
+          "sequence_order": 59,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ves in"
+        }
+      ]
+    },
+    "12": {
+      "elements": 16,
+      "flagged": 16,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "71_p12_e60",
+          "sequence_order": 60,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "7  Application Form for Availing Incentives for Eligible Project/Units at “Any Location”  in CG state"
+        },
+        {
+          "element_id": "71_p12_e61",
+          "sequence_order": 61,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "7.1  If project/ unit is at ‘any location’ in CG state"
+        },
+        {
+          "element_id": "71_p12_e62",
+          "sequence_order": 62,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Sr.No  Type of Subsidy/ Incentive  Yes/No"
+        },
+        {
+          "element_id": "71_p12_e63",
+          "sequence_order": 63,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "1  Capital Investment Subsidy for Mega Tourism Projects"
+        },
+        {
+          "element_id": "71_p12_e64",
+          "sequence_order": 64,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "7.1.1  Application for “Capital Investment Subsidy for Mega Tourism Projects”"
+        },
+        {
+          "element_id": "71_p12_e65",
+          "sequence_order": 65,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Sr.No  Requirement  Reply"
+        },
+        {
+          "element_id": "71_p12_e66",
+          "sequence_order": 66,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "1  Type of Mega Tourism Project  Convention Centre"
+        },
+        {
+          "element_id": "71_p12_e67",
+          "sequence_order": 67,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Aero Sports Academy"
+        },
+        {
+          "element_id": "71_p12_e68",
+          "sequence_order": 68,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Amusement Park"
+        },
+        {
+          "element_id": "71_p12_e69",
+          "sequence_order": 69,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Golf Course"
+        },
+        {
+          "element_id": "71_p12_e70",
+          "sequence_order": 70,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Film City"
+        },
+        {
+          "element_id": "71_p12_e71",
+          "sequence_order": 71,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Others (please specify)"
+        },
+        {
+          "element_id": "71_p12_e72",
+          "sequence_order": 72,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "2  Fixed Capital Investment (minimum INR 50  crores)"
+        },
+        {
+          "element_id": "71_p12_e73",
+          "sequence_order": 73,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "3  Copy of Land Ownership Document from  local tehsildaar/ patwaari"
+        },
+        {
+          "element_id": "71_p12_e74",
+          "sequence_order": 74,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "4  Site/ Khasra Map"
+        },
+        {
+          "element_id": "71_p12_e75",
+          "sequence_order": 75,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "5  Copy of Detailed Project Report (DPR)"
+        }
+      ]
+    },
+    "13": {
+      "elements": 9,
+      "flagged": 9,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "71_p13_e76",
+          "sequence_order": 76,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Instructions"
+        },
+        {
+          "element_id": "71_p13_e77",
+          "sequence_order": 77,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Chhattisga"
+        },
+        {
+          "element_id": "71_p13_e78",
+          "sequence_order": 78,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Incentives fo"
+        },
+        {
+          "element_id": "71_p13_e79",
+          "sequence_order": 79,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Destin"
+        },
+        {
+          "element_id": "71_p13_e80",
+          "sequence_order": 80,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "for Claiming Incentiv arh Tourism Policy 20"
+        },
+        {
+          "element_id": "71_p13_e81",
+          "sequence_order": 81,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "or Project/Unit at “To"
+        },
+        {
+          "element_id": "71_p13_e82",
+          "sequence_order": 82,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "nation” in CG State"
+        },
+        {
+          "element_id": "71_p13_e83",
+          "sequence_order": 83,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ves in"
+        },
+        {
+          "element_id": "71_p13_e84",
+          "sequence_order": 84,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "ourism"
+        }
+      ]
+    },
+    "15": {
+      "elements": 18,
+      "flagged": 18,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "71_p15_e85",
+          "sequence_order": 85,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "land (as mentioned in ‘Land Bank’ list  published by CTB)"
+        },
+        {
+          "element_id": "71_p15_e86",
+          "sequence_order": 86,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "4  Site Map"
+        },
+        {
+          "element_id": "71_p15_e87",
+          "sequence_order": 87,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "5  Copy of Detailed Project Report (DPR)"
+        },
+        {
+          "element_id": "71_p15_e88",
+          "sequence_order": 88,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "Note:  The Applicant must ensure that the Approval Letter for development on proposed land should be  submitted during s"
+        },
+        {
+          "element_id": "71_p15_e89",
+          "sequence_order": 89,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "8.1.3  Application for “Support for Sustainable Tourism”"
+        },
+        {
+          "element_id": "71_p15_e90",
+          "sequence_order": 90,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Sr.No  Requirement  Reply"
+        },
+        {
+          "element_id": "71_p15_e91",
+          "sequence_order": 91,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "1  Undertaking to apply to Energy Audit Agency  for carrying out energy audit"
+        },
+        {
+          "element_id": "71_p15_e92",
+          "sequence_order": 92,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "2  Copy of Detailed Project Report (DPR)"
+        },
+        {
+          "element_id": "71_p15_e93",
+          "sequence_order": 93,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "Note:  The Applicant must ensure that the Application Letter to Energy Audit Agency should be  submitted during signing "
+        },
+        {
+          "element_id": "71_p15_e94",
+          "sequence_order": 94,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "8.1.4  Application for “Employment Generation Subsidy”"
+        },
+        {
+          "element_id": "71_p15_e95",
+          "sequence_order": 95,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Sr.No  Requirement  Reply"
+        },
+        {
+          "element_id": "71_p15_e96",
+          "sequence_order": 96,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "1  Undertaking  to  employ  minimum  50  domiciles of Chhattisgarh for the proposed  project during its commercially ope"
+        },
+        {
+          "element_id": "71_p15_e97",
+          "sequence_order": 97,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "2  Copy of Detailed Project Report (DPR)"
+        },
+        {
+          "element_id": "71_p15_e98",
+          "sequence_order": 98,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "8.1.5  Application for “Promotion of Technological Innovation”"
+        },
+        {
+          "element_id": "71_p15_e99",
+          "sequence_order": 99,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Sr.No  Requirement  Reply"
+        },
+        {
+          "element_id": "71_p15_e100",
+          "sequence_order": 100,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "1  Fixed capital investment in Technologically  Innovative Component [minimum INR 20  lacs]"
+        },
+        {
+          "element_id": "71_p15_e101",
+          "sequence_order": 101,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "2  Copy of Detailed Project Report (DPR)"
+        },
+        {
+          "element_id": "71_p15_e102",
+          "sequence_order": 102,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "Note:  The Applicant must ensure that the Acceptance Letter from the SLEC for the project/ unit should  be submitted dur"
+        }
+      ]
+    },
+    "16": {
+      "elements": 8,
+      "flagged": 8,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "71_p16_e103",
+          "sequence_order": 103,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Instructions"
+        },
+        {
+          "element_id": "71_p16_e104",
+          "sequence_order": 104,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Chhattisga"
+        },
+        {
+          "element_id": "71_p16_e105",
+          "sequence_order": 105,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Incentives fo"
+        },
+        {
+          "element_id": "71_p16_e106",
+          "sequence_order": 106,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Tourism D"
+        },
+        {
+          "element_id": "71_p16_e107",
+          "sequence_order": 107,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "for Claiming Incentiv arh Tourism Policy 20"
+        },
+        {
+          "element_id": "71_p16_e108",
+          "sequence_order": 108,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "or Project/Unit at “Pr Destination” in CG St"
+        },
+        {
+          "element_id": "71_p16_e109",
+          "sequence_order": 109,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ves in"
+        },
+        {
+          "element_id": "71_p16_e110",
+          "sequence_order": 110,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "riority"
+        }
+      ]
+    },
+    "18": {
+      "elements": 5,
+      "flagged": 5,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "71_p18_e111",
+          "sequence_order": 111,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "2  Copy of Detailed Project Report (DPR)"
+        },
+        {
+          "element_id": "71_p18_e112",
+          "sequence_order": 112,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "9.1.3  Application for “Exemption on Electricity Duty”"
+        },
+        {
+          "element_id": "71_p18_e113",
+          "sequence_order": 113,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Sr.No  Requirement  Reply"
+        },
+        {
+          "element_id": "71_p18_e114",
+          "sequence_order": 114,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "1  Whether  availing  Subsidy  on  Capital  Renewable Power Generation (clause 6.6.2)"
+        },
+        {
+          "element_id": "71_p18_e115",
+          "sequence_order": 115,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "2  Copy of Detailed Project Report (DPR)"
+        }
+      ]
+    },
+    "19": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "71_p19_e116",
+          "sequence_order": 116,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Instructions"
+        },
+        {
+          "element_id": "71_p19_e117",
+          "sequence_order": 117,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Chhattisga"
+        },
+        {
+          "element_id": "71_p19_e118",
+          "sequence_order": 118,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Incentives"
+        },
+        {
+          "element_id": "71_p19_e119",
+          "sequence_order": 119,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "for Claiming Incentiv arh Tourism Policy 20"
+        },
+        {
+          "element_id": "71_p19_e120",
+          "sequence_order": 120,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "for All Eligible Tour ojects in CG State"
+        },
+        {
+          "element_id": "71_p19_e121",
+          "sequence_order": 121,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ves in"
+        }
+      ]
+    },
+    "21": {
+      "elements": 5,
+      "flagged": 5,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "71_p21_e122",
+          "sequence_order": 122,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Instructions"
+        },
+        {
+          "element_id": "71_p21_e123",
+          "sequence_order": 123,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Chhattisga"
+        },
+        {
+          "element_id": "71_p21_e124",
+          "sequence_order": 124,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "for Claiming Incentiv arh Tourism Policy 20"
+        },
+        {
+          "element_id": "71_p21_e125",
+          "sequence_order": 125,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Annexures"
+        },
+        {
+          "element_id": "71_p21_e126",
+          "sequence_order": 126,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "ves in"
+        }
+      ]
+    },
+    "23": {
+      "elements": 16,
+      "flagged": 16,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "71_p23_e127",
+          "sequence_order": 127,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Annexure 2"
+        },
+        {
+          "element_id": "71_p23_e128",
+          "sequence_order": 128,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Format for Chartered Accountant’s Verification"
+        },
+        {
+          "element_id": "71_p23_e129",
+          "sequence_order": 129,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "(On the letterhead of the Chartered Accountant)"
+        },
+        {
+          "element_id": "71_p23_e130",
+          "sequence_order": 130,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "To Whomsoever It May Concern"
+        },
+        {
+          "element_id": "71_p23_e131",
+          "sequence_order": 131,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "This is to certify that M/s ______________________________ has proposed to commission a tourism"
+        },
+        {
+          "element_id": "71_p23_e132",
+          "sequence_order": 132,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 8,
+          "text_preview": "project  ____________________________________  (name  of  the  project)  eligible  for"
+        },
+        {
+          "element_id": "71_p23_e133",
+          "sequence_order": 133,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 10,
+          "text_preview": "_________________________________________ subsidy/ incentive as per clause 6 of the Chhattisgarh"
+        },
+        {
+          "element_id": "71_p23_e134",
+          "sequence_order": 134,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 8,
+          "text_preview": "Tourism Policy 2020 at place __________________________________ (full address)."
+        },
+        {
+          "element_id": "71_p23_e135",
+          "sequence_order": 135,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "I certify that the fixed capital investment value of INR ________________, as mentioned in the Bill of"
+        },
+        {
+          "element_id": "71_p23_e136",
+          "sequence_order": 136,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "Quantities in the Detailed Project Report submitted, is as per the prerequisites mentioned in clause 6.4 of"
+        },
+        {
+          "element_id": "71_p23_e137",
+          "sequence_order": 137,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "the Chhattisgarh Tourism Policy 2020."
+        },
+        {
+          "element_id": "71_p23_e138",
+          "sequence_order": 138,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "Details of the fixed capital investment are annexed in the Detailed Project Report for further examination."
+        },
+        {
+          "element_id": "71_p23_e139",
+          "sequence_order": 139,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Signature and Seal of the Chartered Accountant"
+        },
+        {
+          "element_id": "71_p23_e140",
+          "sequence_order": 140,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Name:"
+        },
+        {
+          "element_id": "71_p23_e141",
+          "sequence_order": 141,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Place:"
+        },
+        {
+          "element_id": "71_p23_e142",
+          "sequence_order": 142,
+          "page_number": 23,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Date:"
+        }
+      ]
+    },
+    "24": {
+      "elements": 15,
+      "flagged": 15,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "71_p24_e143",
+          "sequence_order": 143,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Annexure 3"
+        },
+        {
+          "element_id": "71_p24_e144",
+          "sequence_order": 144,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Format for Chartered Engineer’s Verification"
+        },
+        {
+          "element_id": "71_p24_e145",
+          "sequence_order": 145,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "(On the letterhead of the Chartered Engineer)"
+        },
+        {
+          "element_id": "71_p24_e146",
+          "sequence_order": 146,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "To Whomsoever It May Concern"
+        },
+        {
+          "element_id": "71_p24_e147",
+          "sequence_order": 147,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "This is to certify that M/s ______________________________ has proposed to commission a tourism"
+        },
+        {
+          "element_id": "71_p24_e148",
+          "sequence_order": 148,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 8,
+          "text_preview": "project  ____________________________________  (name  of  the  project)  eligible  for"
+        },
+        {
+          "element_id": "71_p24_e149",
+          "sequence_order": 149,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 10,
+          "text_preview": "_________________________________________ subsidy/ incentive as per clause 6 of the Chhattisgarh"
+        },
+        {
+          "element_id": "71_p24_e150",
+          "sequence_order": 150,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 8,
+          "text_preview": "Tourism Policy 2020 at place __________________________________ (full address)."
+        },
+        {
+          "element_id": "71_p24_e151",
+          "sequence_order": 151,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "I certify that the project components mentioned in the Detailed Project Report are as per the conditions"
+        },
+        {
+          "element_id": "71_p24_e152",
+          "sequence_order": 152,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "mentioned in clause 8 of the Chhattisgarh Tourism Policy 2020."
+        },
+        {
+          "element_id": "71_p24_e153",
+          "sequence_order": 153,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "Details of the project components are annexed in the Detailed Project Report for further examination."
+        },
+        {
+          "element_id": "71_p24_e154",
+          "sequence_order": 154,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Signature and Seal of the Chartered Engineer"
+        },
+        {
+          "element_id": "71_p24_e155",
+          "sequence_order": 155,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Name:"
+        },
+        {
+          "element_id": "71_p24_e156",
+          "sequence_order": 156,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Place:"
+        },
+        {
+          "element_id": "71_p24_e157",
+          "sequence_order": 157,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Date:"
         }
       ]
     }

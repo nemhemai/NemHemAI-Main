@@ -1,0 +1,314 @@
+{
+  "document_id": 82,
+  "pages": {
+    "2": {
+      "elements": 7,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "82_p2_e1",
+          "sequence_order": 1,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "1. Introduction"
+        }
+      ]
+    },
+    "3": {
+      "elements": 11,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "82_p3_e10",
+          "sequence_order": 10,
+          "page_number": 3,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "2. Objective"
+        }
+      ]
+    },
+    "4": {
+      "elements": 11,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "82_p4_e22",
+          "sequence_order": 22,
+          "page_number": 4,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Priority Sectors:"
+        }
+      ]
+    },
+    "5": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "6": {
+      "elements": 15,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "82_p6_e40",
+          "sequence_order": 40,
+          "page_number": 6,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "(2) Incubators"
+        }
+      ]
+    },
+    "7": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "8": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "9": {
+      "elements": 13,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "10": {
+      "elements": 6,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "11": {
+      "elements": 8,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "12": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "13": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "14": {
+      "elements": 14,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "15": {
+      "elements": 7,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "16": {
+      "elements": 9,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "17": {
+      "elements": 7,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "19": {
+      "elements": 3,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "20": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "21": {
+      "elements": 8,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "82_p21_e167",
+          "sequence_order": 167,
+          "page_number": 21,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Specific regions:"
+        }
+      ]
+    },
+    "22": {
+      "elements": 13,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "82_p22_e183",
+          "sequence_order": 183,
+          "page_number": 22,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Eligibility:"
+        }
+      ]
+    },
+    "23": {
+      "elements": 12,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "82_p23_e189",
+          "sequence_order": 189,
+          "page_number": 23,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Eligibility Criteria:"
+        }
+      ]
+    },
+    "24": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "25": {
+      "elements": 11,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "82_p25_e217",
+          "sequence_order": 217,
+          "page_number": 25,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Eligibility"
+        }
+      ]
+    },
+    "26": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "27": {
+      "elements": 14,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "28": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "29": {
+      "elements": 5,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    }
+  }
+}

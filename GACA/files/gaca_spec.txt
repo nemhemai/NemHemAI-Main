@@ -1,0 +1,394 @@
+Governance, Audit & Compliance Agent (GACA)
+NemHem Platform Architecture Specification
+Version 1.0
+1. Objective
+The Governance, Audit & Compliance Agent (GACA) serves as the trust, accountability, risk management, and regulatory compliance layer of the NemHem platform.
+While the Entitlement Agent determines citizen eligibility and the Verification Agent validates supporting evidence, GACA ensures that every decision, recommendation, verification result, officer action, and AI-generated output remains transparent, explainable, auditable, compliant, and legally defensible.
+The agent enables government organizations to maintain complete oversight of AI-assisted decision-making while meeting governance, compliance, audit, legal, and operational requirements.
+2. Core Objectives
+The Governance, Audit & Compliance Agent is designed to achieve the following objectives:
+Decision Accountability
+Provide complete traceability for every decision generated within NemHem.
+Regulatory Compliance
+Ensure adherence to government regulations, departmental policies, administrative orders, circulars, and statutory requirements.
+Explainability
+Provide understandable reasoning behind all recommendations and decisions.
+Fraud Prevention
+Detect suspicious activities, duplicate claims, identity misuse, and abuse of government schemes.
+Governance Oversight
+Monitor citizen interactions, officer actions, system activities, and AI-generated outputs.
+Audit Readiness
+Support internal audits, external audits, vigilance investigations, RTI requests, legal proceedings, and court reviews.
+AI Governance
+Ensure responsible, transparent, and accountable use of AI across all platform operations.
+3. Position Within NemHem Architecture
+Citizen    │    ▼Entitlement Agent    │    ▼Verification Agent    │    ▼Governance, Audit & Compliance Agent    │    ▼Governance Repository
+The Governance Agent does not participate in eligibility determination.
+Its responsibility is to monitor, validate, explain, record, govern, and defend decisions made by the platform.
+4. Core Functional Modules
+Governance, Audit & Compliance Agent├── Decision Audit Engine├── Policy Versioning Engine├── Evidence Traceability Engine├── Human Override Tracker├── Approval Workflow Tracker├── AI Governance Engine├── Compliance Monitoring Engine├── Fraud & Risk Engine├── Appeals Management Engine├── RTI Support Engine├── Decision Replay Engine├── Cross-Department Timeline Engine├── Reporting Engine└── Governance Dashboard Engine
+4.1 Decision Audit Engine
+Captures and records all platform decisions.
+Responsibilities
+Eligibility decisions
+Recommendation outcomes
+Verification outcomes
+Application processing events
+Officer approvals and rejections
+Citizen interactions
+Stored Attributes
+Decision ID
+Citizen ID
+Application ID
+Scheme ID
+Decision Type
+Decision Result
+Timestamp
+Responsible Agent
+Confidence Score
+Outputs
+Decision History
+Audit Records
+Audit Reports
+4.2 Policy Versioning Engine
+Maintains complete version history of policies, regulations, and scheme rules.
+Responsibilities
+Rule lifecycle management
+Circular version management
+Notification tracking
+Policy effective-date tracking
+Policy expiry management
+Stored Information
+Policy Name
+Circular Number
+Rule Version
+Effective Date
+Expiry Date
+Issuing Authority
+Benefits
+Enables historical decision reconstruction and policy traceability.
+4.3 Evidence Traceability Engine
+Maintains relationships between decisions and supporting evidence.
+Responsibilities
+Evidence linkage
+Supporting document mapping
+Verification record association
+Eligibility justification
+Example
+Income Certificate
+↓
+Income Verification
+↓
+Eligibility Rule Evaluation
+↓
+PMAY Recommendation
+The system can demonstrate exactly how a document influenced a decision.
+4.4 Document Audit Engine
+Provides complete visibility into document processing activities.
+Responsibilities
+Document upload tracking
+OCR tracking
+Field extraction monitoring
+Verification result logging
+Tampering detection
+Verification history
+Stored Information
+Document Type
+Upload Date
+Verification Status
+Extracted Data
+Verification Results
+Anomaly Indicators
+4.5 User Activity Audit Engine
+Tracks all activities performed by citizens, officers, administrators, and AI agents.
+Activities Captured
+Citizen Activities
+Registration
+Profile updates
+Document uploads
+Application submissions
+Officer Activities
+Reviews
+Approvals
+Rejections
+Escalations
+Administrator Activities
+Configuration changes
+Rule modifications
+Policy updates
+Agent Activities
+Recommendations
+Verifications
+Notifications
+4.6 Explainability Engine
+Generates human-readable explanations for platform decisions.
+Objectives
+Improve citizen trust
+Reduce grievances
+Support officer reviews
+Enable audit transparency
+Capabilities
+Explain:
+Why approved
+Why rejected
+Which rules were applied
+Which documents were used
+Which evidence influenced the outcome
+4.7 Human Override Governance Engine
+Tracks situations where human officers override AI recommendations.
+Responsibilities
+Capture:
+Original AI recommendation
+Officer decision
+Override reason
+Approval authority
+Supporting notes
+Example
+AI Recommendation:
+Reject
+Officer Decision:
+Approve
+Reason:
+Exceptional hardship consideration
+4.8 Approval Workflow Governance Engine
+Tracks all approval and escalation workflows.
+Supports
+Multi-level approvals
+Escalations
+Delegations
+Department reviews
+Supervisor reviews
+Captured Information
+Reviewer
+Approver
+Escalation path
+Approval timestamp
+Decision rationale
+4.9 AI Governance Engine
+Provides accountability for AI-generated outputs.
+Responsibilities
+Track:
+LLM used
+Model version
+Prompt template
+Retrieval context
+Embedding model
+Generated response
+Confidence score
+Safety interventions
+Benefits
+Ensures transparency and responsible AI adoption.
+4.10 Decision Replay Engine
+Enables historical reconstruction of decisions.
+Purpose
+Reproduce past decisions exactly as they occurred.
+Reconstructs
+Citizen profile
+Evidence
+Policy version
+Retrieved context
+Model version
+Prompt
+Decision result
+Use Cases
+Audit investigations
+Court proceedings
+Citizen appeals
+Policy reviews
+4.11 Compliance Monitoring Engine
+Continuously monitors compliance across the platform.
+Validations
+Required documents present
+Mandatory approvals completed
+Policy adherence
+Regulatory compliance
+Data governance compliance
+Outputs
+Compliance alerts
+Compliance reports
+Risk notifications
+4.12 Fraud & Risk Intelligence Engine
+Identifies potentially fraudulent activities.
+Fraud Detection
+Duplicate applications
+Duplicate benefits
+Identity misuse
+Document tampering
+Suspicious patterns
+Risk Scoring
+Citizen Risk Score
+Application Risk Score
+Officer Risk Score
+Scheme Risk Score
+Graph Analytics
+Uses Neo4j to identify:
+Shared addresses
+Shared bank accounts
+Shared mobile numbers
+Relationship networks
+4.13 Appeals & Reconsideration Engine
+Supports citizen appeals.
+Workflow
+Decision
+↓
+Appeal Submission
+↓
+Review
+↓
+Reconsideration
+↓
+Final Decision
+Benefits
+Provides procedural fairness and transparency.
+4.14 RTI Support Engine
+Supports Right to Information requests.
+Capabilities
+Generate:
+Decision summaries
+Evidence packages
+Officer actions
+Audit trails
+Eligibility explanations
+Benefits
+Reduces RTI response effort.
+4.15 Cross-Department Governance Engine
+Provides visibility across departments.
+Departments
+Housing
+Revenue
+Health
+Education
+Social Welfare
+Municipal Services
+Output
+Citizen Governance Timeline
+Example:
+January 2026
+Housing Scheme Applied
+March 2026
+Scholarship Approved
+April 2026
+Health Benefit Activated
+4.16 Governance Reporting Engine
+Generates governance and compliance reports.
+Reports
+Citizen Audit Report
+Application Audit Report
+Department Audit Report
+Fraud Investigation Report
+Compliance Report
+Appeal History Report
+AI Governance Report
+Executive Governance Report
+4.17 Governance Dashboard Engine
+Provides executive-level oversight.
+Dashboard Metrics
+Applications Processed
+Approval Rates
+Rejection Rates
+Fraud Indicators
+Compliance Violations
+Citizen Satisfaction
+Department Performance
+Scheme Utilization
+Officer Productivity
+Appeal Statistics
+Risk Trends
+5. End-to-End Workflow
+Stage 1
+Event Generation
+Events originate from:
+Citizens
+Officers
+Administrators
+AI Agents
+Stage 2
+Audit Capture
+All events are recorded.
+Stage 3
+Evidence Association
+Events are linked to supporting evidence.
+Stage 4
+Policy Mapping
+Decisions are mapped to the exact policy version used.
+Stage 5
+Compliance Validation
+Rules and workflows are validated.
+Stage 6
+Risk Evaluation
+Fraud and anomaly detection processes execute.
+Stage 7
+Governance Recording
+Immutable governance records are created.
+Stage 8
+Reporting and Analytics
+Insights are generated for operational and executive stakeholders.
+6. Data Model
+Core Entities
+Citizen
+Application
+Scheme
+Policy
+Rule
+Evidence
+Document
+Decision
+Approval
+Appeal
+Audit Event
+Risk Assessment
+Compliance Record
+Governance Report
+7. Integration Points
+Entitlement Agent
+Receives:
+Eligibility decisions
+Recommendation outcomes
+Verification Agent
+Receives:
+Verification results
+Fraud indicators
+Neo4j
+Provides:
+Relationship analysis
+Fraud detection
+LlamaIndex
+Provides:
+Policy retrieval
+Knowledge traceability
+Hermes
+Provides:
+Historical interactions
+Decision memory
+8. Key Benefits
+Citizens
+Transparent decisions
+Faster grievance resolution
+Better trust
+Officers
+Reduced manual audits
+Faster investigations
+Better decision support
+Departments
+Improved compliance
+Reduced fraud
+Better governance
+Governments
+Audit readiness
+Regulatory compliance
+Responsible AI adoption
+Increased citizen trust
+9. Success Metrics
+Decision Explainability Rate
+Audit Traceability Coverage
+Fraud Detection Accuracy
+Compliance Adherence Rate
+Appeal Resolution Time
+RTI Response Time
+Officer Productivity Improvement
+Citizen Satisfaction Score
+Governance Risk Reduction
+AI Transparency Score
+10. Summary
+The Governance, Audit & Compliance Agent serves as the accountability backbone of the NemHem platform.
+It transforms NemHem from an AI-powered entitlement system into a government-grade governance platform capable of supporting municipal corporations, state governments, central government departments, public sector organizations, and sovereign AI deployments while maintaining transparency, compliance, auditability, trust, and legal defensibility.

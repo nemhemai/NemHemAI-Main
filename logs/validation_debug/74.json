@@ -1,0 +1,2847 @@
+{
+  "document_id": 74,
+  "pages": {
+    "1": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "74_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "26/08/2022"
+        },
+        {
+          "element_id": "74_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Chhattisgarh State  Electric Vehicle  Policy 2022"
+        }
+      ]
+    },
+    "3": {
+      "elements": 17,
+      "flagged": 17,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "74_p3_e2",
+          "sequence_order": 2,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "CHHATTISGARH STATE EV POLICY 2022"
+        },
+        {
+          "element_id": "74_p3_e3",
+          "sequence_order": 3,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": ",15  12.1.3  Incentives for Goods/ Other Vehicles,15  12.2  MANUFACTURING RELATED INCENTIVES.  i!fDiutii!thtarrettiit!t "
+        },
+        {
+          "element_id": "74_p3_e4",
+          "sequence_order": 4,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "17  12.3  Incentives for Proliferation of Charging Infrastructure,17  12.3.1  Private Charging Points."
+        },
+        {
+          "element_id": "74_p3_e5",
+          "sequence_order": 5,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "'#tdt*''ttttitttiita1tt!titlintiirtititiiitittiifiietiittitntitt4ii#iiltil1ftrr'707675\"77\"r1"
+        },
+        {
+          "element_id": "74_p3_e6",
+          "sequence_order": 6,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "17  Public Charging Infrastructure:.  *2l00\"'ts41911e#tittit'110!ttliitiiilittiiiti1t1tititiinuitid10 tddt!itttdil'1#141"
+        },
+        {
+          "element_id": "74_p3_e7",
+          "sequence_order": 7,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Electricity Tariff for EV Charging."
+        },
+        {
+          "element_id": "74_p3_e8",
+          "sequence_order": 8,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "12.3.2  19  13.  20  14.  Roadmap for use of Renewable EnerEY.."
+        },
+        {
+          "element_id": "74_p3_e9",
+          "sequence_order": 9,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "RESEARCH AND INNOVATION..  ****000'00tttttitttteritetig0 iridsit19iiiititittittititiiiiiititditidititddd'#10711''1117  n"
+        },
+        {
+          "element_id": "74_p3_e10",
+          "sequence_order": 10,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "******'****'*#*********0000**t00tt  000teuttuiirinittiu  etiiitititiittiutttiteiriiti'10014t t0010100isdriiv'1dtir?"
+        },
+        {
+          "element_id": "74_p3_e11",
+          "sequence_order": 11,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "22  17  Nodal Departments & Agencies..."
+        },
+        {
+          "element_id": "74_p3_e12",
+          "sequence_order": 12,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "22  18.  Recycling Ecosystem-Battery and Electrical Vehicles."
+        },
+        {
+          "element_id": "74_p3_e13",
+          "sequence_order": 13,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "18.1  REUSE OF EV BATTERIES  22"
+        },
+        {
+          "element_id": "74_p3_e14",
+          "sequence_order": 14,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "18.2  END-OF-IFE BATTERY AND EV RECYCLING..  23"
+        },
+        {
+          "element_id": "74_p3_e15",
+          "sequence_order": 15,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "19  Electric Mobility Safety Guidelines (Safety Norms).  23"
+        },
+        {
+          "element_id": "74_p3_e16",
+          "sequence_order": 16,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "20.  EV State Fund.  23  *****essosneorunno*snousst  uessuuru  resnssnesnosvoosposusuorsesesssosssnessres***ssutu***ori"
+        },
+        {
+          "element_id": "74_p3_e17",
+          "sequence_order": 17,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 8,
+          "text_preview": "21  Policy Review-Calibrating/ Refining/ Course Correction.. *****'*0000°00000**0****************°***1*******'°'**> 24"
+        },
+        {
+          "element_id": "74_p3_e18",
+          "sequence_order": 18,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "22.  Power to Issue & Interpret...  24"
+        }
+      ]
+    },
+    "4": {
+      "elements": 22,
+      "flagged": 22,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "74_p4_e19",
+          "sequence_order": 19,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "CHHATTISGARH STATE EV POLICY 2022"
+        },
+        {
+          "element_id": "74_p4_e20",
+          "sequence_order": 20,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "1. Background"
+        },
+        {
+          "element_id": "74_p4_e21",
+          "sequence_order": 21,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "There is an imminent shift in the nature of transportation from internal combustion vehicles (ICv to  vehicles that run "
+        },
+        {
+          "element_id": "74_p4_e22",
+          "sequence_order": 22,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "challenges of deteriorating air quality, reduction in India's oil import bill and to further the energy"
+        },
+        {
+          "element_id": "74_p4_e23",
+          "sequence_order": 23,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "security of the country. The thrust for electric vehicles go hand in hand with India's efforts to expand"
+        },
+        {
+          "element_id": "74_p4_e24",
+          "sequence_order": 24,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "renewable energy capacities."
+        },
+        {
+          "element_id": "74_p4_e25",
+          "sequence_order": 25,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "Formed in the year 2000, the state of Chhattisgarh is fast emerging to be an important tourist centre"
+        },
+        {
+          "element_id": "74_p4_e26",
+          "sequence_order": 26,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "and an industrial hub. Its strategic location and easy accessibility along with its cost effective transport"
+        },
+        {
+          "element_id": "74_p4_e27",
+          "sequence_order": 27,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "system have majorly contributed to the development of this state."
+        },
+        {
+          "element_id": "74_p4_e28",
+          "sequence_order": 28,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "The roadways in Chhattisgarh state comes under the purview of Chhattisgarh Transport Department.  This department perfor"
+        },
+        {
+          "element_id": "74_p4_e29",
+          "sequence_order": 29,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "mind the public convenience and vehicle population in this state. A variety of computerized services are"
+        },
+        {
+          "element_id": "74_p4_e30",
+          "sequence_order": 30,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 40,
+          "text_preview": "provided to the citizens here, including e- sewa, license, online permit system, dealer point registration,  online perm"
+        },
+        {
+          "element_id": "74_p4_e31",
+          "sequence_order": 31,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 88,
+          "text_preview": "The length of the roadways here is about 35,388 Kms, with connectivity, throughout the country  including about 2,184 Km"
+        },
+        {
+          "element_id": "74_p4_e32",
+          "sequence_order": 32,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Table 1: Different categories of vehicles registered in the State since its incorporation"
+        },
+        {
+          "element_id": "74_p4_e33",
+          "sequence_order": 33,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": ".No.  Vehicle Type  No. of Vehicles Registered  % of Vehicles"
+        },
+        {
+          "element_id": "74_p4_e34",
+          "sequence_order": 34,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Goods Vehicles  4 Wheelers (Commercial)  Buses  3 Wheelers  2 Wheelers"
+        },
+        {
+          "element_id": "74_p4_e35",
+          "sequence_order": 35,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "4 Wheelers (Non Commercial)  Others  Total"
+        },
+        {
+          "element_id": "74_p4_e36",
+          "sequence_order": 36,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "1  2,43,327  20,091  60,240  44,084  53,97,457  4,36,800  4,18,428  66,20,427"
+        },
+        {
+          "element_id": "74_p4_e37",
+          "sequence_order": 37,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "3.68%  0.30%  0.91%  0.67%  81.53%"
+        },
+        {
+          "element_id": "74_p4_e38",
+          "sequence_order": 38,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "6.60%  6.32%"
+        },
+        {
+          "element_id": "74_p4_e39",
+          "sequence_order": 39,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 37,
+          "text_preview": "From the above table, it is found that two wheelers constitute> 81% of the total vehicle population of  the State. Among"
+        },
+        {
+          "element_id": "74_p4_e40",
+          "sequence_order": 40,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "Basing on the techno-economic development in the EV sector, there is need to formulate a policy for  promotion of Electr"
+        }
+      ]
+    },
+    "5": {
+      "elements": 22,
+      "flagged": 22,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "74_p5_e41",
+          "sequence_order": 41,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "CHHATTISGARH STATE EV POLICY 2022"
+        },
+        {
+          "element_id": "74_p5_e42",
+          "sequence_order": 42,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Vsion & Objectives"
+        },
+        {
+          "element_id": "74_p5_e43",
+          "sequence_order": 43,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "T make Chhattisgarh  a leader In adojption of electric vehicles as the predominant mode of"
+        },
+        {
+          "element_id": "74_p5_e44",
+          "sequence_order": 44,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "anportalion as well as establishing a sustainable environment to support manufacturers, start-ups"
+        },
+        {
+          "element_id": "74_p5_e45",
+          "sequence_order": 45,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 36,
+          "text_preview": "and nvestors in tV market development.  he objectives are  Work towatds ensuring a healthy environment for sustainable f"
+        },
+        {
+          "element_id": "74_p5_e46",
+          "sequence_order": 46,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 39,
+          "text_preview": "from vehicles, etc. leading to deteriorating Air Quality Index.  To drive tapid adoption of Battery Electrlc Vehicles (B"
+        },
+        {
+          "element_id": "74_p5_e47",
+          "sequence_order": 47,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "environment by bringing down emissions from the transport sector  To accelerate the pace of EV adoption across vehicle s"
+        },
+        {
+          "element_id": "74_p5_e48",
+          "sequence_order": 48,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 53,
+          "text_preview": "of two wheelers, public/shared transport vehicles and goods carriers  To make Chhattisgarh a manufacturing hub for elect"
+        },
+        {
+          "element_id": "74_p5_e49",
+          "sequence_order": 49,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "3 Title  This policy shall be known as the \"Chhattisgarh State Electric Vehicle Policy-2022\""
+        },
+        {
+          "element_id": "74_p5_e50",
+          "sequence_order": 50,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "4. Operative Period  This policy shall be valid for a period of five years commencing from 01-04-2022 and extendable  to"
+        },
+        {
+          "element_id": "74_p5_e51",
+          "sequence_order": 51,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": ".  All provisions of this Policy shall be applicable during the Operative Period unless mentioned  otherwise."
+        },
+        {
+          "element_id": "74_p5_e52",
+          "sequence_order": 52,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "5. Abbreviations & Definitions"
+        },
+        {
+          "element_id": "74_p5_e53",
+          "sequence_order": 53,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": ".  \"AC\" shall mean Alternating Current;"
+        },
+        {
+          "element_id": "74_p5_e54",
+          "sequence_order": 54,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "i.  \"ARAI\" shall mean Automotive Research Association of India;"
+        },
+        {
+          "element_id": "74_p5_e55",
+          "sequence_order": 55,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "i.  \"BEV\" shall mean Battery Electric Vehicle;"
+        },
+        {
+          "element_id": "74_p5_e56",
+          "sequence_order": 56,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "iv.  \"BMS\" shall mean Battery Management System;"
+        },
+        {
+          "element_id": "74_p5_e57",
+          "sequence_order": 57,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "V.  \"Central Government\" shall mean the Government of India;"
+        },
+        {
+          "element_id": "74_p5_e58",
+          "sequence_order": 58,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "\"CIRT\" shall mean Central Institute of Road Transport;"
+        },
+        {
+          "element_id": "74_p5_e59",
+          "sequence_order": 59,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "vii.  \"DBT\" shall mean Direct Bank Transfer;"
+        },
+        {
+          "element_id": "74_p5_e60",
+          "sequence_order": 60,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "vii.  \"DC\" shall mean Direct Current;"
+        },
+        {
+          "element_id": "74_p5_e61",
+          "sequence_order": 61,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "\"DisCom\" shall mean Electricity Distribution Licensee  Chhattisgarh State Electricity Board"
+        },
+        {
+          "element_id": "74_p5_e62",
+          "sequence_order": 62,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "(CSEB);"
+        }
+      ]
+    },
+    "7": {
+      "elements": 20,
+      "flagged": 20,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "74_p7_e63",
+          "sequence_order": 63,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "CHHATTISGARH STATE EV POLICY 2022"
+        },
+        {
+          "element_id": "74_p7_e64",
+          "sequence_order": 64,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "XXX.  \"State\" shall mean Chhattisgarh;"
+        },
+        {
+          "element_id": "74_p7_e65",
+          "sequence_order": 65,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "XXxi.  \"State Government\" shall mean the Government of Chhattisgarh;"
+        },
+        {
+          "element_id": "74_p7_e66",
+          "sequence_order": 66,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "XXXii.  \"VGI\" shall mean Vehicle to Grid Integration."
+        },
+        {
+          "element_id": "74_p7_e67",
+          "sequence_order": 67,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "6. Policy Overview"
+        },
+        {
+          "element_id": "74_p7_e68",
+          "sequence_order": 68,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 41,
+          "text_preview": "The Fiscal Incentives being offered under the policy would be in addition to the demand incentives  available in the FAM"
+        },
+        {
+          "element_id": "74_p7_e69",
+          "sequence_order": 69,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Financial Incentives - Purchase incentives, Scrapping incentives"
+        },
+        {
+          "element_id": "74_p7_e70",
+          "sequence_order": 70,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "ii.  Waiver of road tax and registration fees"
+        },
+        {
+          "element_id": "74_p7_e71",
+          "sequence_order": 71,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "ii.  Establishment of a wide network of charging stations and swappable battery stations, and  development of publicly o"
+        },
+        {
+          "element_id": "74_p7_e72",
+          "sequence_order": 72,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "iv.  Administration of the policy including constitution of State Ev Development Corporation  Limited, and developing an"
+        },
+        {
+          "element_id": "74_p7_e73",
+          "sequence_order": 73,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "awareness about the benefits of electric vehicles and key elements of the policy"
+        },
+        {
+          "element_id": "74_p7_e74",
+          "sequence_order": 74,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "Setting up of Skill Centers with provision for training elated to jobs in the EV eco-system and  creation of jobs"
+        },
+        {
+          "element_id": "74_p7_e75",
+          "sequence_order": 75,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "vi.  Setting up of Recycling Ecosystem for Batteries"
+        },
+        {
+          "element_id": "74_p7_e76",
+          "sequence_order": 76,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "vii.  Creation of an umbrella, non-lapsable 'State EV Fund', to be funded through the air ambience  fund, levy of additi"
+        },
+        {
+          "element_id": "74_p7_e77",
+          "sequence_order": 77,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "viii.  All the incentives available for manufacturing industries under MSME Policy, 2016 shall be made  available to EV "
+        },
+        {
+          "element_id": "74_p7_e78",
+          "sequence_order": 78,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "Chattisgarh's EV Policy success shall be made of the following aspects of its Industrial Policy  X."
+        },
+        {
+          "element_id": "74_p7_e79",
+          "sequence_order": 79,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "a. Awell-articulated Industrial Policy supporting/ complimenting the EV policy/vision"
+        },
+        {
+          "element_id": "74_p7_e80",
+          "sequence_order": 80,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "b. Top-down planning with wel-defined and clear development targets and measures adapted  to achieve them."
+        },
+        {
+          "element_id": "74_p7_e81",
+          "sequence_order": 81,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 34,
+          "text_preview": "c. Under its state EV vision, Chhattisgarh can establish high-level industrial plans that set clear  targets supporting "
+        },
+        {
+          "element_id": "74_p7_e82",
+          "sequence_order": 82,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 46,
+          "text_preview": "d. Well aligned environmental, industrial and energy goals  Linking Chhattisgarh's EV Policy  g0als to air quality, indu"
+        }
+      ]
+    },
+    "8": {
+      "elements": 19,
+      "flagged": 19,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "74_p8_e83",
+          "sequence_order": 83,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "CHHATTISGARH STATE EV POLICY 2022"
+        },
+        {
+          "element_id": "74_p8_e84",
+          "sequence_order": 84,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "e. Additional policy levers  Platforms (Chhattisgarh Investment Board) & Programs (invest  Chhattisgarh)"
+        },
+        {
+          "element_id": "74_p8_e85",
+          "sequence_order": 85,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "This policy is applicable only to EVs and the components that are integral to its manufacturing and  operation (EV charg"
+        },
+        {
+          "element_id": "74_p8_e86",
+          "sequence_order": 86,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "Private Transport: In order to achieve the above-mentioned goals and objectives, the policy targetsa  Substantial substi"
+        },
+        {
+          "element_id": "74_p8_e87",
+          "sequence_order": 87,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 77,
+          "text_preview": "Public Transport: _Through this policy the existing intracity/ intercity bus fleets in the state will be  augmented (or "
+        },
+        {
+          "element_id": "74_p8_e88",
+          "sequence_order": 88,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "Charging infrastructure: This policy will provide the guidelines for development of adequate charging  infrastructure fo"
+        },
+        {
+          "element_id": "74_p8_e89",
+          "sequence_order": 89,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "Introducing an online portal for information regarding EVs, applying for EV related incentives,  information regarding c"
+        },
+        {
+          "element_id": "74_p8_e90",
+          "sequence_order": 90,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "6.1 EXPECTED OUTCOMES"
+        },
+        {
+          "element_id": "74_p8_e91",
+          "sequence_order": 91,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "To embrace electric mobility as a tool to promote shared mobility and clean transportation and"
+        },
+        {
+          "element_id": "74_p8_e92",
+          "sequence_order": 92,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "ensure environmental sustainability, pollution reduction, energy efficiency and conservation and  to create an ecosystem"
+        },
+        {
+          "element_id": "74_p8_e93",
+          "sequence_order": 93,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "To encourage reliable, affordable and efficient EVs that meet performance and price through  i."
+        },
+        {
+          "element_id": "74_p8_e94",
+          "sequence_order": 94,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "Government  collaboration for promotion and development of indigenous manufacturing  capabilities, required infrastructu"
+        },
+        {
+          "element_id": "74_p8_e95",
+          "sequence_order": 95,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "iii.  Reduce primary oil consumption in transportation."
+        },
+        {
+          "element_id": "74_p8_e96",
+          "sequence_order": 96,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "iv.  Facilitate customer adoption of electric and clean energy vehicles."
+        },
+        {
+          "element_id": "74_p8_e97",
+          "sequence_order": 97,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Encourage cutting edge technoloEY through adoption, adaptation, and research and  N.  development."
+        },
+        {
+          "element_id": "74_p8_e98",
+          "sequence_order": 98,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Improve transportation used by the common man for personal and goods transportation.  vi."
+        },
+        {
+          "element_id": "74_p8_e99",
+          "sequence_order": 99,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "Reduce pollution in state. The number of vehicles on the road will get reduced with the  introduction of modern shared t"
+        },
+        {
+          "element_id": "74_p8_e100",
+          "sequence_order": 100,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "e-rickshaws."
+        },
+        {
+          "element_id": "74_p8_e101",
+          "sequence_order": 101,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "vii.  Create EV manufacturing capacity that is of global scale and competitiveness."
+        }
+      ]
+    },
+    "11": {
+      "elements": 22,
+      "flagged": 22,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "74_p11_e102",
+          "sequence_order": 102,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "CHHATTISGARH STATE EV POLICY 2022"
+        },
+        {
+          "element_id": "74_p11_e103",
+          "sequence_order": 103,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "7.5.1  Structure of the SPV"
+        },
+        {
+          "element_id": "74_p11_e104",
+          "sequence_order": 104,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 34,
+          "text_preview": "The State level SPV will be established as a Limited Company under the Companies Act, 2013 and will be  promoted by the "
+        },
+        {
+          "element_id": "74_p11_e105",
+          "sequence_order": 105,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "To ensure financial sustainability of the SPV and availablity of funds for effective implementation of EV  policy in the"
+        },
+        {
+          "element_id": "74_p11_e106",
+          "sequence_order": 106,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "to majority shareholding being withheld by the State Government."
+        },
+        {
+          "element_id": "74_p11_e107",
+          "sequence_order": 107,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "7.5.2  Raising and utilization of funds by the Company (SPV)"
+        },
+        {
+          "element_id": "74_p11_e108",
+          "sequence_order": 108,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "The Steering Committee shall ensure that a dedicated and substantial revenue stream is made available"
+        },
+        {
+          "element_id": "74_p11_e109",
+          "sequence_order": 109,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "to the SPV so as to make it self-sustainable and could evolve its own credit worthiness for raising  additional resource"
+        },
+        {
+          "element_id": "74_p11_e110",
+          "sequence_order": 110,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "The funds given by the State Government to the SPV will be in the shape of tied grants and kept in a"
+        },
+        {
+          "element_id": "74_p11_e111",
+          "sequence_order": 111,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "separate Grant Fund. These funds will be utilized only for the purposes defined and subject to the  conditions laid down"
+        },
+        {
+          "element_id": "74_p11_e112",
+          "sequence_order": 112,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "The SPV will also access funds from other sources such as debt, user charges, taxes, surcharges, etc"
+        },
+        {
+          "element_id": "74_p11_e113",
+          "sequence_order": 113,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "7.5.3  Board of Directors"
+        },
+        {
+          "element_id": "74_p11_e114",
+          "sequence_order": 114,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 63,
+          "text_preview": "The Board of Directors will have representatives of State Government from all related departments and  Independent Direc"
+        },
+        {
+          "element_id": "74_p11_e115",
+          "sequence_order": 115,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "The Board of this Special Purpose Vehicle (SPV) shall be decided by the Steering Committee"
+        },
+        {
+          "element_id": "74_p11_e116",
+          "sequence_order": 116,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "Below, are given the broad terms of appointment and role of the SPV Board:"
+        },
+        {
+          "element_id": "74_p11_e117",
+          "sequence_order": 117,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "(a) Chairman may be nominated by State Government."
+        },
+        {
+          "element_id": "74_p11_e118",
+          "sequence_order": 118,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "(b) Transport Commissioner shall be the ex-officio Managing Director of the SPV."
+        },
+        {
+          "element_id": "74_p11_e119",
+          "sequence_order": 119,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "(c) The functions of the SPV include:"
+        },
+        {
+          "element_id": "74_p11_e120",
+          "sequence_order": 120,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "Overseeing and managing the general conduct of the day-to-day operations of the SPV  subject to the supervision and cont"
+        },
+        {
+          "element_id": "74_p11_e121",
+          "sequence_order": 121,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "Entering into contracts or arrangements for and on behalf of the Company in all matters  i.  within the ordinary course "
+        },
+        {
+          "element_id": "74_p11_e122",
+          "sequence_order": 122,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 34,
+          "text_preview": "To formulate and submit to the Board of Directors for approval a Human Resource Policy  that will lay down procedures fo"
+        },
+        {
+          "element_id": "74_p11_e123",
+          "sequence_order": 123,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "Recruitment and removal of the senior management of the Company and the creation of  new positions in accordance with th"
+        }
+      ]
+    },
+    "13": {
+      "elements": 16,
+      "flagged": 16,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "74_p13_e124",
+          "sequence_order": 124,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "CHHATTISGARH STATE EV POLICY 2022"
+        },
+        {
+          "element_id": "74_p13_e125",
+          "sequence_order": 125,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "Tip: year wise figures are for calculative purpose & time to time subject to changes."
+        },
+        {
+          "element_id": "74_p13_e126",
+          "sequence_order": 126,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "9. Legislative & Regulatory Context"
+        },
+        {
+          "element_id": "74_p13_e127",
+          "sequence_order": 127,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "9.1 LAWS, RULES AND REGULATIONS (CENTRAL)"
+        },
+        {
+          "element_id": "74_p13_e128",
+          "sequence_order": 128,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "i.  The Motor Vehicles Act, 1988 (Amended in 2019) including:"
+        },
+        {
+          "element_id": "74_p13_e129",
+          "sequence_order": 129,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 67,
+          "text_preview": "a. Central Govt. Notification (Ref: REGo. NO. D. L.-33004/99; No. 4142 dated 18h Oct 2018)  Exemption of Permit on elect"
+        },
+        {
+          "element_id": "74_p13_e130",
+          "sequence_order": 130,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "The Motor Vehicles Rules, 1989 (Including all amendments) including  ."
+        },
+        {
+          "element_id": "74_p13_e131",
+          "sequence_order": 131,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "a. Conversion of IC engine to electric engine as per Section 52, Central Motor Vehicle Rules"
+        },
+        {
+          "element_id": "74_p13_e132",
+          "sequence_order": 132,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 73,
+          "text_preview": "National Building Code, 2005  Draft Guidelines for Setting up, Authorization and Operation of Authorized Vehicle Scrappi"
+        },
+        {
+          "element_id": "74_p13_e133",
+          "sequence_order": 133,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": ".  I."
+        },
+        {
+          "element_id": "74_p13_e134",
+          "sequence_order": 134,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "vii.  vii."
+        },
+        {
+          "element_id": "74_p13_e135",
+          "sequence_order": 135,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "9.2 LAWS, RULES AND REGULATIONS (STATE)"
+        },
+        {
+          "element_id": "74_p13_e136",
+          "sequence_order": 136,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "Chhattisgarh Motor Vehicle Act, 1991  Chhattisgarh Motor Vehicle Taxation Rules, 1991  Chhattisgarh Motor Vehicles Rules"
+        },
+        {
+          "element_id": "74_p13_e137",
+          "sequence_order": 137,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": ".  vi."
+        },
+        {
+          "element_id": "74_p13_e138",
+          "sequence_order": 138,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "9.3OPERATIONAL CONTROLS/ GUIDELINES"
+        },
+        {
+          "element_id": "74_p13_e139",
+          "sequence_order": 139,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "Chhattisgarh State Electric Vehicle (EV) Policy 2022 and all applicable guidelines, circulars and any other  regulations"
+        }
+      ]
+    },
+    "14": {
+      "elements": 13,
+      "flagged": 13,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "74_p14_e140",
+          "sequence_order": 140,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "CHHATTISGARH STATE EV POLICY 2022"
+        },
+        {
+          "element_id": "74_p14_e141",
+          "sequence_order": 141,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "9.4 REVISION OF TRANSPORT REGULATIONS FOR EVS"
+        },
+        {
+          "element_id": "74_p14_e142",
+          "sequence_order": 142,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 70,
+          "text_preview": "All regulations below are applicable only for FCEVs (Fuel Cell Electric Vehicle) and BEVs (Battery  Electric Vehicle) us"
+        },
+        {
+          "element_id": "74_p14_e143",
+          "sequence_order": 143,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "1.  ii."
+        },
+        {
+          "element_id": "74_p14_e144",
+          "sequence_order": 144,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "V  All the aggregator service providers to mandatorily have at-least 30% of e-vehicles in their fleet.  Organizations wi"
+        },
+        {
+          "element_id": "74_p14_e145",
+          "sequence_order": 145,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 161,
+          "text_preview": "connectivity for their employees.  Registration will be allowed for 2 wheelers, 3-wheelers and 4-wheelers retrofitted wi"
+        },
+        {
+          "element_id": "74_p14_e146",
+          "sequence_order": 146,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "10  Scope & Eligibility"
+        },
+        {
+          "element_id": "74_p14_e147",
+          "sequence_order": 147,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "This Policy shall be applicable to all classes of Electric Vehicles including 2-wheelers, 3-wheelers,  passenger cars an"
+        },
+        {
+          "element_id": "74_p14_e148",
+          "sequence_order": 148,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "The Policy shall be applicable to all classes of electric vehicles that have taken subsidy under  2019, F. No 1(1)/2019-"
+        },
+        {
+          "element_id": "74_p14_e149",
+          "sequence_order": 149,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "ii.  the Government of India's FAME l  scheme  dated  8th March  and any amendments thereafter."
+        },
+        {
+          "element_id": "74_p14_e150",
+          "sequence_order": 150,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 34,
+          "text_preview": "charging station  applicable to  charging  standards  of the Ministry of Power Circular, dated  ii.  The incentives for "
+        },
+        {
+          "element_id": "74_p14_e151",
+          "sequence_order": 151,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "The policy encourages involvement of local people of Chhattisgarh including investors,  manufacturers, etc. to collabora"
+        },
+        {
+          "element_id": "74_p14_e152",
+          "sequence_order": 152,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "vehicles and setting of charging infrastructure in the State. This would be in line to the idea of  Central Government M"
+        }
+      ]
+    },
+    "15": {
+      "elements": 15,
+      "flagged": 15,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "74_p15_e153",
+          "sequence_order": 153,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "CHHATTISGARH STATE EV POLICY 2022"
+        },
+        {
+          "element_id": "74_p15_e154",
+          "sequence_order": 154,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "11  Driving Electric Vehicle Adoption"
+        },
+        {
+          "element_id": "74_p15_e155",
+          "sequence_order": 155,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "To drive large scale adoption of EVs and maximize reduction of vehicle emissions, this policy will  therefore focus atte"
+        },
+        {
+          "element_id": "74_p15_e156",
+          "sequence_order": 156,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "i.  incentivizing the purchase and use of electric vehicles (EV) and also supporting the  charging/battery swapping infr"
+        },
+        {
+          "element_id": "74_p15_e157",
+          "sequence_order": 157,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "ii.  Create a skilled workforce which is attuned to the needs of EV ecosystem and promote usage of  Electric Vehicle (EV"
+        },
+        {
+          "element_id": "74_p15_e158",
+          "sequence_order": 158,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "12  Incentives"
+        },
+        {
+          "element_id": "74_p15_e159",
+          "sequence_order": 159,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 45,
+          "text_preview": "In order to achieve large scale adoption of Electric Vehicles in the State and to maximize reduction of  vehicular pollu"
+        },
+        {
+          "element_id": "74_p15_e160",
+          "sequence_order": 160,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "12.1  PURCHASE INCENTIVES"
+        },
+        {
+          "element_id": "74_p15_e161",
+          "sequence_order": 161,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "The State Government shal provide capital subsidy with an objective of minimizing the viability gap  between an lCV and "
+        },
+        {
+          "element_id": "74_p15_e162",
+          "sequence_order": 162,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 37,
+          "text_preview": "a percentage of the EV's base cost (excluding all taxes). To avail the purchase incentives, the e-vehicles  shall have t"
+        },
+        {
+          "element_id": "74_p15_e163",
+          "sequence_order": 163,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 40,
+          "text_preview": "The State will support up to 10% of the cost of the vehicle (excluding tax) or Rs. 1.5 lacs whichever is  lower, for Pur"
+        },
+        {
+          "element_id": "74_p15_e164",
+          "sequence_order": 164,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 56,
+          "text_preview": "Vehicles sold and registered as fully electric vehicle will be eligible for purchase incentives. For vehicles  sold as h"
+        },
+        {
+          "element_id": "74_p15_e165",
+          "sequence_order": 165,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "Table 3: Copital subsidy (as % of Copital Cost, excluding taxes) of EVs in Chattisgarh up to 31\" Mar27"
+        },
+        {
+          "element_id": "74_p15_e166",
+          "sequence_order": 166,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "12.1.1 Additional Incentives for 2Ws/3Ws/4Ws"
+        },
+        {
+          "element_id": "74_p15_e167",
+          "sequence_order": 167,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 99,
+          "text_preview": "Government Departments/Offices, Public Sector Undertakings will give preference to hire  EVs for Official use and the ab"
+        }
+      ]
+    },
+    "17": {
+      "elements": 19,
+      "flagged": 19,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "74_p17_e168",
+          "sequence_order": 168,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "CHHATTISGARH STATE EV POLICY 2022"
+        },
+        {
+          "element_id": "74_p17_e169",
+          "sequence_order": 169,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "iv.  For extension of incentives to Battery Assembling Units, necessary provisions shall be made in"
+        },
+        {
+          "element_id": "74_p17_e170",
+          "sequence_order": 170,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "the MSME Policy"
+        },
+        {
+          "element_id": "74_p17_e171",
+          "sequence_order": 171,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Commerce & Industries Department of the Government of Chhattisgarh has notified the"
+        },
+        {
+          "element_id": "74_p17_e172",
+          "sequence_order": 172,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 63,
+          "text_preview": "\"Industrial Policy 2019-2024\" with a primary objective to build a self-reliant and ever  progressing economy in the Stat"
+        },
+        {
+          "element_id": "74_p17_e173",
+          "sequence_order": 173,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "EV sector."
+        },
+        {
+          "element_id": "74_p17_e174",
+          "sequence_order": 174,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 12,
+          "text_preview": "Government of Chhattisgarh will create platforms and programs for industry participation and"
+        },
+        {
+          "element_id": "74_p17_e175",
+          "sequence_order": 175,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "explore possibilities of entering into MoU with Lithium Cell Manufactures/ EV auto components  to start EV components an"
+        },
+        {
+          "element_id": "74_p17_e176",
+          "sequence_order": 176,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 48,
+          "text_preview": "vii.  Govt. shall allocate 500-1000 acres of land for developing EV Parks with plug and play internal  infrastructure, c"
+        },
+        {
+          "element_id": "74_p17_e177",
+          "sequence_order": 177,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 38,
+          "text_preview": "vii.  Developers of Auto Clusters and Automotive Suppliers Manufacturing Centers (ASMC) specific to  EVs shall be provid"
+        },
+        {
+          "element_id": "74_p17_e178",
+          "sequence_order": 178,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "ix.  Capital subsidy of Fixed Capital Investment (FCI) in the foBlowing amounts:"
+        },
+        {
+          "element_id": "74_p17_e179",
+          "sequence_order": 179,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "o  25% of FCI upto a maximum of INR 15 Lakhs for Micro industries"
+        },
+        {
+          "element_id": "74_p17_e180",
+          "sequence_order": 180,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "20% of FCI up to a maximum of INR 40 lakhs for Small and 50 lakhs for Medium  Industries"
+        },
+        {
+          "element_id": "74_p17_e181",
+          "sequence_order": 181,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "o  10% of FCI up to a maximum of INR 10 Crores for first two units, under Large industries,"
+        },
+        {
+          "element_id": "74_p17_e182",
+          "sequence_order": 182,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "in each segment of EV, battery and charging equipment"
+        },
+        {
+          "element_id": "74_p17_e183",
+          "sequence_order": 183,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "o  10% of FCI up to a maximum of INR 20 Crores for first two units, under Mega category,  in each segment of EV, battery"
+        },
+        {
+          "element_id": "74_p17_e184",
+          "sequence_order": 184,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "o  Additionally, special incentives will be given according to their need for Mega, Mega  Integrated automobile projects"
+        },
+        {
+          "element_id": "74_p17_e185",
+          "sequence_order": 185,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "Tax, stamp duty, tariff incentives and other policy support will be provided to attract private  investment in dedicated"
+        },
+        {
+          "element_id": "74_p17_e186",
+          "sequence_order": 186,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "vehicles in the long run"
+        }
+      ]
+    },
+    "18": {
+      "elements": 12,
+      "flagged": 12,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "74_p18_e187",
+          "sequence_order": 187,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "CHHATTISGARH STATE EV POLICY 2022"
+        },
+        {
+          "element_id": "74_p18_e188",
+          "sequence_order": 188,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "12 3  Incentives for Proliferatjon of Charging Infrastructure"
+        },
+        {
+          "element_id": "74_p18_e189",
+          "sequence_order": 189,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "Incentives provided through this section of the Policy shall be applicable  to charging  infrastructure as well as batte"
+        },
+        {
+          "element_id": "74_p18_e190",
+          "sequence_order": 190,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 41,
+          "text_preview": "The State Government shall promote charging infrastructure of different capacities (Levels 1, 2  and 3) and promote varl"
+        },
+        {
+          "element_id": "74_p18_e191",
+          "sequence_order": 191,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "All EV charging stations shall adhere to the protocols approved by the Government of India."
+        },
+        {
+          "element_id": "74_p18_e192",
+          "sequence_order": 192,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "iv.  Incentives shall also be provided on shift from thermal to renewable sources of energy.  12.3.1 Private Charging Po"
+        },
+        {
+          "element_id": "74_p18_e193",
+          "sequence_order": 193,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 48,
+          "text_preview": "The existing residential and non-residential building Owners shall be encouraged to install  private charging points wit"
+        },
+        {
+          "element_id": "74_p18_e194",
+          "sequence_order": 194,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 46,
+          "text_preview": "The customers under all the Electricity distribution Companies in the State shall purchase  Private Charging points with"
+        },
+        {
+          "element_id": "74_p18_e195",
+          "sequence_order": 195,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 94,
+          "text_preview": "Setting up charging stations and dedicated parking space for EVs in housing board/  residential welfare societies, publi"
+        },
+        {
+          "element_id": "74_p18_e196",
+          "sequence_order": 196,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "12.3.2 Public Charging Infrastructure:"
+        },
+        {
+          "element_id": "74_p18_e197",
+          "sequence_order": 197,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 82,
+          "text_preview": "Public &Private operators shall be invited to set up charging and battery swapping stations  across all the cities and a"
+        },
+        {
+          "element_id": "74_p18_e198",
+          "sequence_order": 198,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "RTO shall give NOC after taking permissions from various line departments certified by  Government from time to time. RT"
+        }
+      ]
+    },
+    "21": {
+      "elements": 21,
+      "flagged": 21,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "74_p21_e199",
+          "sequence_order": 199,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "CHHATTISGARH STATE EV POLICY 2022"
+        },
+        {
+          "element_id": "74_p21_e200",
+          "sequence_order": 200,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "The charging station operator can charge only service charge to the consumer and the ceiling"
+        },
+        {
+          "element_id": "74_p21_e201",
+          "sequence_order": 201,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "price of the service charge shall be fixed by Executive Committee and may amend from time to  vii."
+        },
+        {
+          "element_id": "74_p21_e202",
+          "sequence_order": 202,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "(To be modified as per State Govt laws"
+        },
+        {
+          "element_id": "74_p21_e203",
+          "sequence_order": 203,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "14.  Roadmap for use of Renewable EnerBY"
+        },
+        {
+          "element_id": "74_p21_e204",
+          "sequence_order": 204,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "The EV policy should clearly speak on the percentage increase of renewable energy over"
+        },
+        {
+          "element_id": "74_p21_e205",
+          "sequence_order": 205,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "conventional electric energy for the next 5-10 years."
+        },
+        {
+          "element_id": "74_p21_e206",
+          "sequence_order": 206,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "In order to reduce the burden of electrical load on the DISCOM and to promote renewable"
+        },
+        {
+          "element_id": "74_p21_e207",
+          "sequence_order": 207,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "energy (RE) power in charging stations, capital subsidy provisions may be introduced for"
+        },
+        {
+          "element_id": "74_p21_e208",
+          "sequence_order": 208,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "development of RE based charging infrastructure (setting up solar rooftop grid connected  plants). This will be helpful "
+        },
+        {
+          "element_id": "74_p21_e209",
+          "sequence_order": 209,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "places, housing societies, shopping malls, etc."
+        },
+        {
+          "element_id": "74_p21_e210",
+          "sequence_order": 210,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "l.  Existing policies on renewable energy to be linked with this policy"
+        },
+        {
+          "element_id": "74_p21_e211",
+          "sequence_order": 211,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "15.  RESEARCH AND INNOVATION  15."
+        },
+        {
+          "element_id": "74_p21_e212",
+          "sequence_order": 212,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "As EVs are still in their nascent stages of development and deployment, substantial research and"
+        },
+        {
+          "element_id": "74_p21_e213",
+          "sequence_order": 213,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "innovation is still envisioned in terms of development of technology, means of reducing costs,  deployment of innovative"
+        },
+        {
+          "element_id": "74_p21_e214",
+          "sequence_order": 214,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "research, development, innovation, pilots and incubation as follows:"
+        },
+        {
+          "element_id": "74_p21_e215",
+          "sequence_order": 215,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "Domains for Development: Ev technology is cross-cuting and consequently, the thrust is prescribed  in relevant domains i"
+        },
+        {
+          "element_id": "74_p21_e216",
+          "sequence_order": 216,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "integration as well as social engineering and consumer behavior."
+        },
+        {
+          "element_id": "74_p21_e217",
+          "sequence_order": 217,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 61,
+          "text_preview": "Vehicle to Grid Integration (VGI): In addition to basic mobility, EVs can provide value propositions  through VG. EVs ca"
+        },
+        {
+          "element_id": "74_p21_e218",
+          "sequence_order": 218,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 73,
+          "text_preview": "EV Components/ Equipment: While many companies have started assembling EVs in India, most of  ii.  its components are st"
+        },
+        {
+          "element_id": "74_p21_e219",
+          "sequence_order": 219,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "partnerships."
+        }
+      ]
+    },
+    "22": {
+      "elements": 10,
+      "flagged": 10,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "74_p22_e220",
+          "sequence_order": 220,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "CHHATTISGARH STATE EV POLICY 2022"
+        },
+        {
+          "element_id": "74_p22_e221",
+          "sequence_order": 221,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 66,
+          "text_preview": "Pilots and then large-scale deployment of EVs would result into extensive amounts of data related  to vehicle performanc"
+        },
+        {
+          "element_id": "74_p22_e222",
+          "sequence_order": 222,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 78,
+          "text_preview": "IT-Bhilai along with NIT Raipur shall be serving as a platform for research, innovation, testing,  piloting and capacity"
+        },
+        {
+          "element_id": "74_p22_e223",
+          "sequence_order": 223,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "IM Raipur shall be the think tank for identification, assessment and implementation of revenue"
+        },
+        {
+          "element_id": "74_p22_e224",
+          "sequence_order": 224,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "generation streams through deployment of e-vehicles in the State. This would also include active  participation in forma"
+        },
+        {
+          "element_id": "74_p22_e225",
+          "sequence_order": 225,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "16.  Convergence"
+        },
+        {
+          "element_id": "74_p22_e226",
+          "sequence_order": 226,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 39,
+          "text_preview": "The National Electric Mobility Mission Plan (NEMMP)-2020 and the Faster Adoption and  Manufacturing of (Hybrid &) Electr"
+        },
+        {
+          "element_id": "74_p22_e227",
+          "sequence_order": 227,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 59,
+          "text_preview": "NEMPP and FAME primarily focus on four areas viz. (a) technology development, (b) demand  creation, (c) pilot projects a"
+        },
+        {
+          "element_id": "74_p22_e228",
+          "sequence_order": 228,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 43,
+          "text_preview": "As indicated in Section 13, the electricity tariff for EV Charging Stations shall be applicable to  similar category of "
+        },
+        {
+          "element_id": "74_p22_e229",
+          "sequence_order": 229,
+          "page_number": 22,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "As indicated in Section 12, all incentives for manufacturing of EVs and their components shall be  as per the provisions"
+        }
+      ]
+    },
+    "24": {
+      "elements": 22,
+      "flagged": 22,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "74_p24_e230",
+          "sequence_order": 230,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "CHHATTISGARH STATE EV POLICY 2022"
+        },
+        {
+          "element_id": "74_p24_e231",
+          "sequence_order": 231,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "18.2  END-OF-LIFE BATTERY AND EV RECYCLING"
+        },
+        {
+          "element_id": "74_p24_e232",
+          "sequence_order": 232,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "End-of-life battery and EV recycling shall be governed by Battery Management and Handling Rules, 2001  released by Minis"
+        },
+        {
+          "element_id": "74_p24_e233",
+          "sequence_order": 233,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "19  Electric Mobility Safety Guidelines (Safety Norms)"
+        },
+        {
+          "element_id": "74_p24_e234",
+          "sequence_order": 234,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "i.  Workplace Safety"
+        },
+        {
+          "element_id": "74_p24_e235",
+          "sequence_order": 235,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "a.  During Maintenance of electrical and undercarriage components"
+        },
+        {
+          "element_id": "74_p24_e236",
+          "sequence_order": 236,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "b.  During Charging ( Depot, Terminal and On the move)"
+        },
+        {
+          "element_id": "74_p24_e237",
+          "sequence_order": 237,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "C.  During Washing, Cleaning and Body Repair"
+        },
+        {
+          "element_id": "74_p24_e238",
+          "sequence_order": 238,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "d. Battery Handling (Swapping, replacing)"
+        },
+        {
+          "element_id": "74_p24_e239",
+          "sequence_order": 239,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "i.  On Vehicle Safety"
+        },
+        {
+          "element_id": "74_p24_e240",
+          "sequence_order": 240,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "a.  Fire Detection and Suppression"
+        },
+        {
+          "element_id": "74_p24_e241",
+          "sequence_order": 241,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "b. Crew Responsibility and Guidelines"
+        },
+        {
+          "element_id": "74_p24_e242",
+          "sequence_order": 242,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "c.  Do's and Don'ts for passengers"
+        },
+        {
+          "element_id": "74_p24_e243",
+          "sequence_order": 243,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "ii.  Consumer Safety- Residential, Commercial/ Public Use and Industrial"
+        },
+        {
+          "element_id": "74_p24_e244",
+          "sequence_order": 244,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "20.  EV State Fund"
+        },
+        {
+          "element_id": "74_p24_e245",
+          "sequence_order": 245,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "i.  Cess on one time tax on motorized vehicles."
+        },
+        {
+          "element_id": "74_p24_e246",
+          "sequence_order": 246,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "ii.  Cess in the form of Green Tax imposed on registration of old and new vehicles"
+        },
+        {
+          "element_id": "74_p24_e247",
+          "sequence_order": 247,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "ii.  The funds from Central or State Govt."
+        },
+        {
+          "element_id": "74_p24_e248",
+          "sequence_order": 248,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "iv.  The funds received from industries to carry out social responsibilities."
+        },
+        {
+          "element_id": "74_p24_e249",
+          "sequence_order": 249,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Advertising rights funds generated through charging stations  V."
+        },
+        {
+          "element_id": "74_p24_e250",
+          "sequence_order": 250,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "vi.  Cess from Polluting Industry/ Trade-off from Carbon Credits"
+        },
+        {
+          "element_id": "74_p24_e251",
+          "sequence_order": 251,
+          "page_number": 24,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "vii.  Any other fund to be decided time to time for this purpose."
+        }
+      ]
+    },
+    "25": {
+      "elements": 13,
+      "flagged": 13,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "74_p25_e252",
+          "sequence_order": 252,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "CHHATTISGARH STATE EV POLICY 2022"
+        },
+        {
+          "element_id": "74_p25_e253",
+          "sequence_order": 253,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "21  Policy Review Calibrating/ Refining/ Course Correction"
+        },
+        {
+          "element_id": "74_p25_e254",
+          "sequence_order": 254,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "State Government may undertake a review of this policy every year or as and when the need arises in"
+        },
+        {
+          "element_id": "74_p25_e255",
+          "sequence_order": 255,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "view of any technological breakthrough or to remove any difficulties or inconsistency with respect to"
+        },
+        {
+          "element_id": "74_p25_e256",
+          "sequence_order": 256,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "any other State Govt. policy and smooth implementation of EV policy. Various initiatives for calibration,"
+        },
+        {
+          "element_id": "74_p25_e257",
+          "sequence_order": 257,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "refining or course correction of the EV policy could include"
+        },
+        {
+          "element_id": "74_p25_e258",
+          "sequence_order": 258,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "a.  City Challenge Programs  b.  Most Sustainable EV Platforms  C.  Combination of favorable new energy vehicle treatmen"
+        },
+        {
+          "element_id": "74_p25_e259",
+          "sequence_order": 259,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "control policies prompting a rush of new energY vehicle buying"
+        },
+        {
+          "element_id": "74_p25_e260",
+          "sequence_order": 260,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "22  Power to Issue & Interpret"
+        },
+        {
+          "element_id": "74_p25_e261",
+          "sequence_order": 261,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "If there is any confusion or dispute about the meaning, intent or purpose of any provision of this Policy,  the interpre"
+        },
+        {
+          "element_id": "74_p25_e262",
+          "sequence_order": 262,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "binding to all concerned."
+        },
+        {
+          "element_id": "74_p25_e263",
+          "sequence_order": 263,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "This \"Policy\" shall mean this Chattisgarh State Electric Vehicle Policy 2022 notified by the Government  of Chhattisgarh"
+        },
+        {
+          "element_id": "74_p25_e264",
+          "sequence_order": 264,
+          "page_number": 25,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "dated 26/08/2022."
+        }
+      ]
+    }
+  }
+}
