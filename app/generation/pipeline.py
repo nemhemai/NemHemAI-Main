@@ -206,6 +206,81 @@ def generate_answer(llm, query, chunks, query_lang="en"):
     return response
 
 
+def generate_answer_stream(llm, query, chunks, query_lang="en"):
+    import json
+    query_analysis = analyze_query(query)
+
+    if not chunks:
+        yield json.dumps({
+            "type": "error",
+            "content": "No relevant information found",
+            "citations": []
+        }) + "\n"
+        return
+
+    scored_chunks = []
+    for c in chunks:
+        score = query_overlap_score(c.get("text", ""), query)
+        c["_overlap_score"] = score
+        scored_chunks.append(c)
+
+    filtered = [c for c in scored_chunks if c["_overlap_score"] >= 0.4]
+    if not filtered:
+        filtered = scored_chunks
+
+    chunks = filtered
+    chunks.sort(key=lambda x: x["_overlap_score"], reverse=True)
+    chunks = chunks[:4]
+    
+    from app.core.database import get_db_conn, release_db_conn
+    conn = get_db_conn()
+    try:
+        chunks = attach_file_names(conn, chunks)
+    finally:
+        release_db_conn(conn)
+
+    context = build_context(chunks, query_analysis)
+    prompt = build_prompt(query, context, query_analysis)
+    system_prompt = get_system_prompt(query_analysis)
+
+    citations = build_citations(chunks, list(range(1, len(chunks) + 1)))
+
+    # First yield the metadata/citations so UI can render the right panel immediately
+    yield json.dumps({
+        "type": "metadata",
+        "citations": citations[:3],
+        "confidence": "high",
+        "query_analysis": query_analysis
+    }) + "\n"
+
+    try:
+        stream_generator = llm.create_chat_completion(
+            messages=[
+                {"role": "system", "content": system_prompt},
+                {"role": "user",   "content": prompt}
+            ],
+            temperature=0.0,
+            max_tokens=512,
+            top_p=1.0,
+            top_k=1,
+            repeat_penalty=1.2,
+            stream=True
+        )
+
+        for text_chunk in stream_generator:
+            yield json.dumps({
+                "type": "chunk",
+                "content": text_chunk
+            }) + "\n"
+
+    except Exception as e:
+        yield json.dumps({
+            "type": "error",
+            "content": f" Error generating answer: {str(e)}"
+        }) + "\n"
+
+
+
 def attach_file_names(conn, chunks):
     """
     Ensure each chunk has file_name using document_id lookup.

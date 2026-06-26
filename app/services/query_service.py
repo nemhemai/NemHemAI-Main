@@ -4,7 +4,7 @@ import os
 os.environ["LLAMA_CPP_LOG_LEVEL"] = "ERROR"
 from app.core.database import get_db_conn, release_db_conn
 from app.retrieval.retriever import HybridRetriever
-from app.generation.pipeline import generate_answer
+from app.generation.pipeline import generate_answer, generate_answer_stream
 from app.generation.query_analyzer import detect_language   # ✅ NEW IMPORT
 from app.services.ollama_service import get_ollama_llm
 import threading
@@ -283,7 +283,6 @@ def run_query(query: str, user: dict) -> dict:
         query_cache.set(query, response, expire_seconds=3600)
 
         return response
-
     except Exception as e:
         latency = int((time.time() - start_time) * 1000)
         log_query_event({
@@ -310,3 +309,64 @@ def run_query(query: str, user: dict) -> dict:
 
     finally:
         release_db_conn(conn)
+
+
+def run_query_stream(query: str, user: dict):
+    import json
+    import time
+    from app.memory.redis_cache import query_cache
+
+    start_time = time.time()
+
+    if not query or not query.strip():
+        yield json.dumps({
+            "type": "error",
+            "content": "Empty query",
+            "citations": []
+        }) + "\n"
+        return
+
+    conn = get_db_conn()
+    retriever = HybridRetriever()
+
+    if USE_OLLAMA:
+        llm = get_ollama_llm()
+    else:
+        llm = get_llm()
+
+    try:
+        # 🔍 Step 1: Retrieval
+        chunks = retriever.retrieve(conn, query, use_rerank=False)
+        
+        if not chunks:
+            is_ood = True
+        else:
+            top_score = chunks[0].get("final_score", 0)
+            is_ood = top_score < MIN_SCORE
+
+        if is_ood:
+            response_text = _get_ood_message(query)
+            yield json.dumps({
+                "type": "metadata",
+                "citations": [],
+                "confidence": "low",
+                "query_analysis": {"query_type": "unknown"}
+            }) + "\n"
+            yield json.dumps({
+                "type": "chunk",
+                "content": response_text
+            }) + "\n"
+            return
+
+        # 🧠 Step 2: Generation (Streaming)
+        stream = generate_answer_stream(llm, query, chunks)
+        for chunk_str in stream:
+            yield chunk_str
+
+    except Exception as e:
+        yield json.dumps({
+            "type": "error",
+            "content": f" Error generating answer: {str(e)}"
+        }) + "\n"
+    finally:
+        release_db_conn(conn)

@@ -7,10 +7,12 @@ class OllamaLLM:
 
     def create_chat_completion(self, messages, temperature=0.0, max_tokens=256, format=None, **kwargs):
         try:
+            stream = kwargs.get("stream", False)
             response = ollama.chat(
                 model=self.model,
                 messages=messages,
                 format=format,
+                stream=stream,
                 options={
                     "temperature": temperature,
                     "num_predict": max_tokens,
@@ -18,6 +20,13 @@ class OllamaLLM:
                     "repeat_penalty": kwargs.get("repeat_penalty", 1.1),
                 }
             )
+
+            if stream:
+                def generator():
+                    for chunk in response:
+                        if "message" in chunk and "content" in chunk["message"]:
+                            yield chunk["message"]["content"]
+                return generator()
 
             return {
                 "choices": [

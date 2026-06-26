@@ -6,6 +6,7 @@ function QueryDashboard() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState("");
   const [result, setResult] = useState(null);
+  const [isGenerating, setIsGenerating] = useState(false);
 
   const handleSubmit = async () => {
     if (!query.trim()) {
@@ -14,17 +15,79 @@ function QueryDashboard() {
     }
 
     setLoading(true);
+    setIsGenerating(false);
     setError("");
-    setResult(null);
+    setResult({ answer_original: "", citations: [], confidence: "" }); // Initialize empty result for streaming
 
     try {
-      const res = await authAxios.post("/api/v1/query/query", { query });
-      setResult(res.data);
+      // Get token from localStorage to authenticate fetch
+      const token = localStorage.getItem("token");
+      const response = await fetch("http://127.0.0.1:8000/api/v1/query/query/stream", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          "Authorization": `Bearer ${token}`
+        },
+        body: JSON.stringify({ query }),
+      });
+
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+
+      const reader = response.body.getReader();
+      const decoder = new TextDecoder("utf-8");
+      let done = false;
+      let streamedText = "";
+      let metadataSet = false;
+
+      // We no longer need the loading spinner for generating because it streams instantly
+      setLoading(false);
+      setIsGenerating(true);
+
+      while (!done) {
+        const { value, done: readerDone } = await reader.read();
+        done = readerDone;
+
+        if (value) {
+          const chunkString = decoder.decode(value, { stream: true });
+          
+          // The backend yields JSON strings separated by \n
+          const parts = chunkString.split("\n");
+          for (let part of parts) {
+            if (!part.trim()) continue;
+            
+            try {
+              const parsed = JSON.parse(part);
+              
+              if (parsed.type === "metadata") {
+                setResult(prev => ({
+                  ...prev,
+                  citations: parsed.citations || [],
+                  confidence: parsed.confidence || ""
+                }));
+                metadataSet = true;
+              } else if (parsed.type === "chunk") {
+                streamedText += parsed.content;
+                setResult(prev => ({
+                  ...prev,
+                  answer_original: streamedText
+                }));
+              } else if (parsed.type === "error") {
+                setError(parsed.content);
+              }
+            } catch (e) {
+              console.warn("Failed to parse chunk:", part, e);
+            }
+          }
+        }
+      }
     } catch (err) {
-      const msg = err.response?.data?.detail || "Query failed";
-      setError(msg);
+      console.error(err);
+      setError(err.message || "Query failed");
     } finally {
       setLoading(false);
+      setIsGenerating(false);
     }
   };
 
@@ -77,7 +140,13 @@ function QueryDashboard() {
                 </p>
 
                 <p style={styles.answerText}>
-                  {result.answer_original}
+                  {result.answer_original ? (
+                    result.answer_original
+                  ) : (
+                    <span style={{ color: "#6b7280", fontStyle: "italic", display: "inline-block", animation: "pulse 1.5s infinite" }}>
+                      ⏳ Analyzing context and generating answer...
+                    </span>
+                  )}
                 </p>
 
                 <div style={styles.confidence}>
@@ -96,13 +165,20 @@ function QueryDashboard() {
             <div style={styles.citationsCard}>
               <h3>📚 Supporting Evidence</h3>
 
-              {!result && (
+              {!result && !loading && !isGenerating && (
                 <p style={styles.noData}>
                   Your citations will appear here
                 </p>
               )}
 
-              {result &&
+              {isGenerating && (
+                <div style={{ padding: "20px", textAlign: "center", color: "#6b7280" }}>
+                   <span style={{ display: "inline-block", animation: "pulse 1.5s infinite", fontSize: "24px" }}>⏳</span>
+                   <p style={{ marginTop: "10px", fontSize: "13px" }}>Collating and verifying sources...</p>
+                </div>
+              )}
+
+              {result && !isGenerating &&
                 result.citations.map((c, idx) => {
                   console.log("CITATION OBJECT:", c);
 
