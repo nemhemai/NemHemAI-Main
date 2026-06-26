@@ -49,6 +49,9 @@ from __future__ import annotations
 import logging
 import re
 from typing import Any
+from concurrent.futures import ThreadPoolExecutor
+from app.core.database import get_db_conn, release_db_conn
+
 from app.retrieval.query_expansion import expand_query
 from app.retrieval.document_router import route_documents, get_doc_type
 
@@ -57,6 +60,7 @@ import numpy as np
 
 from app.embedding.embedding_engine import  EmbeddingEngine as ChunkEmbedder
 from app.retrieval.query_expansion import detect_query_type
+from app.memory.redis_cache import retrieval_cache
 
 # ──────────────────────────────────────────────────────────────────────────────
 # MODULAR IMPORTS (UPDATED FOR NEW ARCHITECTURE)
@@ -149,6 +153,16 @@ class HybridRetriever:
         # ── Step 0: Detect query intent ────────────────────────────────────────
         query_type = detect_query_type(query)
         
+        # ── Step 0.5: Check Retrieval Cache ────────────────────────────────────
+        # Only use cache for global searches (no specific document filtering)
+        # and standard queries.
+        if document_id is None and not sparse_only:
+            cached_chunks = retrieval_cache.get(query, query_type)
+            if cached_chunks:
+                logger.info(f"Retrieval Cache HIT for query: '{query}'")
+                # Apply top_k cut
+                return cached_chunks[:top_k]
+        
         expanded_query = expand_query(query, query_type)
         print("Original Query:", query)
         print("Expanded Query:", expanded_query)
@@ -162,36 +176,52 @@ class HybridRetriever:
         else:
             query_dense, query_sparse = None, {}
         
-        # ── Step 2: Dense search ───────────────────────────────────────────────
-        if not sparse_only:
-            dense_results = dense_search(
-                conn, query_dense,
-                top_n=DENSE_CANDIDATES,
-                document_id=document_id,
-                filters=filters,
-            )
-        else:
-            dense_results = []
+        # ── Step 2 & 3: Concurrent Dense & Sparse Search ────────────────────────
+        dense_results = []
+        sparse_results = []
+
+        def run_dense():
+            if sparse_only:
+                return []
+            local_conn = get_db_conn()
+            try:
+                return dense_search(
+                    local_conn, query_dense,
+                    top_n=DENSE_CANDIDATES,
+                    document_id=document_id,
+                    filters=filters,
+                )
+            finally:
+                release_db_conn(local_conn)
+
+        def run_sparse():
+            local_conn = get_db_conn()
+            try:
+                return sparse_search(
+                    local_conn, expanded_query, query_sparse,
+                    top_n=SPARSE_CANDIDATES,
+                    document_id=document_id,
+                    filters=filters,
+                )
+            finally:
+                release_db_conn(local_conn)
+
+        with ThreadPoolExecutor(max_workers=2) as executor:
+            future_dense = executor.submit(run_dense)
+            future_sparse = executor.submit(run_sparse)
             
+            dense_results = future_dense.result()
+            sparse_results = future_sparse.result()
+
         dense_scores:  dict[str, float] = {r["chunk_id"]: r["dense_score"] for r in dense_results}
         dense_ranked:  list[str]        = [r["chunk_id"] for r in dense_results]
-
         logger.debug(f"Dense search: {len(dense_results)} candidates")
-        
 
-        # ── Step 3: Sparse search ──────────────────────────────────────────────
-        sparse_results = sparse_search(
-            conn, expanded_query, query_sparse,
-            top_n=SPARSE_CANDIDATES,
-            document_id=document_id,
-            filters=filters,
-        )
         sparse_scores: dict[str, float] = {
             r["chunk_id"]: r.get("sparse_score", r.get("fts_score", 0.0))
             for r in sparse_results
         }
         sparse_ranked: list[str] = [r["chunk_id"] for r in sparse_results]
-
         logger.debug(f"Sparse search: {len(sparse_results)} candidates")
         
         # ─────────────────────────────────────────
@@ -224,29 +254,48 @@ class HybridRetriever:
             rrf_ranked.sort(key=lambda x: x[1], reverse=True)
             rrf_scores = sparse_scores
 
-        # Take top RERANK_CANDIDATES for reranking
-        top_ids = [cid for cid, _ in rrf_ranked[:RERANK_CANDIDATES]]
-
-        logger.debug(f"Fusion/Selection: {len(rrf_ranked)} unique candidates, top-{RERANK_CANDIDATES} selected")
+        # Take top RERANK_CANDIDATES for initial reranking batch
+        initial_ids = [cid for cid, _ in rrf_ranked[:RERANK_CANDIDATES]]
+        
+        logger.debug(f"Fusion/Selection: {len(rrf_ranked)} unique candidates, initial {len(initial_ids)} selected")
 
         # ── Step 5: Hydrate chunk records ──────────────────────────────────────
         all_known: dict[str, dict] = {}
         for r in dense_results + sparse_results:
             all_known[r["chunk_id"]] = r
 
-        chunk_map = hydrate_chunks(conn, [cid for cid in top_ids if cid not in all_known])
+        chunk_map = hydrate_chunks(conn, [cid for cid in initial_ids if cid not in all_known])
         all_known.update(chunk_map)
 
         # ── Step 6: ColBERT reranking (MODULARIZED) ────────────────────────────
-        top_chunks = [all_known[cid] for cid in top_ids if cid in all_known]
+        top_chunks = [all_known[cid] for cid in initial_ids if cid in all_known]
         rerank_scores: dict[str, float] = {}
 
         if use_rerank and not sparse_only and top_chunks:
-            rerank_scores = rerank_chunks(
-                self._embedder,
-                query,
-                top_chunks,
-            )
+            # Stage 1: Rerank the initial batch
+            rerank_scores = rerank_chunks(self._embedder, query, top_chunks)
+            
+            # OOD Fallback Check
+            OOD_THRESHOLD = 0.15
+            max_score = max(rerank_scores.values()) if rerank_scores else 0.0
+            
+            if max_score < OOD_THRESHOLD and len(rrf_ranked) > RERANK_CANDIDATES:
+                logger.info(f"OOD Fallback Triggered (max score {max_score:.3f} < {OOD_THRESHOLD}). Fetching next batch.")
+                
+                # Fetch next batch (e.g., next 10 candidates)
+                fallback_limit = RERANK_CANDIDATES + 10
+                fallback_ids = [cid for cid, _ in rrf_ranked[RERANK_CANDIDATES:fallback_limit]]
+                
+                # Hydrate fallback batch
+                chunk_map_fallback = hydrate_chunks(conn, [cid for cid in fallback_ids if cid not in all_known])
+                all_known.update(chunk_map_fallback)
+                
+                fallback_chunks = [all_known[cid] for cid in fallback_ids if cid in all_known]
+                top_chunks.extend(fallback_chunks)
+                
+                # Rerank fallback batch
+                fallback_scores = rerank_chunks(self._embedder, query, fallback_chunks)
+                rerank_scores.update(fallback_scores)
 
         # ── Step 7: Assemble final results ─────────────────────────────────────
         results: list[dict] = []
@@ -369,6 +418,12 @@ class HybridRetriever:
             f"Retrieval complete: query='{query[:100]}' → "
             f"{len(final)} results (doc={document_id}, rerank={use_rerank})"
         )
+
+        # ── Step 8: Update Retrieval Cache ─────────────────────────────────────
+        if document_id is None and not sparse_only:
+            # Cache the full sorted results (before top_k cut if you want, or just final)
+            # We'll cache `results` so top_k can be dynamic, but `final` is also fine.
+            retrieval_cache.set(query, query_type, results)
 
         return final
 

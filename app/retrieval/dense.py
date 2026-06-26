@@ -108,6 +108,8 @@ def dense_search(
 
     try:
         with conn.cursor() as cur:
+            # Optimize HNSW query recall before executing search
+            cur.execute("SET hnsw.ef_search = 128;")
             cur.execute(query, final_params)
             rows = cur.fetchall()
             cols = [d[0] for d in cur.description]

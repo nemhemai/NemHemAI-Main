@@ -12,6 +12,7 @@ latency = time.time() - start_time
 
 print(f"\nLatency: {latency:.4f} seconds")
 print(f"Confidence: {result.get('confidence')}")
+print(f"\n=== ANSWER ===\n{result.get('answer_original')}\n==============")
 if result.get('citations'):
     print(f"Top citation: {result['citations'][0].get('text', '')[:100]}...")
 else:

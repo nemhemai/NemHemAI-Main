@@ -54,3 +54,44 @@ class RedisQueryCache:
 
 # Singleton cache instance
 query_cache = RedisQueryCache()
+
+import hashlib
+
+class RedisRetrievalCache:
+    """
+    Caches the retrieved and reranked chunks for a query + intent to bypass database and ColBERT.
+    """
+    def __init__(self):
+        try:
+            self.client = redis.from_url(REDIS_URL, decode_responses=True)
+            self.client.ping()
+        except redis.ConnectionError:
+            self.client = None
+
+    def _get_key(self, query: str, query_type: str) -> str:
+        normalized = " ".join(query.strip().lower().split())
+        query_hash = hashlib.sha256(normalized.encode('utf-8')).hexdigest()
+        return f"retrieval_cache:{query_type}:{query_hash}"
+
+    def get(self, query: str, query_type: str) -> Optional[list[dict]]:
+        if not self.client:
+            return None
+        key = self._get_key(query, query_type)
+        try:
+            cached_val = self.client.get(key)
+            if cached_val:
+                return json.loads(cached_val)
+        except Exception as e:
+            print(f"Error reading from Redis retrieval cache: {e}")
+        return None
+
+    def set(self, query: str, query_type: str, chunks: list[dict], expire_hours: int = 24) -> None:
+        if not self.client:
+            return
+        key = self._get_key(query, query_type)
+        try:
+            self.client.set(key, json.dumps(chunks), ex=expire_hours * 3600)
+        except Exception as e:
+            print(f"Error writing to Redis retrieval cache: {e}")
+
+retrieval_cache = RedisRetrievalCache()

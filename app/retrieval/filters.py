@@ -5,9 +5,9 @@
 # ──────────────────────────────────────────────────────────────────────────────
 
 RRF_K              = 60     # RRF constant — larger K = less aggressive rank fusion
-DENSE_CANDIDATES   = 50     # pgvector top-N before fusion
-SPARSE_CANDIDATES  = 50     # FTS top-N before fusion
-RERANK_CANDIDATES  = 15     # RRF top-N sent to ColBERT reranker
+DENSE_CANDIDATES   = 20     # pgvector top-N before fusion
+SPARSE_CANDIDATES  = 20     # FTS top-N before fusion
+RERANK_CANDIDATES  = 10     # initial batch size sent to ColBERT reranker
 DEFAULT_TOP_K      = 10     # final results returned to caller
 MIN_QUALITY_FILTER = 0.50   # skip chunks below this quality at retrieval time
 
