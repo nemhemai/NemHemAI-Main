@@ -366,7 +366,7 @@ def extract_profile(raw_query: str) -> dict[str, Any]:
         "has_bank_account": _extract_optional_bool(text, "has_bank_account", ("bank account", "bank")),
         "has_vending_certificate": _extract_optional_bool(text, "has_vending_certificate", ("vending certificate", "certificate of vending")),
         "has_ulb_recommendation": _extract_optional_bool(text, "has_ulb_recommendation", ("ulb recommendation", "tvc recommendation", "letter from ulb")),
-        "has_pucca_house": False if _contains_any(text, ("no pucca", "without pucca", "does not own pucca", "kutcha")) else None,
+        "has_pucca_house": _extract_optional_bool(text, "has_pucca_house", ("pucca house", "pukka house")) if _extract_optional_bool(text, "has_pucca_house", ("pucca house", "pukka house")) is not None else (False if _contains_any(text, ("no pucca", "without pucca", "does not own pucca", "kutcha")) else None),
         "is_govt_employee": True if _contains_any(text, ("government employee", "govt employee")) else None,
         "pays_income_tax": True if _contains_any(text, ("income tax payer", "pays income tax", "pay income tax")) else None,
         "owns_motorized_vehicle": True if _contains_any(text, ("motorized vehicle", "motorised vehicle", "four wheeler")) else None,
@@ -1645,36 +1645,36 @@ def update_llm_explanation_async(
                 from app.agents.gaca.schemas import GovernanceEventIn, AIMetadataIn
                 from app.agents.gaca.workflow import process_event
 
-                # Create the event payload based on the generated determination
-                top_scheme = det.get("schemes", [{}])[0]
-                
-                event = GovernanceEventIn(
-                    event_type="eligibility_decision",
-                    responsible_agent="entitlement",
-                    citizen_id=str(citizen_id) if citizen_id else "anonymous",
-                    decision_id=query_id,
-                    application_id=query_id,
-                    scheme_id=top_scheme.get("scheme_name", "UNKNOWN_SCHEME"),
-                    decision_type="entitlement_screening",
-                    decision_result=eligibility_status,
-                    confidence_score=confidence,
-                    policy_id=top_scheme.get("scheme_name", "UNKNOWN"),
-                    profile_snapshot=profile,
-                    retrieved_context={"citations": policy_citations},
-                    required_documents=required_documents,
-                    ai_metadata=AIMetadataIn(
-                        llm="qwen-or-gemini",
-                        generated_response=llm_formatted,
-                        confidence_score=confidence
-                    )
-                )
-                
-                # Get a SQLAlchemy session
                 db_gen = get_db()
                 db_session = next(db_gen)
                 try:
-                    process_event(db_session, event)
-                    logger.info("GACA Audit logged for decision_id %s", query_id)
+                    # Create GACA event for top 3 schemes individually
+                    for scheme_item in det.get("schemes", [])[:3]:
+                        scheme_name = scheme_item.get("scheme_name", "UNKNOWN_SCHEME")
+                        scheme_decision_id = f"{query_id}_{scheme_name}"
+                        
+                        event = GovernanceEventIn(
+                            event_type="eligibility_decision",
+                            responsible_agent="entitlement",
+                            citizen_id=str(citizen_id) if citizen_id else "anonymous",
+                            decision_id=scheme_decision_id,
+                            application_id=query_id,
+                            scheme_id=scheme_name,
+                            decision_type="entitlement_screening",
+                            decision_result=scheme_item.get("verdict", eligibility_status),
+                            confidence_score=confidence,
+                            policy_id=scheme_name,
+                            profile_snapshot=profile,
+                            retrieved_context={"citations": scheme_item.get("citations", [])},
+                            required_documents=scheme_item.get("required_documents", []),
+                            ai_metadata=AIMetadataIn(
+                                llm="qwen-or-gemini",
+                                generated_response=scheme_item.get("explanation", {}).get("reasoning", llm_formatted),
+                                confidence_score=confidence
+                            )
+                        )
+                        process_event(db_session, event)
+                        logger.info("GACA Audit logged for decision_id %s", scheme_decision_id)
                 finally:
                     db_session.close()
             except Exception as e:

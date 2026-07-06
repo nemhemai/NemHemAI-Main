@@ -1,0 +1,890 @@
+{
+  "document_id": 87,
+  "pages": {
+    "1": {
+      "elements": 11,
+      "flagged": 11,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "87_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "INDIAN RAILWAYS"
+        },
+        {
+          "element_id": "87_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "(Open Lines)"
+        },
+        {
+          "element_id": "87_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "GENERAL RULES (1976)"
+        },
+        {
+          "element_id": "87_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "together with the"
+        },
+        {
+          "element_id": "87_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "SUBSIDIARY RULES AND APPENDIX"
+        },
+        {
+          "element_id": "87_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "SOUTHERN RAILWAY"
+        },
+        {
+          "element_id": "87_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Code: G.R.S"
+        },
+        {
+          "element_id": "87_p1_e7",
+          "sequence_order": 7,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Reprinted in 2018"
+        },
+        {
+          "element_id": "87_p1_e8",
+          "sequence_order": 8,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Incorporating"
+        },
+        {
+          "element_id": "87_p1_e9",
+          "sequence_order": 9,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Correction Memos issued upto No.05/2023 dated 08.09.2023"
+        },
+        {
+          "element_id": "87_p1_e10",
+          "sequence_order": 10,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "(For the guidance of Railway Servants)"
+        }
+      ]
+    },
+    "2": {
+      "elements": 9,
+      "flagged": 9,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "87_p2_e11",
+          "sequence_order": 11,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "PREFACE"
+        },
+        {
+          "element_id": "87_p2_e12",
+          "sequence_order": 12,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "1. The General Rules for Indian Railways (Open Lines) 1976 together with the"
+        },
+        {
+          "element_id": "87_p2_e13",
+          "sequence_order": 13,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "Subsidiary Rules of the Southern Railway are herewith published for the guidance  of the staff.    2. (a) The General Ru"
+        },
+        {
+          "element_id": "87_p2_e14",
+          "sequence_order": 14,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 67,
+          "text_preview": "Smaller type and are further distinguished by prefixing letters S.R.    (b) The Subsidiary Rules are not serially number"
+        },
+        {
+          "element_id": "87_p2_e15",
+          "sequence_order": 15,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 50,
+          "text_preview": "175 of the Railways Act, 1989 (Act No.24 of 1989) to obey the Subsidiary Rules,  Special Instructions, General Rules and"
+        },
+        {
+          "element_id": "87_p2_e16",
+          "sequence_order": 16,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 53,
+          "text_preview": "issued to a Railway servant shall be retained by him throughout his service. All  alterations or corrections that may be"
+        },
+        {
+          "element_id": "87_p2_e17",
+          "sequence_order": 17,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "on his leaving service.    6. Should any order not be fully understood by any railway servant, he should refer to"
+        },
+        {
+          "element_id": "87_p2_e18",
+          "sequence_order": 18,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "his immediate superior for clarification.    7. No order contained in this book shall be varied, superseded or suspended"
+        },
+        {
+          "element_id": "87_p2_e19",
+          "sequence_order": 19,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 65,
+          "text_preview": "under the express authority of the Principal Chief Operations Manager in writing,  and no railway servant of the Adminis"
+        }
+      ]
+    },
+    "3": {
+      "elements": 4,
+      "flagged": 4,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "87_p3_e20",
+          "sequence_order": 20,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "8. This book incorporates all the corrections issued to the General and Subsidiary"
+        },
+        {
+          "element_id": "87_p3_e21",
+          "sequence_order": 21,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "rules upto Correction Memo No.01/2018 dated 26.07.2018.    9. This book supersedes the previous General and Subsidiary R"
+        },
+        {
+          "element_id": "87_p3_e22",
+          "sequence_order": 22,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Railway."
+        },
+        {
+          "element_id": "87_p3_e23",
+          "sequence_order": 23,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "S.ANANTHARAMAN I.R.T.S     Principal Chief Operations Manager   &       Authorised Officer                 SOUTHERN RAIL"
+        }
+      ]
+    },
+    "4": {
+      "elements": 11,
+      "flagged": 11,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "87_p4_e24",
+          "sequence_order": 24,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "GOVERNMENT OF INDIA"
+        },
+        {
+          "element_id": "87_p4_e25",
+          "sequence_order": 25,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "MINISTRY OF RAILWAY"
+        },
+        {
+          "element_id": "87_p4_e26",
+          "sequence_order": 26,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "(Railway Board)"
+        },
+        {
+          "element_id": "87_p4_e27",
+          "sequence_order": 27,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "No. 69-RR/4"
+        },
+        {
+          "element_id": "87_p4_e28",
+          "sequence_order": 28,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "New Delhi, Dated 11th February, 1976"
+        },
+        {
+          "element_id": "87_p4_e29",
+          "sequence_order": 29,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "RESOLUTION"
+        },
+        {
+          "element_id": "87_p4_e30",
+          "sequence_order": 30,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "General Rules for Indian Railways (Open Lines) 1976 administered by the  Government, and for the time being used for the"
+        },
+        {
+          "element_id": "87_p4_e31",
+          "sequence_order": 31,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "1. The considerable advance made in recent years in methods of signalling and"
+        },
+        {
+          "element_id": "87_p4_e32",
+          "sequence_order": 32,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 119,
+          "text_preview": "interlocking, modes of traction and introduction of new types of equipment  necessitated a revision of the General Rules"
+        },
+        {
+          "element_id": "87_p4_e33",
+          "sequence_order": 33,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 155,
+          "text_preview": "Signal Departments was appointed by the Railway Board in 1968. The committee  submitted a set of draft rules for conside"
+        },
+        {
+          "element_id": "87_p4_e34",
+          "sequence_order": 34,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 99,
+          "text_preview": "Safety and the positive recommendations of the Railway Accidents Committee,  1962, and the Railway Accidents Inquiry Com"
+        }
+      ]
+    },
+    "5": {
+      "elements": 5,
+      "flagged": 5,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "87_p5_e35",
+          "sequence_order": 35,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "4. A provisional issue of the revised General Rules was circulated to the Railway"
+        },
+        {
+          "element_id": "87_p5_e36",
+          "sequence_order": 36,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 54,
+          "text_preview": "Administrations; the Research, Designs and Standards Organization; the  Commission of Railway Safety; Railway Staff Coll"
+        },
+        {
+          "element_id": "87_p5_e37",
+          "sequence_order": 37,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "5. The exhaustive views and comments received from the Railway Administrations,"
+        },
+        {
+          "element_id": "87_p5_e38",
+          "sequence_order": 38,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 94,
+          "text_preview": "the Commission of Railway Safety, other Railway Institutions and the Ministry of  Law, having been considered by Member "
+        },
+        {
+          "element_id": "87_p5_e39",
+          "sequence_order": 39,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 152,
+          "text_preview": "the Administrations of the several railways not administered by the Government  and that the Heads of Railway Administra"
+        }
+      ]
+    },
+    "6": {
+      "elements": 10,
+      "flagged": 10,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "87_p6_e40",
+          "sequence_order": 40,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "GOVERNMENT OF INDIA"
+        },
+        {
+          "element_id": "87_p6_e41",
+          "sequence_order": 41,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "MINISTRY OF RAILWAYS"
+        },
+        {
+          "element_id": "87_p6_e42",
+          "sequence_order": 42,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "(Railway Board)"
+        },
+        {
+          "element_id": "87_p6_e43",
+          "sequence_order": 43,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "No. 69 – RR / 4"
+        },
+        {
+          "element_id": "87_p6_e44",
+          "sequence_order": 44,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Dated the 11th February, 1976"
+        },
+        {
+          "element_id": "87_p6_e45",
+          "sequence_order": 45,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "NOTIFICATION"
+        },
+        {
+          "element_id": "87_p6_e46",
+          "sequence_order": 46,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "In exercise of the powers conferred by section 47 of the Indian Railways Act, 1890 (9"
+        },
+        {
+          "element_id": "87_p6_e47",
+          "sequence_order": 47,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "of 1890), the Central Government hereby make the following General Rules for all the"
+        },
+        {
+          "element_id": "87_p6_e48",
+          "sequence_order": 48,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "Railways in India administered by the Government and for the time being used for the"
+        },
+        {
+          "element_id": "87_p6_e49",
+          "sequence_order": 49,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "public carriage of passengers, animals or goods."
+        }
+      ]
+    },
+    "7": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "8": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "9": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "10": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "11": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "12": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "13": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "14": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "15": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "16": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "17": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "18": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "19": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "20": {
+      "elements": 1,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "21": {
+      "elements": 17,
+      "flagged": 17,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "87_p21_e64",
+          "sequence_order": 64,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Rule No  Subject  Page No"
+        },
+        {
+          "element_id": "87_p21_e65",
+          "sequence_order": 65,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "CHAPTER XVII"
+        },
+        {
+          "element_id": "87_p21_e66",
+          "sequence_order": 66,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "WORKING OF TRAINS ON ELECTRIFIED SECTIONS OF RAILWAYS"
+        },
+        {
+          "element_id": "87_p21_e67",
+          "sequence_order": 67,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "17.01  Applicability of General Rules  393"
+        },
+        {
+          "element_id": "87_p21_e68",
+          "sequence_order": 68,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "17.02  Special definitions applicable to this Chapter  393-399"
+        },
+        {
+          "element_id": "87_p21_e69",
+          "sequence_order": 69,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "17.03  Inspection of electrical way and works  399-400"
+        },
+        {
+          "element_id": "87_p21_e70",
+          "sequence_order": 70,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "17.04  Permit-to-work on electrical equipment  400-401"
+        },
+        {
+          "element_id": "87_p21_e71",
+          "sequence_order": 71,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "17.05  Warning to staff and public  401"
+        },
+        {
+          "element_id": "87_p21_e72",
+          "sequence_order": 72,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "17.06  Alterations to track  401-402"
+        },
+        {
+          "element_id": "87_p21_e73",
+          "sequence_order": 73,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "17.07  Tripping of circuit breakers of locomotives and electrical multiple units  at neutral sections  402-404"
+        },
+        {
+          "element_id": "87_p21_e74",
+          "sequence_order": 74,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "17.08  Tower wagon  404-406"
+        },
+        {
+          "element_id": "87_p21_e75",
+          "sequence_order": 75,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "17.09  Additional rules for electrified sections  406-416"
+        },
+        {
+          "element_id": "87_p21_e76",
+          "sequence_order": 76,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "CHAPTER XVIII"
+        },
+        {
+          "element_id": "87_p21_e77",
+          "sequence_order": 77,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "MISCELLANEOUS"
+        },
+        {
+          "element_id": "87_p21_e78",
+          "sequence_order": 78,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "18.01  Repeal and Saving  417"
+        },
+        {
+          "element_id": "87_p21_e79",
+          "sequence_order": 79,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "APPENDIX"
+        },
+        {
+          "element_id": "87_p21_e80",
+          "sequence_order": 80,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "CHAPTER"
+        }
+      ]
+    }
+  }
+}

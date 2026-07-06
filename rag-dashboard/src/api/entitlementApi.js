@@ -42,7 +42,8 @@ export const fetchAuditLogs = async (citizenId) => {
 };
 
 export const fetchDecisionExplanation = async (decisionId) => {
-  const response = await fetch(`${API_BASE}/gaca/explain/${decisionId}`);
+  const encodedDecisionId = encodeURIComponent(decisionId);
+  const response = await fetch(`${API_BASE}/gaca/explain/${encodedDecisionId}`);
   if (!response.ok) throw new Error("Failed to fetch decision explanation");
   return response.json();
 };

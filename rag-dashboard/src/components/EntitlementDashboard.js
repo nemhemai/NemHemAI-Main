@@ -1203,16 +1203,18 @@ function EntitlementDashboard() {
                                 <span style={{...styles.explainableLabel, marginBottom: 0}}>Policy Citations & Reference Sources:</span>
                                 {checkResult?.query_id && (
                                   <button
-                                    onClick={() => handleOpenExplanation(checkResult.query_id)}
+                                    onClick={() => handleOpenExplanation(checkResult.query_id + '_' + scheme.scheme_name)}
                                     style={{
                                       ...styles.actionButton,
                                       backgroundColor: checkResult.status !== "COMPLETED" ? "#f3f4f6" : "#f0f9ff",
                                       color: checkResult.status !== "COMPLETED" ? "#9ca3af" : "#0369a1",
-                                      borderColor: checkResult.status !== "COMPLETED" ? "#e5e7eb" : "#bae6fd",
-                                      cursor: checkResult.status !== "COMPLETED" ? "not-allowed" : "pointer"
+                                      border: "1px solid #bae6fd",
+                                      fontSize: "12px",
+                                      padding: "4px 10px",
                                     }}
+                                    disabled={checkResult.status !== "COMPLETED"}
                                   >
-                                    {checkResult.status !== "COMPLETED" ? "⏳ Generating Audit Trail..." : "🕵️ Audit Trail & AI Reasoning"}
+                                    {checkResult.status !== "COMPLETED" ? "⏳ Processing..." : "🕵️ Reconfirm Eligibility"}
                                   </button>
                                 )}
                               </div>
@@ -2022,6 +2024,7 @@ const styles = {
   },
   reconfirmResultCard: {
     background: "#2a3b5c",
+    color: "#ffffff",
     padding: "12px",
     borderRadius: "6px",
     fontSize: "12px"

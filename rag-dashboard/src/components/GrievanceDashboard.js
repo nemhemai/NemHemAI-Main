@@ -269,7 +269,16 @@ const GrievanceDashboard = () => {
                     <strong>Exec Summary:</strong> {briefingNote.executive_summary}<br/><br/>
                     <strong>Actions:</strong>
                     <ul style={{ paddingLeft: '20px', margin: '5px 0' }}>
-                      {briefingNote.recommended_actions?.map((act, i) => <li key={i}>{act}</li>)}
+                      {briefingNote.recommended_actions?.map((act, i) => (
+                        <li key={i}>
+                          {typeof act === 'string' ? act : (act.action || act.description || JSON.stringify(act))}
+                          {typeof act === 'object' && act.checklist && (
+                            <ul style={{ paddingLeft: '15px', margin: '4px 0', listStyleType: 'circle' }}>
+                              {act.checklist.map((c, j) => <li key={j}>{c}</li>)}
+                            </ul>
+                          )}
+                        </li>
+                      ))}
                     </ul>
                   </div>
                 </div>

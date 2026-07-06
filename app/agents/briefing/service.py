@@ -967,9 +967,9 @@ def _run_pipeline(
     if raw_briefing is None:
         return {"success": False, "error": "LLM failed after 3 attempts"}
 
-    # Confidence-based self-correction
+    # Confidence-based self-correction (skip if we only have 1 document, e.g. direct context, to save time)
     confidence = float(raw_briefing.get("confidence", 0.5))
-    if confidence < MIN_CONFIDENCE:
+    if confidence < MIN_CONFIDENCE and len(documents) > 1:
         logger.info(f"Confidence {confidence:.0%} below threshold — expanding retrieval")
         doc_context = _retrieve_chunks(query, documents, MAX_CHUNKS_EXPAND, boost_patterns)
         try:

@@ -61,13 +61,27 @@ data/
 python -m app.ingest.ingest_documents
 
 ▶️ Running the System
-After ingestion is complete:
-python main.py
+After ingestion is complete, you need to start both the backend and frontend servers.
 
-You should see:
-System ready.
-Documents: <count>
-Enter query (or 'exit'):
+**1. Start the Backend Server:**
+Open a terminal in the root directory and run:
+```bash
+python main.py
+```
+This will start the FastAPI backend server on `http://localhost:8000`.
+
+**2. Start the Frontend Dashboard:**
+Open a new terminal, navigate to the dashboard directory, and start the React app:
+```bash
+cd rag-dashboard
+npm start
+```
+This will start the frontend on `http://localhost:3000`.
+
+🌍 Project Routes
+- **Frontend Dashboard:** `http://localhost:3000`
+- **Backend API Docs (Swagger):** `http://localhost:8000/docs`
+- **Backend API Redoc:** `http://localhost:8000/redoc`
 
 🔍 Example Queries
 
