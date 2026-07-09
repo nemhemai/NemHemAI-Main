@@ -1,5 +1,6 @@
 import re
 import logging
+import difflib
 from datetime import datetime
 from typing import Optional
 
@@ -51,11 +52,12 @@ class VerificationService:
     """
 
     @staticmethod
-    def verify(document_type: str, extracted_fields: dict) -> dict:
+    def verify(document_type: str, extracted_fields: dict, profile_data: dict = None) -> dict:
         service = VerificationService()
         request = VerificationRequest(
             document_type=document_type,
-            extracted_fields=extracted_fields
+            extracted_fields=extracted_fields,
+            profile_data=profile_data
         )
         res = service.verify_request(request)
         return res.model_dump()
@@ -63,6 +65,7 @@ class VerificationService:
     def verify_request(self, request: VerificationRequest) -> VerificationResponse:
         doc_type = (request.document_type or "").upper()
         fields = request.extracted_fields or {}
+        profile = request.profile_data or {}
         logger.info(f"Starting verification for doc_type={doc_type}")
 
         checks = {}
@@ -71,16 +74,16 @@ class VerificationService:
 
         try:
             if doc_type == DOCUMENT_TYPE_AADHAAR:
-                checks = self._verify_aadhaar(fields)
+                checks = self._verify_aadhaar(fields, profile)
             elif doc_type == DOCUMENT_TYPE_PAN:
-                checks = self._verify_pan(fields)
+                checks = self._verify_pan(fields, profile)
             elif doc_type == DOCUMENT_TYPE_PASSPORT:
-                checks = self._verify_passport(fields)
+                checks = self._verify_passport(fields, profile)
             elif doc_type == DOCUMENT_TYPE_DRIVING_LICENSE:
-                checks = self._verify_driving_license(fields)
+                checks = self._verify_driving_license(fields, profile)
             else:
                 logger.warning(f"Unknown doc_type={doc_type}, running common checks only")
-                checks = self._verify_common(fields)
+                checks = self._verify_common(fields, profile)
 
             for check_name, result in checks.items():
                 if result["passed"]:
@@ -117,7 +120,7 @@ class VerificationService:
     # Aadhaar
     # ------------------------------------------------------------------
 
-    def _verify_aadhaar(self, fields: dict) -> dict:
+    def _verify_aadhaar(self, fields: dict, profile: dict = None) -> dict:
         checks = {}
 
         # 1. Format check (12 digits)
@@ -149,8 +152,8 @@ class VerificationService:
                 "detail": f"First digit '{aadhaar_num[0]}': {'OK' if first_digit_ok else 'FAIL (cannot be 0 or 1)'}",
             }
 
-        # 4. DOB
-        checks.update(self._verify_common(fields))
+        # 4. DOB & Profile Common
+        checks.update(self._verify_common(fields, profile))
 
         return checks
 
@@ -158,7 +161,7 @@ class VerificationService:
     # PAN
     # ------------------------------------------------------------------
 
-    def _verify_pan(self, fields: dict) -> dict:
+    def _verify_pan(self, fields: dict, profile: dict = None) -> dict:
         checks = {}
 
         pan_num = fields.get("pan_number", "")
@@ -180,7 +183,7 @@ class VerificationService:
             }
 
         # Name and DOB
-        checks.update(self._verify_common(fields))
+        checks.update(self._verify_common(fields, profile))
 
         # Name present
         name = fields.get("name", "").strip()
@@ -196,7 +199,7 @@ class VerificationService:
     # Passport
     # ------------------------------------------------------------------
 
-    def _verify_passport(self, fields: dict) -> dict:
+    def _verify_passport(self, fields: dict, profile: dict = None) -> dict:
         checks = {}
 
         # Passport number format (global standard: 6-9 alphanumeric chars)
@@ -246,7 +249,7 @@ class VerificationService:
             checks["passport_not_expired"] = {"passed": expiry_ok, "detail": expiry_detail}
 
         # Common (DOB, name)
-        checks.update(self._verify_common(fields))
+        checks.update(self._verify_common(fields, profile))
 
         return checks
 
@@ -254,7 +257,7 @@ class VerificationService:
     # Driving License
     # ------------------------------------------------------------------
 
-    def _verify_driving_license(self, fields: dict) -> dict:
+    def _verify_driving_license(self, fields: dict, profile: dict = None) -> dict:
         checks = {}
 
         # 1. DL number format: 2 uppercase letters (state) + digits (9-15 total)
@@ -302,7 +305,7 @@ class VerificationService:
         }
 
         # 5. Common checks (DOB, gender)
-        checks.update(self._verify_common(fields))
+        checks.update(self._verify_common(fields, profile))
 
         return checks
 
@@ -310,7 +313,7 @@ class VerificationService:
     # Common checks
     # ------------------------------------------------------------------
 
-    def _verify_common(self, fields: dict) -> dict:
+    def _verify_common(self, fields: dict, profile: dict = None) -> dict:
         checks = {}
 
         # DOB present and plausible
@@ -329,6 +332,43 @@ class VerificationService:
                 "passed": gender_ok,
                 "detail": f"Gender '{gender}': {'OK' if gender_ok else 'UNRECOGNISED'}",
             }
+
+        # Profile Cross-Validation (Name and DOB)
+        if profile:
+            personal = profile.get("personal_info", profile)
+            
+            # Name Matching
+            profile_name = personal.get("name", "").strip().lower()
+            extracted_name = fields.get("name", "").strip().lower()
+            
+            if profile_name and extracted_name:
+                import difflib
+                ratio = difflib.SequenceMatcher(None, profile_name, extracted_name).ratio()
+                is_substring = (profile_name in extracted_name) or (extracted_name in profile_name)
+                match_passed = (ratio >= 0.8) or is_substring
+                checks["profile_name_match"] = {
+                    "passed": match_passed,
+                    "detail": f"Name matched profile (ratio {ratio:.2f})" if match_passed else f"Name '{fields.get('name', '')}' does NOT match profile '{personal.get('name', '')}'"
+                }
+
+            # DOB Matching
+            profile_dob = personal.get("dob", "").strip()
+            if profile_dob and dob:
+                p_date = self._parse_date(profile_dob)
+                e_date = self._parse_date(dob)
+                if p_date and e_date:
+                    dob_match = (p_date.date() == e_date.date())
+                    checks["profile_dob_match"] = {
+                        "passed": dob_match,
+                        "detail": "DOB matched profile" if dob_match else f"DOB '{dob}' does NOT match profile '{profile_dob}'"
+                    }
+                else:
+                    # fallback to string compare
+                    dob_match = (profile_dob == dob)
+                    checks["profile_dob_match"] = {
+                        "passed": dob_match,
+                        "detail": "DOB fallback matched profile" if dob_match else f"DOB '{dob}' could not be parsed to match profile '{profile_dob}'"
+                    }
 
         return checks
 
@@ -369,6 +409,18 @@ class VerificationService:
     # ------------------------------------------------------------------
     # DOB validation
     # ------------------------------------------------------------------
+
+    def _parse_date(self, date_str: str) -> Optional[datetime]:
+        import re as _re
+        normalised = _re.sub(r"[\-\.\s]+", "/", date_str.strip())
+        formats = ["%d/%m/%Y", "%Y/%m/%d", "%d/%m/%y", "%d%m%Y", "%Y%m%d", "%d%m%y", "%Y-%m-%d", "%d-%m-%Y"]
+        for candidate in [normalised, date_str]:
+            for fmt in formats:
+                try:
+                    return datetime.strptime(candidate, fmt)
+                except ValueError:
+                    continue
+        return None
 
     def _validate_dob(self, dob_str: str):
         import re as _re

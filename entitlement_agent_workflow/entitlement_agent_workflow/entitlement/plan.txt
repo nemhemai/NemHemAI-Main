@@ -1,0 +1,373 @@
+ENTITLEMENT AGENT
+7-Day Metadata-Driven Implementation Plan
+NemHem Enhanced Architecture v2  ·  Phase 1
+PraisonAI · LlamaIndex · Qdrant · Neo4j · Keycloak · OpenHuman
+Internal Implementation Brief  ·  June 2026
+Why Metadata-Driven? The Shift from Rule-Based
+The previous rule-based approach hardcoded eligibility logic directly into code — meaning every new scheme, every policy update, or every new document required a developer to modify the application. The metadata-driven approach inverts this: schemes, eligibility criteria, and document requirements are stored as structured data (metadata), and the agent reads from that data at runtime.
+Rule-Based vs Metadata-Driven — Side-by-Side
+Dimension
+Rule-Based (Old)
+Metadata-Driven (New)
+Adding a new scheme
+Modify code, redeploy
+Add a row/record to metadata store — no code change
+Updating eligibility criteria
+Find the hardcoded rule, change it
+Update the metadata record — live at next query
+Scaling to 20 → 200 schemes
+Linear code growth, fragile
+Flat: metadata store grows, agent logic stays the same
+Non-technical updates
+Developer required
+Policy team can update via admin UI or JSON/YAML
+Auditing "why was this recommended?"
+Hard — logic buried in code
+Easy — trace from metadata record directly
+Multi-language support
+Hardcoded strings
+Metadata carries localized labels, descriptions
+What "Metadata" Means Here
+Every scheme is described by a metadata record — a structured document (stored in Qdrant, Neo4j, and optionally a YAML/JSON config) that contains all the information the agent needs to reason about it. The agent never has hardcoded rules like "if income < 100000 and state == Maharashtra then eligible for PMAY". Instead, it reads the PMAY metadata record and evaluates the citizen profile against it dynamically.
+Metadata Field
+Example Value (PMAY)
+scheme_id
+PMAY-2024-URBAN
+scheme_name
+Pradhan Mantri Awas Yojana — Urban
+department
+Ministry of Housing
+level
+Central
+eligibility_rules
+[{field: "income", operator: "lt", value: 180000}, {field: "house_type", operator: "eq", value: "no_pucca"}]
+required_documents
+["aadhaar", "income_certificate", "domicile"]
+benefit_amount
+250000
+benefit_type
+Subsidy
+processing_days
+45
+application_url
+https://pmaymis.gov.in
+source_documents
+["pmay_guidelines_2024.pdf", "housing_circular_march2024.pdf"]
+last_updated
+2024-03-15
+tags
+["housing", "urban", "subsidy", "bpl"]
+System Architecture — Metadata-Driven Stack
+The stack is layered so that the metadata store is the single source of truth for all scheme logic. Agents reason over metadata — they never contain hardcoded rules.
+CITIZEN INTERFACE
+Query → Profile → Recommendations → Application
+▼
+PraisonAI ORCHESTRATION
+Agent role definition · Tool access · Execution flow
+▼
+OpenHuman CONTEXT LAYER
+Intent modeling · Edge case detection · Tone adaptation
+▼
+LlamaIndex RAG ENGINE
+Document ingestion (20 docs) · Chunking · Semantic retrieval
+▼
+Qdrant VECTOR DB  +  Neo4j GRAPH DB
+Scheme embeddings · Eligibility graph · Metadata relationships
+▼
+METADATA STORE (YAML / JSON / DB)
+Scheme records · Eligibility rules · Document requirements — NO hardcoding
+▼
+Keycloak RBAC
+Role-based access · Data isolation · Citizen vs officer views
+Metadata Schema — The Core of the Approach
+Each of the 20 initial documents will be parsed and converted into a structured metadata record. The schema below defines what the agent knows about every scheme without any hardcoded logic.
+Scheme Metadata Record (YAML Format)
+scheme_id: "PMAY-2024-URBAN"
+scheme_name: "Pradhan Mantri Awas Yojana — Urban"
+level: "Central"              # Central | State | Municipal
+department: "Ministry of Housing and Urban Affairs"
+active: true
+ 
+eligibility_rules:
+  - field: "annual_income"
+    operator: "lt"            # lt | gt | eq | in | between
+    value: 180000
+  - field: "house_type"
+    operator: "eq"
+    value: "no_pucca_house"
+  - field: "state"
+    operator: "in"
+    value: ["Maharashtra", "Gujarat", "Karnataka"]
+ 
+required_documents:
+  - aadhaar
+  - income_certificate
+  - domicile_certificate
+  - self_declaration
+ 
+benefit:
+  type: "Subsidy"
+  amount: 250000
+  currency: "INR"
+ 
+processing_days: 45
+application_url: "https://pmaymis.gov.in"
+ 
+source_documents:
+  - "pmay_guidelines_2024.pdf"
+  - "housing_circular_march2024.pdf"
+ 
+tags: ["housing", "urban", "subsidy", "bpl", "pmay"]
+last_updated: "2024-03-15"
+priority_score: 1            # used by Benefit Optimization engine
+Eligibility Evaluation — Runtime (No Hardcoding)
+At runtime, the agent loads scheme metadata and evaluates the citizen profile against it using a generic rule engine. The same code evaluates every scheme — only the metadata changes.
+# Generic rule evaluator — works for ALL schemes
+def evaluate_eligibility(citizen_profile, scheme_metadata):
+    results = []
+    for rule in scheme_metadata["eligibility_rules"]:
+        field_value = citizen_profile.get(rule["field"])
+        result = apply_operator(
+            field_value, rule["operator"], rule["value"]
+        )
+        results.append(result)
+    
+    if all(results):
+        return "ELIGIBLE"
+    elif sum(results) / len(results) > 0.7:
+        return "LIKELY_ELIGIBLE"
+    else:
+        return "NOT_ELIGIBLE"
+ 
+# No if-else for PMAY. No if-else for Ayushman Bharat.
+# Add 100 more schemes — zero code changes.
+7-Day Plan — Week at a Glance
+Day 1
+Foundation
+· Env setup
+· LlamaIndex + Qdrant
+· Metadata schema design
+Day 2
+Document Ingestion
+· Parse 20 docs
+· Extract metadata
+· Build scheme records
+Day 3
+Neo4j Graph
+· Eligibility graph
+· Scheme relationships
+· Profile matching
+Day 4
+PraisonAI Agent
+· Agent roles
+· Tool wiring
+· Eligibility pipeline
+Day 5
+Keycloak + OpenHuman
+· RBAC setup
+· Context layer
+· Edge case detection
+Day 6
+Benefit Optimization
+· Ranking engine
+· Recommendation UI
+· Application guidance
+Day 7
+Test & Document
+· End-to-end test
+· Audit trace
+· Handover docs
+Daily Implementation Plan — Step by Step
+DAY 1    Foundation & Environment Setup
+Stack installation · Metadata schema design · Base config
+📋  Tasks
+Install and configure LlamaIndex, Qdrant (local/Docker), Neo4j, PraisonAI
+Set up project structure: /metadata, /schemas, /agents, /pipelines
+Design the Scheme Metadata Schema (YAML/JSON) — fields for all 20 docs
+Create Citizen Profile Schema — all fields the agent will evaluate against
+Write a metadata validation script to enforce schema on every scheme record
+Set up local Ollama with a base model (e.g. Mistral or LLaMA 3)
+Initialize Qdrant collection for scheme vectors with metadata payload fields
+Draft the generic eligibility rule evaluator (operator engine — lt, gt, eq, in)
+✅  Deliverables
+Running Qdrant + Neo4j + Ollama containers
+Scheme Metadata Schema v1 (YAML)
+Citizen Profile Schema v1
+Generic rule evaluator module
+Validated empty metadata store
+🔧  Tech Focus
+PraisonAI (env config), LlamaIndex (init), Qdrant (collection create), Ollama (model pull). Focus: get all services running and talking to each other. No agent logic yet — just infrastructure.
+DAY 2    Document Ingestion & Metadata Extraction
+Parse 20 documents → structured metadata records
+📋  Tasks
+Run all 20 scheme documents through LlamaIndex + Unstructured.io pipeline
+For each document: extract scheme name, department, level, eligibility criteria
+Use LLM-assisted extraction to parse eligibility rules into structured operators
+Manually review and correct extracted metadata (this is Day 2's most important step)
+Save each scheme as a validated YAML metadata record in /metadata/schemes/
+Embed each scheme record and upsert into Qdrant with full metadata payload
+Build a metadata admin script: add_scheme.py, update_scheme.py, list_schemes.py
+Test semantic search: "schemes for BPL families in Maharashtra" → returns correct records
+✅  Deliverables
+20 scheme YAML metadata records (validated)
+All 20 schemes indexed in Qdrant with metadata
+LLM-assisted extraction pipeline script
+Metadata admin CLI (add / update / list)
+Semantic search working end-to-end
+🔧  Tech Focus
+LlamaIndex (document loaders, chunking), Qdrant (upsert with payload), Unstructured.io (PDF/scanned doc parsing). Key insight: the quality of metadata records here determines the quality of every downstream recommendation. Invest time in review.
+DAY 3    Neo4j Eligibility Graph
+Scheme relationships · Profile-to-scheme matching · Graph queries
+📋  Tasks
+Design Neo4j node types: Scheme, EligibilityRule, Citizen, Document, Benefit
+Load all 20 scheme metadata records as Scheme nodes into Neo4j
+Create EligibilityRule nodes linked to each Scheme (from the eligibility_rules field)
+Build the graph traversal query: given a citizen profile, find matching schemes
+Create relationships: REQUIRES_DOCUMENT, HAS_RULE, OVERLAPS_WITH, CONFLICTS_WITH
+Index scheme tags for fast category-based filtering (housing, health, farming, etc.)
+Test graph: citizen profile (income: 120000, state: Maharashtra) → matched schemes
+Build the Scheme Discovery function: returns ranked potential schemes from graph
+✅  Deliverables
+Neo4j graph populated with 20 schemes + rules
+Graph traversal query (Cypher)
+Scheme Discovery function (profile → potential schemes)
+Document requirement graph (which docs each scheme needs)
+Conflict/overlap detection between schemes
+🔧  Tech Focus
+Neo4j (Cypher queries, node/relationship design), LlamaIndex (hybrid retrieval combining Qdrant vector + Neo4j graph). This is what makes the approach scalable — adding scheme 21 means adding a node, not writing a new if-else block.
+DAY 4    PraisonAI Agent Assembly & Eligibility Pipeline
+Agent roles · Tool wiring · Full eligibility evaluation pipeline
+📋  Tasks
+Define Entitlement Agent in PraisonAI: role, goal, tools, backstory
+Wire tools to agent: qdrant_search, neo4j_query, rule_evaluator, profile_builder
+Implement Profile Builder tool: intake citizen data → Citizen 360 Profile object
+Implement Scheme Discovery tool: profile → Qdrant + Neo4j → potential schemes list
+Implement Eligibility Evaluator tool: profile + scheme metadata → ELIGIBLE / LIKELY / NOT
+Implement Eligibility Reconfirmation step: combines verified docs + profile + rules
+Connect Verification Agent stub (placeholder for now — returns mock verified package)
+Run first end-to-end test: citizen inputs → profile → schemes discovered → eligibility scored
+✅  Deliverables
+PraisonAI Entitlement Agent (configured)
+Profile Builder tool
+Scheme Discovery tool
+Eligibility Evaluator tool (metadata-driven, no hardcoding)
+First end-to-end pipeline: intake → eligibility result
+🔧  Tech Focus
+PraisonAI (agent YAML config, tool registration), LlamaIndex (retrieval), Qdrant + Neo4j (dual retrieval). Day 4 is where the agent "comes alive" for the first time — the metadata-driven evaluator runs against real scheme records.
+DAY 5    Keycloak RBAC + OpenHuman Context Layer
+Role-based access · Intent modeling · Edge case detection
+📋  Tasks
+Set up Keycloak realm: roles = CITIZEN, OFFICER, ADMIN
+Define access rules: CITIZEN sees own profile + recommendations; OFFICER sees all citizens; ADMIN manages metadata
+Integrate Keycloak token validation into agent API endpoints
+Integrate OpenHuman as context layer between retrieval and LLM response
+Configure OpenHuman for intent modeling: detect if citizen is confused, missing docs, repeat query
+Add edge case detection: identify citizens who are LIKELY_ELIGIBLE but missing one document
+Add proactive missing document prompts: "You qualify for PMAY but need domicile certificate"
+Add tone adaptation: citizen-friendly language vs officer-level detail based on Keycloak role
+✅  Deliverables
+Keycloak realm with 3 roles (Citizen, Officer, Admin)
+Role-gated API endpoints
+OpenHuman context module integrated
+Edge case detection (missing documents surfaced proactively)
+Tone-adaptive responses by role
+🔧  Tech Focus
+Keycloak (realm config, JWT validation), OpenHuman (Memory Tree setup, intent modeling config). Important: OpenHuman needs to be wired in now — not after — so behavioral baselines are established from Day 5 onward.
+DAY 6    Benefit Optimization, Recommendations & Application Guidance
+Ranking engine · Citizen-facing recommendations · Application assistance
+📋  Tasks
+Implement Benefit Optimization engine: rank eligible schemes by (amount × approval_prob × urgency) / complexity
+Read ranking factors from scheme metadata (priority_score, processing_days, benefit_amount)
+Build Recommendation output: scheme name, why eligible (cited from metadata), expected benefit, required docs
+Build Application Guidance tool: form-fill help, document checklist, affidavit generation
+Build Status Tracking stub: accepts application ID, returns mock current stage
+Implement source citation: every recommendation must cite the source document and clause
+Test full citizen journey: registration → profile → eligibility → ranked recommendations → guidance
+Build simple admin UI or CLI for metadata management (add/update scheme without code changes)
+✅  Deliverables
+Benefit Optimization engine (metadata-driven ranking)
+Recommendation output with citations
+Application Guidance tool
+Full citizen journey working end-to-end
+Metadata admin interface (non-developer usable)
+🔧  Tech Focus
+PraisonAI (multi-tool orchestration), LlamaIndex (citation retrieval — citing source_documents field from metadata), Neo4j (graph-based benefit path). This is the day that demonstrates the core value: personalized, ranked, cited recommendations — all driven by metadata.
+DAY 7    Testing, Audit Trail & Handover Documentation
+End-to-end tests · Audit traceability · Handover package
+📋  Tasks
+Run end-to-end tests with 5 citizen personas (BPL farmer, urban poor, widow, student, disabled)
+Verify each persona receives correct eligible schemes with correct citations
+Test metadata update: add a new scheme record → verify it appears in recommendations without code deploy
+Test role access: confirm CITIZEN cannot see other citizens; OFFICER can; ADMIN can manage metadata
+Build audit log: for every recommendation, record which metadata record + which rule triggered it
+Write integration notes: how Entitlement Agent connects to Verification Agent and Audit Agent
+Document the metadata schema and how to add new schemes (for policy team)
+Create a brief handover document: architecture decisions, known gaps, next steps
+✅  Deliverables
+5 persona test cases (passing)
+Metadata update test (new scheme — zero code change)
+Audit log with decision traceability
+Integration notes (Verification + Audit agent handoff)
+Metadata management guide (for non-developers)
+Handover document
+🔧  Tech Focus
+All frameworks (end-to-end validation). The metadata update test on Day 7 is the most important proof point — it demonstrates that the metadata-driven approach actually works: add a scheme, no code change, it appears in recommendations.
+Integration Points — How Entitlement Agent Connects
+Upstream: What Entitlement Agent Receives
+From
+What
+How
+Citizen (direct)
+Registration data, Aadhaar, mobile
+API endpoint (POST /citizen/register)
+Verification Agent
+Verified Evidence Package (OCR'd docs)
+Internal API call after doc upload
+Keycloak
+JWT token with role claim
+Authorization header on every request
+Metadata Store
+Scheme records, eligibility rules
+Read at query time — always latest
+Downstream: What Entitlement Agent Produces
+To
+What
+Format
+Citizen
+Ranked recommendations + application guidance
+JSON → rendered in citizen UI
+Audit Agent
+Decision log (which scheme, which rule, which doc)
+Structured audit event
+Verification Agent
+Required documents list per scheme
+API call with scheme_id list
+Admin / Officer
+Eligibility result with source citations
+Role-gated response (Keycloak)
+Scaling: 20 Documents → 200+ Schemes
+The metadata-driven architecture is designed so that growth is additive, not multiplicative. Here's what changes (and what doesn't) as you add more schemes.
+When you add new schemes...
+Rule-Based (old)
+Metadata-Driven (new)
+Agent logic code
+Grows with each scheme
+Unchanged forever
+Eligibility evaluator
+New if-else per scheme
+Same generic evaluator
+Neo4j graph
+—
+Add nodes + relationships
+Qdrant index
+—
+Upsert new scheme vector
+Who does it
+Developer
+Policy team (YAML file)
+Time to add 1 scheme
+Hours to days
+Minutes
+Risk of breaking existing schemes
+High (code change)
+None (isolated records)

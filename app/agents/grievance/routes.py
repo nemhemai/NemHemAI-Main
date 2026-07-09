@@ -12,7 +12,7 @@ from PIL import Image
 import pytesseract
 
 from app.core.database import get_db_conn, release_db_conn
-from app.authentication.dependencies import get_current_user
+from app.authentication.dependencies import get_optional_user
 from app.core.ocr_config import OCRConfig
 from app.ingestion_orchestrator.pipeline_executor import start_pipeline_async
 from app.generation.draft_generator import generate_draft_response
@@ -86,7 +86,7 @@ async def create_grievance(
     attachments: Optional[List[UploadFile]] = File(None),
     
     # Auth
-    user: dict = Depends(get_current_user)
+    user: dict = Depends(get_optional_user)
 ):
     """
     Intake endpoint for Grievance Agent.
@@ -94,7 +94,7 @@ async def create_grievance(
     """
     conn = get_db_conn()
     ticket_id = str(uuid.uuid4())
-    citizen_id = str(user.get("user_id", "anonymous"))
+    citizen_id = str(user.get("user_id", "anonymous")) if user else "anonymous"
     
     try:
         # 1. Save Grievance to Postgres

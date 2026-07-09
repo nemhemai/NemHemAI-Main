@@ -1,0 +1,41 @@
+scheme_id: PMSYM-RULES
+scheme_name: Pradhan Mantri Shram Yogi Maan-dhan
+issuing_authority: Ministry of Labour and Employment, Government of India
+department_code: MoL&E
+jurisdiction: central
+state_origin: null
+category: pension
+active: true
+eligibility_rules:
+- field: age
+  operator: between
+  value:
+  - 18
+  - 40
+- field: income_annual
+  operator: lte
+  value: 180000
+- field: occupation
+  operator: neq
+  value: farmer
+- field: is_govt_employee
+  operator: eq
+  value: true
+  is_exclusion: true
+- field: pays_income_tax
+  operator: eq
+  value: true
+  is_exclusion: true
+required_documents:
+- Aadhaar
+- Savings bank account passbook
+benefit:
+  type: pension
+  amount: 3000
+  currency: INR
+processing_days: 30
+application_url: https://maandhan.in/
+tags:
+- pension
+- social_security
+- unorganized_worker

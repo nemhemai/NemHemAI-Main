@@ -1,0 +1,2633 @@
+{
+  "document_id": 90,
+  "pages": {
+    "1": {
+      "elements": 5,
+      "flagged": 5,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "90_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "GENERAL FINANCIAL RULES & LAWS"
+        },
+        {
+          "element_id": "90_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "A Comprehensive Guide to the Financial Administration of"
+        },
+        {
+          "element_id": "90_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "the Government of Maharashtra"
+        },
+        {
+          "element_id": "90_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Compiled Reference Document"
+        },
+        {
+          "element_id": "90_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "State Financial Framework & Statutory Guidelines"
+        }
+      ]
+    },
+    "2": {
+      "elements": 19,
+      "flagged": 19,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "90_p2_e5",
+          "sequence_order": 5,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "TABLE OF CONTENTS"
+        },
+        {
+          "element_id": "90_p2_e6",
+          "sequence_order": 6,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Chapter 1: Introduction to Financial Administration"
+        },
+        {
+          "element_id": "90_p2_e7",
+          "sequence_order": 7,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Chapter 2: Constitutional Framework of State Finances"
+        },
+        {
+          "element_id": "90_p2_e8",
+          "sequence_order": 8,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Chapter 3: General Principles of Financial Propriety"
+        },
+        {
+          "element_id": "90_p2_e9",
+          "sequence_order": 9,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Chapter 4: The Maharashtra Financial Rules (MFR) Overview"
+        },
+        {
+          "element_id": "90_p2_e10",
+          "sequence_order": 10,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Chapter 5: The Maharashtra Treasury Rules (MTR)"
+        },
+        {
+          "element_id": "90_p2_e11",
+          "sequence_order": 11,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Chapter 6: Budget formulation and Execution"
+        },
+        {
+          "element_id": "90_p2_e12",
+          "sequence_order": 12,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Chapter 7: Receipts and Revenues"
+        },
+        {
+          "element_id": "90_p2_e13",
+          "sequence_order": 13,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Chapter 8: Expenditure and Payment Control"
+        },
+        {
+          "element_id": "90_p2_e14",
+          "sequence_order": 14,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Chapter 9: Public Procurement and Contracts"
+        },
+        {
+          "element_id": "90_p2_e15",
+          "sequence_order": 15,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Chapter 10: Inventory and Stores Management"
+        },
+        {
+          "element_id": "90_p2_e16",
+          "sequence_order": 16,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Chapter 11: Establishment, Salaries, and Pensions"
+        },
+        {
+          "element_id": "90_p2_e17",
+          "sequence_order": 17,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Chapter 12: Advances and Loans to Government Servants"
+        },
+        {
+          "element_id": "90_p2_e18",
+          "sequence_order": 18,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Chapter 13: Grants-in-Aid and Local Fund Accounts"
+        },
+        {
+          "element_id": "90_p2_e19",
+          "sequence_order": 19,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Chapter 14: Contingency Fund Rules"
+        },
+        {
+          "element_id": "90_p2_e20",
+          "sequence_order": 20,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Chapter 15: Audit and Financial Accountability"
+        },
+        {
+          "element_id": "90_p2_e21",
+          "sequence_order": 21,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Chapter 16: Defalcations, Losses, and Write-Offs"
+        },
+        {
+          "element_id": "90_p2_e22",
+          "sequence_order": 22,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Chapter 17: Delegation of Financial Powers"
+        },
+        {
+          "element_id": "90_p2_e23",
+          "sequence_order": 23,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Chapter 18: E-Governance and Financial Modernization"
+        }
+      ]
+    },
+    "3": {
+      "elements": 8,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "4": {
+      "elements": 7,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "5": {
+      "elements": 5,
+      "flagged": 5,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "90_p5_e39",
+          "sequence_order": 39,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Constitutional Mandate for Budgets"
+        },
+        {
+          "element_id": "90_p5_e40",
+          "sequence_order": 40,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "Under Article 202 of the Constitution, the Governor shall in respect of every financial"
+        },
+        {
+          "element_id": "90_p5_e41",
+          "sequence_order": 41,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "year cause to be laid before the House of the Legislature of the State a statement of"
+        },
+        {
+          "element_id": "90_p5_e42",
+          "sequence_order": 42,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "the estimated receipts and expenditure of the State for that year, known as the"
+        },
+        {
+          "element_id": "90_p5_e43",
+          "sequence_order": 43,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "\"Annual Financial Statement\" or Budget."
+        }
+      ]
+    },
+    "6": {
+      "elements": 9,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "7": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "8": {
+      "elements": 19,
+      "flagged": 19,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "90_p8_e64",
+          "sequence_order": 64,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "CHAPTER 5: THE MAHARASHTRA"
+        },
+        {
+          "element_id": "90_p8_e65",
+          "sequence_order": 65,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "TREASURY RULES (MTR)"
+        },
+        {
+          "element_id": "90_p8_e66",
+          "sequence_order": 66,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "The Treasury Rules outline the procedures for the receipt, custody, and withdrawal"
+        },
+        {
+          "element_id": "90_p8_e67",
+          "sequence_order": 67,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "of money from the government account. Treasuries are the primary units of the"
+        },
+        {
+          "element_id": "90_p8_e68",
+          "sequence_order": 68,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "State's accounting system."
+        },
+        {
+          "element_id": "90_p8_e69",
+          "sequence_order": 69,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "5.1 Function of Treasuries"
+        },
+        {
+          "element_id": "90_p8_e70",
+          "sequence_order": 70,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Treasuries and Sub-Treasuries in Maharashtra function as the focal points for"
+        },
+        {
+          "element_id": "90_p8_e71",
+          "sequence_order": 71,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "government financial transactions. Their primary duties include:"
+        },
+        {
+          "element_id": "90_p8_e72",
+          "sequence_order": 72,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Receiving government dues and crediting them to the correct receipt heads."
+        },
+        {
+          "element_id": "90_p8_e73",
+          "sequence_order": 73,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "Scrutinizing bills presented by DDOs to ensure they are in order and covered by"
+        },
+        {
+          "element_id": "90_p8_e74",
+          "sequence_order": 74,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "financial sanctions and budget provisions."
+        },
+        {
+          "element_id": "90_p8_e75",
+          "sequence_order": 75,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Making payments on behalf of the government."
+        },
+        {
+          "element_id": "90_p8_e76",
+          "sequence_order": 76,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Maintaining daily accounts and compiling them for submission to the"
+        },
+        {
+          "element_id": "90_p8_e77",
+          "sequence_order": 77,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Accountant General (AG)."
+        },
+        {
+          "element_id": "90_p8_e78",
+          "sequence_order": 78,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "5.2 Treasury Code Provisions"
+        },
+        {
+          "element_id": "90_p8_e79",
+          "sequence_order": 79,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "The Maharashtra Treasury Code explicitly prohibits the withdrawal of money from"
+        },
+        {
+          "element_id": "90_p8_e80",
+          "sequence_order": 80,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "the treasury unless it is required for immediate disbursement. Drawing money to"
+        },
+        {
+          "element_id": "90_p8_e81",
+          "sequence_order": 81,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "prevent the lapse of budget grants at the end of the financial year is strictly"
+        },
+        {
+          "element_id": "90_p8_e82",
+          "sequence_order": 82,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "forbidden and constitutes a severe financial irregularity."
+        }
+      ]
+    },
+    "9": {
+      "elements": 11,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "90_p9_e92",
+          "sequence_order": 92,
+          "page_number": 9,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Supplementary Demands"
+        }
+      ]
+    },
+    "10": {
+      "elements": 19,
+      "flagged": 19,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "90_p10_e94",
+          "sequence_order": 94,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "CHAPTER 7: RECEIPTS AND REVENUES"
+        },
+        {
+          "element_id": "90_p10_e95",
+          "sequence_order": 95,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Government revenues arise primarily from taxes (like SGST, Stamp Duty, State"
+        },
+        {
+          "element_id": "90_p10_e96",
+          "sequence_order": 96,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Excise) and non-tax sources (fees, fines, user charges). The financial rules stipulate"
+        },
+        {
+          "element_id": "90_p10_e97",
+          "sequence_order": 97,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "stringent guidelines for handling these receipts."
+        },
+        {
+          "element_id": "90_p10_e98",
+          "sequence_order": 98,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "7.1 Assessment and Collection"
+        },
+        {
+          "element_id": "90_p10_e99",
+          "sequence_order": 99,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "It is the duty of the Revenue Department and other concerned authorities to ensure"
+        },
+        {
+          "element_id": "90_p10_e100",
+          "sequence_order": 100,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "that all government dues are assessed correctly, collected promptly, and paid into"
+        },
+        {
+          "element_id": "90_p10_e101",
+          "sequence_order": 101,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "the treasury immediately. No amount collected on behalf of the government can be"
+        },
+        {
+          "element_id": "90_p10_e102",
+          "sequence_order": 102,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "kept out of the government account or utilized for departmental expenditure"
+        },
+        {
+          "element_id": "90_p10_e103",
+          "sequence_order": 103,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "without specific legislative authorization."
+        },
+        {
+          "element_id": "90_p10_e104",
+          "sequence_order": 104,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "7.2 Remittance to the Treasury"
+        },
+        {
+          "element_id": "90_p10_e105",
+          "sequence_order": 105,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "Detailed rules govern the transit of cash from the point of collection to the treasury"
+        },
+        {
+          "element_id": "90_p10_e106",
+          "sequence_order": 106,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "or the Reserve Bank of India (RBI) / State Bank of India (SBI). Receipts must be"
+        },
+        {
+          "element_id": "90_p10_e107",
+          "sequence_order": 107,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "issued for all moneys received, and a Cash Book must be maintained and closed"
+        },
+        {
+          "element_id": "90_p10_e108",
+          "sequence_order": 108,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "daily."
+        },
+        {
+          "element_id": "90_p10_e109",
+          "sequence_order": 109,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "CHAPTER 8: EXPENDITURE AND"
+        },
+        {
+          "element_id": "90_p10_e110",
+          "sequence_order": 110,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "PAYMENT CONTROL"
+        },
+        {
+          "element_id": "90_p10_e111",
+          "sequence_order": 111,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Expenditure from public funds is subject to a multi-layered system of checks and"
+        },
+        {
+          "element_id": "90_p10_e112",
+          "sequence_order": 112,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "balances."
+        }
+      ]
+    },
+    "11": {
+      "elements": 15,
+      "flagged": 15,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "90_p11_e113",
+          "sequence_order": 113,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "8.1 Pre-requisites for Expenditure"
+        },
+        {
+          "element_id": "90_p11_e114",
+          "sequence_order": 114,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Before any government money is spent, the following conditions must be satisfied:"
+        },
+        {
+          "element_id": "90_p11_e115",
+          "sequence_order": 115,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Budget Provision: Funds must be available under the relevant Head of"
+        },
+        {
+          "element_id": "90_p11_e116",
+          "sequence_order": 116,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Account."
+        },
+        {
+          "element_id": "90_p11_e117",
+          "sequence_order": 117,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Administrative Approval: The competent authority must have approved the"
+        },
+        {
+          "element_id": "90_p11_e118",
+          "sequence_order": 118,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "necessity of the work or service."
+        },
+        {
+          "element_id": "90_p11_e119",
+          "sequence_order": 119,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Technical Sanction: In the case of public works, a competent engineering"
+        },
+        {
+          "element_id": "90_p11_e120",
+          "sequence_order": 120,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "authority must approve the technical estimates."
+        },
+        {
+          "element_id": "90_p11_e121",
+          "sequence_order": 121,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Financial Sanction: The authority with delegated financial powers must issue a"
+        },
+        {
+          "element_id": "90_p11_e122",
+          "sequence_order": 122,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "formal order sanctioning the expenditure."
+        },
+        {
+          "element_id": "90_p11_e123",
+          "sequence_order": 123,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "8.2 Re-appropriation of Funds"
+        },
+        {
+          "element_id": "90_p11_e124",
+          "sequence_order": 124,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Re-appropriation is the transfer of funds from one unit of appropriation to another"
+        },
+        {
+          "element_id": "90_p11_e125",
+          "sequence_order": 125,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "within the same grant. The rules strictly define who can authorize re-appropriation."
+        },
+        {
+          "element_id": "90_p11_e126",
+          "sequence_order": 126,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Importantly, funds cannot be re-appropriated from a \"Voted\" head to a \"Charged\""
+        },
+        {
+          "element_id": "90_p11_e127",
+          "sequence_order": 127,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "head, or to meet expenditure on a \"New Service\" without legislative approval."
+        }
+      ]
+    },
+    "12": {
+      "elements": 15,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "13": {
+      "elements": 21,
+      "flagged": 21,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "90_p13_e143",
+          "sequence_order": 143,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Government e-Marketplace (GeM)"
+        },
+        {
+          "element_id": "90_p13_e144",
+          "sequence_order": 144,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "To streamline procurement, the State Government has adopted the central GeM"
+        },
+        {
+          "element_id": "90_p13_e145",
+          "sequence_order": 145,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "portal. Departments are instructed to procure standard common-use items directly"
+        },
+        {
+          "element_id": "90_p13_e146",
+          "sequence_order": 146,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "through GeM, bypassing traditional tendering for smaller amounts to ensure speed"
+        },
+        {
+          "element_id": "90_p13_e147",
+          "sequence_order": 147,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "and efficiency."
+        },
+        {
+          "element_id": "90_p13_e148",
+          "sequence_order": 148,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "CHAPTER 10: INVENTORY AND STORES"
+        },
+        {
+          "element_id": "90_p13_e149",
+          "sequence_order": 149,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "MANAGEMENT"
+        },
+        {
+          "element_id": "90_p13_e150",
+          "sequence_order": 150,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Once procured, physical assets and stores must be managed securely to prevent"
+        },
+        {
+          "element_id": "90_p13_e151",
+          "sequence_order": 151,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "theft, loss, or deterioration."
+        },
+        {
+          "element_id": "90_p13_e152",
+          "sequence_order": 152,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "10.1 Custody and Verification"
+        },
+        {
+          "element_id": "90_p13_e153",
+          "sequence_order": 153,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "The rules require that:"
+        },
+        {
+          "element_id": "90_p13_e154",
+          "sequence_order": 154,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "All items received must be recorded in the Dead Stock Register or Consumables"
+        },
+        {
+          "element_id": "90_p13_e155",
+          "sequence_order": 155,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Register."
+        },
+        {
+          "element_id": "90_p13_e156",
+          "sequence_order": 156,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "The officer-in-charge is personally responsible for the custody of stores."
+        },
+        {
+          "element_id": "90_p13_e157",
+          "sequence_order": 157,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "A physical verification of all stores must be conducted at least once a year by an"
+        },
+        {
+          "element_id": "90_p13_e158",
+          "sequence_order": 158,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "officer independent of the custodian."
+        },
+        {
+          "element_id": "90_p13_e159",
+          "sequence_order": 159,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "10.2 Disposal of Obsolete Stores"
+        },
+        {
+          "element_id": "90_p13_e160",
+          "sequence_order": 160,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Stores that become unserviceable, obsolete, or surplus must be disposed of"
+        },
+        {
+          "element_id": "90_p13_e161",
+          "sequence_order": 161,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "promptly to free up space and recover residual value. A competent authority must"
+        },
+        {
+          "element_id": "90_p13_e162",
+          "sequence_order": 162,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "declare the items as \"unserviceable\" based on the recommendations of a survey"
+        },
+        {
+          "element_id": "90_p13_e163",
+          "sequence_order": 163,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "committee, after which they are usually auctioned."
+        }
+      ]
+    },
+    "14": {
+      "elements": 21,
+      "flagged": 21,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "90_p14_e164",
+          "sequence_order": 164,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "CHAPTER 11: ESTABLISHMENT,"
+        },
+        {
+          "element_id": "90_p14_e165",
+          "sequence_order": 165,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "SALARIES, AND PENSIONS"
+        },
+        {
+          "element_id": "90_p14_e166",
+          "sequence_order": 166,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "A significant portion of the State's expenditure goes towards the salaries,"
+        },
+        {
+          "element_id": "90_p14_e167",
+          "sequence_order": 167,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "allowances, and pensions of its employees. These are governed by the Maharashtra"
+        },
+        {
+          "element_id": "90_p14_e168",
+          "sequence_order": 168,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Civil Services (MCS) Rules."
+        },
+        {
+          "element_id": "90_p14_e169",
+          "sequence_order": 169,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "11.1 Pay and Allowances"
+        },
+        {
+          "element_id": "90_p14_e170",
+          "sequence_order": 170,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "The drawing of salaries requires careful maintenance of service books. The DDO"
+        },
+        {
+          "element_id": "90_p14_e171",
+          "sequence_order": 171,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "must ensure that pay bills are prepared accurately, incorporating correct"
+        },
+        {
+          "element_id": "90_p14_e172",
+          "sequence_order": 172,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "deductions for GPF/NPS, Income Tax, and Professional Tax. Annual increments must"
+        },
+        {
+          "element_id": "90_p14_e173",
+          "sequence_order": 173,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "be supported by appropriate sanction orders."
+        },
+        {
+          "element_id": "90_p14_e174",
+          "sequence_order": 174,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "11.2 Pension Rules"
+        },
+        {
+          "element_id": "90_p14_e175",
+          "sequence_order": 175,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "The Maharashtra Civil Services (Pension) Rules govern the retirement benefits of"
+        },
+        {
+          "element_id": "90_p14_e176",
+          "sequence_order": 176,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "state employees. For employees joining on or after November 1, 2005, the state has"
+        },
+        {
+          "element_id": "90_p14_e177",
+          "sequence_order": 177,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "adopted the National Pension System (NPS), which fundamentally shifts the liability"
+        },
+        {
+          "element_id": "90_p14_e178",
+          "sequence_order": 178,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "from a defined benefit to a defined contribution model. The timely settlement of"
+        },
+        {
+          "element_id": "90_p14_e179",
+          "sequence_order": 179,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "terminal benefits (Gratuity, Commutation, Pension) is highly prioritized in the"
+        },
+        {
+          "element_id": "90_p14_e180",
+          "sequence_order": 180,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "financial rules."
+        },
+        {
+          "element_id": "90_p14_e181",
+          "sequence_order": 181,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "CHAPTER 12: ADVANCES AND LOANS"
+        },
+        {
+          "element_id": "90_p14_e182",
+          "sequence_order": 182,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "TO GOVERNMENT SERVANTS"
+        },
+        {
+          "element_id": "90_p14_e183",
+          "sequence_order": 183,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "The State government provides certain advances to its employees, which are"
+        },
+        {
+          "element_id": "90_p14_e184",
+          "sequence_order": 184,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "categorized as interest-bearing and non-interest-bearing advances."
+        }
+      ]
+    },
+    "15": {
+      "elements": 12,
+      "flagged": 12,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "90_p15_e185",
+          "sequence_order": 185,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "12.1 Types of Advances"
+        },
+        {
+          "element_id": "90_p15_e186",
+          "sequence_order": 186,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Interest-Bearing Advances: These include House Building Advance (HBA),"
+        },
+        {
+          "element_id": "90_p15_e187",
+          "sequence_order": 187,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Motor Car/Motorcycle Advance, and Computer Advance. These require a"
+        },
+        {
+          "element_id": "90_p15_e188",
+          "sequence_order": 188,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "minimum length of service and are subject to maximum limits based on basic"
+        },
+        {
+          "element_id": "90_p15_e189",
+          "sequence_order": 189,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Non-Interest-Bearing Advances: These include Festival Advance (typically"
+        },
+        {
+          "element_id": "90_p15_e190",
+          "sequence_order": 190,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "granted during Diwali or other major festivals) and advances for traveling"
+        },
+        {
+          "element_id": "90_p15_e191",
+          "sequence_order": 191,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "allowance (TA) on tour or transfer."
+        },
+        {
+          "element_id": "90_p15_e192",
+          "sequence_order": 192,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "12.2 Recovery and Accounting"
+        },
+        {
+          "element_id": "90_p15_e193",
+          "sequence_order": 193,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Advances must be recovered from the employee's salary in prescribed monthly"
+        },
+        {
+          "element_id": "90_p15_e194",
+          "sequence_order": 194,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "installments. The DDO is strictly responsible for ensuring that recoveries begin"
+        },
+        {
+          "element_id": "90_p15_e195",
+          "sequence_order": 195,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "promptly as per the sanction order and that the principal is recovered before the"
+        },
+        {
+          "element_id": "90_p15_e196",
+          "sequence_order": 196,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "interest."
+        }
+      ]
+    },
+    "16": {
+      "elements": 17,
+      "flagged": 17,
+      "flags": [
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "90_p16_e197",
+          "sequence_order": 197,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "CHAPTER 13: GRANTS-IN-AID AND"
+        },
+        {
+          "element_id": "90_p16_e198",
+          "sequence_order": 198,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "LOCAL FUND ACCOUNTS"
+        },
+        {
+          "element_id": "90_p16_e199",
+          "sequence_order": 199,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "The State Government transfers significant funds to local bodies (Zilla Parishads,"
+        },
+        {
+          "element_id": "90_p16_e200",
+          "sequence_order": 200,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Panchayat Samitis, Gram Panchayats, and Municipal Corporations) as well as non-"
+        },
+        {
+          "element_id": "90_p16_e201",
+          "sequence_order": 201,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "governmental organizations (NGOs) through Grants-in-Aid."
+        },
+        {
+          "element_id": "90_p16_e202",
+          "sequence_order": 202,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "13.1 Conditions for Grants"
+        },
+        {
+          "element_id": "90_p16_e203",
+          "sequence_order": 203,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Financial rules mandate that grants can only be released if specific conditions are"
+        },
+        {
+          "element_id": "90_p16_e204",
+          "sequence_order": 204,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "The grantee institution must be legally constituted."
+        },
+        {
+          "element_id": "90_p16_e205",
+          "sequence_order": 205,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "The funds must be used specifically for the purpose they were sanctioned."
+        },
+        {
+          "element_id": "90_p16_e206",
+          "sequence_order": 206,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "The grantee must maintain audited statements of accounts."
+        },
+        {
+          "element_id": "90_p16_e207",
+          "sequence_order": 207,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "A \"Utilization Certificate\" (UC) must be submitted by the grantee. Subsequent"
+        },
+        {
+          "element_id": "90_p16_e208",
+          "sequence_order": 208,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "grants cannot be released if UCs for previous grants are pending."
+        },
+        {
+          "element_id": "90_p16_e209",
+          "sequence_order": 209,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "13.2 Zilla Parishad Finances"
+        },
+        {
+          "element_id": "90_p16_e210",
+          "sequence_order": 210,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "The finances of Zilla Parishads in Maharashtra are governed by the Maharashtra"
+        },
+        {
+          "element_id": "90_p16_e211",
+          "sequence_order": 211,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Zilla Parishads and Panchayat Samitis Account Code. Funds received from the State"
+        },
+        {
+          "element_id": "90_p16_e212",
+          "sequence_order": 212,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Government under various schemes are deposited in the District Fund, and their"
+        },
+        {
+          "element_id": "90_p16_e213",
+          "sequence_order": 213,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "withdrawal and expenditure mirror the State's Treasury rules."
+        }
+      ]
+    },
+    "17": {
+      "elements": 13,
+      "flagged": 13,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "90_p17_e214",
+          "sequence_order": 214,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "CHAPTER 14: CONTINGENCY FUND"
+        },
+        {
+          "element_id": "90_p17_e215",
+          "sequence_order": 215,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "RULES"
+        },
+        {
+          "element_id": "90_p17_e216",
+          "sequence_order": 216,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "The Maharashtra Contingency Fund is established under Article 267(2) of the"
+        },
+        {
+          "element_id": "90_p17_e217",
+          "sequence_order": 217,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Constitution. It is a corpus held by the Governor, operated by the Finance"
+        },
+        {
+          "element_id": "90_p17_e218",
+          "sequence_order": 218,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Department."
+        },
+        {
+          "element_id": "90_p17_e219",
+          "sequence_order": 219,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "14.1 Operation of the Fund"
+        },
+        {
+          "element_id": "90_p17_e220",
+          "sequence_order": 220,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "The fund is strictly used to meet unforeseen, emergent expenditures that cannot"
+        },
+        {
+          "element_id": "90_p17_e221",
+          "sequence_order": 221,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "wait for the State Legislature's approval. For example, immediate relief measures"
+        },
+        {
+          "element_id": "90_p17_e222",
+          "sequence_order": 222,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "for natural calamities (floods, droughts) often draw from this fund."
+        },
+        {
+          "element_id": "90_p17_e223",
+          "sequence_order": 223,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "14.2 Recoupment"
+        },
+        {
+          "element_id": "90_p17_e224",
+          "sequence_order": 224,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Any advance taken from the Contingency Fund must be recouped by obtaining"
+        },
+        {
+          "element_id": "90_p17_e225",
+          "sequence_order": 225,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "supplementary grants from the State Legislature in its next session. The advance is"
+        },
+        {
+          "element_id": "90_p17_e226",
+          "sequence_order": 226,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "an interim measure, not a permanent source of funding."
+        }
+      ]
+    },
+    "18": {
+      "elements": 20,
+      "flagged": 20,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "90_p18_e227",
+          "sequence_order": 227,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "CHAPTER 15: AUDIT AND FINANCIAL"
+        },
+        {
+          "element_id": "90_p18_e228",
+          "sequence_order": 228,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "ACCOUNTABILITY"
+        },
+        {
+          "element_id": "90_p18_e229",
+          "sequence_order": 229,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Audit is the final and most crucial step in the financial cycle, ensuring"
+        },
+        {
+          "element_id": "90_p18_e230",
+          "sequence_order": 230,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "accountability and adherence to rules."
+        },
+        {
+          "element_id": "90_p18_e231",
+          "sequence_order": 231,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "15.1 Statutory Audit"
+        },
+        {
+          "element_id": "90_p18_e232",
+          "sequence_order": 232,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "The Comptroller and Auditor General (CAG) of India conducts the statutory audit of"
+        },
+        {
+          "element_id": "90_p18_e233",
+          "sequence_order": 233,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "the Maharashtra Government's finances. The CAG produces several reports"
+        },
+        {
+          "element_id": "90_p18_e234",
+          "sequence_order": 234,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "annually:"
+        },
+        {
+          "element_id": "90_p18_e235",
+          "sequence_order": 235,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Finance Accounts: The comprehensive accounts of the State's receipts and"
+        },
+        {
+          "element_id": "90_p18_e236",
+          "sequence_order": 236,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "disbursements."
+        },
+        {
+          "element_id": "90_p18_e237",
+          "sequence_order": 237,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Appropriation Accounts: A comparison of actual expenditure against the"
+        },
+        {
+          "element_id": "90_p18_e238",
+          "sequence_order": 238,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "budget grants voted by the Legislature, highlighting excesses or savings."
+        },
+        {
+          "element_id": "90_p18_e239",
+          "sequence_order": 239,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Audit Reports: Highlighting instances of financial irregularities, wasteful"
+        },
+        {
+          "element_id": "90_p18_e240",
+          "sequence_order": 240,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "expenditure, and performance audits of major schemes."
+        },
+        {
+          "element_id": "90_p18_e241",
+          "sequence_order": 241,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "15.2 Public Accounts Committee (PAC)"
+        },
+        {
+          "element_id": "90_p18_e242",
+          "sequence_order": 242,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "The CAG's reports are laid before the State Legislature and subsequently examined"
+        },
+        {
+          "element_id": "90_p18_e243",
+          "sequence_order": 243,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "by the Public Accounts Committee (PAC). The PAC calls upon the Principal"
+        },
+        {
+          "element_id": "90_p18_e244",
+          "sequence_order": 244,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Secretaries of the concerned departments to explain the irregularities pointed out"
+        },
+        {
+          "element_id": "90_p18_e245",
+          "sequence_order": 245,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "by the CAG. The PAC's recommendations carry significant weight, and the executive"
+        },
+        {
+          "element_id": "90_p18_e246",
+          "sequence_order": 246,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "must submit Action Taken Reports (ATRs)."
+        }
+      ]
+    },
+    "19": {
+      "elements": 18,
+      "flagged": 18,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "90_p19_e247",
+          "sequence_order": 247,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "CHAPTER 16: DEFALCATIONS, LOSSES,"
+        },
+        {
+          "element_id": "90_p19_e248",
+          "sequence_order": 248,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "AND WRITE-OFFS"
+        },
+        {
+          "element_id": "90_p19_e249",
+          "sequence_order": 249,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Despite rigorous controls, financial losses can occur due to fraud, negligence, or"
+        },
+        {
+          "element_id": "90_p19_e250",
+          "sequence_order": 250,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "natural causes."
+        },
+        {
+          "element_id": "90_p19_e251",
+          "sequence_order": 251,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "16.1 Reporting of Losses"
+        },
+        {
+          "element_id": "90_p19_e252",
+          "sequence_order": 252,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "The Maharashtra Financial Rules require that any loss of public money, stores, or"
+        },
+        {
+          "element_id": "90_p19_e253",
+          "sequence_order": 253,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "other property due to defalcation, fraud, or negligence must be reported"
+        },
+        {
+          "element_id": "90_p19_e254",
+          "sequence_order": 254,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "immediately to the immediate superior, the Head of the Department, and the"
+        },
+        {
+          "element_id": "90_p19_e255",
+          "sequence_order": 255,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Accountant General, even if the loss has been made good."
+        },
+        {
+          "element_id": "90_p19_e256",
+          "sequence_order": 256,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "16.2 Investigation and Recovery"
+        },
+        {
+          "element_id": "90_p19_e257",
+          "sequence_order": 257,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "An immediate departmental inquiry must be instituted. The primary goal is to"
+        },
+        {
+          "element_id": "90_p19_e258",
+          "sequence_order": 258,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "recover the loss from the responsible official. Under the rules, the official's pension/"
+        },
+        {
+          "element_id": "90_p19_e259",
+          "sequence_order": 259,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "gratuity can also be withheld to make good the loss."
+        },
+        {
+          "element_id": "90_p19_e260",
+          "sequence_order": 260,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "16.3 Write-Off"
+        },
+        {
+          "element_id": "90_p19_e261",
+          "sequence_order": 261,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "If the loss is deemed irrecoverable after all avenues are exhausted, the competent"
+        },
+        {
+          "element_id": "90_p19_e262",
+          "sequence_order": 262,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "authority may sanction a \"write-off.\" The power to write off losses is strictly"
+        },
+        {
+          "element_id": "90_p19_e263",
+          "sequence_order": 263,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "delegated, with larger amounts requiring the direct approval of the Finance"
+        },
+        {
+          "element_id": "90_p19_e264",
+          "sequence_order": 264,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Department."
+        }
+      ]
+    },
+    "20": {
+      "elements": 21,
+      "flagged": 21,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "90_p20_e265",
+          "sequence_order": 265,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "CHAPTER 17: DELEGATION OF"
+        },
+        {
+          "element_id": "90_p20_e266",
+          "sequence_order": 266,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "FINANCIAL POWERS"
+        },
+        {
+          "element_id": "90_p20_e267",
+          "sequence_order": 267,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "To ensure smooth administration without bureaucratic bottlenecks, the Finance"
+        },
+        {
+          "element_id": "90_p20_e268",
+          "sequence_order": 268,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Department delegates specific financial powers to Administrative Departments,"
+        },
+        {
+          "element_id": "90_p20_e269",
+          "sequence_order": 269,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Heads of Departments, and Subordinate Officers under the 'Delegation of Financial"
+        },
+        {
+          "element_id": "90_p20_e270",
+          "sequence_order": 270,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Powers Rules' (DFPR)."
+        },
+        {
+          "element_id": "90_p20_e271",
+          "sequence_order": 271,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "17.1 Limits and Restrictions"
+        },
+        {
+          "element_id": "90_p20_e272",
+          "sequence_order": 272,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "These powers cover areas like sanctioning works, purchasing stores, condemning"
+        },
+        {
+          "element_id": "90_p20_e273",
+          "sequence_order": 273,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "obsolete items, and sanctioning leave/advances. The powers are subject to financial"
+        },
+        {
+          "element_id": "90_p20_e274",
+          "sequence_order": 274,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "limits. Any expenditure exceeding the delegated limit must be referred to the"
+        },
+        {
+          "element_id": "90_p20_e275",
+          "sequence_order": 275,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Finance Department for concurrence."
+        },
+        {
+          "element_id": "90_p20_e276",
+          "sequence_order": 276,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "CHAPTER 18: E-GOVERNANCE AND"
+        },
+        {
+          "element_id": "90_p20_e277",
+          "sequence_order": 277,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "FINANCIAL MODERNIZATION"
+        },
+        {
+          "element_id": "90_p20_e278",
+          "sequence_order": 278,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "In recent years, the Government of Maharashtra has aggressively modernized its"
+        },
+        {
+          "element_id": "90_p20_e279",
+          "sequence_order": 279,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "financial administration using Information Technology."
+        },
+        {
+          "element_id": "90_p20_e280",
+          "sequence_order": 280,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "18.1 Key IT Initiatives"
+        },
+        {
+          "element_id": "90_p20_e281",
+          "sequence_order": 281,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Sevaarth: The centralized payroll system for all government employees."
+        },
+        {
+          "element_id": "90_p20_e282",
+          "sequence_order": 282,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Koshwahini: The portal providing real-time data on the flow of funds in the"
+        },
+        {
+          "element_id": "90_p20_e283",
+          "sequence_order": 283,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "state exchequer, integrating treasuries, banks, and the AG."
+        },
+        {
+          "element_id": "90_p20_e284",
+          "sequence_order": 284,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "BDS (Budget Distribution System): Electronic distribution of budget grants"
+        },
+        {
+          "element_id": "90_p20_e285",
+          "sequence_order": 285,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "from Controlling Officers to DDOs, eliminating physical delays."
+        }
+      ]
+    },
+    "21": {
+      "elements": 12,
+      "flagged": 12,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "90_p21_e286",
+          "sequence_order": 286,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "E-Kuber (RBI): Integration of state treasury payments directly with the RBI's"
+        },
+        {
+          "element_id": "90_p21_e287",
+          "sequence_order": 287,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Core Banking Solution for real-time electronic fund transfers (NEFT/RTGS) to"
+        },
+        {
+          "element_id": "90_p21_e288",
+          "sequence_order": 288,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "beneficiaries."
+        },
+        {
+          "element_id": "90_p21_e289",
+          "sequence_order": 289,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "These systems ensure that financial rules are hardcoded into software logic,"
+        },
+        {
+          "element_id": "90_p21_e290",
+          "sequence_order": 290,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "preventing unauthorized drawals and ensuring strict budgetary control."
+        },
+        {
+          "element_id": "90_p21_e291",
+          "sequence_order": 291,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Conclusion"
+        },
+        {
+          "element_id": "90_p21_e292",
+          "sequence_order": 292,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "The financial laws and rules of the Government of Maharashtra represent a delicate"
+        },
+        {
+          "element_id": "90_p21_e293",
+          "sequence_order": 293,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "balance between facilitating unhindered public service delivery and maintaining"
+        },
+        {
+          "element_id": "90_p21_e294",
+          "sequence_order": 294,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "rigid control over public money. Adherence to the Maharashtra Financial Rules,"
+        },
+        {
+          "element_id": "90_p21_e295",
+          "sequence_order": 295,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Treasury Rules, and the principles of propriety is not merely an administrative"
+        },
+        {
+          "element_id": "90_p21_e296",
+          "sequence_order": 296,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "requirement, but a constitutional duty owed to the citizens of the State."
+        },
+        {
+          "element_id": "90_p21_e297",
+          "sequence_order": 297,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "- END OF DOCUMENT -"
+        }
+      ]
+    }
+  }
+}

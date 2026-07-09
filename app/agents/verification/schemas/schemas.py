@@ -110,6 +110,7 @@ class FieldExtractionResponse(BaseModel):
 class VerificationRequest(BaseModel):
     document_type: str
     extracted_fields: Dict[str, Any]
+    profile_data: Optional[Dict[str, Any]] = None
 
 
 class VerificationResponse(BaseModel):

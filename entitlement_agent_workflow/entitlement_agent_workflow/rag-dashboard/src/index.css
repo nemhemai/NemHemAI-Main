@@ -1,0 +1,65 @@
+html, body, #root {
+  height: 100%;
+  margin: 0;
+}
+
+@keyframes gradientMove {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(25px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeSlide {
+  from {
+    opacity: 0;
+    transform: translateX(-30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+input:focus, select:focus {
+  box-shadow: 0 0 0 2px rgba(102,126,234,0.6);
+  transform: scale(1.02);
+}
+
+button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 30px rgba(0,0,0,0.4);
+}
+
+label:hover {
+  border-color: #fff;
+}
+
+button:hover {
+  transform: translateY(-2px);
+}
+
+div:hover {
+  transition: 0.2s;
+}
+
+tr:hover {
+  transform: scale(1.01);
+  background: rgba(255,255,255,0.12);
+}

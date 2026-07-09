@@ -1,0 +1,29 @@
+scheme_id: PMUY-LPG
+scheme_name: Pradhan Mantri Ujjwala Yojana
+issuing_authority: Ministry of Petroleum and Natural Gas, Government of India
+department_code: MoPNG
+jurisdiction: central
+state_origin: null
+category: fuel
+active: true
+eligibility_rules:
+- field: gender
+  operator: eq
+  value: female
+- field: age
+  operator: gte
+  value: 18
+required_documents:
+- Aadhaar
+- Ration card showing BPL status
+- Address proof
+benefit:
+  type: subsidy
+  amount: 1600
+  currency: INR
+processing_days: 15
+application_url: https://www.pmuy.gov.in/
+tags:
+- clean_fuel
+- lpg
+- women_welfare

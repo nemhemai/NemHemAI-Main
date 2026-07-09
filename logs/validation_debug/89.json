@@ -1,0 +1,627 @@
+{
+  "document_id": 89,
+  "pages": {
+    "1": {
+      "elements": 1,
+      "flagged": 1,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "89_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Maharashtra General Financial Rules – Study Guide (Summary)"
+        }
+      ]
+    },
+    "2": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "89_p2_e1",
+          "sequence_order": 1,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "1. Purpose"
+        },
+        {
+          "element_id": "89_p2_e2",
+          "sequence_order": 2,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "This study guide summarizes common principles used in Maharashtra Government financial administration. It is a study aid"
+        }
+      ]
+    },
+    "3": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "89_p3_e3",
+          "sequence_order": 3,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "2. Financial Principles"
+        },
+        {
+          "element_id": "89_p3_e4",
+          "sequence_order": 4,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "Public money must be spent only for sanctioned public purposes, with economy, efficiency, transparency and accountabilit"
+        }
+      ]
+    },
+    "4": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "89_p4_e5",
+          "sequence_order": 5,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "3. Budget"
+        },
+        {
+          "element_id": "89_p4_e6",
+          "sequence_order": 6,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "Departments estimate expenditure and receipts annually. Spending should remain within budget grants unless revised sanct"
+        }
+      ]
+    },
+    "5": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "89_p5_e7",
+          "sequence_order": 7,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "4. Financial Sanction"
+        },
+        {
+          "element_id": "89_p5_e8",
+          "sequence_order": 8,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Administrative approval and financial sanction are required before expenditure is incurred unless exempted."
+        }
+      ]
+    },
+    "6": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "89_p6_e9",
+          "sequence_order": 9,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "5. Drawing and Disbursing"
+        },
+        {
+          "element_id": "89_p6_e10",
+          "sequence_order": 10,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Authorized officers draw funds and maintain proper records, vouchers and registers."
+        }
+      ]
+    },
+    "7": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "89_p7_e11",
+          "sequence_order": 11,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "6. Treasury"
+        },
+        {
+          "element_id": "89_p7_e12",
+          "sequence_order": 12,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Government receipts and payments are routed through treasury systems according to treasury procedures."
+        }
+      ]
+    },
+    "8": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "89_p8_e13",
+          "sequence_order": 13,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "7. Government Receipts"
+        },
+        {
+          "element_id": "89_p8_e14",
+          "sequence_order": 14,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "All government money should be promptly deposited and accurately accounted for."
+        }
+      ]
+    },
+    "9": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "89_p9_e15",
+          "sequence_order": 15,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "8. Contingent Expenditure"
+        },
+        {
+          "element_id": "89_p9_e16",
+          "sequence_order": 16,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Contingent expenses require proper authorization, supporting bills and budget availability."
+        }
+      ]
+    },
+    "10": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "89_p10_e17",
+          "sequence_order": 17,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "9. Procurement"
+        },
+        {
+          "element_id": "89_p10_e18",
+          "sequence_order": 18,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Ensure fairness, competition, value for money, transparency and proper documentation."
+        }
+      ]
+    },
+    "11": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "89_p11_e19",
+          "sequence_order": 19,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "10. Stores"
+        },
+        {
+          "element_id": "89_p11_e20",
+          "sequence_order": 20,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Maintain stock registers, periodic verification and disposal of obsolete items under rules."
+        }
+      ]
+    },
+    "12": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "89_p12_e21",
+          "sequence_order": 21,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "11. Advances"
+        },
+        {
+          "element_id": "89_p12_e22",
+          "sequence_order": 22,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Advances should be adjusted promptly with supporting documents."
+        }
+      ]
+    },
+    "13": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "89_p13_e23",
+          "sequence_order": 23,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "12. Works"
+        },
+        {
+          "element_id": "89_p13_e24",
+          "sequence_order": 24,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Public works require estimates, technical sanction where applicable and measurement records."
+        }
+      ]
+    },
+    "14": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "89_p14_e25",
+          "sequence_order": 25,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "13. Accounting"
+        },
+        {
+          "element_id": "89_p14_e26",
+          "sequence_order": 26,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Maintain cash books, ledgers, vouchers and reconciliation accurately and on time."
+        }
+      ]
+    },
+    "15": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "89_p15_e27",
+          "sequence_order": 27,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "14. Audit"
+        },
+        {
+          "element_id": "89_p15_e28",
+          "sequence_order": 28,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Internal and external audits verify legality, regularity and efficiency of expenditure."
+        }
+      ]
+    },
+    "16": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "89_p16_e29",
+          "sequence_order": 29,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "15. Responsibility"
+        },
+        {
+          "element_id": "89_p16_e30",
+          "sequence_order": 30,
+          "page_number": 16,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Officials are personally responsible for financial propriety within delegated powers."
+        }
+      ]
+    },
+    "17": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "89_p17_e31",
+          "sequence_order": 31,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "16. Common Mistakes"
+        },
+        {
+          "element_id": "89_p17_e32",
+          "sequence_order": 32,
+          "page_number": 17,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Avoid expenditure without sanction, delayed deposits, incomplete records and unsupported claims."
+        }
+      ]
+    },
+    "18": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "89_p18_e33",
+          "sequence_order": 33,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "17. Exam Tips"
+        },
+        {
+          "element_id": "89_p18_e34",
+          "sequence_order": 34,
+          "page_number": 18,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Remember: sanction → budget → procurement → payment → accounting → audit."
+        }
+      ]
+    },
+    "19": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "89_p19_e35",
+          "sequence_order": 35,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "18. Quick Revision"
+        },
+        {
+          "element_id": "89_p19_e36",
+          "sequence_order": 36,
+          "page_number": 19,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Economy, Efficiency, Effectiveness, Transparency, Accountability, Documentation."
+        }
+      ]
+    },
+    "20": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "89_p20_e37",
+          "sequence_order": 37,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "19. Practice Questions"
+        },
+        {
+          "element_id": "89_p20_e38",
+          "sequence_order": 38,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "1. What is financial sanction? 2. Why are vouchers important? 3. State two procurement principles."
+        }
+      ]
+    },
+    "21": {
+      "elements": 2,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "89_p21_e39",
+          "sequence_order": 39,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "20. Disclaimer"
+        },
+        {
+          "element_id": "89_p21_e40",
+          "sequence_order": 40,
+          "page_number": 21,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "Refer to the official Maharashtra Finance Department publications and Bombay Financial Rules/Maharashtra Treasury Rules "
+        }
+      ]
+    }
+  }
+}

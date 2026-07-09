@@ -1,0 +1,26 @@
+scheme_id: NULM-MISSION-2013
+scheme_name: Deendayal Antyodaya Yojana - National Urban Livelihoods Mission
+issuing_authority: Ministry of Housing and Urban Affairs, Government of India
+department_code: MoHUA
+jurisdiction: central
+state_origin: null
+category: livelihood
+active: true
+eligibility_rules:
+- field: urban_rural
+  operator: eq
+  value: urban
+required_documents:
+- Aadhaar
+- BPL card
+- Income certificate
+benefit:
+  type: subsidy
+  amount: 200000
+  currency: INR
+processing_days: 45
+application_url: https://nulm.gov.in/
+tags:
+- livelihood
+- urban
+- employment

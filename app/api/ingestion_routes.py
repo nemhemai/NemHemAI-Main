@@ -375,3 +375,144 @@ async def bulk_upload(
         "message": "Bulk ingestion started",
         "jobs": job_ids
     }
+
+# ===============================================================
+# ⚡ QUICK UPLOAD (NO EXPLICIT METADATA)
+# ===============================================================
+@router.post("/quick-upload")
+async def quick_upload(
+    files: List[UploadFile] = File(...),
+    user = Depends(get_current_user),
+):
+    """
+    Upload files quickly from the chat bar without explicit metadata JSON.
+    Auto-generates basic metadata using regex.
+    """
+    import json
+    import re
+    
+    if not files:
+        raise HTTPException(status_code=400, detail="No files provided")
+
+    job_ids = []
+    conn = get_db_conn()
+
+    try:
+        for file in files:
+            if not file.filename.lower().endswith(".pdf"):
+                continue
+
+            base_name = re.sub(r'(?i)\.pdf$', '', file.filename)
+            
+            # 🚀 AUTO-GENERATE METADATA ON THE FLY
+            title = re.sub(r'[-_]', ' ', base_name).title()
+            metadata = {
+                "title": title,
+                "document_number": "UNKNOWN",
+                "issuing_authority": "Government of India",
+                "department_code": "GENERAL",
+                "jurisdiction": "central",
+                "state_origin": None,
+                "document_type": "manual",
+                "security_level": "public",
+                "primary_language": "en",
+                "version_label": "2024"
+            }
+            
+            # Save to data/raw (best-effort)
+            try:
+                os.makedirs(os.path.join("data", "raw"), exist_ok=True)
+                json_path = os.path.join("data", "raw", f"{base_name}.json")
+                if not os.path.exists(json_path):
+                    with open(json_path, 'w', encoding='utf-8') as f:
+                        json.dump(metadata, f, indent=2, ensure_ascii=False)
+            except Exception as e:
+                print(f"Warning: Could not save auto-generated metadata to disk: {e}")
+
+            # -----------------------------------------------
+            # DUPLICATE CHECK
+            # -----------------------------------------------
+            with conn.cursor() as cur:
+                cur.execute("""
+                    SELECT job_id, status FROM ingestion_jobs
+                    WHERE file_name = %s
+                    ORDER BY created_at DESC LIMIT 1
+                """, (file.filename,))
+                existing = cur.fetchone()
+
+            if existing:
+                existing_job_id, existing_status = existing
+                if existing_status in ("COMPLETED", "EXTRACTING", "EMBEDDING"):
+                    job_ids.append({
+                        "job_id": existing_job_id,
+                        "file_name": file.filename,
+                        "skipped": True,
+                        "existing_status": existing_status
+                    })
+                    continue
+                elif existing_status == "UPLOADED":
+                    # Resume job
+                    metadata["user_id"] = user["user_id"]
+                    metadata["uploaded_by"] = user.get("username")
+                    metadata["job_id"] = existing_job_id
+                    existing_file_path = os.path.join("storage", os.path.basename(file.filename))
+                    if not os.path.exists(existing_file_path):
+                        content = await file.read()
+                        with open(existing_file_path, "wb") as fout:
+                            fout.write(content)
+                    start_pipeline_async(existing_job_id, existing_file_path, metadata)
+                    job_ids.append({
+                        "job_id": existing_job_id,
+                        "file_name": file.filename,
+                        "resumed": True
+                    })
+                    continue
+
+            job_id = str(uuid.uuid4())
+            os.makedirs("storage", exist_ok=True)
+            safe_filename = os.path.basename(file.filename)
+            file_path = os.path.join("storage", safe_filename)
+
+            with open(file_path, "wb") as f:
+                f.write(await file.read())
+
+            # 🔐 USER + JOB CONTEXT
+            metadata["user_id"] = user["user_id"]
+            metadata["uploaded_by"] = user.get("username")
+            metadata["job_id"] = job_id
+
+            with conn.cursor() as cur:
+                cur.execute("""
+                    INSERT INTO ingestion_jobs (job_id, file_name, status)
+                    VALUES (%s, %s, %s)
+                """, (job_id, file.filename, "UPLOADED"))
+
+            # ✅ AUDIT LOG
+            log_ingestion_event({
+                "job_id": str(job_id),
+                "user_id": str(user["user_id"]),
+                "username": user.get("username"),
+                "action": "upload",
+                "stage": "UPLOADED",
+                "status": "success",
+                "message": f"{file.filename} uploaded (quick)"
+            })
+
+            job_ids.append({
+                "job_id": job_id,
+                "file_name": file.filename
+            })
+
+            start_pipeline_async(job_id, file_path, metadata)
+        
+        conn.commit()
+    finally:
+        release_db_conn(conn)
+
+    if not job_ids:
+        raise HTTPException(status_code=400, detail="No files were processed. Please upload valid PDFs.")
+
+    return {
+        "message": "Quick ingestion started",
+        "jobs": job_ids
+    }

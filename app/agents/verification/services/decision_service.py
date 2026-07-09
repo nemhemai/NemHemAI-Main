@@ -139,7 +139,13 @@ class DecisionService:
         # Rule 3: Critical verification checks failed → REJECT
         critical_fails = [f for f in verify_failed if self._is_critical_check(f)]
         if critical_fails:
-            reasons.append(f"Critical checks failed: {', '.join(critical_fails)}")
+            fail_map = {
+                "profile_name_match": "Profile name does not match the uploaded document",
+                "profile_dob_match": "Profile Date of Birth does not match the uploaded document",
+                "profile_aadhaar_match": "Profile Aadhaar number does not match the uploaded document"
+            }
+            readable_fails = [fail_map.get(f, f) for f in critical_fails]
+            reasons.append(f"Critical checks failed: {', '.join(readable_fails)}")
             return DECISION_REJECTED, reasons
 
         # Rule 4: Verification confidence below minimum → REJECT
@@ -189,6 +195,9 @@ class DecisionService:
             "passport_number_format",
             "dob_valid",
             "passport_not_expired",
+            "profile_name_match",
+            "profile_dob_match",
+            "profile_aadhaar_match",
         }
         return check_name in critical
 

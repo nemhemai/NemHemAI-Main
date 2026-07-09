@@ -1,0 +1,29 @@
+scheme_id: PMEGP-KVIC
+scheme_name: Prime Minister's Employment Generation Programme
+issuing_authority: Ministry of Micro, Small and Medium Enterprises, Government of
+  India
+department_code: MoMSME
+jurisdiction: central
+state_origin: null
+category: employment
+active: true
+eligibility_rules:
+- field: age
+  operator: gte
+  value: 18
+required_documents:
+- Aadhaar
+- Project report
+- Education marksheet
+- Caste certificate if applicable
+benefit:
+  type: subsidy
+  amount: 950000
+  currency: INR
+processing_days: 60
+application_url: https://www.kviconline.gov.in/pmegpeportal/
+tags:
+- employment
+- loan
+- subsidy
+- msme

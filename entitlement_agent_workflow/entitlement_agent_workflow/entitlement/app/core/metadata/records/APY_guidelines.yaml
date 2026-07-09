@@ -1,0 +1,31 @@
+scheme_id: APY-RULES-2015
+scheme_name: Atal Pension Yojana
+issuing_authority: Pension Fund Regulatory and Development Authority, Government of
+  India
+department_code: PFRDA
+jurisdiction: central
+state_origin: null
+category: pension
+active: true
+eligibility_rules:
+- field: age
+  operator: between
+  value:
+  - 18
+  - 40
+- field: has_bank_account
+  operator: eq
+  value: true
+required_documents:
+- Aadhaar
+- Bank passbook
+benefit:
+  type: pension
+  amount: 5000
+  currency: INR
+processing_days: 30
+application_url: https://www.npscra.nsdl.co.in/scheme-details.php
+tags:
+- pension
+- social_security
+- unorganized_sector

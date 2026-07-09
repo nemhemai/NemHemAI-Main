@@ -1,0 +1,29 @@
+scheme_id: SSY-RULES-2019
+scheme_name: Sukanya Samriddhi Yojana
+issuing_authority: Ministry of Finance, Government of India
+department_code: MoF
+jurisdiction: central
+state_origin: null
+category: savings
+active: true
+eligibility_rules:
+- field: gender
+  operator: eq
+  value: female
+- field: age
+  operator: lte
+  value: 10
+required_documents:
+- Girl child birth certificate
+- Parent Aadhaar card
+- Address proof
+benefit:
+  type: savings_interest
+  amount: 150000
+  currency: INR
+processing_days: 15
+application_url: https://www.indiapost.gov.in/
+tags:
+- savings
+- girl_child
+- financial_inclusion

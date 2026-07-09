@@ -81,7 +81,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ── Config ────────────────────────────────────────────────────────────────────
-OLLAMA_MODEL      = os.getenv("BRIEFING_MODEL", "qwen2.5-coder:7b")
+OLLAMA_MODEL      = os.getenv("BRIEFING_MODEL", "llama3.2:3b")
 EMBED_MODEL       = os.getenv("EMBED_MODEL", "nomic-embed-text")
 OLLAMA_BASE_URL   = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
 QDRANT_PATH       = os.getenv("QDRANT_PATH", "./qdrant_briefing_store")
@@ -967,25 +967,25 @@ def _run_pipeline(
     if raw_briefing is None:
         return {"success": False, "error": "LLM failed after 3 attempts"}
 
-    # Confidence-based self-correction (skip if we only have 1 document, e.g. direct context, to save time)
-    confidence = float(raw_briefing.get("confidence", 0.5))
-    if confidence < MIN_CONFIDENCE and len(documents) > 1:
-        logger.info(f"Confidence {confidence:.0%} below threshold — expanding retrieval")
-        doc_context = _retrieve_chunks(query, documents, MAX_CHUNKS_EXPAND, boost_patterns)
-        try:
-            raw_briefing = _call_llm_json(
-                BRIEFING_PROMPT.format(
-                    role=role, depth=depth,
-                    depth_desc=DEPTH_DESCRIPTIONS.get(depth, "balanced"),
-                    tone=profile["tone"], max_words=profile["max_words"],
-                    focus=profile["focus"], urgency=urgency,
-                    query=query, doc_context=doc_context,
-                    memory_hints=f"HERMES:\n{hints}\n" if hints else "",
-                ),
-                model,
-            )
-        except Exception as e:
-            logger.warning(f"Expanded retrieval attempt failed: {e}")
+    # (Disabled the slow second LLM call for speed)
+    # confidence = float(raw_briefing.get("confidence", 0.5))
+    # if confidence < MIN_CONFIDENCE and len(documents) > 1:
+    #     logger.info(f"Confidence {confidence:.0%} below threshold — expanding retrieval")
+    #     doc_context = _retrieve_chunks(query, documents, MAX_CHUNKS_EXPAND, boost_patterns)
+    #     try:
+    #         raw_briefing = _call_llm_json(
+    #             BRIEFING_PROMPT.format(
+    #                 role=role, depth=depth,
+    #                 depth_desc=DEPTH_DESCRIPTIONS.get(depth, "balanced"),
+    #                 tone=profile["tone"], max_words=profile["max_words"],
+    #                 focus=profile["focus"], urgency=urgency,
+    #                 query=query, doc_context=doc_context,
+    #                 memory_hints=f"HERMES:\n{hints}\n" if hints else "",
+    #             ),
+    #             model,
+    #         )
+    #     except Exception as e:
+    #         logger.warning(f"Expanded retrieval attempt failed: {e}")
 
     briefing, _ = _validate_briefing(raw_briefing, documents)
     json_out    = _save_briefing(briefing, query, role, output_json)
@@ -1096,6 +1096,64 @@ class BriefingAgent:
         # so we do NOT call it again here. The result already reflects a complete run.
 
         return result
+
+    def stream(self, query: str, docs_path: str = "", context_texts: list = None,
+            role: str = "default"):
+        
+        try:
+            if context_texts:
+                documents = [{"filename": "db_context", "text": ctx} for ctx in context_texts]
+            else:
+                documents = _load_documents(docs_path)
+        except Exception as e:
+            yield f"Error: {e}"
+            return
+        if not documents:
+            yield "Error: No documents loaded"
+            return
+
+        profile = _get_role_profile(role)
+        urgency = _detect_urgency(query, documents)
+        if profile["urgency"] == "high":
+            urgency = "high"
+
+        boost_patterns = self.memory.get("boost_patterns", {}).get(role, [])
+        doc_context    = _retrieve_chunks(query, documents, TOP_K_CHUNKS, boost_patterns)
+
+        prompt = f"""You are the NemHem Briefing Agent.
+Produce a structured briefing ONLY from the SOURCE EXCERPTS below.
+Do NOT use prior knowledge.
+
+ROLE: {role} | DEPTH: {profile['depth']} | TONE: {profile['tone']}
+MAX WORDS: {profile['max_words']} | URGENCY: {urgency}
+QUERY: {query}
+
+SOURCE EXCERPTS:
+{doc_context}
+
+Return the output formatted in Markdown with the following sections:
+## Executive Summary & Recommended Actions
+(Combine the high-level summary and actionable steps here)
+
+## Key Findings
+(List out key details from the excerpts)
+
+## Risks & Flags
+(List any critical issues)
+"""
+        import ollama
+        try:
+            response = ollama.chat(
+                model=self.model,
+                messages=[{"role": "user", "content": prompt}],
+                options={"temperature": 0.1, "num_predict": 1000},
+                stream=True
+            )
+            for chunk in response:
+                if 'message' in chunk and 'content' in chunk['message']:
+                    yield chunk['message']['content']
+        except Exception as e:
+            yield f"\n\nError streaming response: {e}"
 
 
 # ── PraisonAI external tool descriptor ───────────────────────────────────────

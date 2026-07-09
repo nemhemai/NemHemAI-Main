@@ -1,4 +1,5 @@
 from fastapi import APIRouter, HTTPException
+from fastapi.responses import StreamingResponse
 from pydantic import BaseModel
 
 from app.agents.briefing.service import BriefingAgent, rate_briefing, OLLAMA_MODEL
@@ -23,6 +24,14 @@ def generate_briefing(req: BriefingRequest):
     if not result.get("success"):
         raise HTTPException(status_code=500, detail=result.get("error", "Briefing generation failed"))
     return result
+
+@router.post("/stream")
+def stream_briefing(req: BriefingRequest):
+    agent = BriefingAgent(model=req.model)
+    return StreamingResponse(
+        agent.stream(query=req.query, docs_path="", context_texts=req.context_texts, role=req.role),
+        media_type="text/plain"
+    )
 
 @router.post("/rate")
 def rate_briefing_api(req: RatingRequest):

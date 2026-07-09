@@ -1,0 +1,37 @@
+scheme_id: POST-MATRIC-SCHOLARSHIP
+scheme_name: Post-Matric Scholarship Scheme
+issuing_authority: Ministry of Social Justice and Empowerment, Government of India
+department_code: MSJE
+jurisdiction: central
+state_origin: null
+category: education
+active: true
+eligibility_rules:
+- field: education_level
+  operator: eq
+  value: post_matric
+- field: category
+  operator: in
+  value:
+  - SC
+  - ST
+  - OBC
+- field: income_annual
+  operator: lte
+  value: 250000
+required_documents:
+- Caste certificate
+- Income certificate
+- Previous class marksheet
+- Bank passbook
+benefit:
+  type: scholarship
+  amount: 12000
+  currency: INR
+processing_days: 60
+application_url: https://scholarships.gov.in/
+tags:
+- scholarship
+- education
+- student
+- sc_st_obc

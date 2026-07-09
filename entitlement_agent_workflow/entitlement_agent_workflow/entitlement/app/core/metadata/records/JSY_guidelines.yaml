@@ -1,0 +1,26 @@
+scheme_id: JSY-GUIDELINES
+scheme_name: Janani Suraksha Yojana
+issuing_authority: Ministry of Health and Family Welfare, Government of India
+department_code: MoH&FW
+jurisdiction: central
+state_origin: null
+category: maternity
+active: true
+eligibility_rules:
+- field: gender
+  operator: eq
+  value: female
+required_documents:
+- Aadhaar
+- Maternity registration card
+- Bank passbook
+benefit:
+  type: cash_assistance
+  amount: 1400
+  currency: INR
+processing_days: 15
+application_url: https://nhm.gov.in/
+tags:
+- health
+- maternity
+- cash_incentive

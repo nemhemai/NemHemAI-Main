@@ -1,0 +1,48 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "SchemeMetadata",
+  "type": "object",
+  "properties": {
+    "scheme_id": { "type": "string" },
+    "scheme_name": { "type": "string" },
+    "issuing_authority": { "type": "string" },
+    "department_code": { "type": "string" },
+    "jurisdiction": { "type": "string", "enum": ["central", "state", "municipal"] },
+    "state_origin": { "type": ["string", "null"] },
+    "category": { "type": "string" },
+    "active": { "type": "boolean" },
+    "eligibility_rules": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "field": { "type": "string" },
+          "operator": { "type": "string", "enum": ["eq", "neq", "lt", "lte", "gt", "gte", "in", "between"] },
+          "value": { "type": ["string", "number", "boolean", "array"] },
+          "is_exclusion": { "type": "boolean", "default": false }
+        },
+        "required": ["field", "operator", "value"]
+      }
+    },
+    "required_documents": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "benefit": {
+      "type": "object",
+      "properties": {
+        "type": { "type": "string" },
+        "amount": { "type": "number" },
+        "currency": { "type": "string" }
+      },
+      "required": ["type", "amount"]
+    },
+    "processing_days": { "type": "integer" },
+    "application_url": { "type": "string" },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "required": ["scheme_id", "scheme_name", "eligibility_rules", "required_documents"]
+}

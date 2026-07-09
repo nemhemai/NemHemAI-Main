@@ -1,6 +1,6 @@
 import os
 import traceback
-from fastapi import APIRouter, File, UploadFile, Body, Request
+from fastapi import APIRouter, File, UploadFile, Body, Request, Form
 from fastapi.responses import HTMLResponse, FileResponse, JSONResponse
 
 from app.agents.verification.schemas.schemas import (
@@ -70,7 +70,8 @@ async def get_storage_file(category: str, filename: str):
     response_model=PipelineResponse
 )
 async def verify_pipeline(
-    file: UploadFile = File(...)
+    file: UploadFile = File(...),
+    profile_data: str = Form(None)
 ):
     try:
         # 1. Ingest uploaded file
@@ -103,8 +104,17 @@ async def verify_pipeline(
         extract_res = FieldExtractionService.extract_fields(document_type, raw_text)
         extracted_fields = extract_res["extracted_fields"]
         
+        # Parse profile data if available
+        import json
+        profile_dict = None
+        if profile_data:
+            try:
+                profile_dict = json.loads(profile_data)
+            except Exception:
+                pass
+
         # 7. Verification Rules
-        verify_res = VerificationService.verify(document_type, extracted_fields)
+        verify_res = VerificationService.verify(document_type, extracted_fields, profile_dict)
         
         # 8. Cross Validation (MRZ match and mock DB lookup)
         cross_res = CrossValidationService.cross_validate(document_type, extracted_fields)

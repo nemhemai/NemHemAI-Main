@@ -21,3 +21,19 @@ def get_current_user(credentials: HTTPAuthorizationCredentials = Depends(securit
 
     except Exception:
         raise HTTPException(status_code=401, detail="Invalid or expired token")
+
+security_optional = HTTPBearer(auto_error=False)
+
+def get_optional_user(credentials: HTTPAuthorizationCredentials = Depends(security_optional)):
+    if not credentials:
+        return None
+
+    token = credentials.credentials
+    try:
+        payload = verify_token(token)
+        return {
+            "user_id": payload.get("sub"),
+            "username": payload.get("username")
+        }
+    except Exception:
+        return None

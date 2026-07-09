@@ -1,0 +1,30 @@
+scheme_id: PMJJBY-INSURANCE
+scheme_name: Pradhan Mantri Jeevan Jyoti Bima Yojana
+issuing_authority: Department of Financial Services, Government of India
+department_code: DFS
+jurisdiction: central
+state_origin: null
+category: insurance
+active: true
+eligibility_rules:
+- field: age
+  operator: between
+  value:
+  - 18
+  - 50
+- field: has_bank_account
+  operator: eq
+  value: true
+required_documents:
+- Aadhaar
+- Bank passbook
+benefit:
+  type: life_cover
+  amount: 200000
+  currency: INR
+processing_days: 30
+application_url: https://www.jansuraksha.gov.in/
+tags:
+- insurance
+- life_cover
+- social_security

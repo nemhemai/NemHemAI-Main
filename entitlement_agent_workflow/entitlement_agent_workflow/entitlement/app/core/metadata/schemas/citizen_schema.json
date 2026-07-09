@@ -1,0 +1,34 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "CitizenProfile",
+  "type": "object",
+  "properties": {
+    "citizen_id": { "type": "string" },
+    "age": { "type": ["integer", "null"] },
+    "gender": { "type": ["string", "null"] },
+    "state": { "type": ["string", "null"] },
+    "urban_rural": { "type": ["string", "null"], "enum": ["urban", "rural", null] },
+    "income_annual": { "type": ["number", "null"] },
+    "category": { "type": ["string", "null"], "enum": ["SC", "ST", "OBC", "General", null] },
+    "occupation": { "type": ["string", "null"], "enum": ["farmer", "street_vendor", "student", "unorganized_worker", "other", null] },
+    "education_level": { "type": ["string", "null"], "enum": ["post_matric", "pre_matric", "other", null] },
+    "has_aadhaar": { "type": ["boolean", "null"] },
+    "has_bank_account": { "type": ["boolean", "null"] },
+    "has_vending_certificate": { "type": ["boolean", "null"] },
+    "has_ulb_recommendation": { "type": ["boolean", "null"] },
+    "has_pucca_house": { "type": ["boolean", "null"] },
+    "is_govt_employee": { "type": ["boolean", "null"] },
+    "pays_income_tax": { "type": ["boolean", "null"] },
+    "owns_motorized_vehicle": { "type": ["boolean", "null"] },
+    "is_institutional_landholder": { "type": ["boolean", "null"] },
+    "land_ownership_acres": { "type": ["number", "null"] },
+    "existing_benefits": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "verified_documents": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

@@ -1,0 +1,32 @@
+scheme_id: IGNOAPS-GUIDELINES
+scheme_name: Indira Gandhi National Old Age Pension Scheme
+issuing_authority: Ministry of Rural Development, Government of India
+department_code: MoRD
+jurisdiction: central
+state_origin: null
+category: pension
+active: true
+eligibility_rules:
+- field: age
+  operator: gte
+  value: 60
+- field: category
+  operator: eq
+  value: SC
+- field: income_annual
+  operator: lte
+  value: 120000
+required_documents:
+- Aadhaar
+- Age proof certificate
+- BPL ration card
+benefit:
+  type: pension
+  amount: 600
+  currency: INR
+processing_days: 30
+application_url: https://nsap.nic.in/
+tags:
+- pension
+- senior_citizen
+- social_welfare

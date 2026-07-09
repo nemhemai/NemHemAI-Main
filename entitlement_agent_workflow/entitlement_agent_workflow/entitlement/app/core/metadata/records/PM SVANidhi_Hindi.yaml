@@ -1,0 +1,31 @@
+scheme_id: PM-SVANIDHI-HI
+scheme_name: PM Street Vendor's AtmaNirbhar Nidhi (Hindi)
+issuing_authority: Ministry of Housing and Urban Affairs, Government of India
+department_code: MoHUA
+jurisdiction: central
+state_origin: null
+category: urban_livelihood
+active: true
+eligibility_rules:
+- field: urban_rural
+  operator: eq
+  value: urban
+- field: occupation
+  operator: eq
+  value: street_vendor
+
+required_documents:
+- Aadhaar
+- Vending certificate or ULB recommendation
+- Bank passbook
+benefit:
+  type: loan
+  amount: 10000
+  currency: INR
+processing_days: 30
+application_url: https://pmsvanidhi.mohua.gov.in/
+tags:
+- livelihood
+- urban
+- street_vendor
+- loan

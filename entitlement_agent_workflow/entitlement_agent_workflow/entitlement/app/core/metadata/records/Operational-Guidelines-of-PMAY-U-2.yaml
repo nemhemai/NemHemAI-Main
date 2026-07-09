@@ -1,0 +1,33 @@
+scheme_id: PMAY-U-2.0
+scheme_name: Pradhan Mantri Awas Yojana - Urban 2.0
+issuing_authority: Ministry of Housing and Urban Affairs, Government of India
+department_code: MoHUA
+jurisdiction: central
+state_origin: null
+category: housing
+active: true
+eligibility_rules:
+- field: urban_rural
+  operator: eq
+  value: urban
+- field: has_pucca_house
+  operator: eq
+  value: false
+- field: income_annual
+  operator: lte
+  value: 1800000
+required_documents:
+- Aadhaar
+- Income certificate
+- Domicile certificate
+- No-pucca-house declaration
+benefit:
+  type: subsidy
+  amount: 250000
+  currency: INR
+processing_days: 45
+application_url: https://pmaymis.gov.in/
+tags:
+- housing
+- urban
+- subsidy

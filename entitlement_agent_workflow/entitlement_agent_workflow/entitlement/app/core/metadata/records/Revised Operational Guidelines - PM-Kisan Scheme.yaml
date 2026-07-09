@@ -1,0 +1,41 @@
+scheme_id: PM-KISAN-SCHEME
+scheme_name: Pradhan Mantri Kisan Samman Nidhi
+issuing_authority: Ministry of Agriculture and Farmers Welfare, Government of India
+department_code: MoA&FW
+jurisdiction: central
+state_origin: null
+category: agriculture_income_support
+active: true
+eligibility_rules:
+- field: occupation
+  operator: eq
+  value: farmer
+- field: land_ownership_acres
+  operator: gt
+  value: 0
+- field: is_govt_employee
+  operator: eq
+  value: true
+  is_exclusion: true
+- field: pays_income_tax
+  operator: eq
+  value: true
+  is_exclusion: true
+- field: is_institutional_landholder
+  operator: eq
+  value: true
+  is_exclusion: true
+required_documents:
+- Aadhaar
+- Land ownership proof
+- Bank passbook
+benefit:
+  type: income_support
+  amount: 6000
+  currency: INR
+processing_days: 30
+application_url: https://pmkisan.gov.in/
+tags:
+- agriculture
+- farmer
+- cash_assistance

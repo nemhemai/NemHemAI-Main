@@ -1,0 +1,29 @@
+scheme_id: PM-KUSUM-MNRE
+scheme_name: PM-KUSUM Farmer Solar Scheme
+issuing_authority: Ministry of New and Renewable Energy, Government of India
+department_code: MNRE
+jurisdiction: central
+state_origin: null
+category: agriculture_energy
+active: true
+eligibility_rules:
+- field: occupation
+  operator: eq
+  value: farmer
+- field: land_ownership_acres
+  operator: gt
+  value: 0
+required_documents:
+- Aadhaar
+- Land ownership proof
+- Bank passbook
+benefit:
+  type: subsidy
+  amount: 150000
+  currency: INR
+processing_days: 60
+application_url: https://pmkusum.mnre.gov.in/
+tags:
+- agriculture
+- solar_pump
+- subsidy

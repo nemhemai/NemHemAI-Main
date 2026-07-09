@@ -1,0 +1,25 @@
+scheme_id: PM-JAY-HEALTH
+scheme_name: Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana
+issuing_authority: National Health Authority, Government of India
+department_code: NHA
+jurisdiction: central
+state_origin: null
+category: health
+active: true
+eligibility_rules:
+- field: income_annual
+  operator: lte
+  value: 120000
+required_documents:
+- Aadhaar
+- Ration card
+benefit:
+  type: health_insurance
+  amount: 500000
+  currency: INR
+processing_days: 1
+application_url: https://pmjay.gov.in/
+tags:
+- health
+- insurance
+- cashless

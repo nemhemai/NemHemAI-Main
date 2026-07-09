@@ -222,6 +222,7 @@ function EntitlementDashboard() {
 
   // Profile Form (Step 3 & 4)
   const [name, setName] = useState("");
+  const [dob, setDob] = useState("");
   const [stateName, setStateName] = useState("Maharashtra");
   const [urbanRural, setUrbanRural] = useState("urban");
   const [income, setIncome] = useState(250000);
@@ -397,6 +398,7 @@ function EntitlementDashboard() {
         setCitizenProfile(profileRes);
         // Pre-fill profile state
         setName(profileRes?.personal_info?.name || profileRes?.name || "");
+        setDob(profileRes?.personal_info?.dob || profileRes?.dob || "");
         setActiveTab("profile");
       } else {
         setRegMessage(res.message);
@@ -446,7 +448,7 @@ function EntitlementDashboard() {
     setProfileLoading(true);
     setProfileMsg("");
     try {
-      const personal = { name: name.trim(), state: stateName.trim(), urban_rural: urbanRural };
+      const personal = { name: name.trim(), dob: dob.trim(), state: stateName.trim(), urban_rural: urbanRural };
       const household = { dependents_count: dependentsVal, has_senior_citizens: hasSeniors, has_students: hasStudents, has_widows: hasWidows };
       const socio = { income_annual: incomeVal, occupation, category, land_ownership_acres: landAcresVal, has_pucca_house: hasPuccaHouse, disability_status: disability, education_level: education };
       
@@ -456,8 +458,23 @@ function EntitlementDashboard() {
         socioEconomicInfo: socio
       });
       
-      setCitizenProfile(res.profile_360);
-      setEligibilityContext(res.eligibility_context_model);
+      const newProfile = res.profile_360 || {
+        aadhaarId: regAadhaar.trim(),
+        personal_info: personal,
+        household_info: household,
+        socio_economic: socio
+      };
+      
+      setCitizenProfile(newProfile);
+      setEligibilityContext(res.eligibility_context_model || {
+        bpl_apl_status: incomeVal <= 100000 ? "BPL" : "APL",
+        household_income: incomeVal,
+        applicant_category: category,
+        urban_rural: urbanRural,
+        land_ownership_acres: landAcresVal,
+        has_pucca_house: hasPuccaHouse,
+        disability_status: disability
+      });
       setProfileMsg("Citizen 360 Profile and Socio-Economic Assessment context successfully created!");
       setRawQuery(generateQueryFromProfile());
       setActiveTab("discovery");
@@ -537,6 +554,9 @@ function EntitlementDashboard() {
     try {
       const formData = new FormData();
       formData.append("file", file);
+      if (citizenProfile) {
+        formData.append("profile_data", JSON.stringify(citizenProfile));
+      }
       
       const log = await verifyDocument(formData);
       setVerificationPipelineLogs(log);
@@ -551,7 +571,10 @@ function EntitlementDashboard() {
   const handleReconfirm = async () => {
     if (!citizenId) return;
     try {
-      const res = await reconfirmEligibility({ citizenId });
+      const res = await reconfirmEligibility({ 
+        citizenId, 
+        verificationStatus: verificationPipelineLogs?.decision_result?.decision 
+      });
       setReconfirmResult(res);
     } catch (err) {
       alert(err.message);
@@ -797,6 +820,15 @@ function EntitlementDashboard() {
                     type="text"
                     value={name}
                     onChange={(e) => setName(e.target.value)}
+                    style={styles.formInput}
+                  />
+                </div>
+                <div style={styles.formGroup}>
+                  <label style={styles.formLabel}>Date of Birth</label>
+                  <input
+                    type="date"
+                    value={dob}
+                    onChange={(e) => setDob(e.target.value)}
                     style={styles.formInput}
                   />
                 </div>

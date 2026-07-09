@@ -15,7 +15,6 @@ import Signup from "./components/auth/Signup";
 
 // 🏛️ NEW DAY 5 DASHBOARD
 import GrievanceDashboard from "./components/GrievanceDashboard";
-import SubmitGrievance from "./components/SubmitGrievance";
 
 // 🏛️ NEW ENTITLEMENT & VERIFICATION DASHBOARD
 import EntitlementDashboard from "./components/EntitlementDashboard";
@@ -92,7 +91,6 @@ function App() {
       case "bulk": return { ...base, background: "#f3e8ff", color: "#7e22ce" }; // Purple
       case "query": return { ...base, background: "#ecfdf5", color: "#047857" }; // Emerald
       case "grievance": return { ...base, background: "#fff7ed", color: "#c2410c" }; // Orange
-      case "submit_grievance": return { ...base, background: "#fdf2f8", color: "#be185d" }; // Pink
       case "entitlement": return { ...base, background: "#f0fdfa", color: "#0f766e" }; // Teal
       default: return { ...base, background: "#f1f5f9", color: "#0f172a" };
     }
@@ -117,7 +115,6 @@ function App() {
           <button onClick={() => setView("bulk")} style={getNavBtnStyle("bulk")}>Bulk Upload</button>
           <button onClick={() => setView("query")} style={getNavBtnStyle("query")}>Query</button>
           <button onClick={() => setView("grievance")} style={getNavBtnStyle("grievance")}>Grievance Officer</button>
-          <button onClick={() => setView("submit_grievance")} style={getNavBtnStyle("submit_grievance")}>Citizen Portal</button>
           <button onClick={() => setView("entitlement")} style={getNavBtnStyle("entitlement")}>Entitlement Agent</button>
           
           <div style={styles.navDivider}></div>
@@ -162,10 +159,6 @@ function App() {
       ) : view === "grievance" ? (
 
         <GrievanceDashboard />
-
-      ) : view === "submit_grievance" ? (
-
-        <SubmitGrievance />
 
       ) : view === "entitlement" ? (
 

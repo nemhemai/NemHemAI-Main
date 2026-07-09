@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
+import ReactMarkdown from 'react-markdown';
 
 const API_URL = process.env.REACT_APP_API_URL || "http://localhost:8000";
 
@@ -72,7 +73,12 @@ const GrievanceDashboard = () => {
     setBriefingNote(null);
     try {
       const token = localStorage.getItem("token");
-      const headers = token ? { Authorization: `Bearer ${token}` } : {};
+      const headers = {
+        "Content-Type": "application/json",
+      };
+      if (token) {
+        headers["Authorization"] = `Bearer ${token}`;
+      }
       
       const payload = {
         query: `Briefing for grievance: ${grievance.category} - ${grievance.description || "No description"}`,
@@ -80,12 +86,34 @@ const GrievanceDashboard = () => {
         role: "field_officer"
       };
 
-      const response = await axios.post(`${API_URL}/api/v1/briefings/generate`, payload, { headers });
-      setBriefingNote(response.data.briefing_note);
+      const response = await fetch(`${API_URL}/api/v1/briefings/stream`, {
+        method: "POST",
+        headers,
+        body: JSON.stringify(payload)
+      });
+
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
+      }
+
+      setBriefingLoading(false); // Stop loading once stream starts
+      setBriefingNote(""); // Initialize as string
+
+      const reader = response.body.getReader();
+      const decoder = new TextDecoder("utf-8");
+      let done = false;
+
+      while (!done) {
+        const { value, done: readerDone } = await reader.read();
+        done = readerDone;
+        if (value) {
+          const chunk = decoder.decode(value, { stream: true });
+          setBriefingNote(prev => (prev || "") + chunk);
+        }
+      }
     } catch (err) {
       console.error("Briefing generation failed:", err);
-      alert("Failed to generate briefing. Ensure PraisonAI is running correctly.");
-    } finally {
+      alert("Failed to generate briefing.");
       setBriefingLoading(false);
     }
   };
@@ -257,29 +285,18 @@ const GrievanceDashboard = () => {
                 onClick={() => handleGenerateBriefing(activeDocsGrievance)}
                 disabled={briefingLoading}
               >
-                {briefingLoading ? "⏳ Generating Action Plan (ETA 60s)..." : "📝 Generate Field Officer Briefing"}
+                {briefingLoading ? "⏳ Generating Action Plan (this may take a moment)..." : "📝 Generate Field Officer Briefing"}
               </button>
             </div>
 
             <div style={styles.slidebarContent}>
-              {briefingNote && (
+              {briefingNote !== null && (
                 <div style={{ marginBottom: '20px', padding: '15px', backgroundColor: '#e0f2fe', borderRadius: '8px', border: '1px solid #bae6fd' }}>
                   <h4 style={{ margin: '0 0 10px 0', color: '#0369a1' }}>Generated Briefing Note</h4>
                   <div style={{ fontSize: '13px', lineHeight: '1.6', color: '#0f172a' }}>
-                    <strong>Exec Summary:</strong> {briefingNote.executive_summary}<br/><br/>
-                    <strong>Actions:</strong>
-                    <ul style={{ paddingLeft: '20px', margin: '5px 0' }}>
-                      {briefingNote.recommended_actions?.map((act, i) => (
-                        <li key={i}>
-                          {typeof act === 'string' ? act : (act.action || act.description || JSON.stringify(act))}
-                          {typeof act === 'object' && act.checklist && (
-                            <ul style={{ paddingLeft: '15px', margin: '4px 0', listStyleType: 'circle' }}>
-                              {act.checklist.map((c, j) => <li key={j}>{c}</li>)}
-                            </ul>
-                          )}
-                        </li>
-                      ))}
-                    </ul>
+                    {typeof briefingNote === 'string' ? (
+                      <ReactMarkdown>{briefingNote}</ReactMarkdown>
+                    ) : JSON.stringify(briefingNote, null, 2)}
                   </div>
                 </div>
               )}

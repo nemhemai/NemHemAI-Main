@@ -1,5 +1,5 @@
 {
-  "total_briefings": 14,
+  "total_briefings": 18,
   "role_patterns": {
     "field_officer": [
       "Briefing for grievance: Water Supply - \"There is a massive water pipeline that h",
@@ -15,7 +15,11 @@
       "Briefing for grievance: Roads - There is a massive pothole in front of Galaxy Ap",
       "Briefing for grievance: Roads - There is a massive pothole in front of Galaxy Ap",
       "Briefing for grievance: Roads - A massive pothole has formed after the recent ra",
-      "Briefing for grievance: Sanitation - I am facing an issue on sanitaion in Boriva"
+      "Briefing for grievance: Sanitation - I am facing an issue on sanitaion in Boriva",
+      "Briefing for grievance: Roads - There is a massive pothole that has developed on",
+      "Briefing for grievance: Sanitation - I am facing an issue on sanitaion in Boriva",
+      "Briefing for grievance: Sanitation - I am facing an issue on sanitaion in Boriva",
+      "Briefing for grievance: Roads - There is a massive pothole in front of Galaxy Ap"
     ]
   },
   "successful_templates": [],
@@ -117,6 +121,34 @@
       "doc_count": 2,
       "confidence": 0.95,
       "timestamp": "2026-07-03T21:25:25.347578"
+    },
+    {
+      "query": "Briefing for grievance: Roads - There is a massive pothole that has developed on the main intersecti",
+      "role": "field_officer",
+      "doc_count": 2,
+      "confidence": 0.95,
+      "timestamp": "2026-07-07T17:58:43.228888"
+    },
+    {
+      "query": "Briefing for grievance: Sanitation - I am facing an issue on sanitaion in Borivali Sector 65 which i",
+      "role": "field_officer",
+      "doc_count": 1,
+      "confidence": 0.95,
+      "timestamp": "2026-07-07T18:03:04.935873"
+    },
+    {
+      "query": "Briefing for grievance: Sanitation - I am facing an issue on sanitaion in Borivali Sector 65 which i",
+      "role": "field_officer",
+      "doc_count": 2,
+      "confidence": 0.95,
+      "timestamp": "2026-07-07T18:11:02.663652"
+    },
+    {
+      "query": "Briefing for grievance: Roads - There is a massive pothole in front of Galaxy Apartments on MG Road.",
+      "role": "field_officer",
+      "doc_count": 3,
+      "confidence": 0.8,
+      "timestamp": "2026-07-07T18:17:50.749905"
     }
   ],
   "feedback": [],

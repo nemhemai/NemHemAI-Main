@@ -7,6 +7,86 @@ function QueryDashboard() {
   const [error, setError] = useState("");
   const [result, setResult] = useState(null);
   const [isGenerating, setIsGenerating] = useState(false);
+  const [isUploading, setIsUploading] = useState(false);
+  const [uploadMessage, setUploadMessage] = useState("");
+
+  const handleQuickUpload = async (event) => {
+    const files = event.target.files;
+    if (!files || files.length === 0) return;
+
+    setIsUploading(true);
+    setUploadMessage("Uploading in process...");
+
+    const formData = new FormData();
+    for (let i = 0; i < files.length; i++) {
+      formData.append("files", files[i]);
+    }
+
+    try {
+      const token = localStorage.getItem("token");
+      const res = await fetch("http://127.0.0.1:8000/api/ingest/quick-upload", {
+        method: "POST",
+        headers: {
+          "Authorization": `Bearer ${token}`
+        },
+        body: formData
+      });
+
+      if (!res.ok) {
+        throw new Error(`HTTP error! status: ${res.status}`);
+      }
+      const data = await res.json();
+      const jobs = data.jobs || [];
+      
+      if (jobs.length > 0) {
+        setUploadMessage("Processing document(s)...");
+        let allDone = false;
+        
+        while (!allDone) {
+          await new Promise(r => setTimeout(r, 2000)); // Wait 2 seconds between checks
+          
+          let pendingCount = 0;
+          let failedCount = 0;
+          
+          for (let job of jobs) {
+            try {
+              const statusRes = await fetch(`http://127.0.0.1:8000/api/ingest/status/${job.job_id}`, {
+                headers: { "Authorization": `Bearer ${token}` }
+              });
+              const statusData = await statusRes.json();
+              
+              if (statusData.status === "FAILED") failedCount++;
+              else if (statusData.status !== "COMPLETED") pendingCount++;
+            } catch (e) {
+              console.error("Status check error:", e);
+            }
+          }
+          
+          if (pendingCount === 0) {
+            allDone = true;
+            if (failedCount === jobs.length) {
+              throw new Error("All ingestion jobs failed");
+            } else if (failedCount > 0) {
+              setUploadMessage(`Upload Complete (${failedCount} failed)`);
+            } else {
+              setUploadMessage("Upload Complete");
+            }
+          }
+        }
+      } else {
+        setUploadMessage("Upload Complete");
+      }
+      
+      setTimeout(() => setUploadMessage(""), 5000);
+    } catch (err) {
+      console.error(err);
+      setUploadMessage("Failed to upload document(s)");
+      setTimeout(() => setUploadMessage(""), 5000);
+    } finally {
+      setIsUploading(false);
+      event.target.value = null; // reset input
+    }
+  };
 
   const handleSubmit = async () => {
     if (!query.trim()) {
@@ -95,7 +175,27 @@ function QueryDashboard() {
     <div style={styles.page}>
       <div style={styles.container}>
 
-        <h2 style={styles.heading}>🔍 Query Dashboard</h2>
+        <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
+          <h2 style={styles.heading}>🔍 Query Dashboard</h2>
+          {uploadMessage && (
+            <div style={{
+              background: uploadMessage.includes("Failed") ? "#fee2e2" : "#ecfdf5",
+              color: uploadMessage.includes("Failed") ? "#b91c1c" : "#047857",
+              padding: "6px 16px",
+              borderRadius: "20px",
+              fontSize: "13px",
+              fontWeight: "500",
+              border: uploadMessage.includes("Failed") ? "1px solid #fca5a5" : "1px solid #a7f3d0",
+              display: "flex",
+              alignItems: "center",
+              gap: "8px",
+              boxShadow: "0 1px 3px rgba(0,0,0,0.05)"
+            }}>
+              {isUploading ? <span style={{ display: "inline-block", animation: "spin 2s linear infinite" }}>⏳</span> : "✅"} 
+              {uploadMessage}
+            </div>
+          )}
+        </div>
 
         <div style={styles.layout}>
 
@@ -104,6 +204,18 @@ function QueryDashboard() {
 
             {/* SEARCH */}
             <div style={styles.searchCard}>
+              <label style={{ cursor: "pointer", display: "flex", alignItems: "center", padding: "0 10px", color: "#6b7280" }} title="Attach PDF documents">
+                <input 
+                  type="file" 
+                  multiple 
+                  accept="application/pdf" 
+                  style={{ display: "none" }} 
+                  onChange={handleQuickUpload}
+                  disabled={isUploading}
+                />
+                📎
+              </label>
+              
               <input
                 style={styles.input}
                 placeholder="Ask a question about documents..."

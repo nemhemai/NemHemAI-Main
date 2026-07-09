@@ -1,0 +1,26 @@
+scheme_id: MUDRA-LENDING
+scheme_name: Pradhan Mantri MUDRA Yojana
+issuing_authority: MUDRA Ltd, Government of India
+department_code: MUDRA
+jurisdiction: central
+state_origin: null
+category: loan
+active: true
+eligibility_rules:
+- field: age
+  operator: gte
+  value: 18
+required_documents:
+- Aadhaar
+- Business proof certificate
+- Bank passbook
+benefit:
+  type: loan
+  amount: 1000000
+  currency: INR
+processing_days: 30
+application_url: https://www.mudra.org.in/
+tags:
+- micro_loan
+- business
+- credit

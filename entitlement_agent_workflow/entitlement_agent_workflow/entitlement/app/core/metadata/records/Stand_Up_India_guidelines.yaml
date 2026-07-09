@@ -1,0 +1,33 @@
+scheme_id: STANDUP-INDIA-RULES
+scheme_name: Stand-Up India Scheme
+issuing_authority: Small Industries Development Bank of India, Government of India
+department_code: SIDBI
+jurisdiction: central
+state_origin: null
+category: loan
+active: true
+eligibility_rules:
+- field: age
+  operator: gte
+  value: 18
+- field: category
+  operator: in
+  value:
+  - SC
+  - ST
+required_documents:
+- Aadhaar
+- Caste certificate
+- Business project report
+- Bank passbook
+benefit:
+  type: loan
+  amount: 10000000
+  currency: INR
+processing_days: 45
+application_url: https://www.standupmitra.in/
+tags:
+- loan
+- entrepreneurship
+- sc_st
+- women
