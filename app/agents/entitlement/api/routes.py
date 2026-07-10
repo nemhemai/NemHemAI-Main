@@ -152,3 +152,18 @@ def get_entitlement_status(
         )
     finally:
         release_db_conn(conn)
+
+
+@router.post("/v1/applications/submit")
+def submit_application(request: dict):
+    """
+    Submit an application for a specific scheme.
+    """
+    import uuid
+    tracking_id = f"APP-{str(uuid.uuid4())[:8].upper()}"
+    return {
+        "status": "SUCCESS",
+        "tracking_id": tracking_id,
+        "message": "Application submitted successfully."
+    }
+

@@ -248,9 +248,15 @@ function EntitlementDashboard() {
   // Verification Agent (Step 7 & 8)
   const [docType, setDocType] = useState("Income Certificate");
   const [file, setFile] = useState(null);
-  const [verifyLoading, setVerifyLoading] = useState(false);
+  const [verifyingDoc, setVerifyingDoc] = useState(null);
   const [verificationPipelineLogs, setVerificationPipelineLogs] = useState(null);
   const [reconfirmResult, setReconfirmResult] = useState(null);
+
+  // New Application Submission States
+  const [selectedApplicationScheme, setSelectedApplicationScheme] = useState(null);
+  const [verifiedDocuments, setVerifiedDocuments] = useState({});
+  const [submittingApp, setSubmittingApp] = useState(false);
+  const [submissionResult, setSubmissionResult] = useState(null);
 
   // Application Guidance & Submissions (Step 11-13) - Unused variables commented out
   const [selectedScheme] = useState("PM SVANidhi");
@@ -540,30 +546,55 @@ function EntitlementDashboard() {
   };
 
   // Document Verification Agent trigger
-  const handleVerifyDocument = async () => {
+  const handleVerifyDocument = async (docName, fileObj) => {
     if (!citizenId) {
       alert("Please verify/onboard a citizen first.");
       return;
     }
-    if (!file) {
+    if (!fileObj) {
       alert("Please select a document file.");
       return;
     }
-    setVerifyLoading(true);
-    setVerificationPipelineLogs(null);
+    setVerifyingDoc(docName);
     try {
       const formData = new FormData();
-      formData.append("file", file);
+      formData.append("file", fileObj);
       if (citizenProfile) {
         formData.append("profile_data", JSON.stringify(citizenProfile));
       }
       
       const log = await verifyDocument(formData);
-      setVerificationPipelineLogs(log);
+      setVerifiedDocuments(prev => ({
+        ...prev,
+        [docName]: {
+          file: fileObj,
+          log: log,
+          verified: log.decision_result?.decision === "APPROVED"
+        }
+      }));
     } catch (err) {
       alert(err.message);
     } finally {
-      setVerifyLoading(false);
+      setVerifyingDoc(null);
+    }
+  };
+
+  const handleAppSubmit = async () => {
+    setSubmittingApp(true);
+    try {
+      const res = await submitApplication({
+        citizen_id: citizenId,
+        scheme_id: selectedApplicationScheme?.scheme_name,
+        applicant_name: citizenProfile?.personal_info?.name || name,
+        aadhaar_id: citizenProfile?.aadhaarId || regAadhaar,
+        documents: Object.keys(verifiedDocuments)
+      });
+      setSubmissionResult(res);
+      setTrackingId(res.tracking_id);
+    } catch (err) {
+      alert(err.message);
+    } finally {
+      setSubmittingApp(false);
     }
   };
 
@@ -641,6 +672,20 @@ function EntitlementDashboard() {
 
   const checkDetermination = checkResult?.determination || {};
 
+  // Pre-calculate application readiness (all documents verified)
+  let docsToVerify = ["Aadhaar"];
+  let allDocsVerified = false;
+  if (selectedApplicationScheme) {
+    const fullScheme = checkDetermination.schemes?.find(s => s.scheme_name === selectedApplicationScheme.scheme_name);
+    if (fullScheme && fullScheme.missing_documents) {
+      fullScheme.missing_documents.forEach(d => {
+        const friendlyName = typeof d === 'string' ? d : (d.document || d.name || 'Unknown Document');
+        if (!docsToVerify.includes(friendlyName)) docsToVerify.push(friendlyName);
+      });
+    }
+    allDocsVerified = docsToVerify.every(d => verifiedDocuments[d]?.verified);
+  }
+
   return (
     <div style={styles.container}>
       {/* Visual Premium Header */}
@@ -669,14 +714,23 @@ function EntitlementDashboard() {
           { id: "profile", label: "2. Citizen 360 Profile" },
           { id: "discovery", label: "3. Discovery & Optimization" },
           { id: "verification", label: "4. Document Verification" },
-          { id: "audit", label: "5. Audit compliance Logs" }
+          { id: "application", label: "5. Application & Submission", disabled: !allDocsVerified },
+          { id: "audit", label: "6. Audit compliance Logs" }
         ].map((tab) => (
           <button
             key={tab.id}
-            onClick={() => setActiveTab(tab.id)}
+            onClick={() => {
+              if (tab.disabled) {
+                alert("Please complete Document Verification before accessing Application Submission.");
+                return;
+              }
+              setActiveTab(tab.id);
+            }}
             style={{
               ...styles.tabButton,
-              ...(activeTab === tab.id ? styles.tabButtonActive : {})
+              ...(activeTab === tab.id ? styles.tabButtonActive : {}),
+              opacity: tab.disabled ? 0.5 : 1,
+              cursor: tab.disabled ? "not-allowed" : "pointer"
             }}
           >
             {tab.label}
@@ -1101,6 +1155,29 @@ function EntitlementDashboard() {
                               </strong>
                               {item.missing_docs_count > 0 && ` | Missing: ${item.missing_docs_count} ${item.missing_docs_count === 1 ? 'document' : 'documents'}`}
                             </div>
+                            
+                            {item.application_readiness !== "NOT_ELIGIBLE" && item.readiness_score === 100 && (
+                              <button
+                                onClick={() => {
+                                  setSelectedApplicationScheme(item);
+                                  setActiveTab("verification");
+                                }}
+                                style={{
+                                  marginTop: "8px",
+                                  padding: "6px 12px",
+                                  background: "#16a34a",
+                                  color: "#fff",
+                                  border: "none",
+                                  borderRadius: "4px",
+                                  fontSize: "12px",
+                                  cursor: "pointer",
+                                  fontWeight: "bold",
+                                  width: "fit-content"
+                                }}
+                              >
+                                Apply Now ➔
+                              </button>
+                            )}
                           </div>
                         </div>
                       ))}
@@ -1348,139 +1425,142 @@ function EntitlementDashboard() {
           <div style={styles.panelContent}>
             <h2 style={styles.sectionHeading}>Verification Agent Integration</h2>
             <p style={styles.infoText}>
-              Step 7: Upload simulated files. Our interoperable Verification Agent runs: Classification → OCR extraction → Field validation → Rules check → Profile cross-validation → Fraud/tampering analysis.
+              Upload required documents for the selected scheme. You must verify your Aadhaar and any missing documents to proceed.
             </p>
             {!citizenId && <div style={styles.warningAlert}>A citizen must be registered first (Tab 1).</div>}
             
-            {!verificationPipelineLogs ? (
-              <>
-                <div style={styles.formGroup}>
-                  <label style={styles.formLabel}>Select Document Type to verify</label>
-                  <select
-                    value={docType}
-                    onChange={(e) => setDocType(e.target.value)}
-                    style={styles.formSelect}
-                  >
-                    <option value="Aadhaar">Aadhaar Card</option>
-                    <option value="Income Certificate">Income Certificate</option>
-                    <option value="Caste/category certificate">Caste / Category Certificate</option>
-                    <option value="Domicile Certificate">Domicile Residency Proof</option>
-                    <option value="Disability Certificate">Disability Proof</option>
-                  </select>
-                </div>
+            {citizenId && (
+              <div>
+                {!selectedApplicationScheme ? (
+                   <div style={styles.warningAlert}>Please select a scheme from the Discovery tab to proceed.</div>
+                ) : (
+                  <div>
+                    <h3 style={styles.subHeading}>Required Documents for {selectedApplicationScheme.scheme_name}</h3>
+                    {(() => {
+                       return (
+                         <div style={{ display: "flex", flexDirection: "column", gap: "16px" }}>
+                           {docsToVerify.map(doc => (
+                             <div key={doc} style={{ border: "1px solid #e2e8f0", padding: "16px", borderRadius: "8px", background: verifiedDocuments[doc]?.verified ? "#f0fdf4" : "#fff" }}>
+                               <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "12px" }}>
+                                 <strong style={{ fontSize: "14px" }}>{doc}</strong>
+                                 {verifiedDocuments[doc]?.verified ? (
+                                   <span style={{ color: "#166534", fontWeight: "bold", fontSize: "13px" }}>✅ VERIFIED AUTHENTIC</span>
+                                 ) : verifiedDocuments[doc]?.log ? (
+                                   <span style={{ color: "#991b1b", fontWeight: "bold", fontSize: "13px" }}>❌ REJECTED / NEEDS REVIEW</span>
+                                 ) : (
+                                   <span style={{ color: "#b56902", fontWeight: "bold", fontSize: "13px" }}>⏳ PENDING</span>
+                                 )}
+                               </div>
+                               
+                               <div style={{ display: "flex", gap: "12px", alignItems: "center" }}>
+                                 <input 
+                                   type="file" 
+                                   onChange={(e) => {
+                                      if (e.target.files[0]) {
+                                        handleVerifyDocument(doc, e.target.files[0]);
+                                      }
+                                   }}
+                                   style={{ fontSize: "12px" }}
+                                 />
+                                 {verifyingDoc === doc && <span style={{ fontSize: "12px", color: "#64748b" }}>Scanning...</span>}
+                               </div>
+
+                               {verifiedDocuments[doc]?.log && !verifiedDocuments[doc]?.verified && (
+                                 <div style={{ marginTop: "12px", padding: "8px", background: "#fef2f2", color: "#991b1b", fontSize: "12px", borderRadius: "4px" }}>
+                                   {verifiedDocuments[doc].log.decision_result?.reasons?.join(", ") || "Verification failed."}
+                                 </div>
+                               )}
+                             </div>
+                           ))}
+
+                           {allDocsVerified && (
+                             <div style={{ marginTop: "16px", padding: "16px", background: "#eff6ff", borderRadius: "8px", border: "1px solid #bfdbfe", textAlign: "center" }}>
+                               <h4 style={{ margin: "0 0 12px 0", color: "#1e40af" }}>All Required Documents Verified!</h4>
+                               <button 
+                                 onClick={() => setActiveTab("application")} 
+                                 style={{ padding: "10px 20px", background: "#1e3a8a", color: "#fff", border: "none", borderRadius: "6px", fontWeight: "bold", cursor: "pointer" }}
+                               >
+                                 Proceed to Application Submission ➔
+                               </button>
+                             </div>
+                           )}
+                         </div>
+                       );
+                    })()}
+                  </div>
+                )}
+              </div>
+            )}
+          </div>
+        )}
+
+        {/* Tab 5: Application Submission */}
+        {activeTab === "application" && (
+          <div style={styles.panelContent}>
+            <h2 style={styles.sectionHeading}>Application & Submission</h2>
+            <p style={styles.infoText}>Review your application details and submit for processing.</p>
+            {!citizenId && <div style={styles.warningAlert}>A citizen must be registered first.</div>}
+            {citizenId && !selectedApplicationScheme && <div style={styles.warningAlert}>Please select a scheme first.</div>}
+            {citizenId && selectedApplicationScheme && !allDocsVerified && <div style={styles.warningAlert}>You must successfully verify all required documents in the Document Verification tab before submitting this application.</div>}
+            
+            {citizenId && selectedApplicationScheme && allDocsVerified && (
+              <div style={{ background: "#fff", border: "1px solid #e2e8f0", padding: "20px", borderRadius: "8px" }}>
+                <h3 style={styles.subHeading}>Application Form: {selectedApplicationScheme.scheme_name}</h3>
                 
-                <div style={styles.formGroup}>
-                  <label style={styles.formLabel}>Upload Document File</label>
-                  <div style={styles.fileUploadWrapper}>
-                    <input
-                      type="file"
-                      onChange={(e) => setFile(e.target.files[0])}
-                      style={styles.fileInput}
-                    />
-                  </div>
-                </div>
-
-                <button
-                  onClick={handleVerifyDocument}
-                  disabled={verifyLoading || !citizenId}
-                  style={{...styles.actionButton, marginTop: '8px'}}
-                >
-                  {verifyLoading ? "Scanning & Verifying Document..." : "Run Document Verification"}
-                </button>
-              </>
-            ) : (
-              <div style={styles.idCardContainer}>
-                <div style={styles.idImagePanel}>
-                  {file ? (
-                    <div style={{ flex: 1, display: "flex", alignItems: "center", justifyContent: "center", minHeight: 0, width: "100%" }}>
-                      <img 
-                        src={URL.createObjectURL(file)} 
-                        alt="Uploaded Document" 
-                        style={{ ...styles.idImage, width: "100%", height: "100%", objectFit: "contain" }} 
-                      />
+                <div style={styles.splitGrid}>
+                  <div>
+                    <div style={styles.formGroup}>
+                      <label style={styles.formLabel}>Applicant Name</label>
+                      <input type="text" value={citizenProfile?.personal_info?.name || name} disabled style={{...styles.formInput, background: "#f1f5f9"}} />
                     </div>
-                  ) : (
-                    <div style={{color: "#94a3b8", fontSize: "14px", flex: 1, display: "flex", alignItems: "center"}}>No image preview available</div>
-                  )}
-                  <div style={{marginTop: "16px", width: "100%", flexShrink: 0}}>
-                    <div style={{
-                      ...styles.verificationBadge, 
-                      width: "100%", 
-                      justifyContent: "center",
-                      backgroundColor: verificationPipelineLogs.decision_result?.decision === "APPROVED" ? "#dcfce7" : (verificationPipelineLogs.decision_result?.decision === "REJECTED" ? "#fee2e2" : "#fef08a"),
-                      color: verificationPipelineLogs.decision_result?.decision === "APPROVED" ? "#166534" : (verificationPipelineLogs.decision_result?.decision === "REJECTED" ? "#991b1b" : "#854d0e")
-                    }}>
-                      {verificationPipelineLogs.decision_result?.decision === "APPROVED" ? "✅ VERIFIED AUTHENTIC" : (verificationPipelineLogs.decision_result?.decision === "REJECTED" ? "❌ VERIFICATION FAILED" : "⚠️ MANUAL REVIEW")}
+                    <div style={styles.formGroup} style={{ marginTop: "12px" }}>
+                      <label style={styles.formLabel}>Aadhaar ID</label>
+                      <input type="text" value={citizenProfile?.aadhaarId || regAadhaar} disabled style={{...styles.formInput, background: "#f1f5f9"}} />
+                    </div>
+                    <div style={styles.formGroup} style={{ marginTop: "12px" }}>
+                      <label style={styles.formLabel}>State Residency</label>
+                      <input type="text" value={citizenProfile?.personal_info?.state || stateName} disabled style={{...styles.formInput, background: "#f1f5f9"}} />
+                    </div>
+                  </div>
+                  <div>
+                    <div style={styles.formGroup}>
+                      <label style={styles.formLabel}>Annual Income</label>
+                      <input type="text" value={`₹${citizenProfile?.socio_economic?.income_annual || income}`} disabled style={{...styles.formInput, background: "#f1f5f9"}} />
+                    </div>
+                    <div style={styles.formGroup} style={{ marginTop: "12px" }}>
+                      <label style={styles.formLabel}>Occupation</label>
+                      <input type="text" value={citizenProfile?.socio_economic?.occupation || occupation} disabled style={{...styles.formInput, background: "#f1f5f9"}} />
+                    </div>
+                    <div style={styles.formGroup} style={{ marginTop: "12px" }}>
+                      <label style={styles.formLabel}>Locality</label>
+                      <input type="text" value={citizenProfile?.personal_info?.urban_rural || urbanRural} disabled style={{...styles.formInput, background: "#f1f5f9"}} />
                     </div>
                   </div>
                 </div>
 
-                <div style={styles.idDetailsPanel}>
-                  <div style={styles.idHeader}>
-                    <h3 style={styles.idTitle}>{verificationPipelineLogs.document_type || "Unknown Document"}</h3>
-                    <p style={styles.idSubtitle}>Confidence Score: {((verificationPipelineLogs.decision_result?.confidence || 0) * 100).toFixed(1)}% | Risk Level: {verificationPipelineLogs.fraud_result?.fraud_risk}</p>
+                <div style={{ marginTop: "24px" }}>
+                  <h4 style={{ fontSize: "14px", marginBottom: "8px", color: "#1e293b" }}>Legal Declaration</h4>
+                  <div style={styles.affidavitBox}>
+                    I, {citizenProfile?.personal_info?.name || name}, hereby declare that the information provided is true and accurate to the best of my knowledge. I understand that false statements may result in rejection of my application or legal action. I authorize the Government to verify my details including my Aadhaar linked data.
                   </div>
-
-                  <div style={styles.idFieldGrid}>
-                    {Object.entries(verificationPipelineLogs.extracted_fields || {}).map(([key, value]) => (
-                      <div key={key} style={styles.idField}>
-                        <span style={styles.idFieldLabel}>{key.replace(/_/g, " ")}</span>
-                        <span style={styles.idFieldValue}>{value?.toString() || "N/A"}</span>
-                      </div>
-                    ))}
-                  </div>
-
-                  {verificationPipelineLogs.decision_result?.decision !== "APPROVED" && verificationPipelineLogs.decision_result?.reasons && (
-                    <div style={{
-                      marginTop: "auto",
-                      padding: "16px",
-                      borderRadius: "8px",
-                      backgroundColor: verificationPipelineLogs.decision_result?.decision === "REJECTED" ? "#fef2f2" : "#fefce8",
-                      border: `1px solid ${verificationPipelineLogs.decision_result?.decision === "REJECTED" ? "#fecaca" : "#fef08a"}`,
-                      color: verificationPipelineLogs.decision_result?.decision === "REJECTED" ? "#991b1b" : "#854d0e"
-                    }}>
-                      <h4 style={{ margin: "0 0 8px 0", fontSize: "14px", fontWeight: "700" }}>
-                        {verificationPipelineLogs.decision_result?.decision === "REJECTED" ? "Reason for Failure:" : "Reason for Manual Review:"}
-                      </h4>
-                      <ul style={{ margin: 0, paddingLeft: "20px", fontSize: "13px", display: "flex", flexDirection: "column", gap: "4px" }}>
-                        {verificationPipelineLogs.decision_result?.reasons?.map((reason, idx) => (
-                          <li key={idx}>{reason}</li>
-                        ))}
-                      </ul>
-                    </div>
-                  )}
-
-                  <div style={{...styles.idActions, marginTop: verificationPipelineLogs.decision_result?.decision !== "APPROVED" ? "16px" : "auto"}}>
-                    <button 
-                      onClick={() => {
-                        setVerificationPipelineLogs(null);
-                        setFile(null);
-                      }} 
-                      style={{...styles.secondaryButton, flex: 1}}
-                    >
-                      Scan Another Document
-                    </button>
-                    <button 
-                      onClick={handleReconfirm} 
-                      style={{...styles.actionButton, flex: 2, padding: "12px"}}
-                    >
-                      Process & Reconfirm Eligibility
-                    </button>
-                  </div>
-
-                  {reconfirmResult && (
-                    <div style={{...styles.reconfirmResultCard, marginTop: "16px"}}>
-                      <div style={{fontSize: "14px", marginBottom: "8px"}}>Overall Decision Status: <strong style={{color: "#93c5fd"}}>{reconfirmResult.overall_decision}</strong></div>
-                      <ul style={{margin: 0, paddingLeft: "20px", display: "flex", flexDirection: "column", gap: "6px"}}>
-                        {reconfirmResult.schemes?.map((s) => (
-                          <li key={s.scheme_name}>
-                            {s.scheme_name}: Preliminary verdict was <strong>{s.preliminary_verdict}</strong>, Document check: <strong>{s.verification_check}</strong>. Final Decision: <strong style={{color: s.final_decision === "ELIGIBLE" ? "#4ade80" : "#fca5a5"}}>{s.final_decision}</strong>
-                          </li>
-                        ))}
-                      </ul>
-                    </div>
-                  )}
                 </div>
+
+                {!submissionResult ? (
+                  <button 
+                    onClick={handleAppSubmit} 
+                    disabled={submittingApp}
+                    style={{ ...styles.actionButton, marginTop: "20px", width: "100%", background: "#16a34a" }}
+                  >
+                    {submittingApp ? "Submitting Application..." : "Submit Application"}
+                  </button>
+                ) : (
+                  <div style={{ marginTop: "20px", padding: "16px", background: "#f0fdf4", border: "1px solid #bbf7d0", borderRadius: "8px", textAlign: "center" }}>
+                    <h3 style={{ margin: "0 0 8px 0", color: "#166534" }}>✅ {submissionResult.message}</h3>
+                    <p style={{ margin: 0, fontSize: "14px", color: "#166534" }}>
+                      Your Tracking ID is: <strong style={{ fontSize: "18px" }}>{trackingId}</strong>
+                    </p>
+                  </div>
+                )}
               </div>
             )}
           </div>

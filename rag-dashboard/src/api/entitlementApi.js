@@ -45,7 +45,15 @@ export const reconfirmEligibility = async (data) => {
   };
 };
 export const fetchApplicationGuidance = async () => ({ steps: ["Step 1"] });
-export const submitApplication = async () => ({ success: true });
+export const submitApplication = async (data) => {
+  const response = await fetch(`${API_BASE}/applications/submit`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify(data)
+  });
+  if (!response.ok) throw new Error("Application submission failed");
+  return response.json();
+};
 export const fetchApplicationStatus = async () => ({ status: "Pending" });
 
 // GACA Integration Endpoints
