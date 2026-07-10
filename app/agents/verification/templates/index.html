@@ -975,7 +975,7 @@
             updateStep('step-preprocess', 'success', 'Contrast enhancement complete');
 
             // OCR
-            updateStep('step-ocr', 'active', 'PyTesseract text extraction active...');
+            updateStep('step-ocr', 'active', 'PaddleOCR text extraction active...');
             await sleep(800);
             const lineCount = data.raw_text ? data.raw_text.split('\n').length : 0;
             updateStep('step-ocr', 'success', `Extracted ${lineCount} text blocks`);

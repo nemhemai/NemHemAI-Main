@@ -1156,7 +1156,7 @@ function EntitlementDashboard() {
                               {item.missing_docs_count > 0 && ` | Missing: ${item.missing_docs_count} ${item.missing_docs_count === 1 ? 'document' : 'documents'}`}
                             </div>
                             
-                            {item.application_readiness !== "NOT_ELIGIBLE" && item.readiness_score === 100 && (
+                            {item.application_readiness !== "NOT_ELIGIBLE" && (
                               <button
                                 onClick={() => {
                                   setSelectedApplicationScheme(item);

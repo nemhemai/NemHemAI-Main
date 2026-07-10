@@ -93,9 +93,9 @@ async def verify_pipeline(
         if preprocessed_image_path:
             preprocessed_image_path = os.path.abspath(preprocessed_image_path)
         
-        # 4. OCR Text Extraction (PyTesseract)
+        # 4. OCR Text Extraction (PaddleOCR)
         ocr_res = OCRService.extract_text(processed_pages)
-        raw_text = ocr_res["full_text"]
+        raw_text = ocr_res["extracted_text"]
         
         # 5. Document Classifier
         document_type = ClassificationService.classify(raw_text)
@@ -112,7 +112,7 @@ async def verify_pipeline(
                 profile_dict = json.loads(profile_data)
             except Exception:
                 pass
-
+        
         # 7. Verification Rules
         verify_res = VerificationService.verify(document_type, extracted_fields, profile_dict)
         
@@ -121,8 +121,9 @@ async def verify_pipeline(
         
         # 9. Fraud Detection (OpenCV image quality metrics)
         # Use the normalized image (always a PNG) instead of raw upload (which could be a PDF)
+        # Pass doc_type so face detection is skipped for non-photo documents (PAN, Aadhaar)
         fraud_image_path = normalized_image_path or os.path.abspath(file_path)
-        fraud_res = FraudDetectionService.detect(fraud_image_path)
+        fraud_res = FraudDetectionService.detect(fraud_image_path, doc_type=document_type)
         
         # 10. Merge Cross-Validation results into Verification results for Decision
         passed_verify = list(verify_res.get("passed_checks") or [])

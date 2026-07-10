@@ -145,3 +145,5 @@ PyJWT==2.12.1
 ollama==0.6.1
 celery==5.4.0
 redis==5.0.3
+paddlepaddle
+paddleocr

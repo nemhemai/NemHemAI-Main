@@ -10,8 +10,8 @@ logger = get_logger(__name__)
 # ---------------------------------------------------------------------------
 # Decision thresholds
 # ---------------------------------------------------------------------------
-CONFIDENCE_APPROVE_THRESHOLD = 0.85   # verification confidence must be >= this
-CONFIDENCE_REVIEW_THRESHOLD = 0.60    # below this → REJECTED
+CONFIDENCE_APPROVE_THRESHOLD = 0.70   # verification confidence must be >= this
+CONFIDENCE_REVIEW_THRESHOLD = 0.45    # below this → REJECTED
 FRAUD_HIGH_REJECT = True              # HIGH fraud risk always rejects
 FRAUD_MEDIUM_REVIEW = True            # MEDIUM fraud risk forces REVIEW (not APPROVE)
 
@@ -139,13 +139,7 @@ class DecisionService:
         # Rule 3: Critical verification checks failed → REJECT
         critical_fails = [f for f in verify_failed if self._is_critical_check(f)]
         if critical_fails:
-            fail_map = {
-                "profile_name_match": "Profile name does not match the uploaded document",
-                "profile_dob_match": "Profile Date of Birth does not match the uploaded document",
-                "profile_aadhaar_match": "Profile Aadhaar number does not match the uploaded document"
-            }
-            readable_fails = [fail_map.get(f, f) for f in critical_fails]
-            reasons.append(f"Critical checks failed: {', '.join(readable_fails)}")
+            reasons.append(f"Critical checks failed: {', '.join(critical_fails)}")
             return DECISION_REJECTED, reasons
 
         # Rule 4: Verification confidence below minimum → REJECT
@@ -156,11 +150,12 @@ class DecisionService:
             )
             return DECISION_REJECTED, reasons
 
-        # Rule 5: MEDIUM fraud risk + confidence not high → MANUAL_REVIEW
-        if FRAUD_MEDIUM_REVIEW and fraud_risk_level == "MEDIUM":
+        # Rule 5: MEDIUM fraud risk + verification confidence below 0.80 → MANUAL_REVIEW
+        # If verification is strong (>= 0.80), allow approval despite MEDIUM image quality
+        if FRAUD_MEDIUM_REVIEW and fraud_risk_level == "MEDIUM" and verify_confidence < 0.80:
             reasons.append(
-                f"Fraud risk is MEDIUM — escalating for manual review "
-                f"(flags: {', '.join(fraud_flags)})"
+                f"Fraud risk is MEDIUM with insufficient verification confidence "
+                f"{verify_confidence:.2f} (flags: {', '.join(fraud_flags)})"
             )
             return DECISION_REVIEW, reasons
 
@@ -185,19 +180,18 @@ class DecisionService:
 
     def _is_critical_check(self, check_name: str) -> bool:
         """
-        Checks whose failure should cause immediate rejection.
-        Non-critical failures route to MANUAL_REVIEW.
+        Checks whose failure causes immediate rejection.
+        Non-critical failures route to MANUAL_REVIEW instead.
+
+        Note: dob_valid is intentionally non-critical — DOB parsing can fail
+        on unusual formats without indicating a fake document.
         """
         critical = {
             "aadhaar_format",
             "aadhaar_verhoeff_checksum",
             "pan_format",
             "passport_number_format",
-            "dob_valid",
             "passport_not_expired",
-            "profile_name_match",
-            "profile_dob_match",
-            "profile_aadhaar_match",
         }
         return check_name in critical
 

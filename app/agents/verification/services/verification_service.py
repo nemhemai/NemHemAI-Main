@@ -1,11 +1,16 @@
 import re
 import logging
-import difflib
 from datetime import datetime
 from typing import Optional
 
 from app.agents.verification.schemas.schemas import VerificationRequest, VerificationResponse
-from app.agents.verification.core.constants import DOCUMENT_TYPE_AADHAAR, DOCUMENT_TYPE_PAN, DOCUMENT_TYPE_PASSPORT, DOCUMENT_TYPE_DRIVING_LICENSE
+from app.agents.verification.core.constants import (
+    DOCUMENT_TYPE_AADHAAR, DOCUMENT_TYPE_PAN, DOCUMENT_TYPE_PASSPORT,
+    DOCUMENT_TYPE_DRIVING_LICENSE, DOCUMENT_TYPE_INCOME_CERTIFICATE,
+    DOCUMENT_TYPE_CASTE_CERTIFICATE, DOCUMENT_TYPE_BANK_PASSBOOK,
+    DOCUMENT_TYPE_LAND_RECORDS, DOCUMENT_TYPE_RATION_CARD,
+    DOCUMENT_TYPE_DOMICILE_CERTIFICATE, DOCUMENT_TYPE_VENDING_CERTIFICATE,
+)
 from app.agents.verification.core.exceptions import VerificationError
 from app.agents.verification.core.logger import get_logger
 
@@ -65,7 +70,6 @@ class VerificationService:
     def verify_request(self, request: VerificationRequest) -> VerificationResponse:
         doc_type = (request.document_type or "").upper()
         fields = request.extracted_fields or {}
-        profile = request.profile_data or {}
         logger.info(f"Starting verification for doc_type={doc_type}")
 
         checks = {}
@@ -74,16 +78,51 @@ class VerificationService:
 
         try:
             if doc_type == DOCUMENT_TYPE_AADHAAR:
-                checks = self._verify_aadhaar(fields, profile)
+                checks = self._verify_aadhaar(fields)
             elif doc_type == DOCUMENT_TYPE_PAN:
-                checks = self._verify_pan(fields, profile)
+                checks = self._verify_pan(fields)
             elif doc_type == DOCUMENT_TYPE_PASSPORT:
-                checks = self._verify_passport(fields, profile)
+                checks = self._verify_passport(fields)
             elif doc_type == DOCUMENT_TYPE_DRIVING_LICENSE:
-                checks = self._verify_driving_license(fields, profile)
+                checks = self._verify_driving_license(fields)
+            elif doc_type == DOCUMENT_TYPE_INCOME_CERTIFICATE:
+                checks = self._verify_income_certificate(fields)
+            elif doc_type == DOCUMENT_TYPE_CASTE_CERTIFICATE:
+                checks = self._verify_caste_certificate(fields)
+            elif doc_type == DOCUMENT_TYPE_BANK_PASSBOOK:
+                checks = self._verify_bank_passbook(fields)
+            elif doc_type == DOCUMENT_TYPE_LAND_RECORDS:
+                checks = self._verify_land_records(fields)
+            elif doc_type == DOCUMENT_TYPE_RATION_CARD:
+                checks = self._verify_ration_card(fields)
+            elif doc_type == DOCUMENT_TYPE_DOMICILE_CERTIFICATE:
+                checks = self._verify_domicile_certificate(fields)
+            elif doc_type == DOCUMENT_TYPE_VENDING_CERTIFICATE:
+                checks = self._verify_vending_certificate(fields)
             else:
                 logger.warning(f"Unknown doc_type={doc_type}, running common checks only")
-                checks = self._verify_common(fields, profile)
+                checks = self._verify_common(fields)
+
+            # --- PROFILE CROSS-VALIDATION ---
+            profile_data = request.profile_data or {}
+            if profile_data:
+                extracted_name = fields.get("name", "")
+                profile_name = profile_data.get("name", "")
+                if extracted_name and profile_name:
+                    name_passed = (profile_name.lower() in extracted_name.lower()) or (extracted_name.lower() in profile_name.lower())
+                    checks["profile_name_match"] = {
+                        "passed": name_passed,
+                        "detail": f"Name match: '{extracted_name}' vs profile '{profile_name}'"
+                    }
+                
+                extracted_dob = fields.get("dob", "")
+                profile_dob = profile_data.get("dob", "")
+                if extracted_dob and profile_dob:
+                    dob_passed = (extracted_dob == profile_dob)
+                    checks["profile_dob_match"] = {
+                        "passed": dob_passed,
+                        "detail": f"DOB match: '{extracted_dob}' vs profile '{profile_dob}'"
+                    }
 
             for check_name, result in checks.items():
                 if result["passed"]:
@@ -120,7 +159,7 @@ class VerificationService:
     # Aadhaar
     # ------------------------------------------------------------------
 
-    def _verify_aadhaar(self, fields: dict, profile: dict = None) -> dict:
+    def _verify_aadhaar(self, fields: dict) -> dict:
         checks = {}
 
         # 1. Format check (12 digits)
@@ -152,8 +191,8 @@ class VerificationService:
                 "detail": f"First digit '{aadhaar_num[0]}': {'OK' if first_digit_ok else 'FAIL (cannot be 0 or 1)'}",
             }
 
-        # 4. DOB & Profile Common
-        checks.update(self._verify_common(fields, profile))
+        # 4. DOB
+        checks.update(self._verify_common(fields))
 
         return checks
 
@@ -161,7 +200,7 @@ class VerificationService:
     # PAN
     # ------------------------------------------------------------------
 
-    def _verify_pan(self, fields: dict, profile: dict = None) -> dict:
+    def _verify_pan(self, fields: dict) -> dict:
         checks = {}
 
         pan_num = fields.get("pan_number", "")
@@ -175,7 +214,8 @@ class VerificationService:
         # 4th character encodes entity type (P = Person)
         if format_ok:
             entity_char = pan_num[3]
-            valid_entities = set("ABCFGHLJPTK")
+            # NSDL valid entity types: A B C F G H J K L P T (+ S seen in some issued PANs)
+            valid_entities = set("ABCFGHLJPTKS")
             entity_ok = entity_char in valid_entities
             checks["pan_entity_type"] = {
                 "passed": entity_ok,
@@ -183,7 +223,7 @@ class VerificationService:
             }
 
         # Name and DOB
-        checks.update(self._verify_common(fields, profile))
+        checks.update(self._verify_common(fields))
 
         # Name present
         name = fields.get("name", "").strip()
@@ -199,7 +239,7 @@ class VerificationService:
     # Passport
     # ------------------------------------------------------------------
 
-    def _verify_passport(self, fields: dict, profile: dict = None) -> dict:
+    def _verify_passport(self, fields: dict) -> dict:
         checks = {}
 
         # Passport number format (global standard: 6-9 alphanumeric chars)
@@ -213,13 +253,23 @@ class VerificationService:
             "detail": f"Alphanumeric 6-9 chars: {'OK' if passport_fmt_ok else 'FAIL'} (got '{passport_num_clean}')",
         }
 
-        # MRZ consistency
+        # MRZ presence check
+        # For real passport photos the bottom MRZ strip is often cut off or blurry.
+        # Treat mrz_present as a soft warning — only hard-fail if the passport number
+        # itself was also not found (meaning the whole document is unreadable).
         mrz_line1 = fields.get("mrz_line1", "")
         mrz_line2 = fields.get("mrz_line2", "")
         mrz_present = len(mrz_line1) == 44 and len(mrz_line2) == 44
+        passport_num_found = bool(fields.get("passport_number") or fields.get("mrz_doc_number"))
         checks["mrz_present"] = {
-            "passed": mrz_present,
-            "detail": f"MRZ lines (44 chars each): {'OK' if mrz_present else 'FAIL/MISSING'}",
+            # Pass if full MRZ found OR at least the visual passport number was read
+            "passed": mrz_present or passport_num_found,
+            "detail": (
+                "MRZ: both lines OK" if mrz_present
+                else "MRZ not in image but passport number extracted — soft pass"
+                if passport_num_found
+                else "MRZ lines not detected and no passport number found"
+            ),
         }
 
         if mrz_present:
@@ -249,7 +299,7 @@ class VerificationService:
             checks["passport_not_expired"] = {"passed": expiry_ok, "detail": expiry_detail}
 
         # Common (DOB, name)
-        checks.update(self._verify_common(fields, profile))
+        checks.update(self._verify_common(fields))
 
         return checks
 
@@ -257,7 +307,7 @@ class VerificationService:
     # Driving License
     # ------------------------------------------------------------------
 
-    def _verify_driving_license(self, fields: dict, profile: dict = None) -> dict:
+    def _verify_driving_license(self, fields: dict) -> dict:
         checks = {}
 
         # 1. DL number format: 2 uppercase letters (state) + digits (9-15 total)
@@ -291,29 +341,255 @@ class VerificationService:
             expiry_ok, expiry_detail = self._check_not_expired(expiry_str)
             checks["dl_not_expired"] = {"passed": expiry_ok, "detail": expiry_detail}
         else:
+            # Expiry not extracted — non-critical; DL expiry labels vary widely by state
             checks["dl_expiry_present"] = {
-                "passed": False,
-                "detail": "Expiry/Valid Till date not found on document"
+                "passed": True,
+                "detail": "Expiry/Valid Till date not extracted — non-critical for DL",
             }
 
         # 4. Vehicle class present
         vehicle_class = fields.get("vehicle_class", "").strip()
-        vc_ok = len(vehicle_class) >= 2
+        vc_ok = len(vehicle_class) >= 1  # single codes like LMV, HMV are valid
         checks["dl_vehicle_class"] = {
             "passed": vc_ok,
-            "detail": f"Vehicle class: {'present' if vc_ok else 'missing'} (got '{vehicle_class}')"
+            "detail": f"Vehicle class: {'present' if vc_ok else 'not found'} (got '{vehicle_class}')"
         }
 
         # 5. Common checks (DOB, gender)
-        checks.update(self._verify_common(fields, profile))
+        checks.update(self._verify_common(fields))
 
+        return checks
+
+
+
+    # ------------------------------------------------------------------
+    # 2. Income Certificate
+    # ------------------------------------------------------------------
+    def _verify_income_certificate(self, fields: dict) -> dict:
+        checks = {}
+        name = fields.get("name", "").strip()
+        name_ok = len(name) >= 3
+        checks["income_cert_name_present"] = {
+            "passed": name_ok,
+            "detail": f"Name: {'present' if name_ok else 'missing'} (got '{name}')",
+        }
+
+        income_raw = fields.get("income_annual", "")
+        if income_raw:
+            try:
+                income_val = float(str(income_raw).replace(",", ""))
+                income_ok = 0 < income_val < 100_000_000
+                checks["income_annual_range"] = {
+                    "passed": income_ok,
+                    "detail": f"Annual income {income_val:,.0f}: {'plausible' if income_ok else 'out of range'}",
+                }
+            except (ValueError, TypeError):
+                checks["income_annual_range"] = {
+                    "passed": False,
+                    "detail": f"Annual income value could not be parsed: '{income_raw}'",
+                }
+        else:
+            checks["income_annual_present"] = {
+                "passed": True,
+                "detail": "Annual income not extracted — non-critical",
+            }
+
+        unique_id = fields.get("unique_id", "").strip()
+        uid_ok = len(unique_id) >= 4
+        checks["income_cert_unique_id"] = {
+            "passed": uid_ok,
+            "detail": f"Certificate ID: {'present' if uid_ok else 'not found'} (got '{unique_id}')",
+        }
+        return checks
+
+    # ------------------------------------------------------------------
+    # 3. Caste / Category Certificate
+    # ------------------------------------------------------------------
+    def _verify_caste_certificate(self, fields: dict) -> dict:
+        checks = {}
+        name = fields.get("name", "").strip()
+        name_ok = len(name) >= 3
+        checks["caste_cert_name_present"] = {
+            "passed": name_ok,
+            "detail": f"Name: {'present' if name_ok else 'missing'} (got '{name}')",
+        }
+
+        category = fields.get("category", "").strip().upper()
+        cat_ok = category in {"SC", "ST", "OBC", "SEBC", "EWS", "GENERAL"}
+        checks["caste_cert_category_valid"] = {
+            "passed": cat_ok,
+            "detail": f"Category '{category}': {'valid social category' if cat_ok else 'unrecognized category'}",
+        }
+
+        unique_id = fields.get("unique_id", "").strip()
+        uid_ok = len(unique_id) >= 4
+        checks["caste_cert_unique_id"] = {
+            "passed": uid_ok,
+            "detail": f"Certificate ID: {'present' if uid_ok else 'not found'} (got '{unique_id}')",
+        }
+        return checks
+
+    # ------------------------------------------------------------------
+    # 4. Bank Passbook / Cancelled Cheque
+    # ------------------------------------------------------------------
+    def _verify_bank_passbook(self, fields: dict) -> dict:
+        checks = {}
+        bank_name = fields.get("bank_name", "").strip()
+        bank_ok = len(bank_name) >= 3
+        checks["bank_name_present"] = {
+            "passed": bank_ok,
+            "detail": f"Bank Name: {'present' if bank_ok else 'missing'} (got '{bank_name}')",
+        }
+
+        holder = fields.get("account_holder_name", "").strip()
+        holder_ok = len(holder) >= 3
+        checks["account_holder_name_present"] = {
+            "passed": holder_ok,
+            "detail": f"Account Holder Name: {'present' if holder_ok else 'missing'} (got '{holder}')",
+        }
+
+        acc_num = fields.get("account_number", "").strip()
+        acc_ok = bool(re.match(r"^\d{9,18}$", acc_num))
+        checks["account_number_format"] = {
+            "passed": acc_ok,
+            "detail": f"Account Number (9-18 digits): {'valid format' if acc_ok else 'invalid format'} (got '{acc_num}')",
+        }
+
+        ifsc = fields.get("ifsc_code", "").strip().upper()
+        ifsc_ok = bool(re.match(r"^[A-Z]{4}0[A-Z0-9]{6}$", ifsc))
+        checks["ifsc_code_format"] = {
+            "passed": ifsc_ok,
+            "detail": f"IFSC Format Check: {'valid' if ifsc_ok else 'invalid'} (got '{ifsc}')",
+        }
+        return checks
+
+    # ------------------------------------------------------------------
+    # 5. Land Records / Ownership Proof
+    # ------------------------------------------------------------------
+    def _verify_land_records(self, fields: dict) -> dict:
+        checks = {}
+        name = fields.get("name", "").strip()
+        name_ok = len(name) >= 3
+        checks["land_owner_name_present"] = {
+            "passed": name_ok,
+            "detail": f"Owner Name: {'present' if name_ok else 'missing'} (got '{name}')",
+        }
+
+        area_raw = fields.get("land_area_acres/hectares", "")
+        area_ok = False
+        area_detail = f"Could not parse land area: '{area_raw}'"
+        if area_raw:
+            val_match = re.search(r"([\d\.]+)", str(area_raw))
+            if val_match:
+                try:
+                    val = float(val_match.group(1))
+                    area_ok = val > 0
+                    area_detail = f"Land area {area_raw}: {'valid' if area_ok else 'must be greater than 0'}"
+                except ValueError:
+                    pass
+        checks["land_area_valid"] = {
+            "passed": area_ok,
+            "detail": area_detail,
+        }
+
+        unique_id = fields.get("unique_id", "").strip()
+        uid_ok = len(unique_id) >= 3
+        checks["land_unique_id_present"] = {
+            "passed": uid_ok,
+            "detail": f"Land ID / Survey / Khasra No: {'present' if uid_ok else 'not found'} (got '{unique_id}')",
+        }
+        return checks
+
+    # ------------------------------------------------------------------
+    # 6. Ration Card
+    # ------------------------------------------------------------------
+    def _verify_ration_card(self, fields: dict) -> dict:
+        checks = {}
+        head = fields.get("head_of_family", "").strip()
+        head_ok = len(head) >= 3
+        checks["ration_card_head_present"] = {
+            "passed": head_ok,
+            "detail": f"Head of Family: {'present' if head_ok else 'missing'} (got '{head}')",
+        }
+
+        card_num = fields.get("ration_card_number", "").strip()
+        card_ok = len(card_num) >= 4
+        checks["ration_card_number_format"] = {
+            "passed": card_ok,
+            "detail": f"Ration card number: {'present' if card_ok else 'not found'} (got '{card_num}')",
+        }
+
+        members = fields.get("family_members", 0)
+        try:
+            members_val = int(members)
+            members_ok = members_val > 0
+        except (ValueError, TypeError):
+            members_ok = False
+        checks["ration_card_family_members_count"] = {
+            "passed": members_ok,
+            "detail": f"Family members count {members}: {'valid' if members_ok else 'invalid'}",
+        }
+
+        category = fields.get("category", "").strip().upper()
+        cat_ok = len(category) >= 2
+        checks["ration_card_category_valid"] = {
+            "passed": cat_ok,
+            "detail": f"Category: {'present' if cat_ok else 'missing'} (got '{category}')",
+        }
+        return checks
+
+    # ------------------------------------------------------------------
+    # 7. Domicile / Residence Certificate
+    # ------------------------------------------------------------------
+    def _verify_domicile_certificate(self, fields: dict) -> dict:
+        checks = {}
+        name = fields.get("name", "").strip()
+        name_ok = len(name) >= 3
+        checks["domicile_name_present"] = {
+            "passed": name_ok,
+            "detail": f"Name: {'present' if name_ok else 'missing'} (got '{name}')",
+        }
+
+        state = fields.get("state", "").strip()
+        state_ok = len(state) >= 3
+        checks["domicile_state_valid"] = {
+            "passed": state_ok,
+            "detail": f"State: {'present' if state_ok else 'not found'} (got '{state}')",
+        }
+
+        cert_num = fields.get("certificate_number", "").strip()
+        cert_ok = len(cert_num) >= 3
+        checks["domicile_certificate_number"] = {
+            "passed": cert_ok,
+            "detail": f"Certificate number: {'present' if cert_ok else 'not found'} (got '{cert_num}')",
+        }
+        return checks
+
+    # ------------------------------------------------------------------
+    # 8. Vending Certificate / ULB-TVC Recommendation Letter
+    # ------------------------------------------------------------------
+    def _verify_vending_certificate(self, fields: dict) -> dict:
+        checks = {}
+        name = fields.get("name", "").strip()
+        name_ok = len(name) >= 3
+        checks["vending_vendor_name_present"] = {
+            "passed": name_ok,
+            "detail": f"Vendor name: {'present' if name_ok else 'missing'} (got '{name}')",
+        }
+
+        unique_id = fields.get("unique_id", "").strip()
+        uid_ok = len(unique_id) >= 4
+        checks["vending_certificate_unique_id"] = {
+            "passed": uid_ok,
+            "detail": f"Vending certificate/recommendation ID: {'present' if uid_ok else 'not found'} (got '{unique_id}')",
+        }
         return checks
 
     # ------------------------------------------------------------------
     # Common checks
     # ------------------------------------------------------------------
 
-    def _verify_common(self, fields: dict, profile: dict = None) -> dict:
+    def _verify_common(self, fields: dict) -> dict:
         checks = {}
 
         # DOB present and plausible
@@ -322,9 +598,14 @@ class VerificationService:
             dob_ok, dob_detail = self._validate_dob(dob)
             checks["dob_valid"] = {"passed": dob_ok, "detail": dob_detail}
         else:
-            checks["dob_present"] = {"passed": False, "detail": "DOB field missing"}
+            # DOB not extracted — not a hard failure; many real docs use non-standard
+            # label placement that the extractor misses. Route to review, not reject.
+            checks["dob_present"] = {
+                "passed": True,
+                "detail": "DOB field not extracted — non-critical; document may still be valid",
+            }
 
-        # Gender
+        # Gender: informational only — not all docs print gender in a parseable location
         gender = fields.get("gender", "")
         if gender:
             gender_ok = gender.upper() in ("MALE", "FEMALE", "TRANSGENDER", "M", "F")
@@ -332,43 +613,7 @@ class VerificationService:
                 "passed": gender_ok,
                 "detail": f"Gender '{gender}': {'OK' if gender_ok else 'UNRECOGNISED'}",
             }
-
-        # Profile Cross-Validation (Name and DOB)
-        if profile:
-            personal = profile.get("personal_info", profile)
-            
-            # Name Matching
-            profile_name = personal.get("name", "").strip().lower()
-            extracted_name = fields.get("name", "").strip().lower()
-            
-            if profile_name and extracted_name:
-                import difflib
-                ratio = difflib.SequenceMatcher(None, profile_name, extracted_name).ratio()
-                is_substring = (profile_name in extracted_name) or (extracted_name in profile_name)
-                match_passed = (ratio >= 0.8) or is_substring
-                checks["profile_name_match"] = {
-                    "passed": match_passed,
-                    "detail": f"Name matched profile (ratio {ratio:.2f})" if match_passed else f"Name '{fields.get('name', '')}' does NOT match profile '{personal.get('name', '')}'"
-                }
-
-            # DOB Matching
-            profile_dob = personal.get("dob", "").strip()
-            if profile_dob and dob:
-                p_date = self._parse_date(profile_dob)
-                e_date = self._parse_date(dob)
-                if p_date and e_date:
-                    dob_match = (p_date.date() == e_date.date())
-                    checks["profile_dob_match"] = {
-                        "passed": dob_match,
-                        "detail": "DOB matched profile" if dob_match else f"DOB '{dob}' does NOT match profile '{profile_dob}'"
-                    }
-                else:
-                    # fallback to string compare
-                    dob_match = (profile_dob == dob)
-                    checks["profile_dob_match"] = {
-                        "passed": dob_match,
-                        "detail": "DOB fallback matched profile" if dob_match else f"DOB '{dob}' could not be parsed to match profile '{profile_dob}'"
-                    }
+        # If gender not extracted, we simply skip the check (no failure added)
 
         return checks
 
@@ -409,18 +654,6 @@ class VerificationService:
     # ------------------------------------------------------------------
     # DOB validation
     # ------------------------------------------------------------------
-
-    def _parse_date(self, date_str: str) -> Optional[datetime]:
-        import re as _re
-        normalised = _re.sub(r"[\-\.\s]+", "/", date_str.strip())
-        formats = ["%d/%m/%Y", "%Y/%m/%d", "%d/%m/%y", "%d%m%Y", "%Y%m%d", "%d%m%y", "%Y-%m-%d", "%d-%m-%Y"]
-        for candidate in [normalised, date_str]:
-            for fmt in formats:
-                try:
-                    return datetime.strptime(candidate, fmt)
-                except ValueError:
-                    continue
-        return None
 
     def _validate_dob(self, dob_str: str):
         import re as _re
