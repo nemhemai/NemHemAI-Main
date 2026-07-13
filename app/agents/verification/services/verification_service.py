@@ -10,6 +10,7 @@ from app.agents.verification.core.constants import (
     DOCUMENT_TYPE_CASTE_CERTIFICATE, DOCUMENT_TYPE_BANK_PASSBOOK,
     DOCUMENT_TYPE_LAND_RECORDS, DOCUMENT_TYPE_RATION_CARD,
     DOCUMENT_TYPE_DOMICILE_CERTIFICATE, DOCUMENT_TYPE_VENDING_CERTIFICATE,
+    DOCUMENT_TYPE_NO_PUCCA_HOUSE_DECLARATION,
 )
 from app.agents.verification.core.exceptions import VerificationError
 from app.agents.verification.core.logger import get_logger
@@ -99,6 +100,8 @@ class VerificationService:
                 checks = self._verify_domicile_certificate(fields)
             elif doc_type == DOCUMENT_TYPE_VENDING_CERTIFICATE:
                 checks = self._verify_vending_certificate(fields)
+            elif doc_type == DOCUMENT_TYPE_NO_PUCCA_HOUSE_DECLARATION:
+                checks = self._verify_pucca_house_declaration(fields)
             else:
                 logger.warning(f"Unknown doc_type={doc_type}, running common checks only")
                 checks = self._verify_common(fields)
@@ -581,12 +584,30 @@ class VerificationService:
         uid_ok = len(unique_id) >= 4
         checks["vending_certificate_unique_id"] = {
             "passed": uid_ok,
-            "detail": f"Vending certificate/recommendation ID: {'present' if uid_ok else 'not found'} (got '{unique_id}')",
+"detail": f"Vending certificate/recommendation ID: {'present' if uid_ok else 'not found'} (got '{unique_id}')",
         }
         return checks
 
     # ------------------------------------------------------------------
-    # Common checks
+    # No Pucca House Declaration
+    # ------------------------------------------------------------------
+
+    def _verify_pucca_house_declaration(self, fields: dict) -> dict:
+        checks = {}
+        has_declaration = fields.get("has_declaration", False)
+        checks["declaration_present"] = {
+            "passed": has_declaration,
+            "detail": "Declaration statement present" if has_declaration else "Declaration statement not found",
+        }
+        name = fields.get("name", "")
+        checks["name_present"] = {
+            "passed": bool(name),
+            "detail": f"Name found: {name}" if name else "Name not found",
+        }
+        return checks
+
+    # ------------------------------------------------------------------
+    # Common / Generic
     # ------------------------------------------------------------------
 
     def _verify_common(self, fields: dict) -> dict:

@@ -16,6 +16,8 @@ FIELD_QUESTIONS = {
     "has_ulb_recommendation": "Do you have a letter of recommendation from your ULB/TVC?",
     "has_pucca_house": "Do you already own a pucca house?",
     "state": "Which state are you from?",
+    "has_pan": "Do you have a valid PAN card?",
+    "has_passport": "Do you hold a valid Passport?",
 }
 
 FIELD_LABELS = {
@@ -31,6 +33,8 @@ FIELD_LABELS = {
     "has_ulb_recommendation": "ULB/TVC recommendation letter",
     "has_pucca_house": "Pucca house ownership",
     "state": "State",
+    "has_pan": "PAN card",
+    "has_passport": "Passport",
 }
 
 FIELD_DOCUMENTS = {
@@ -44,7 +48,9 @@ FIELD_DOCUMENTS = {
     "has_vending_certificate": "Vending certificate or ULB/TVC recommendation",
     "has_ulb_recommendation": "ULB/TVC recommendation letter",
     "has_pucca_house": "No-pucca-house declaration",
-    "state": "State residency proof",
+    "state": "Domicile certificate",
+    "has_pan": "PAN Card",
+    "has_passport": "Passport",
 }
 
 

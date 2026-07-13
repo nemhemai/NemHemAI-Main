@@ -1,0 +1,671 @@
+{
+  "document_id": 92,
+  "pages": {
+    "1": {
+      "elements": 22,
+      "flagged": 22,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "92_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Bank’s  Logo"
+        },
+        {
+          "element_id": "92_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "LOAN APPLICATION FORMPRADHAN MANTRI MUDRA YOJANA"
+        },
+        {
+          "element_id": "92_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "( To be submitted along with documents as per the check list )"
+        },
+        {
+          "element_id": "92_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "A. For office Use:"
+        },
+        {
+          "element_id": "92_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Enterprise Name  Application Sl. No.  Name of the Branch  Category  Shishu/Kishor/Tarun"
+        },
+        {
+          "element_id": "92_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "B.Business Information:"
+        },
+        {
+          "element_id": "92_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Name of the  Enterprise"
+        },
+        {
+          "element_id": "92_p1_e7",
+          "sequence_order": 7,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Constitution √ Proprietary  Partnership  Pvt. Ltd.  Ltd. Company  Any Others (specify)"
+        },
+        {
+          "element_id": "92_p1_e8",
+          "sequence_order": 8,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Current  Business  Address  State  PIN Code  Business Premises  √  Rented  Owned"
+        },
+        {
+          "element_id": "92_p1_e9",
+          "sequence_order": 9,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Telephone No.  Mobile No.  91"
+        },
+        {
+          "element_id": "92_p1_e10",
+          "sequence_order": 10,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "E-mail:  Business  Activity"
+        },
+        {
+          "element_id": "92_p1_e11",
+          "sequence_order": 11,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 55,
+          "text_preview": "Existing  Proposed  Date of Commencement(DD/MM/YYYY)  Whether the Unit is Registered  √  Yes  No  If Registered (Please "
+        },
+        {
+          "element_id": "92_p1_e12",
+          "sequence_order": 12,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "C.Background Information of Proprietor/ Partners/ Directors:"
+        },
+        {
+          "element_id": "92_p1_e13",
+          "sequence_order": 13,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "S.No Name  Date of  Birth"
+        },
+        {
+          "element_id": "92_p1_e14",
+          "sequence_order": 14,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Sex  Residential  Address with  Mobile No."
+        },
+        {
+          "element_id": "92_p1_e15",
+          "sequence_order": 15,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Academic  Qualification"
+        },
+        {
+          "element_id": "92_p1_e16",
+          "sequence_order": 16,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Experience in  the line of  activity (Years)  1.  2."
+        },
+        {
+          "element_id": "92_p1_e17",
+          "sequence_order": 17,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "S.No Id proof  Id proof  no."
+        },
+        {
+          "element_id": "92_p1_e18",
+          "sequence_order": 18,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Address  proof"
+        },
+        {
+          "element_id": "92_p1_e19",
+          "sequence_order": 19,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Address  proof no."
+        },
+        {
+          "element_id": "92_p1_e20",
+          "sequence_order": 20,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "PAN  Card/DIN No."
+        },
+        {
+          "element_id": "92_p1_e21",
+          "sequence_order": 21,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Relationship with the  officials/ Director of the  bank if any  1.  2."
+        }
+      ]
+    },
+    "2": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "3": {
+      "elements": 21,
+      "flagged": 21,
+      "flags": [
+        "noise_detected",
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "92_p3_e33",
+          "sequence_order": 33,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "I. Past Performance / Future Estimates: (In Rs.)"
+        },
+        {
+          "element_id": "92_p3_e34",
+          "sequence_order": 34,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 44,
+          "text_preview": "Past Performance / Future Estimates (Actual performance for two previous years, estimates for  current year and projecti"
+        },
+        {
+          "element_id": "92_p3_e35",
+          "sequence_order": 35,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Past Year-II"
+        },
+        {
+          "element_id": "92_p3_e36",
+          "sequence_order": 36,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "(Actual)"
+        },
+        {
+          "element_id": "92_p3_e37",
+          "sequence_order": 37,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Past Year-I"
+        },
+        {
+          "element_id": "92_p3_e38",
+          "sequence_order": 38,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "(Actual)"
+        },
+        {
+          "element_id": "92_p3_e39",
+          "sequence_order": 39,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Present Year"
+        },
+        {
+          "element_id": "92_p3_e40",
+          "sequence_order": 40,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "(Estimate)"
+        },
+        {
+          "element_id": "92_p3_e41",
+          "sequence_order": 41,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Next Year (Projection)"
+        },
+        {
+          "element_id": "92_p3_e42",
+          "sequence_order": 42,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "Net Sales  Net Profit  Capital (Net  Worth in case of  Companies)    J. Status Regarding Statutory Obligations:"
+        },
+        {
+          "element_id": "92_p3_e43",
+          "sequence_order": 43,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Statutory Obligations"
+        },
+        {
+          "element_id": "92_p3_e44",
+          "sequence_order": 44,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Whether  Complied with  (select Yes/No)  If not applicable  then select N. A."
+        },
+        {
+          "element_id": "92_p3_e45",
+          "sequence_order": 45,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Remarks  (Any details in  connection withthe  relevant obligation to be"
+        },
+        {
+          "element_id": "92_p3_e46",
+          "sequence_order": 46,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 37,
+          "text_preview": "given )  1. Registration under Shops and Establishment Act  2. Registration under MSME (Provisional /Final)  3. Drug Lic"
+        },
+        {
+          "element_id": "92_p3_e47",
+          "sequence_order": 47,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 118,
+          "text_preview": "I/We hereby certify that all information furnished by me/us is true, correct and complete. I/We have no  borrowing arran"
+        },
+        {
+          "element_id": "92_p3_e48",
+          "sequence_order": 48,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Space for Photo"
+        },
+        {
+          "element_id": "92_p3_e49",
+          "sequence_order": 49,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Space for Photo"
+        },
+        {
+          "element_id": "92_p3_e50",
+          "sequence_order": 50,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Space for Photo"
+        },
+        {
+          "element_id": "92_p3_e51",
+          "sequence_order": 51,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "(Signatures of Proprietor/partner/ director whose photo is affixed above)"
+        },
+        {
+          "element_id": "92_p3_e52",
+          "sequence_order": 52,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Date:___________________"
+        },
+        {
+          "element_id": "92_p3_e53",
+          "sequence_order": 53,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Place:___________________"
+        }
+      ]
+    },
+    "4": {
+      "elements": 15,
+      "flagged": 15,
+      "flags": [
+        "noise_detected",
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "92_p4_e54",
+          "sequence_order": 54,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "CHECK LIST: (The check list is only indicative and not exhaustive and depending upon the  local requirements at differen"
+        },
+        {
+          "element_id": "92_p4_e55",
+          "sequence_order": 55,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 235,
+          "text_preview": "1) Proof of identity - Self certified copy of Voter’s ID card / Driving License / PAN Card /    Aadhar Card/Passport.  2"
+        },
+        {
+          "element_id": "92_p4_e56",
+          "sequence_order": 56,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Acknowledgement Slip for loan Application under PradhanMantri MUDRA Yojana"
+        },
+        {
+          "element_id": "92_p4_e57",
+          "sequence_order": 57,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Office Copy:"
+        },
+        {
+          "element_id": "92_p4_e58",
+          "sequence_order": 58,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Application (system  generated/manual) Number"
+        },
+        {
+          "element_id": "92_p4_e59",
+          "sequence_order": 59,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Date of Application"
+        },
+        {
+          "element_id": "92_p4_e60",
+          "sequence_order": 60,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Name of the Applicant(s)  Loan Amt. Requested for"
+        },
+        {
+          "element_id": "92_p4_e61",
+          "sequence_order": 61,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Signature of Applicant(s)  Signature of Branch  official"
+        },
+        {
+          "element_id": "92_p4_e62",
+          "sequence_order": 62,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text",
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "------------------------------------------------------------------------------------------------------------------------"
+        },
+        {
+          "element_id": "92_p4_e63",
+          "sequence_order": 63,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Acknowledgement Slip for loan Application under PradhanMantri MUDRA Yojana"
+        },
+        {
+          "element_id": "92_p4_e64",
+          "sequence_order": 64,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Applicants Copy:"
+        },
+        {
+          "element_id": "92_p4_e65",
+          "sequence_order": 65,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Application (system  generated/manual) Number"
+        },
+        {
+          "element_id": "92_p4_e66",
+          "sequence_order": 66,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Date of Application"
+        },
+        {
+          "element_id": "92_p4_e67",
+          "sequence_order": 67,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Name of the Applicant(s)  Loan Amt. Requested for"
+        },
+        {
+          "element_id": "92_p4_e68",
+          "sequence_order": 68,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Signature of Applicant(s)  Signature of Branch  official"
+        }
+      ]
+    }
+  }
+}

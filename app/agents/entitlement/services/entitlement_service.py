@@ -33,6 +33,8 @@ FIELD_LABELS = {
     "pays_income_tax": "Income tax payer status",
     "owns_motorized_vehicle": "Motorized vehicle ownership",
     "is_institutional_landholder": "Institutional landholder status",
+    "has_pan": "PAN Card Status",
+    "has_passport": "Passport Status",
 }
 
 
@@ -59,6 +61,13 @@ FIELD_VERIFY_STEPS = {
         "Ask for the Certificate of Vending or identity card issued by the ULB/TVC.",
         "If unavailable, check whether a ULB/TVC recommendation letter can be issued.",
     ],
+    "has_pan": [
+        "Ask for a copy of the PAN card.",
+        "Verify that it is linked to Aadhaar if required.",
+    ],
+    "has_passport": [
+        "Ask for a valid Passport.",
+    ],
 }
 
 FIELD_WHY_REQUIRED = {
@@ -69,6 +78,8 @@ FIELD_WHY_REQUIRED = {
     "category": "Applicant category is required where benefits depend on SC, ST, OBC, or General category rules.",
     "has_vending_certificate": "A vending certificate or ULB/TVC recommendation is required to verify street vendor status.",
     "has_pucca_house": "Pucca house ownership is required for housing schemes that exclude households already owning a pucca house.",
+    "has_pan": "PAN is required for financial or loan schemes to check credit history and taxation.",
+    "has_passport": "Passport is required for certain education loan portals and international scholarship eligibility.",
 }
 
 
@@ -83,53 +94,46 @@ class SchemeRule:
 
 
 SCHEME_RULES: tuple[SchemeRule, ...] = (
+
     SchemeRule(
-        scheme_name="PMAY-U",
-        category="housing",
-        keywords=("urban", "housing", "house", "pucca", "ews", "lig", "pmay-u", "slum"),
-        required_profile_fields=("urban_rural", "income_annual", "has_pucca_house"),
-        required_documents=("Aadhaar", "Income certificate", "No-pucca-house declaration", "Bank account details"),
-        application_portal="https://pmaymis.gov.in/",
-    ),
-    SchemeRule(
-        scheme_name="PM Awas Yojana",
-        category="housing",
-        keywords=("rural", "housing", "house", "awas", "secc", "gram", "kutcha"),
-        required_profile_fields=("urban_rural", "has_pucca_house"),
-        required_documents=("Aadhaar", "SECC/Gram Panchayat verification", "Bank account details"),
-        application_portal="https://pmayg.nic.in/",
-    ),
-    SchemeRule(
-        scheme_name="PM SVANidhi",
-        category="urban_livelihood",
-        keywords=("street vendor", "vendor", "vending", "hawker", "loan", "ulb", "tvc", "svanidhi"),
-        required_profile_fields=("occupation", "urban_rural", "income_annual", "has_vending_certificate"),
-        required_documents=("Vending certificate or ULB/TVC recommendation", "Aadhaar", "Bank account details"),
-        application_portal="https://pmsvanidhi.mohua.gov.in/",
-    ),
-    SchemeRule(
-        scheme_name="PM-KUSUM",
-        category="agriculture_energy",
-        keywords=("farmer", "solar", "pump", "kusum", "discom", "irrigation", "grid"),
-        required_profile_fields=("occupation", "land_ownership_acres"),
-        required_documents=("Land records", "Aadhaar", "Bank account details", "Electricity/irrigation details if applicable"),
-        application_portal="https://pmkusum.mnre.gov.in/",
-    ),
-    SchemeRule(
-        scheme_name="Post-Matric Scholarship",
+        scheme_name="NSP Central Sector Scholarship (CSSS)",
         category="education",
-        keywords=("student", "scholarship", "post matric", "class 11", "class 12", "college", "sc", "st", "obc"),
-        required_profile_fields=("education_level", "category", "income_annual"),
-        required_documents=("Caste/category certificate", "Income certificate", "Previous marksheet", "Bank account details"),
+        keywords=("nsp", "central sector", "csss", "scholarship", "college", "university", "meritorious"),
+        required_profile_fields=("education_level", "income_annual", "has_aadhaar"),
+        required_documents=("Income certificate", "Aadhaar"),
         application_portal="https://scholarships.gov.in/",
     ),
     SchemeRule(
-        scheme_name="PM-KISAN",
-        category="agriculture_income_support",
-        keywords=("farmer", "kisan", "cultivable", "land", "aadhaar", "income support", "pm-kisan"),
-        required_profile_fields=("occupation", "land_ownership_acres", "has_aadhaar", "has_bank_account"),
-        required_documents=("Aadhaar", "Land records", "Bank account details"),
-        application_portal="https://pmkisan.gov.in/",
+        scheme_name="Maharashtra EBC Scholarship",
+        category="education",
+        keywords=("maharashtra", "ebc", "scholarship", "economically backward", "tuition", "exam fee", "cap"),
+        required_profile_fields=("income_annual", "state", "has_aadhaar"),
+        required_documents=("Income certificate", "Domicile certificate", "Aadhaar"),
+        application_portal="https://mahadbt.maharashtra.gov.in/",
+    ),
+    SchemeRule(
+        scheme_name="PM Kaushal Vikas Yojana (PMKVY)",
+        category="skill_development",
+        keywords=("pmkvy", "kaushal vikas", "skill", "training", "unemployed", "youth"),
+        required_profile_fields=("has_aadhaar", "has_pan"),
+        required_documents=("Aadhaar", "PAN Card"),
+        application_portal="https://www.pmkvyofficial.org/",
+    ),
+    SchemeRule(
+        scheme_name="Vidya Lakshmi Portal",
+        category="education_loan",
+        keywords=("vidya lakshmi", "education loan", "bank", "celaf"),
+        required_profile_fields=("has_aadhaar", "has_pan", "has_passport"),
+        required_documents=("Aadhaar", "PAN Card", "Passport"),
+        application_portal="https://www.vidyalakshmi.co.in/",
+    ),
+    SchemeRule(
+        scheme_name="PM Mudra Yojana (PMMY)",
+        category="business_loan",
+        keywords=("mudra", "pmmy", "business loan", "collateral free", "shishu", "kishor", "tarun", "micro", "small enterprise"),
+        required_profile_fields=("has_aadhaar", "has_pan", "income_annual"),
+        required_documents=("Aadhaar", "PAN Card", "Income certificate"),
+        application_portal="https://www.mudra.org.in/",
     ),
 )
 
@@ -347,6 +351,8 @@ def extract_profile(raw_query: str) -> dict[str, Any]:
         ("has_bank_account", ("bank account", "bank")),
         ("has_vending_certificate", ("vending certificate", "certificate of vending")),
         ("has_ulb_recommendation", ("ulb recommendation", "tvc recommendation", "letter from ulb")),
+        ("has_pan", ("pan card", "pan")),
+        ("has_passport", ("passport",)),
     ):
         detail = _detect_uncertainty(text, field, patterns)
         if detail:
@@ -371,6 +377,8 @@ def extract_profile(raw_query: str) -> dict[str, Any]:
         "pays_income_tax": True if _contains_any(text, ("income tax payer", "pays income tax", "pay income tax")) else None,
         "owns_motorized_vehicle": True if _contains_any(text, ("motorized vehicle", "motorised vehicle", "four wheeler")) else None,
         "is_institutional_landholder": True if "institutional landholder" in text else None,
+        "has_pan": _extract_optional_bool(text, "has_pan", ("pan card", "pan")),
+        "has_passport": _extract_optional_bool(text, "has_passport", ("passport",)),
         "uncertainties": uncertainties,
     }
 

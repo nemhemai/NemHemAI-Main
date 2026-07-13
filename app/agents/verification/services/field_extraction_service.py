@@ -9,6 +9,7 @@ from app.agents.verification.core.constants import (
     DOCUMENT_TYPE_CASTE_CERTIFICATE, DOCUMENT_TYPE_BANK_PASSBOOK,
     DOCUMENT_TYPE_LAND_RECORDS, DOCUMENT_TYPE_RATION_CARD,
     DOCUMENT_TYPE_DOMICILE_CERTIFICATE, DOCUMENT_TYPE_VENDING_CERTIFICATE,
+    DOCUMENT_TYPE_NO_PUCCA_HOUSE_DECLARATION
 )
 from app.agents.verification.core.exceptions import FieldExtractionError
 from app.agents.verification.core.logger import get_logger
@@ -63,6 +64,8 @@ class FieldExtractionService:
                 fields = self._extract_domicile_certificate_fields(text)
             elif doc_type == DOCUMENT_TYPE_VENDING_CERTIFICATE:
                 fields = self._extract_vending_certificate_fields(text)
+            elif doc_type == DOCUMENT_TYPE_NO_PUCCA_HOUSE_DECLARATION:
+                fields = self._extract_pucca_house_declaration_fields(text)
             else:
                 logger.warning(f"Unsupported doc_type: {doc_type}. Attempting generic extraction.")
                 fields = self._extract_generic_fields(text)
@@ -410,6 +413,25 @@ class FieldExtractionService:
 
 
 
+
+    # ------------------------------------------------------------------
+    # No Pucca House Declaration
+    # ------------------------------------------------------------------
+
+    def _extract_pucca_house_declaration_fields(self, text: str) -> dict:
+        fields = {}
+        # Try to find name (usually near "I, [Name]")
+        name_match = re.search(r"(?:I,\s*|I\s+)(?:Mr\.|Mrs\.|Ms\.)?\s*([A-Za-z\s]+)(?:,\s*son of|\s*S/O|\s*W/O|\s*resident)", text, re.IGNORECASE)
+        if name_match:
+            fields["name"] = name_match.group(1).strip()
+        else:
+            name = self._extract_name(text, doc_type=DOCUMENT_TYPE_NO_PUCCA_HOUSE_DECLARATION)
+            if name:
+                fields["name"] = name
+        
+        # Check if it has a declaration phrase
+        fields["has_declaration"] = bool(re.search(r"do not own a? pucca house|no pucca house|kutcha|do not own any pucca house", text, re.IGNORECASE))
+        return fields
 
     # ------------------------------------------------------------------
     # Generic

@@ -13,6 +13,7 @@ from app.agents.verification.core.constants import (
     DOCUMENT_TYPE_RATION_CARD,
     DOCUMENT_TYPE_DOMICILE_CERTIFICATE,
     DOCUMENT_TYPE_VENDING_CERTIFICATE,
+    DOCUMENT_TYPE_NO_PUCCA_HOUSE_DECLARATION,
     DOCUMENT_TYPE_UNKNOWN
 )
 
@@ -46,6 +47,7 @@ class ClassificationService:
             DOCUMENT_TYPE_RATION_CARD: 0,
             DOCUMENT_TYPE_DOMICILE_CERTIFICATE: 0,
             DOCUMENT_TYPE_VENDING_CERTIFICATE: 0,
+            DOCUMENT_TYPE_NO_PUCCA_HOUSE_DECLARATION: 0,
         }
 
         # --- Aadhaar Indicators ---
@@ -188,6 +190,16 @@ class ClassificationService:
         for kw in vending_med:
             if kw in text_upper:
                 scores[DOCUMENT_TYPE_VENDING_CERTIFICATE] += 2
+
+        # --- No Pucca House Declaration Indicators ---
+        pucca_high = ["NO PUCCA HOUSE", "PUCCA HOUSE", "AFFIDAVIT", "DECLARATION", "NOTARY", "STAMP PAPER", "DEPONENT", "DO NOT OWN", "KUTCHA"]
+        pucca_med = ["OATH", "SOLEMNLY AFFIRM", "I HEREBY DECLARE"]
+        for kw in pucca_high:
+            if kw in text_upper:
+                scores[DOCUMENT_TYPE_NO_PUCCA_HOUSE_DECLARATION] += 5
+        for kw in pucca_med:
+            if kw in text_upper:
+                scores[DOCUMENT_TYPE_NO_PUCCA_HOUSE_DECLARATION] += 2
 
         # Determine highest scoring document type
         max_score = 0

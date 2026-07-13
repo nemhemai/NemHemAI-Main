@@ -1,0 +1,245 @@
+{
+  "document_id": 95,
+  "pages": {
+    "1": {
+      "elements": 17,
+      "flagged": 17,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "95_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Rajarshi Chhatrapati Shahu Maharaj Shikshan Shulkh Shishyavrutti Yojna (EBC)"
+        },
+        {
+          "element_id": "95_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "Maharashtra EBC Scholarship — MahaDBT Portal | Reference GRs: 07 Oct 2017, 01 Mar 2018, 31 Mar 2018, 11 Jul 2019, 08 Jul"
+        },
+        {
+          "element_id": "95_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Objective"
+        },
+        {
+          "element_id": "95_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 54,
+          "text_preview": "The scheme provides financial assistance to students from the Economically Backward Class (EBC) / Economically Weaker Se"
+        },
+        {
+          "element_id": "95_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Eligibility Criteria"
+        },
+        {
+          "element_id": "95_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 146,
+          "text_preview": "G Applicant must hold Indian nationality. G Applicant must be domiciled in Maharashtra State. G Applicant must be a bona"
+        },
+        {
+          "element_id": "95_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Required Documents"
+        },
+        {
+          "element_id": "95_p1_e7",
+          "sequence_order": 7,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "# Document Notes"
+        },
+        {
+          "element_id": "95_p1_e8",
+          "sequence_order": 8,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "1 Aadhaar Card Must be seeded to bank account for DBT"
+        },
+        {
+          "element_id": "95_p1_e9",
+          "sequence_order": 9,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "2 Domicile Certificate Issued by authorized official, Maharashtra State"
+        },
+        {
+          "element_id": "95_p1_e10",
+          "sequence_order": 10,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "3 Annual Family Income Certificate Issued by competent authority; not older than 1 year"
+        },
+        {
+          "element_id": "95_p1_e11",
+          "sequence_order": 11,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "4 Marksheets (Class 10 / SSC onward) Including previous year/semester marksheet"
+        },
+        {
+          "element_id": "95_p1_e12",
+          "sequence_order": 12,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "5 Bonafide / Admission Certificate From current institute, on letterhead"
+        },
+        {
+          "element_id": "95_p1_e13",
+          "sequence_order": 13,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "6 Bank Passbook (front page) / Cancelled Cheque Account must be in applicant's name, Aadhaar-linked"
+        },
+        {
+          "element_id": "95_p1_e14",
+          "sequence_order": 14,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "7 CAP Allotment Letter Only required for B.Ed, Law, B.P.Ed, M.P.Ed courses"
+        },
+        {
+          "element_id": "95_p1_e15",
+          "sequence_order": 15,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "8 Self-Undertaking Declaration of not availing any other scholarship; max 2 children per famil"
+        },
+        {
+          "element_id": "95_p1_e16",
+          "sequence_order": 16,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Renewal Process"
+        }
+      ]
+    },
+    "2": {
+      "elements": 4,
+      "flagged": 4,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "95_p2_e17",
+          "sequence_order": 17,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 46,
+          "text_preview": "Students who availed the scholarship in the previous year can apply for renewal using the application ID from the list p"
+        },
+        {
+          "element_id": "95_p2_e18",
+          "sequence_order": 18,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Application Process"
+        },
+        {
+          "element_id": "95_p2_e19",
+          "sequence_order": 19,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 79,
+          "text_preview": "• 1. Register on the MahaDBT Portal (mahadbt.maharashtra.gov.in) if not already registered. • 2. Complete student profil"
+        },
+        {
+          "element_id": "95_p2_e20",
+          "sequence_order": 20,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 63,
+          "text_preview": "Note: This document was compiled from publicly available MahaDBT scheme summaries and government resolution (GR) referen"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,612 @@
+{
+  "document_id": 93,
+  "pages": {
+    "1": {
+      "elements": 14,
+      "flagged": 14,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "93_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "PM-Vidyalaxmi Scheme"
+        },
+        {
+          "element_id": "93_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Frequently Asked Question (FAQ)"
+        },
+        {
+          "element_id": "93_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 47,
+          "text_preview": "SN  FAQ  1  What are the Features of PM-Vidyalaxmi Scheme?  PM-Vidyalaxmi is central sector scheme aims to provide finan"
+        },
+        {
+          "element_id": "93_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "➢ A special loan product will enable collateral free, guarantor free education"
+        },
+        {
+          "element_id": "93_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "loans.  ➢ Simple, transparent, student-friendly and entirely digital application process.  ➢ 3% interest subvention duri"
+        },
+        {
+          "element_id": "93_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "income up to Rs 8 Lakh.  ➢ Full interest subvention during moratorium for loans up to Rs. 10 Lakh for"
+        },
+        {
+          "element_id": "93_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "students with family income up to Rs 4.50 Lakh.  ➢ Loan amounts up to ₹ 7.5 lakhs will be provided a 75% credit guarante"
+        },
+        {
+          "element_id": "93_p1_e7",
+          "sequence_order": 7,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 24,
+          "text_preview": "Government of India through NCGTC.  ➢ Education Loans under Management Quota not Eligible  ➢ The Scheme is applicable fo"
+        },
+        {
+          "element_id": "93_p1_e8",
+          "sequence_order": 8,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 52,
+          "text_preview": "(RRBs)/Cooperative Banks.  2  What is process for selection of students under 3 % Interest subvention  scheme?  In a yea"
+        },
+        {
+          "element_id": "93_p1_e9",
+          "sequence_order": 9,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "➢ Preference to candidate who got admission in a government HEI.  ➢ Then preference given to technical/ professional cou"
+        },
+        {
+          "element_id": "93_p1_e10",
+          "sequence_order": 10,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "examination from a government school.  ➢ Next preference to candidate who passed secondary (10th standard) board"
+        },
+        {
+          "element_id": "93_p1_e11",
+          "sequence_order": 11,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "examination from a government school.  ➢ Next preference to candidate who passed higher secondary from a rural"
+        },
+        {
+          "element_id": "93_p1_e12",
+          "sequence_order": 12,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 33,
+          "text_preview": "school.  ➢ Next preference will be given to girl students.    3  What are the documents to be uploaded for PM-Vidyalaxmi"
+        },
+        {
+          "element_id": "93_p1_e13",
+          "sequence_order": 13,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 45,
+          "text_preview": "➢ Marksheet for Class X  ➢ Marksheet for Class XII /Last qualifying Examination  ➢ Proof of admission to the course  ➢ S"
+        }
+      ]
+    },
+    "2": {
+      "elements": 13,
+      "flagged": 13,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "93_p2_e14",
+          "sequence_order": 14,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "4  What are the features of PM-Vidyalaxmi Portal?  PM-Vidyalaxmi portal is a unified portal that has the following featu"
+        },
+        {
+          "element_id": "93_p2_e15",
+          "sequence_order": 15,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "➢ Information about PM-Vidyalaxmi and other Education loan Scheme of"
+        },
+        {
+          "element_id": "93_p2_e16",
+          "sequence_order": 16,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 37,
+          "text_preview": "member Banks  ➢ Facilitates students to apply for Education Loan from their preferred Bank.  ➢ Option to students to sel"
+        },
+        {
+          "element_id": "93_p2_e17",
+          "sequence_order": 17,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 39,
+          "text_preview": "portal.  ➢ Facility for students to upload required documents for interest subvention.  ➢ Status of the loan application"
+        },
+        {
+          "element_id": "93_p2_e18",
+          "sequence_order": 18,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "➢ The Student shall register and login to Vidyalaxmi portal and fill-up the"
+        },
+        {
+          "element_id": "93_p2_e19",
+          "sequence_order": 19,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "respective Education Loan Application Form by providing all the necessary  details.  ➢ After Completion of form and uplo"
+        },
+        {
+          "element_id": "93_p2_e20",
+          "sequence_order": 20,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "can select the State Bank of India to avail the loan facility as per his/her  needs, eligibility and convenience.  6  Wh"
+        },
+        {
+          "element_id": "93_p2_e21",
+          "sequence_order": 21,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "➢ Two-page Education loan application is Common loan application form used"
+        },
+        {
+          "element_id": "93_p2_e22",
+          "sequence_order": 22,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 66,
+          "text_preview": "for applying loan under PM-Vidyalaxmi scheme.    7  What is Sign up/Registration process on Vidyalaxmi portal?      Stud"
+        },
+        {
+          "element_id": "93_p2_e23",
+          "sequence_order": 23,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 34,
+          "text_preview": "•  On PM-Vidyalaxmi portal student can click Forgot password on student login  page  •  Follow the instruction and reset"
+        },
+        {
+          "element_id": "93_p2_e24",
+          "sequence_order": 24,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "➢ Student can view the updated status of his loan application i.e.,"
+        },
+        {
+          "element_id": "93_p2_e25",
+          "sequence_order": 25,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "Submitted/Sanctioned/ Rejected/disbursed/withdrawn by clicking \"Track Loan  Application\" Tab provided in PM-Vidyalaxmi p"
+        },
+        {
+          "element_id": "93_p2_e26",
+          "sequence_order": 26,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "Branch for further clarification.    9  What is the maximum loan permissible under PM Vidyalaxmi Scheme?    Need based l"
+        }
+      ]
+    },
+    "3": {
+      "elements": 19,
+      "flagged": 19,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "93_p3_e27",
+          "sequence_order": 27,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "Is there any margin required by the borrower?    Yes. The margin required by the borrower for obtaining loan from SBI is"
+        },
+        {
+          "element_id": "93_p3_e28",
+          "sequence_order": 28,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "Loan Amount  Margin  upto ₹ 4.00 lakh  Nil  upto ₹ 4.00 lakh to ₹ 7.50 lakh  5%  above ₹ 7.50 lakh  Nil"
+        },
+        {
+          "element_id": "93_p3_e29",
+          "sequence_order": 29,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "11  What is the moratorium period for education loans under PM-Vidyalaxmi  Scheme?"
+        },
+        {
+          "element_id": "93_p3_e30",
+          "sequence_order": 30,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "➢ The moratorium period is course period plus one year for obtaining loan from"
+        },
+        {
+          "element_id": "93_p3_e31",
+          "sequence_order": 31,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 38,
+          "text_preview": "SBI. Moratorium period is the period when Bank does not demand principal or  interest. However, borrower can pay princip"
+        },
+        {
+          "element_id": "93_p3_e32",
+          "sequence_order": 32,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "➢ Loan tenure is maximum up to 15 years excluding course period and"
+        },
+        {
+          "element_id": "93_p3_e33",
+          "sequence_order": 33,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "moratorium under the scheme.    13  What are the courses for which education loan can be availed under PM- Vidyalaxmi Sc"
+        },
+        {
+          "element_id": "93_p3_e34",
+          "sequence_order": 34,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "➢ All the Graduation/Post Graduation degree and diploma courses offered by"
+        },
+        {
+          "element_id": "93_p3_e35",
+          "sequence_order": 35,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "select QHEIs are eligible."
+        },
+        {
+          "element_id": "93_p3_e36",
+          "sequence_order": 36,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "➢ Indian campus of foreign education institutions, foreign campus of"
+        },
+        {
+          "element_id": "93_p3_e37",
+          "sequence_order": 37,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "Indian education institutions and foreign education institutions will not  be covered under the scheme.    14  Is there "
+        },
+        {
+          "element_id": "93_p3_e38",
+          "sequence_order": 38,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "➢ An application fee of Rs.200.00 plus GST per education loan application will"
+        },
+        {
+          "element_id": "93_p3_e39",
+          "sequence_order": 39,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 42,
+          "text_preview": "be recovered from student only when the student avails the loan from SBI and  the same is to be recovered from SB accoun"
+        },
+        {
+          "element_id": "93_p3_e40",
+          "sequence_order": 40,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "➢ For loans up to ₹75 lakh: Co-borrower is not mandatory under the schemes.  ➢ However, for minor students, co-applicant"
+        },
+        {
+          "element_id": "93_p3_e41",
+          "sequence_order": 41,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "loan amount.    16  How is the educational loan disbursed by member Banks?"
+        },
+        {
+          "element_id": "93_p3_e42",
+          "sequence_order": 42,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "➢ Education loan disbursement will be initiated by Banks based on the"
+        },
+        {
+          "element_id": "93_p3_e43",
+          "sequence_order": 43,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "disbursement request of the student.  ➢ Disbursement amount is directly remitted to the account of Educational"
+        },
+        {
+          "element_id": "93_p3_e44",
+          "sequence_order": 44,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Institution.  ➢ The disbursement done by the member bank is outside of PM-Vidyalaxmi"
+        },
+        {
+          "element_id": "93_p3_e45",
+          "sequence_order": 45,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Portal."
+        }
+      ]
+    },
+    "4": {
+      "elements": 10,
+      "flagged": 10,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "93_p4_e46",
+          "sequence_order": 46,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "17  How many applications for Educational Loan can be submitted by a student?"
+        },
+        {
+          "element_id": "93_p4_e47",
+          "sequence_order": 47,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "➢ Student can apply to maximum three Banks for Education Loan through one"
+        },
+        {
+          "element_id": "93_p4_e48",
+          "sequence_order": 48,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "application. The option to chose and Bank and Branch is there in portal.    18  How can student Modify/Re apply for Educ"
+        },
+        {
+          "element_id": "93_p4_e49",
+          "sequence_order": 49,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "➢ Student has the option to withdraw application through PM-Vidyalaxmi if no"
+        },
+        {
+          "element_id": "93_p4_e50",
+          "sequence_order": 50,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 42,
+          "text_preview": "action has been taken by any bank where the application has reached online.  If the same is not allowed online, student "
+        },
+        {
+          "element_id": "93_p4_e51",
+          "sequence_order": 51,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "option would get enabled in Loan Application Form tab.    19  What is rate of interest rate charged on Educational loan "
+        },
+        {
+          "element_id": "93_p4_e52",
+          "sequence_order": 52,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "➢ Please visit State Bank of India authorised website https://bank.sbi. Different"
+        },
+        {
+          "element_id": "93_p4_e53",
+          "sequence_order": 53,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 34,
+          "text_preview": "Banks charge different rate of interest. Hence students are advised to check  the latest Rate of interest on Bank’s webs"
+        },
+        {
+          "element_id": "93_p4_e54",
+          "sequence_order": 54,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 67,
+          "text_preview": "through PM-Vidyalaxmi portal. All students are requested to be alert and  not to make any payment or click any link rece"
+        },
+        {
+          "element_id": "93_p4_e55",
+          "sequence_order": 55,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "200 kb."
+        }
+      ]
+    }
+  }
+}

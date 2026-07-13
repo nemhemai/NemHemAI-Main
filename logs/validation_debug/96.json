@@ -1,0 +1,258 @@
+{
+  "document_id": 96,
+  "pages": {
+    "1": {
+      "elements": 11,
+      "flagged": 2,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "96_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "1. Objective"
+        },
+        {
+          "element_id": "96_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "2. Scope"
+        }
+      ]
+    },
+    "2": {
+      "elements": 10,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "96_p2_e19",
+          "sequence_order": 19,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "section",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "5. Reservation"
+        }
+      ]
+    },
+    "3": {
+      "elements": 13,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "4": {
+      "elements": 27,
+      "flagged": 15,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "96_p4_e35",
+          "sequence_order": 35,
+          "page_number": 4,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Payment'"
+        },
+        {
+          "element_id": "96_p4_e36",
+          "sequence_order": 36,
+          "page_number": 4,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "in the"
+        },
+        {
+          "element_id": "96_p4_e37",
+          "sequence_order": 37,
+          "page_number": 4,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Public"
+        },
+        {
+          "element_id": "96_p4_e38",
+          "sequence_order": 38,
+          "page_number": 4,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Financial"
+        },
+        {
+          "element_id": "96_p4_e39",
+          "sequence_order": 39,
+          "page_number": 4,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Management"
+        },
+        {
+          "element_id": "96_p4_e40",
+          "sequence_order": 40,
+          "page_number": 4,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "[ https://pfms.nic.in/Users/LoginDetails/Login.aspx]"
+        },
+        {
+          "element_id": "96_p4_e41",
+          "sequence_order": 41,
+          "page_number": 4,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "System either"
+        },
+        {
+          "element_id": "96_p4_e43",
+          "sequence_order": 43,
+          "page_number": 4,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "For Colleges/Universities"
+        },
+        {
+          "element_id": "96_p4_e49",
+          "sequence_order": 49,
+          "page_number": 4,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Grievance Redressal"
+        },
+        {
+          "element_id": "96_p4_e52",
+          "sequence_order": 52,
+          "page_number": 4,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Contact us:"
+        },
+        {
+          "element_id": "96_p4_e56",
+          "sequence_order": 56,
+          "page_number": 4,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "E-mail:"
+        },
+        {
+          "element_id": "96_p4_e57",
+          "sequence_order": 57,
+          "page_number": 4,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "es3.edu@nic.in"
+        },
+        {
+          "element_id": "96_p4_e58",
+          "sequence_order": 58,
+          "page_number": 4,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "(PFMS)"
+        },
+        {
+          "element_id": "96_p4_e59",
+          "sequence_order": 59,
+          "page_number": 4,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "indicating portal"
+        },
+        {
+          "element_id": "96_p4_e60",
+          "sequence_order": 60,
+          "page_number": 4,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Aadhaar"
+        }
+      ]
+    }
+  }
+}

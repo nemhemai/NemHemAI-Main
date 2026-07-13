@@ -8,6 +8,7 @@ import json
 from app.core.database import get_db_conn, release_db_conn
 from app.authentication.dependencies import get_current_user
 from app.agents.entitlement.services.entitlement_service import run_entitlement_check
+from app.services.audit_service import log_entitlement_audit
 
 router = APIRouter()
 
@@ -161,6 +162,25 @@ def submit_application(request: dict):
     """
     import uuid
     tracking_id = f"APP-{str(uuid.uuid4())[:8].upper()}"
+    
+    citizen_id = request.get("citizen_id", "UNKNOWN")
+    scheme_name = request.get("scheme_id", "UNKNOWN_SCHEME")
+    documents = request.get("documents", [])
+    
+    # Log the submission to the audit trail
+    log_entitlement_audit(
+        citizen_id=citizen_id,
+        query_id=tracking_id,
+        scheme_name=scheme_name,
+        action="APPLICATION_SUBMITTED",
+        decision_trace={
+            "verdict": "SUBMITTED",
+            "message": "Application submitted successfully.",
+            "tracking_id": tracking_id,
+            "documents_attached": documents
+        }
+    )
+    
     return {
         "status": "SUCCESS",
         "tracking_id": tracking_id,
