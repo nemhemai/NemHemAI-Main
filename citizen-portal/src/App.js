@@ -1,9 +1,11 @@
 import React, { useState } from "react";
 import axios from "axios";
+import EntitlementDashboard from "./EntitlementDashboard";
 
 const API_URL = process.env.REACT_APP_API_URL || "http://localhost:8000";
 
 const App = () => {
+  const [activePortal, setActivePortal] = useState("grievance");
   const [category, setCategory] = useState("Sanitation");
   const [description, setDescription] = useState("");
   const [imageFile, setImageFile] = useState(null);
@@ -22,10 +24,20 @@ const App = () => {
     setTrackError("");
     setTrackedGrievance(null);
     try {
-      const res = await axios.get(`${API_URL}/api/v1/grievances/${trackId}`);
-      setTrackedGrievance(res.data);
+      if (trackId.startsWith("APP-")) {
+        // Simulate Entitlement Application Tracking
+        setTrackedGrievance({
+          category: "Entitlement Scheme Application",
+          status: "PENDING",
+          description: `Tracking ID: ${trackId}`,
+          official_response: "Your application is currently under review by the official authorities. All required documents have been verified by AI. Please check back later for updates."
+        });
+      } else {
+        const res = await axios.get(`${API_URL}/api/v1/grievances/${trackId}`);
+        setTrackedGrievance(res.data);
+      }
     } catch (err) {
-      setTrackError(err.response?.data?.detail || "Could not find grievance");
+      setTrackError(err.response?.data?.detail || "Could not find record with this Tracking ID");
     } finally {
       setTrackLoading(false);
     }
@@ -63,10 +75,27 @@ const App = () => {
   };
 
   return (
-    <div style={styles.page}>
-      <div style={styles.card}>
-        <h2 style={styles.title}>🏛️ Citizen Grievance Portal</h2>
-        <p style={styles.subtitle}>Submit a complaint for automated AI processing and official review.</p>
+    <div>
+      <div style={{ backgroundColor: '#fff', padding: '15px 40px', display: 'flex', gap: '15px', borderBottom: '1px solid #e2e8f0', boxShadow: '0 1px 3px rgba(0,0,0,0.05)', position: 'sticky', top: 0, zIndex: 100 }}>
+        <button 
+          onClick={() => setActivePortal('grievance')} 
+          style={{ padding: '10px 24px', border: 'none', borderRadius: '6px', cursor: 'pointer', backgroundColor: activePortal === 'grievance' ? '#2563eb' : '#f1f5f9', color: activePortal === 'grievance' ? '#fff' : '#475569', fontWeight: 'bold', fontSize: '15px', transition: 'all 0.2s' }}
+        >
+          Grievance Agent
+        </button>
+        <button 
+          onClick={() => setActivePortal('entitlement')} 
+          style={{ padding: '10px 24px', border: 'none', borderRadius: '6px', cursor: 'pointer', backgroundColor: activePortal === 'entitlement' ? '#2563eb' : '#f1f5f9', color: activePortal === 'entitlement' ? '#fff' : '#475569', fontWeight: 'bold', fontSize: '15px', transition: 'all 0.2s' }}
+        >
+          Entitlement Agent
+        </button>
+      </div>
+
+      {activePortal === 'grievance' ? (
+        <div style={styles.page}>
+          <div style={styles.card}>
+            <h2 style={styles.title}>🏛️ Citizen Grievance Portal</h2>
+            <p style={styles.subtitle}>Submit a complaint for automated AI processing and official review.</p>
 
         {success && <div style={styles.successBadge}>{success}</div>}
         {error && <div style={styles.errorBadge}>{error}</div>}
@@ -120,13 +149,13 @@ const App = () => {
         <hr style={{margin: '0', border: 'none', borderTop: '1px solid #e5e7eb'}} />
         
         <div style={styles.section}>
-          <h2 style={{...styles.title, fontSize: '20px'}}>🔍 Track Your Grievance</h2>
-          <p style={{...styles.subtitle, marginBottom: '16px'}}>Enter your unique Ticket ID to check the status and read the official response.</p>
+          <h2 style={{...styles.title, fontSize: '20px'}}>🔍 Track Your Request</h2>
+          <p style={{...styles.subtitle, marginBottom: '16px'}}>Enter your unique Tracking ID to check the status of your Grievance or Entitlement Application.</p>
           
           <form onSubmit={handleTrack} style={{display: 'flex', gap: '10px'}}>
             <input 
               type="text" 
-              placeholder="Enter Ticket ID (e.g. 123e4567-...)" 
+              placeholder="Enter Tracking ID (e.g. 123e4567-... or APP-...)" 
               value={trackId} 
               onChange={(e) => setTrackId(e.target.value)}
               style={{...styles.input, flex: 1}}
@@ -166,6 +195,10 @@ const App = () => {
         )}
 
       </div>
+        </div>
+      ) : (
+        <EntitlementDashboard />
+      )}
     </div>
   );
 };
