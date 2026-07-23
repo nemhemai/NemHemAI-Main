@@ -108,24 +108,61 @@ class VerificationService:
 
             # --- PROFILE CROSS-VALIDATION ---
             profile_data = request.profile_data or {}
-            if profile_data:
+            if profile_data and doc_type == DOCUMENT_TYPE_AADHAAR:
+                personal_info = profile_data.get("personal_info", profile_data)
+                
                 extracted_name = fields.get("name", "")
-                profile_name = profile_data.get("name", "")
+                profile_name = personal_info.get("name", "")
                 if extracted_name and profile_name:
-                    name_passed = (profile_name.lower() in extracted_name.lower()) or (extracted_name.lower() in profile_name.lower())
+                    def match_names(n1, n2):
+                        w1 = set(n1.lower().split())
+                        w2 = set(n2.lower().split())
+                        if w1.issubset(w2) or w2.issubset(w1):
+                            return True
+                        if len(w1.intersection(w2)) >= 2:
+                            return True
+                        return False
+
+                    name_passed = match_names(profile_name, extracted_name)
                     checks["profile_name_match"] = {
                         "passed": name_passed,
                         "detail": f"Name match: '{extracted_name}' vs profile '{profile_name}'"
                     }
                 
                 extracted_dob = fields.get("dob", "")
-                profile_dob = profile_data.get("dob", "")
+                profile_dob = personal_info.get("dob", "")
                 if extracted_dob and profile_dob:
-                    dob_passed = (extracted_dob == profile_dob)
+                    def normalize_date(d_str):
+                        import re
+                        match = re.search(r'(\d{2,4})[-/.](\d{2})[-/.](\d{2,4})', str(d_str))
+                        if match:
+                            p1, p2, p3 = match.groups()
+                            if len(p1) == 4:
+                                return f"{p1}-{p2.zfill(2)}-{p3.zfill(2)}"
+                            elif len(p3) == 4:
+                                return f"{p3}-{p2.zfill(2)}-{p1.zfill(2)}"
+                        return str(d_str).strip()
+                    
+                    norm_extracted = normalize_date(extracted_dob)
+                    norm_profile = normalize_date(profile_dob)
+                    dob_passed = (norm_extracted == norm_profile)
+                    
                     checks["profile_dob_match"] = {
                         "passed": dob_passed,
                         "detail": f"DOB match: '{extracted_dob}' vs profile '{profile_dob}'"
                     }
+
+                extracted_aadhaar = fields.get("aadhaar_number", "")
+                profile_aadhaar = profile_data.get("aadhaarId", "") or profile_data.get("aadhaar_id", "")
+                if extracted_aadhaar and profile_aadhaar:
+                    extracted_aadhaar_clean = "".join(filter(str.isdigit, extracted_aadhaar))
+                    profile_aadhaar_clean = "".join(filter(str.isdigit, str(profile_aadhaar)))
+                    if extracted_aadhaar_clean and profile_aadhaar_clean:
+                        aadhaar_passed = (extracted_aadhaar_clean == profile_aadhaar_clean)
+                        checks["profile_aadhaar_match"] = {
+                            "passed": aadhaar_passed,
+                            "detail": f"Aadhaar ID match: '{extracted_aadhaar_clean}' vs profile '{profile_aadhaar_clean}'"
+                        }
 
             for check_name, result in checks.items():
                 if result["passed"]:

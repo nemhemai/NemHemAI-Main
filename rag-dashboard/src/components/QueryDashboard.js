@@ -111,6 +111,14 @@ function QueryDashboard() {
         body: JSON.stringify({ query }),
       });
 
+      if (response.status === 401) {
+        alert("Session expired. Please login again.");
+        localStorage.removeItem("token");
+        localStorage.removeItem("role");
+        window.location.href = "/";
+        return;
+      }
+
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`);
       }

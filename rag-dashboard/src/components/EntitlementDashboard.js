@@ -374,7 +374,9 @@ function EntitlementDashboard() {
     }
 
     if (!validateVerhoeff(regAadhaar)) {
-      console.warn("Aadhaar ID failed Verhoeff checksum validation, but continuing for demo purposes.");
+      setRegMessage("Invalid Aadhaar Number. Please check the 12 digits you entered.");
+      setRegSuccess(false);
+      return;
     }
 
     // Email validation (optional): valid format
@@ -556,6 +558,18 @@ function EntitlementDashboard() {
       return;
     }
     setVerifyingDoc(docName);
+    
+    // Clear previous verification state for this document immediately
+    setVerifiedDocuments(prev => ({
+      ...prev,
+      [docName]: {
+        file: fileObj,
+        log: null,
+        verified: false,
+        error: null
+      }
+    }));
+    
     try {
       const formData = new FormData();
       formData.append("file", fileObj);
@@ -574,6 +588,15 @@ function EntitlementDashboard() {
       }));
     } catch (err) {
       alert(err.message);
+      setVerifiedDocuments(prev => ({
+        ...prev,
+        [docName]: {
+          file: fileObj,
+          log: null,
+          verified: false,
+          error: err.message
+        }
+      }));
     } finally {
       setVerifyingDoc(null);
     }
@@ -1443,10 +1466,14 @@ function EntitlementDashboard() {
                              <div key={doc} style={{ border: "1px solid #e2e8f0", padding: "16px", borderRadius: "8px", background: verifiedDocuments[doc]?.verified ? "#f0fdf4" : "#fff" }}>
                                <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "12px" }}>
                                  <strong style={{ fontSize: "14px" }}>{doc}</strong>
-                                 {verifiedDocuments[doc]?.verified ? (
+                                 {verifyingDoc === doc ? (
+                                   <span style={{ color: "#0284c7", fontWeight: "bold", fontSize: "13px" }}>🔄 UPLOADED - SCANNING...</span>
+                                 ) : verifiedDocuments[doc]?.verified ? (
                                    <span style={{ color: "#166534", fontWeight: "bold", fontSize: "13px" }}>✅ VERIFIED AUTHENTIC</span>
                                  ) : verifiedDocuments[doc]?.log ? (
                                    <span style={{ color: "#991b1b", fontWeight: "bold", fontSize: "13px" }}>❌ REJECTED / NEEDS REVIEW</span>
+                                 ) : verifiedDocuments[doc]?.file ? (
+                                   <span style={{ color: "#0284c7", fontWeight: "bold", fontSize: "13px" }}>📁 UPLOADED</span>
                                  ) : (
                                    <span style={{ color: "#b56902", fontWeight: "bold", fontSize: "13px" }}>⏳ PENDING</span>
                                  )}
@@ -1587,8 +1614,8 @@ function EntitlementDashboard() {
                       <strong>Scheme: {log.policy_id || log.scheme_id || log.scheme_name}</strong>
                       <span style={{
                         ...styles.auditActionBadge,
-                        backgroundColor: (log.status === "approved" || log.status === "RECOMMEND" || log.decision_result === "ELIGIBLE") ? "#e7f6ec" : ((log.status === "rejected" || log.status === "REJECT" || log.decision_result === "NOT_ELIGIBLE") ? "#fdecea" : "#fff8e1"),
-                        color: (log.status === "approved" || log.status === "RECOMMEND" || log.decision_result === "ELIGIBLE") ? "#176b3a" : ((log.status === "rejected" || log.status === "REJECT" || log.decision_result === "NOT_ELIGIBLE") ? "#b42318" : "#8a5a00")
+                        backgroundColor: (log.status === "approved" || log.status === "RECOMMEND" || log.decision_result === "ELIGIBLE") ? "#e7f6ec" : ((log.action === "APPLICATION_SUBMITTED" || log.decision_result === "APPLICATION_SUBMITTED") ? "#e0f2fe" : ((log.status === "rejected" || log.status === "REJECT" || log.decision_result === "NOT_ELIGIBLE") ? "#fdecea" : "#fff8e1")),
+                        color: (log.status === "approved" || log.status === "RECOMMEND" || log.decision_result === "ELIGIBLE") ? "#176b3a" : ((log.action === "APPLICATION_SUBMITTED" || log.decision_result === "APPLICATION_SUBMITTED") ? "#0369a1" : ((log.status === "rejected" || log.status === "REJECT" || log.decision_result === "NOT_ELIGIBLE") ? "#b42318" : "#8a5a00"))
                       }}>{log.decision_result || log.status || log.action}</span>
                     </div>
                     <div style={styles.auditTime}>Logged on: {new Date(log.created_at || log.timestamp || Date.now()).toLocaleString()}</div>
@@ -1613,6 +1640,18 @@ function EntitlementDashboard() {
                             </li>
                           ))}
                         </ul>
+                      ) : log.decision_trace?.documents_attached ? (
+                        <div>
+                          <p style={{ margin: "4px 0 8px 0", fontSize: "13px", color: "#475569" }}>
+                            {log.decision_trace.message || "Documents submitted successfully."}
+                          </p>
+                          <strong>Documents verified and submitted:</strong>
+                          <ul style={{ margin: "8px 0 0 0", paddingLeft: "20px", fontSize: "13px", color: "#475569" }}>
+                            {log.decision_trace.documents_attached.map((doc, idx) => (
+                              <li key={idx}>{doc}</li>
+                            ))}
+                          </ul>
+                        </div>
                       ) : (
                         <p style={styles.excerptText}>{log.decision_trace?.reasons?.join(" ") || "No detailed rule trace available."}</p>
                       )}

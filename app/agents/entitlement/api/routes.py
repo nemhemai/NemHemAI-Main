@@ -181,6 +181,46 @@ def submit_application(request: dict):
         }
     )
     
+    # ------------------------------------------------------------------
+    # TRIGGER GACA FOR SUBMISSION
+    # ------------------------------------------------------------------
+    try:
+        from app.agents.gaca.database import get_db
+        from app.agents.gaca.schemas import GovernanceEventIn, AIMetadataIn
+        from app.agents.gaca.workflow import process_event
+        db_gen = get_db()
+        db_session = next(db_gen)
+        try:
+            event = GovernanceEventIn(
+                event_type="application_submission",
+                responsible_agent="entitlement",
+                citizen_id=str(citizen_id),
+                decision_id=f"SUBMIT_{tracking_id}",
+                application_id=tracking_id,
+                scheme_id=scheme_name,
+                decision_type="submission",
+                decision_result="APPLICATION_SUBMITTED",
+                confidence_score=1.0,
+                policy_id=scheme_name,
+                profile_snapshot={},
+                retrieved_context={
+                    "documents_attached": documents,
+                    "message": "Application submitted successfully."
+                },
+                required_documents=[],
+                ai_metadata=AIMetadataIn(
+                    llm="none",
+                    generated_response="System event.",
+                    confidence_score=1.0
+                )
+            )
+            process_event(db_session, event)
+        finally:
+            db_session.close()
+    except Exception as e:
+        import logging
+        logging.error("Failed to push submission event to GACA: %s", e)
+
     return {
         "status": "SUCCESS",
         "tracking_id": tracking_id,
