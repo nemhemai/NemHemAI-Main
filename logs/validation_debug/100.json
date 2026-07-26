@@ -1,211 +1,219 @@
 {
-  "document_id": 102,
+  "document_id": 100,
   "pages": {
     "1": {
       "elements": 20,
       "flagged": 20,
-      "flags": [],
+      "flags": [
+        "low_content"
+      ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "102_p1_e0",
+          "element_id": "100_p1_e0",
           "sequence_order": 0,
           "page_number": 1,
           "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [],
-          "token_count": 8,
-          "text_preview": "1. Car covers 450 km in 5 h."
+          "token_count": 20,
+          "text_preview": "1. If A's income is 25% more than B's income, by what percentage is B's income less than A's income?"
         },
         {
-          "element_id": "102_p1_e1",
+          "element_id": "100_p1_e1",
           "sequence_order": 1,
           "page_number": 1,
           "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [],
-          "token_count": 11,
-          "text_preview": "Solution: Speed needed in 3 h = 450/3 = 150 km/hr."
+          "token_count": 5,
+          "text_preview": "Solution: Let B=100, A=125. Decrease=(25/125)*100=20%."
         },
         {
-          "element_id": "102_p1_e2",
+          "element_id": "100_p1_e2",
           "sequence_order": 2,
           "page_number": 1,
           "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [],
-          "token_count": 10,
-          "text_preview": "2. Train 150 m, platform 300 m, speed 90 km/hr."
+          "token_count": 12,
+          "text_preview": "2. Pass marks are 40%. Student got 178 and failed by 22."
         },
         {
-          "element_id": "102_p1_e3",
+          "element_id": "100_p1_e3",
           "sequence_order": 3,
           "page_number": 1,
           "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [],
-          "token_count": 7,
-          "text_preview": "Solution: Distance=450 m; speed=25 m/s; time=18 s."
+          "token_count": 5,
+          "text_preview": "Solution: Pass marks=200. Max marks=200/0.4=500."
         },
         {
-          "element_id": "102_p1_e4",
+          "element_id": "100_p1_e4",
           "sequence_order": 4,
           "page_number": 1,
           "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [],
-          "token_count": 13,
-          "text_preview": "3. Trains 120 m & 180 m opposite at 42 & 30 km/hr."
+          "token_count": 6,
+          "text_preview": "3. Population 176400, +10% then -10%."
         },
         {
-          "element_id": "102_p1_e5",
+          "element_id": "100_p1_e5",
           "sequence_order": 5,
           "page_number": 1,
           "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [],
-          "token_count": 9,
-          "text_preview": "Solution: Distance=300 m; relative speed=72 km/hr=20 m/s; time=15 s."
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Solution: 176400*1.1*0.9=174636."
         },
         {
-          "element_id": "102_p1_e6",
+          "element_id": "100_p1_e6",
           "sequence_order": 6,
           "page_number": 1,
           "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [],
-          "token_count": 8,
-          "text_preview": "4. Boat 15 km/hr still, current 3 km/hr."
+          "token_count": 4,
+          "text_preview": "4. Sugar price +20%."
         },
         {
-          "element_id": "102_p1_e7",
+          "element_id": "100_p1_e7",
           "sequence_order": 7,
           "page_number": 1,
           "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [],
-          "token_count": 7,
-          "text_preview": "Solution: Downstream=18 km/hr; time=30/18=1 hr 40 min."
+          "token_count": 5,
+          "text_preview": "Solution: Consumption factor=1/1.2=5/6. Reduction=16 2/3%."
         },
         {
-          "element_id": "102_p1_e8",
+          "element_id": "100_p1_e8",
           "sequence_order": 8,
           "page_number": 1,
           "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [],
           "token_count": 6,
-          "text_preview": "5. Train 60 excl.,50 incl. stoppages."
+          "text_preview": "5. Election total 7500, 20% invalid."
         },
         {
-          "element_id": "102_p1_e9",
+          "element_id": "100_p1_e9",
           "sequence_order": 9,
           "page_number": 1,
           "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [],
           "token_count": 6,
-          "text_preview": "Solution: Running time=50 min/hour; stoppage=10 min/hour."
+          "text_preview": "Solution: Valid=6000. Other candidate=45% of 6000=2700."
         },
         {
-          "element_id": "102_p1_e10",
+          "element_id": "100_p1_e10",
           "sequence_order": 10,
           "page_number": 1,
           "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [],
-          "token_count": 3,
-          "text_preview": "6. Outward40, return60."
+          "token_count": 4,
+          "text_preview": "6. +20% then -20%."
         },
         {
-          "element_id": "102_p1_e11",
+          "element_id": "100_p1_e11",
           "sequence_order": 11,
           "page_number": 1,
           "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [],
-          "token_count": 4,
-          "text_preview": "Solution: Average speed=48 km/hr."
+          "token_count": 5,
+          "text_preview": "Solution: 1.2*0.8=0.96 => 4% decrease."
         },
         {
-          "element_id": "102_p1_e12",
+          "element_id": "100_p1_e12",
           "sequence_order": 12,
           "page_number": 1,
           "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [],
           "token_count": 8,
-          "text_preview": "7. Walks at 3/4 speed, 20 min late."
+          "text_preview": "7. Numbers 20% and 45% more than third."
         },
         {
-          "element_id": "102_p1_e13",
+          "element_id": "100_p1_e13",
           "sequence_order": 13,
           "page_number": 1,
           "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [],
           "token_count": 4,
-          "text_preview": "Solution: Usual time=60 min."
+          "text_preview": "Solution: 120x and145x. Increase=(25/120)*100=20.83%."
         },
         {
-          "element_id": "102_p1_e14",
+          "element_id": "100_p1_e14",
           "sequence_order": 14,
           "page_number": 1,
           "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [],
-          "token_count": 6,
-          "text_preview": "8. Trains from A and B."
+          "token_count": 5,
+          "text_preview": "8. 65% and45% of150 each."
         },
         {
-          "element_id": "102_p1_e15",
+          "element_id": "100_p1_e15",
           "sequence_order": 15,
           "page_number": 1,
           "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [],
-          "token_count": 6,
-          "text_preview": "Solution: Meet at about 11:43 a.m."
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Solution: 97.5+67.5=165/300=55%."
         },
         {
-          "element_id": "102_p1_e16",
+          "element_id": "100_p1_e16",
           "sequence_order": 16,
           "page_number": 1,
           "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [],
-          "token_count": 3,
-          "text_preview": "9. Boat equations."
+          "token_count": 5,
+          "text_preview": "9. 60% boys,40% girls; pass75%,40%."
         },
         {
-          "element_id": "102_p1_e17",
+          "element_id": "100_p1_e17",
           "sequence_order": 17,
           "page_number": 1,
           "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [],
-          "token_count": 6,
-          "text_preview": "Solution: Upstream=8, downstream=12, still water=10 km/hr."
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Solution: Overall=0.6*75+0.4*40=61%."
         },
         {
-          "element_id": "102_p1_e18",
+          "element_id": "100_p1_e18",
           "sequence_order": 18,
           "page_number": 1,
           "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [],
-          "token_count": 6,
-          "text_preview": "10. Speed ratio5:3, head start80 m."
+          "token_count": 3,
+          "text_preview": "10. Price reduced25%."
         },
         {
-          "element_id": "102_p1_e19",
+          "element_id": "100_p1_e19",
           "sequence_order": 19,
           "page_number": 1,
           "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [],
           "token_count": 4,
-          "text_preview": "Solution: Race length=200 m."
+          "text_preview": "Solution: 75->100 increase=25/75*100=33 1/3%."
         }
       ]
     }

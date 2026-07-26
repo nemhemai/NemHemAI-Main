@@ -30,7 +30,7 @@ const App = () => {
           category: "Entitlement Scheme Application",
           status: "PENDING",
           description: `Tracking ID: ${trackId}`,
-          official_response: "Your application is currently under review by the official authorities. All required documents have been verified by AI. Please check back later for updates."
+          official_response: "Your application is currently under review by the official authorities. All required documents have been verified. Please check back later for updates."
         });
       } else {
         const res = await axios.get(`${API_URL}/api/v1/grievances/${trackId}`);
@@ -89,12 +89,18 @@ const App = () => {
         >
           Entitlement Agent
         </button>
+        <button 
+          onClick={() => setActivePortal('tracking')} 
+          style={{ padding: '10px 24px', border: 'none', borderRadius: '6px', cursor: 'pointer', backgroundColor: activePortal === 'tracking' ? '#2563eb' : '#f1f5f9', color: activePortal === 'tracking' ? '#fff' : '#475569', fontWeight: 'bold', fontSize: '15px', transition: 'all 0.2s' }}
+        >
+          Citizen Requests
+        </button>
       </div>
 
       {activePortal === 'grievance' ? (
         <div style={styles.page}>
           <div style={styles.card}>
-            <h2 style={styles.title}>🏛️ Citizen Grievance Portal</h2>
+            <h2 style={styles.title}>🏛️ Grievance Citizen Portal</h2>
             <p style={styles.subtitle}>Submit a complaint for automated AI processing and official review.</p>
 
         {success && <div style={styles.successBadge}>{success}</div>}
@@ -146,58 +152,60 @@ const App = () => {
           </button>
         </form>
 
-        <hr style={{margin: '0', border: 'none', borderTop: '1px solid #e5e7eb'}} />
-        
-        <div style={styles.section}>
-          <h2 style={{...styles.title, fontSize: '20px'}}>🔍 Track Your Request</h2>
-          <p style={{...styles.subtitle, marginBottom: '16px'}}>Enter your unique Tracking ID to check the status of your Grievance or Entitlement Application.</p>
-          
-          <form onSubmit={handleTrack} style={{display: 'flex', gap: '10px'}}>
-            <input 
-              type="text" 
-              placeholder="Enter Tracking ID (e.g. 123e4567-... or APP-...)" 
-              value={trackId} 
-              onChange={(e) => setTrackId(e.target.value)}
-              style={{...styles.input, flex: 1}}
-              required
-            />
-            <button type="submit" disabled={trackLoading} style={{...styles.submitButton, marginTop: 0}}>
-              {trackLoading ? "Searching..." : "Track"}
-            </button>
-          </form>
-        </div>
-
-        {trackError && <div style={{...styles.errorBadge, marginTop: '16px'}}>{trackError}</div>}
-
-        {trackedGrievance && (
-          <div style={{marginTop: '20px', padding: '16px', backgroundColor: '#f8fafc', borderRadius: '8px', border: '1px solid #e2e8f0'}}>
-            <div style={{display: 'flex', justifyContent: 'space-between', marginBottom: '10px'}}>
-              <strong style={{fontSize: '15px', color: '#1e293b'}}>{trackedGrievance.category}</strong>
-              <span style={{
-                backgroundColor: trackedGrievance.status === 'APPROVED' ? '#dcfce7' : '#fef08a',
-                color: trackedGrievance.status === 'APPROVED' ? '#166534' : '#854d0e',
-                padding: '4px 10px', borderRadius: '12px', fontSize: '12px', fontWeight: 'bold'
-              }}>
-                {trackedGrievance.status}
-              </span>
-            </div>
-            <p style={{fontSize: '14px', color: '#475569', marginBottom: '16px', fontStyle: 'italic'}}>"{trackedGrievance.description}"</p>
-            
-            {trackedGrievance.official_response ? (
-              <div style={{backgroundColor: '#ffffff', padding: '16px', borderRadius: '8px', borderLeft: '4px solid #3b82f6', boxShadow: '0 1px 3px rgba(0,0,0,0.05)'}}>
-                <h5 style={{margin: '0 0 8px 0', color: '#1e3a8a', fontSize: '14px'}}>Official Response:</h5>
-                <p style={{margin: 0, fontSize: '14px', whiteSpace: 'pre-wrap', color: '#334155'}}>{trackedGrievance.official_response}</p>
-              </div>
-            ) : (
-              <p style={{fontSize: '13px', color: '#94a3b8', fontStyle: 'italic', margin: 0}}>Pending official review...</p>
-            )}
-          </div>
-        )}
-
       </div>
         </div>
-      ) : (
+      ) : activePortal === 'entitlement' ? (
         <EntitlementDashboard />
+      ) : (
+        <div style={styles.page}>
+          <div style={styles.card}>
+            <div style={styles.section}>
+              <h2 style={{...styles.title, fontSize: '20px'}}>🔍 Track Your Request</h2>
+              <p style={{...styles.subtitle, marginBottom: '16px'}}>Enter your unique Tracking ID to check the status of your Grievance or Entitlement Application.</p>
+              
+              <form onSubmit={handleTrack} style={{display: 'flex', gap: '10px'}}>
+                <input 
+                  type="text" 
+                  placeholder="Enter Tracking ID (e.g. 123e4567-... or APP-...)" 
+                  value={trackId} 
+                  onChange={(e) => setTrackId(e.target.value)}
+                  style={{...styles.input, flex: 1}}
+                  required
+                />
+                <button type="submit" disabled={trackLoading} style={{...styles.submitButton, marginTop: 0}}>
+                  {trackLoading ? "Searching..." : "Track"}
+                </button>
+              </form>
+            </div>
+
+            {trackError && <div style={{...styles.errorBadge, marginTop: '16px'}}>{trackError}</div>}
+
+            {trackedGrievance && (
+              <div style={{marginTop: '20px', padding: '16px', backgroundColor: '#f8fafc', borderRadius: '8px', border: '1px solid #e2e8f0'}}>
+                <div style={{display: 'flex', justifyContent: 'space-between', marginBottom: '10px'}}>
+                  <strong style={{fontSize: '15px', color: '#1e293b'}}>{trackedGrievance.category}</strong>
+                  <span style={{
+                    backgroundColor: trackedGrievance.status === 'APPROVED' ? '#dcfce7' : '#fef08a',
+                    color: trackedGrievance.status === 'APPROVED' ? '#166534' : '#854d0e',
+                    padding: '4px 10px', borderRadius: '12px', fontSize: '12px', fontWeight: 'bold'
+                  }}>
+                    {trackedGrievance.status}
+                  </span>
+                </div>
+                <p style={{fontSize: '14px', color: '#475569', marginBottom: '16px', fontStyle: 'italic'}}>"{trackedGrievance.description}"</p>
+                
+                {trackedGrievance.official_response ? (
+                  <div style={{backgroundColor: '#ffffff', padding: '16px', borderRadius: '8px', borderLeft: '4px solid #3b82f6', boxShadow: '0 1px 3px rgba(0,0,0,0.05)'}}>
+                    <h5 style={{margin: '0 0 8px 0', color: '#1e3a8a', fontSize: '14px'}}>Official Response:</h5>
+                    <p style={{margin: 0, fontSize: '14px', whiteSpace: 'pre-wrap', color: '#334155'}}>{trackedGrievance.official_response}</p>
+                  </div>
+                ) : (
+                  <p style={{fontSize: '13px', color: '#94a3b8', fontStyle: 'italic', margin: 0}}>Pending official review...</p>
+                )}
+              </div>
+            )}
+          </div>
+        </div>
       )}
     </div>
   );
@@ -207,11 +215,12 @@ const styles = {
   page: {
     fontFamily: "'Inter', 'Segoe UI', sans-serif",
     background: "#f4f7fb",
-    minHeight: "100vh",
+    minHeight: "calc(100vh - 72px)",
     display: "flex",
+    flexDirection: "column",
     alignItems: "center",
-    justifyContent: "center",
-    padding: "32px"
+    justifyContent: "flex-start",
+    padding: "48px 32px"
   },
   card: {
     backgroundColor: "#ffffff",

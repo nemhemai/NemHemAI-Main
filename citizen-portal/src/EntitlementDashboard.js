@@ -737,8 +737,7 @@ function EntitlementDashboard() {
           { id: "profile", label: "2. Citizen 360 Profile" },
           { id: "discovery", label: "3. Discovery & Optimization" },
           { id: "verification", label: "4. Document Verification" },
-          { id: "application", label: "5. Application & Submission", disabled: !allDocsVerified },
-          { id: "audit", label: "6. Audit compliance Logs" }
+          { id: "application", label: "5. Application & Submission", disabled: !allDocsVerified }
         ].map((tab) => (
           <button
             key={tab.id}
@@ -1588,76 +1587,6 @@ function EntitlementDashboard() {
                     </p>
                   </div>
                 )}
-              </div>
-            )}
-          </div>
-        )}
-
-        {/* Tab 5: Audit Compliance Logs (Step 14) */}
-        {activeTab === "audit" && (
-          <div style={styles.panelContent}>
-            <h2 style={styles.sectionHeading}>Audit Agent: Decision Traceability</h2>
-            <p style={styles.infoText}>
-              Step 14: Traceability log entries kept by the independent compliance Audit Agent. Displays the exact reasons, rules applied, and documents used for each recommendation or rejection.
-            </p>
-            {!citizenId && <div style={styles.warningAlert}>A citizen must be registered first (Tab 1).</div>}
-            
-            {auditLoading ? (
-              <div>Loading compliance records...</div>
-            ) : auditLogs.length === 0 ? (
-              <div style={styles.infoText}>No audit trace logs recorded for this citizen ID yet. Run a scheme check or submission first.</div>
-            ) : (
-              <div style={styles.auditLogsList}>
-                {auditLogs.map((log) => (
-                  <div key={log.id || log.audit_id || Math.random()} style={styles.auditLogCard}>
-                    <div style={styles.auditHeader}>
-                      <strong>Scheme: {log.policy_id || log.scheme_id || log.scheme_name}</strong>
-                      <span style={{
-                        ...styles.auditActionBadge,
-                        backgroundColor: (log.status === "approved" || log.status === "RECOMMEND" || log.decision_result === "ELIGIBLE") ? "#e7f6ec" : ((log.action === "APPLICATION_SUBMITTED" || log.decision_result === "APPLICATION_SUBMITTED") ? "#e0f2fe" : ((log.status === "rejected" || log.status === "REJECT" || log.decision_result === "NOT_ELIGIBLE") ? "#fdecea" : "#fff8e1")),
-                        color: (log.status === "approved" || log.status === "RECOMMEND" || log.decision_result === "ELIGIBLE") ? "#176b3a" : ((log.action === "APPLICATION_SUBMITTED" || log.decision_result === "APPLICATION_SUBMITTED") ? "#0369a1" : ((log.status === "rejected" || log.status === "REJECT" || log.decision_result === "NOT_ELIGIBLE") ? "#b42318" : "#8a5a00"))
-                      }}>{log.decision_result || log.status || log.action}</span>
-                    </div>
-                    <div style={styles.auditTime}>Logged on: {new Date(log.created_at || log.timestamp || Date.now()).toLocaleString()}</div>
-                    
-                    <div style={styles.auditDetailGrid}>
-                      <div>
-                        <strong>Verdict:</strong> <em>{log.decision_result || log.decision_trace?.verdict}</em>
-                      </div>
-                      <div>
-                        <strong>Context ID:</strong> {log.context_id || log.decision_id || "N/A"}
-                      </div>
-                    </div>
-                    
-                    <div style={styles.auditJustify}>
-                      <strong>Compliance Rule Results & Justification:</strong>
-                      {log.rule_results && log.rule_results.length > 0 ? (
-                        <ul style={{ margin: "8px 0 0 0", paddingLeft: "20px", fontSize: "13px", color: "#475569" }}>
-                          {log.rule_results.map((rule, idx) => (
-                            <li key={idx}>
-                              {rule.rule_id}: <strong style={{color: rule.passed ? "#166534" : "#991b1b"}}>{rule.passed ? "PASSED" : "FAILED"}</strong>
-                              {rule.evidence && <span style={{marginLeft: "6px"}}>- {rule.evidence}</span>}
-                            </li>
-                          ))}
-                        </ul>
-                      ) : log.decision_trace?.documents_attached ? (
-                        <div>
-                          <p style={{ margin: "4px 0 8px 0", fontSize: "13px", color: "#475569" }}>
-                            {log.decision_trace.message || "Documents submitted successfully."}
-                          </p>
-                          <strong>Documents verified and submitted:</strong>
-                          <ul style={{ margin: "8px 0 0 0", paddingLeft: "20px", fontSize: "13px", color: "#475569" }}>
-                            {log.decision_trace.documents_attached.map((doc, idx) => (
-                              <li key={idx}>{doc}</li>
-                            ))}
-                          </ul>
-                        </div>
-                      ) : (
-                        <p style={styles.excerptText}>{log.decision_trace?.reasons?.join(" ") || "No detailed rule trace available."}</p>
-                      )}
-                    </div>
-                  </div>
-                ))}
               </div>
             )}
           </div>

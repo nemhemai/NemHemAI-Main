@@ -29,6 +29,26 @@ def ingest_event(event: GovernanceEventIn, db: Session = Depends(get_db)):
 
 
 # ---- 4.1 Decision Audit ----
+@router.get("/decisions/all")
+def all_decision_history(db: Session = Depends(get_db)):
+    return [
+        {
+            "decision_id": d.decision_id,
+            "citizen_id": d.citizen_id,
+            "application_id": d.application_id,
+            "scheme_id": d.scheme_id,
+            "decision_type": d.decision_type,
+            "decision_result": d.decision_result,
+            "responsible_agent": d.responsible_agent,
+            "confidence_score": d.confidence_score,
+            "policy_id": d.policy_id,
+            "timestamp": d.timestamp,
+            "decision_trace": d.retrieved_context,
+            "rule_results": d.retrieved_context.get("rule_results", []) if d.retrieved_context else [],
+        }
+        for d in decision_audit.all_decisions(db)
+    ]
+
 @router.get("/decisions/citizen/{citizen_id}")
 def decision_history(citizen_id: str, db: Session = Depends(get_db)):
     return [

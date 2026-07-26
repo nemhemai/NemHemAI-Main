@@ -19,6 +19,9 @@ import GrievanceDashboard from "./components/GrievanceDashboard";
 // 🏛️ NEW ENTITLEMENT & VERIFICATION DASHBOARD
 import EntitlementDashboard from "./components/EntitlementDashboard";
 
+// 🏛️ NEW ENTITLEMENT CHECK DASHBOARD (ADMIN LOGS)
+import EntitlementCheckDashboard from "./components/EntitlementCheckDashboard";
+
 /**
  * App Component
  * ----------------------------------------
@@ -115,7 +118,7 @@ function App() {
           <button onClick={() => setView("bulk")} style={getNavBtnStyle("bulk")}>Bulk Upload</button>
           <button onClick={() => setView("query")} style={getNavBtnStyle("query")}>Query</button>
           <button onClick={() => setView("grievance")} style={getNavBtnStyle("grievance")}>Grievance Officer</button>
-          <button onClick={() => setView("entitlement")} style={getNavBtnStyle("entitlement")}>Entitlement Agent</button>
+          <button onClick={() => setView("entitlementCheck")} style={getNavBtnStyle("entitlementCheck")}>Entitlement Check</button>
           
           <div style={styles.navDivider}></div>
           
@@ -160,9 +163,11 @@ function App() {
 
         <GrievanceDashboard />
 
-      ) : view === "entitlement" ? (
+      ) : view === "entitlementCheck" ? (
 
-        <EntitlementDashboard />
+        <div style={styles.card}>
+          <EntitlementCheckDashboard />
+        </div>
 
       ) : (
 

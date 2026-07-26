@@ -82,7 +82,12 @@ class VerificationService:
                 checks = self._verify_aadhaar(fields)
             else:
                 logger.warning(f"Skipping specific checks for {doc_type} as per user request")
-                checks = {}
+                checks = {
+                    "document_bypass": {
+                        "passed": True,
+                        "detail": f"Auto-passed verification for {doc_type} per user configuration"
+                    }
+                }
 
 
             # --- PROFILE CROSS-VALIDATION ---

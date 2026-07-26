@@ -1,0 +1,241 @@
+{
+  "document_id": 101,
+  "pages": {
+    "1": {
+      "elements": 18,
+      "flagged": 18,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "101_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Profit & Loss - Full Questions with Solutions"
+        },
+        {
+          "element_id": "101_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "1. A shopkeeper buys an article for Rs. 450 and marks it up by 20%. He then offers a discount of 10% on the marked price"
+        },
+        {
+          "element_id": "101_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "Solution: MP = 450 × 1.20 = 540. SP = 540 × 0.90 = 486. Profit = 36. Profit % = 36/450 × 100 = 8%."
+        },
+        {
+          "element_id": "101_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "2. By selling an article for Rs. 720, a man loses 10%. At what price should he sell it to gain 15%?"
+        },
+        {
+          "element_id": "101_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "Solution: CP = 720/0.90 = 800. Required SP = 800 × 1.15 = Rs. 920."
+        },
+        {
+          "element_id": "101_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "3. A man sells two articles for Rs. 1,200 each. On one he gains 20% and on the other he loses 20%. Find his overall prof"
+        },
+        {
+          "element_id": "101_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "Solution: CP1 = 1200/1.20 = 1000. CP2 = 1200/0.80 = 1500. Total CP = 2500, Total SP = 2400. Loss = 100. Loss % = 4%."
+        },
+        {
+          "element_id": "101_p1_e7",
+          "sequence_order": 7,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "4. The cost price of 20 articles is equal to the selling price of 16 articles. Find the profit percentage."
+        },
+        {
+          "element_id": "101_p1_e8",
+          "sequence_order": 8,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "Solution: 20CP = 16SP ⇒ SP = 20/16 CP = 1.25CP. Profit = 25%."
+        },
+        {
+          "element_id": "101_p1_e9",
+          "sequence_order": 9,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 27,
+          "text_preview": "5. A dishonest dealer professes to sell his goods at cost price but uses a weight of 900 gm for a kg weight. Find his ga"
+        },
+        {
+          "element_id": "101_p1_e10",
+          "sequence_order": 10,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Solution: Gain % = (1000−900)/900 × 100 = 11.11%."
+        },
+        {
+          "element_id": "101_p1_e11",
+          "sequence_order": 11,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "6. A trader marks his goods 40% above the cost price and allows a discount of 25%. Find his profit percentage."
+        },
+        {
+          "element_id": "101_p1_e12",
+          "sequence_order": 12,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Solution: Net factor = 1.40 × 0.75 = 1.05 ⇒ Profit = 5%."
+        },
+        {
+          "element_id": "101_p1_e13",
+          "sequence_order": 13,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "7. If the selling price of 12 pens is equal to the cost price of 15 pens, find the profit percentage."
+        },
+        {
+          "element_id": "101_p1_e14",
+          "sequence_order": 14,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "Solution: 12SP = 15CP ⇒ SP = 15/12 CP = 1.25CP ⇒ Profit = 25%."
+        },
+        {
+          "element_id": "101_p1_e15",
+          "sequence_order": 15,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "8. A shopkeeper sells an item at a loss of 15%. Had he sold it for Rs. 45 more, he would have gained 8%. Find the cost p"
+        },
+        {
+          "element_id": "101_p1_e16",
+          "sequence_order": 16,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "Solution: 23% of CP = 45 ⇒ CP = 45 × 100 / 23 = Rs. 195.65 (approx.)."
+        },
+        {
+          "element_id": "101_p1_e17",
+          "sequence_order": 17,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "9. A man buys a watch for Rs. 1,600 and sells it at a loss of 5%. He then buys another watch with the money received and"
+        }
+      ]
+    },
+    "2": {
+      "elements": 4,
+      "flagged": 4,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "101_p2_e18",
+          "sequence_order": 18,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "gain of 10%, thereby making an overall profit of Rs. 80 on the two transactions. Find the selling price of the second wa"
+        },
+        {
+          "element_id": "101_p2_e19",
+          "sequence_order": 19,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 34,
+          "text_preview": "Solution: First SP = 1600 × 0.95 = 1520. Total CP = 1600 + 1520 = 3120. Overall SP = 3120 + 80 = 3200. Second SP = 3200 "
+        },
+        {
+          "element_id": "101_p2_e20",
+          "sequence_order": 20,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 33,
+          "text_preview": "10. A retailer buys 40 kg of rice at Rs. 40/kg and 60 kg at Rs. 60/kg. He mixes the two and sells the mixture at Rs. 60/"
+        },
+        {
+          "element_id": "101_p2_e21",
+          "sequence_order": 21,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "Solution: Total CP = 5200. Total SP = 6000. Profit = 800. Profit % = 800/5200 × 100 = 15.38%."
+        }
+      ]
+    }
+  }
+}

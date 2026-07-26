@@ -1,0 +1,443 @@
+{
+  "document_id": 98,
+  "pages": {
+    "1": {
+      "elements": 21,
+      "flagged": 21,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "98_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Compound Interest — Mock Test"
+        },
+        {
+          "element_id": "98_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Aptitude Practice Set | 10 Questions with Full Solutions"
+        },
+        {
+          "element_id": "98_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Key Formulas"
+        },
+        {
+          "element_id": "98_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Amount (Annual) = P (1 + R/100)^T"
+        },
+        {
+          "element_id": "98_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "CI = Amount - P = P [(1 + R/100)^T - 1]"
+        },
+        {
+          "element_id": "98_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Half-yearly compounding: Rate -> R/2 per period, Time -> 2T periods"
+        },
+        {
+          "element_id": "98_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Quarterly compounding: Rate -> R/4 per period, Time -> 4T periods"
+        },
+        {
+          "element_id": "98_p1_e7",
+          "sequence_order": 7,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "For T = 2 years only: CI - SI = SI x R / 200 (equivalently = P x R^2 / 10000)"
+        },
+        {
+          "element_id": "98_p1_e8",
+          "sequence_order": 8,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Questions"
+        },
+        {
+          "element_id": "98_p1_e9",
+          "sequence_order": 9,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "Q1. Find the compound interest on Rs. 12,000 at 10% per annum for 2 years, compounded annually."
+        },
+        {
+          "element_id": "98_p1_e10",
+          "sequence_order": 10,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "Q2. A sum of Rs. 20,000 amounts to Rs. 24,200 in 2 years at compound interest, compounded annually. Find the rate of int"
+        },
+        {
+          "element_id": "98_p1_e11",
+          "sequence_order": 11,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "Q3. Find the difference between the compound interest and simple interest on Rs. 8,000 at 5% per annum for 2 years."
+        },
+        {
+          "element_id": "98_p1_e12",
+          "sequence_order": 12,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 19,
+          "text_preview": "Q4. What sum will amount to Rs. 9,261 in 3 years at 5% per annum compound interest, compounded annually?"
+        },
+        {
+          "element_id": "98_p1_e13",
+          "sequence_order": 13,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 30,
+          "text_preview": "Q5. A sum of money invested at compound interest amounts to Rs. 4,840 in 2 years and Rs. 5,324 in 3 years. Find the rate"
+        },
+        {
+          "element_id": "98_p1_e14",
+          "sequence_order": 14,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "Q6. Find the compound interest on Rs. 15,625 for 3 years at 4% per annum, compounded annually."
+        },
+        {
+          "element_id": "98_p1_e15",
+          "sequence_order": 15,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 34,
+          "text_preview": "Q7. The compound interest on a certain sum for 2 years at 10% per annum is Rs. 1,050. Find the simple interest on the sa"
+        },
+        {
+          "element_id": "98_p1_e16",
+          "sequence_order": 16,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "Q8. A sum of Rs. 10,000 is invested at 10% per annum, compounded half-yearly, for 1 year. Find the compound interest."
+        },
+        {
+          "element_id": "98_p1_e17",
+          "sequence_order": 17,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "Q9. In how many years will Rs. 5,000 amount to Rs. 6,050 at 10% per annum compound interest, compounded annually?"
+        },
+        {
+          "element_id": "98_p1_e18",
+          "sequence_order": 18,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "Q10. The population of a town increases at the rate of 5% per annum. If the current population is 40,000, find the popul"
+        },
+        {
+          "element_id": "98_p1_e19",
+          "sequence_order": 19,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Solutions"
+        },
+        {
+          "element_id": "98_p1_e20",
+          "sequence_order": 20,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "Q1. Find the compound interest on Rs. 12,000 at 10% per annum for 2 years, compounded annually."
+        }
+      ]
+    },
+    "2": {
+      "elements": 20,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "3": {
+      "elements": 19,
+      "flagged": 19,
+      "flags": [
+        "low_content",
+        "corrupted_text"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "98_p3_e41",
+          "sequence_order": 41,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 47,
+          "text_preview": "Q7. The compound interest on a certain sum for 2 years at 10% per annum is Rs. 1,050. Find the simple interest on the sa"
+        },
+        {
+          "element_id": "98_p3_e42",
+          "sequence_order": 42,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "1,050 − SI = SI × 10/200 = 0.05 × SI"
+        },
+        {
+          "element_id": "98_p3_e43",
+          "sequence_order": 43,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "1,050 = SI + 0.05 SI = 1.05 × SI"
+        },
+        {
+          "element_id": "98_p3_e44",
+          "sequence_order": 44,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "SI = 1,050 / 1.05 = Rs. 1,000"
+        },
+        {
+          "element_id": "98_p3_e45",
+          "sequence_order": 45,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Answer: Rs. 1,000"
+        },
+        {
+          "element_id": "98_p3_e46",
+          "sequence_order": 46,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "Note: This CI−SI shortcut only applies at T = 2 years; for other T, derive Principal first, then compute SI directly."
+        },
+        {
+          "element_id": "98_p3_e47",
+          "sequence_order": 47,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 38,
+          "text_preview": "Q8. A sum of Rs. 10,000 is invested at 10% per annum, compounded half-yearly, for 1 year. Find the compound interest. Ha"
+        },
+        {
+          "element_id": "98_p3_e48",
+          "sequence_order": 48,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Amount = 10,000 × (1.05)² = 10,000 × 1.1025 = Rs. 11,025"
+        },
+        {
+          "element_id": "98_p3_e49",
+          "sequence_order": 49,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "CI = 11,025 − 10,000 = Rs. 1,025"
+        },
+        {
+          "element_id": "98_p3_e50",
+          "sequence_order": 50,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Answer: Rs. 1,025"
+        },
+        {
+          "element_id": "98_p3_e51",
+          "sequence_order": 51,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "Note: Common trap: using annual rate/time directly under half-yearly compounding gives a wrong answer (Rs. 2,100 instead"
+        },
+        {
+          "element_id": "98_p3_e52",
+          "sequence_order": 52,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "Q9. In how many years will Rs. 5,000 amount to Rs. 6,050 at 10% per annum compound interest, compounded annually? 6,050 "
+        },
+        {
+          "element_id": "98_p3_e53",
+          "sequence_order": 53,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "(1.10)^T = 6,050 / 5,000 = 1.21"
+        },
+        {
+          "element_id": "98_p3_e54",
+          "sequence_order": 54,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 7,
+          "text_preview": "1.21 = (1.1)², so (1.1)^T = (1.1)²"
+        },
+        {
+          "element_id": "98_p3_e55",
+          "sequence_order": 55,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Answer: T = 2 years"
+        },
+        {
+          "element_id": "98_p3_e56",
+          "sequence_order": 56,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 43,
+          "text_preview": "Q10. The population of a town increases at the rate of 5% per annum. If the current population is 40,000, find the popul"
+        },
+        {
+          "element_id": "98_p3_e57",
+          "sequence_order": 57,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "40,000 × 1.1025 = 44,100"
+        },
+        {
+          "element_id": "98_p3_e58",
+          "sequence_order": 58,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Answer: 44,100"
+        },
+        {
+          "element_id": "98_p3_e59",
+          "sequence_order": 59,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "Note: Population growth, depreciation of machinery/value, and bacterial growth problems all use the CI formula — growth "
+        }
+      ]
+    }
+  }
+}

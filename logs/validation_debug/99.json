@@ -1,0 +1,223 @@
+{
+  "document_id": 99,
+  "pages": {
+    "1": {
+      "elements": 22,
+      "flagged": 6,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "99_p1_e9",
+          "sequence_order": 9,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Data Interpretation"
+        },
+        {
+          "element_id": "99_p1_e11",
+          "sequence_order": 11,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Percentage"
+        },
+        {
+          "element_id": "99_p1_e12",
+          "sequence_order": 12,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Probability"
+        },
+        {
+          "element_id": "99_p1_e15",
+          "sequence_order": 15,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Paper Cutting"
+        },
+        {
+          "element_id": "99_p1_e17",
+          "sequence_order": 17,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Data Sufficiency"
+        },
+        {
+          "element_id": "99_p1_e20",
+          "sequence_order": 20,
+          "page_number": 1,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Articles"
+        }
+      ]
+    },
+    "2": {
+      "elements": 21,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "99_p2_e33",
+          "sequence_order": 33,
+          "page_number": 2,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "● SQL:"
+        }
+      ]
+    },
+    "3": {
+      "elements": 21,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "99_p3_e44",
+          "sequence_order": 44,
+          "page_number": 3,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "● Puzzle:"
+        }
+      ]
+    },
+    "4": {
+      "elements": 10,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "99_p4_e66",
+          "sequence_order": 66,
+          "page_number": 4,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Key Insights"
+        }
+      ]
+    },
+    "5": {
+      "elements": 13,
+      "flagged": 5,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "99_p5_e76",
+          "sequence_order": 76,
+          "page_number": 5,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Competition Insights"
+        },
+        {
+          "element_id": "99_p5_e80",
+          "sequence_order": 80,
+          "page_number": 5,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "REFERENCES:"
+        },
+        {
+          "element_id": "99_p5_e81",
+          "sequence_order": 81,
+          "page_number": 5,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Puzzles"
+        },
+        {
+          "element_id": "99_p5_e83",
+          "sequence_order": 83,
+          "page_number": 5,
+          "quality_score": 0.6,
+          "element_type": "clause",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Mock Test"
+        },
+        {
+          "element_id": "99_p5_e86",
+          "sequence_order": 86,
+          "page_number": 5,
+          "quality_score": 0.6,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "patel.th@somaiya.edu"
+        }
+      ]
+    }
+  }
+}

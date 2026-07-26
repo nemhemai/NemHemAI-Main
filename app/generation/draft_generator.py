@@ -58,15 +58,15 @@ def generate_draft_response(citizen_id: str, category: str, description: str) ->
     """
     logger.info(f"Generating fast draft response for {citizen_id} - {category}")
     
-    # 1. Fetch Redis Memory (Do not add current yet since we don't know urgency)
-    recent_grievances = memory_store.get_recent_grievances(citizen_id)
-    
+    # 1. Fetch Redis Memory (Skip if anonymous to prevent cross-contamination in demos)
     memory_context = "No recent history."
-    if recent_grievances:
-        memory_context = "\n".join([
-            f"- {g['category']} (Urgency: {g.get('urgency', 'UNKNOWN')}): {g['description']}" 
-            for g in recent_grievances
-        ])
+    if citizen_id != "anonymous":
+        recent_grievances = memory_store.get_recent_grievances(citizen_id)
+        if recent_grievances:
+            memory_context = "\n".join([
+                f"- {g['category']} (Urgency: {g.get('urgency', 'UNKNOWN')}): {g['description']}" 
+                for g in recent_grievances
+            ])
     
     # 2. Vector RAG (Hybrid)
     conn = get_db_conn()
@@ -127,7 +127,8 @@ def generate_draft_response(citizen_id: str, category: str, description: str) ->
         logger.error(f"Single-pass LLM call failed: {e}")
         
     # 6. Save current grievance to memory now that we have urgency
-    memory_store.add_grievance(citizen_id, category, description, openhuman["urgency"])
+    if citizen_id != "anonymous":
+        memory_store.add_grievance(citizen_id, category, description, openhuman["urgency"])
         
     return {
         "draft_response": draft_response,

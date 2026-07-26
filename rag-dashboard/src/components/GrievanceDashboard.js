@@ -166,7 +166,7 @@ const GrievanceDashboard = () => {
               <div>
                 <h3 style={styles.category}>{g.category}</h3>
                 <p style={styles.date}>
-                  {new Date(g.created_at).toLocaleString()} • Citizen ID: {g.citizen_id.slice(0, 8)}...
+                  {new Date(g.created_at).toLocaleString()}
                 </p>
               </div>
               <div style={styles.badgeContainer}>

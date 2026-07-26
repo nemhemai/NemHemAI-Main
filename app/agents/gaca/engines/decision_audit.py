@@ -35,6 +35,12 @@ def decision_history(db: Session, citizen_id: str) -> list[Decision]:
     ).scalars().all()
 
 
+def all_decisions(db: Session) -> list[Decision]:
+    return db.execute(
+        select(Decision).order_by(Decision.timestamp.desc())
+    ).scalars().all()
+
+
 def audit_records(db: Session, application_id: str) -> list[Decision]:
     return db.execute(
         select(Decision).where(Decision.application_id == application_id)
