@@ -1,0 +1,305 @@
+{
+  "document_id": 113,
+  "pages": {
+    "1": {
+      "elements": 13,
+      "flagged": 13,
+      "flags": [
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "113_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Comprehensive Guide to Local Self Government in Kerala"
+        },
+        {
+          "element_id": "113_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Structure, Administration, and Citizen Services"
+        },
+        {
+          "element_id": "113_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "An Official Overview and Reference Document"
+        },
+        {
+          "element_id": "113_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "1. Introduction to Local Self Government in Kerala"
+        },
+        {
+          "element_id": "113_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "The state of Kerala stands as a pioneering model for democratic decentralization and Local"
+        },
+        {
+          "element_id": "113_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Self Government (LSG) in India. The Local Self Government Department (LSGD) in Kerala"
+        },
+        {
+          "element_id": "113_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "plays a vital role in transforming governance from a centralized state-level apparatus to a"
+        },
+        {
+          "element_id": "113_p1_e7",
+          "sequence_order": 7,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "participatory, citizen-centric administration at the grassroots level. Unlike many other"
+        },
+        {
+          "element_id": "113_p1_e8",
+          "sequence_order": 8,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "states where local bodies serve primarily as implementing agencies for state and central"
+        },
+        {
+          "element_id": "113_p1_e9",
+          "sequence_order": 9,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "schemes, Kerala's local governments function as autonomous institutions of self-"
+        },
+        {
+          "element_id": "113_p1_e10",
+          "sequence_order": 10,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "government with substantial administrative, functional, and financial autonomy."
+        },
+        {
+          "element_id": "113_p1_e11",
+          "sequence_order": 11,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Introduction to Local Self Government in Kerala"
+        },
+        {
+          "element_id": "113_p1_e12",
+          "sequence_order": 12,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Page 1"
+        }
+      ]
+    },
+    "2": {
+      "elements": 9,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "3": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "4": {
+      "elements": 8,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "5": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "6": {
+      "elements": 13,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "113_p6_e56",
+          "sequence_order": 56,
+          "page_number": 6,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Mandatory Functions"
+        }
+      ]
+    },
+    "7": {
+      "elements": 4,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "8": {
+      "elements": 11,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "9": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "10": {
+      "elements": 8,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "11": {
+      "elements": 10,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "12": {
+      "elements": 13,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "13": {
+      "elements": 5,
+      "flagged": 5,
+      "flags": [
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "113_p13_e125",
+          "sequence_order": 125,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "Disclaimer: This document is for informational and educational purposes. While every effort has been"
+        },
+        {
+          "element_id": "113_p13_e126",
+          "sequence_order": 126,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "made to ensure accuracy, users are advised to consult the latest Government Orders and Official Gazettes"
+        },
+        {
+          "element_id": "113_p13_e127",
+          "sequence_order": 127,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "for statutory compliance."
+        },
+        {
+          "element_id": "113_p13_e128",
+          "sequence_order": 128,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Introduction to Local Self Government in Kerala"
+        },
+        {
+          "element_id": "113_p13_e129",
+          "sequence_order": 129,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Page 13"
+        }
+      ]
+    }
+  }
+}

@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import ReactMarkdown from 'react-markdown';
 
-const API_URL = process.env.REACT_APP_API_URL || "http://localhost:8000";
+const API_URL = "http://127.0.0.1:8000";
 
 const GrievanceDashboard = () => {
   const [grievances, setGrievances] = useState([]);
@@ -20,10 +20,17 @@ const GrievanceDashboard = () => {
       const token = localStorage.getItem("token");
       const headers = token ? { Authorization: `Bearer ${token}` } : {};
       
-      const response = await axios.get(`${API_URL}/api/v1/grievances/`, { headers });
-      setGrievances(response.data);
-      setError("");
+      const response = await axios.get(`${API_URL}/api/v1/grievances/?_t=${new Date().getTime()}`, { headers });
+      if (Array.isArray(response.data)) {
+        setGrievances(response.data);
+        setError("");
+      } else {
+        const fetchUrl = response.config ? response.config.url : "Unknown URL";
+        setError(`Requested ${fetchUrl}, but got non-array: ` + (typeof response.data === 'object' ? JSON.stringify(response.data) : response.data).substring(0, 100));
+        console.error("Expected array but got:", response.data);
+      }
     } catch (err) {
+      setError("Network or Fetch Error: " + err.message);
       console.error("Failed to fetch grievances", err);
       // Fallback or ignore if it's just a polling error
     } finally {
@@ -152,13 +159,13 @@ const GrievanceDashboard = () => {
     <div style={styles.container}>
       <div style={styles.headerRow}>
         <h2 style={styles.title}>Grievance Officer Dashboard</h2>
-        <span style={styles.badgeCount}>{grievances.length} Active Tickets</span>
+        <span style={styles.badgeCount}>{Array.isArray(grievances) ? grievances.length : 0} Active Tickets</span>
       </div>
       
       {error && <div style={styles.error}>{error}</div>}
 
       <div style={styles.grid}>
-        {grievances.map((g) => (
+        {Array.isArray(grievances) && grievances.map((g) => (
           <div key={g.id} style={styles.card}>
             
             {/* Header Section */}
@@ -265,8 +272,12 @@ const GrievanceDashboard = () => {
             </div>
           </div>
         ))}
-        {grievances.length === 0 && (
-          <div style={styles.emptyState}>No grievances found. The queue is clear.</div>
+        {(!Array.isArray(grievances) || grievances.length === 0) && (
+          <div style={styles.emptyState}>
+            No grievances found. The queue is clear.
+            <br />
+            DEBUG Type: {typeof grievances} | IsArray: {Array.isArray(grievances) ? 'true' : 'false'} | Length: {grievances ? grievances.length : 'N/A'}
+          </div>
         )}
       </div>
 
@@ -297,6 +308,7 @@ const GrievanceDashboard = () => {
                     {typeof briefingNote === 'string' ? (
                       <ReactMarkdown>{briefingNote}</ReactMarkdown>
                     ) : JSON.stringify(briefingNote, null, 2)}
+
                   </div>
                 </div>
               )}

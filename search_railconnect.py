@@ -10,8 +10,11 @@ conn = psycopg2.connect(
 )
 cur = conn.cursor()
 try:
-    cur.execute("SELECT column_name FROM information_schema.columns WHERE table_name = 'document_chunks';")
-    print([r[0] for r in cur.fetchall()])
+    cur.execute("SELECT text FROM document_chunks WHERE text ILIKE '%RailConnect%';")
+    results = cur.fetchall()
+    print(f"Found {len(results)} chunks mentioning RailConnect.")
+    for row in results:
+        print(row[0][:200])
 except Exception as e:
     print(f"Error: {e}")
 finally:

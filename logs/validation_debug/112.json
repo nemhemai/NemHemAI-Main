@@ -1,0 +1,1401 @@
+{
+  "document_id": 112,
+  "pages": {
+    "1": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "112_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Finance, Grants and Budgeting"
+        },
+        {
+          "element_id": "112_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Local Self Government Institutions in Kerala"
+        },
+        {
+          "element_id": "112_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "A Comprehensive Analysis of Financial Devolution, Resource"
+        },
+        {
+          "element_id": "112_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Mobilization, and Participatory Budgeting"
+        },
+        {
+          "element_id": "112_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Finance, Grants and Budgeting of Kerala LSGD"
+        },
+        {
+          "element_id": "112_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Page 1"
+        }
+      ]
+    },
+    "2": {
+      "elements": 16,
+      "flagged": 16,
+      "flags": [
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "112_p2_e6",
+          "sequence_order": 6,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Table of Contents"
+        },
+        {
+          "element_id": "112_p2_e7",
+          "sequence_order": 7,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "1. Introduction: The Kerala Model of Financial Devolution"
+        },
+        {
+          "element_id": "112_p2_e8",
+          "sequence_order": 8,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "2. The Constitutional and Statutory Framework"
+        },
+        {
+          "element_id": "112_p2_e9",
+          "sequence_order": 9,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "3. Architecture of Local Finances: The Three Pillars"
+        },
+        {
+          "element_id": "112_p2_e10",
+          "sequence_order": 10,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "4. Own Source Revenue (OSR): Tax and Non-Tax Mobilization"
+        },
+        {
+          "element_id": "112_p2_e11",
+          "sequence_order": 11,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "5. State Government Transfers: The Devolution Formula"
+        },
+        {
+          "element_id": "112_p2_e12",
+          "sequence_order": 12,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "6. Detailed Breakdown of State Grants (GPF, MF, DF)"
+        },
+        {
+          "element_id": "112_p2_e13",
+          "sequence_order": 13,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "7. The Role of the State Finance Commission (SFC)"
+        },
+        {
+          "element_id": "112_p2_e14",
+          "sequence_order": 14,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "8. Central Finance Commission (CFC) Grants"
+        },
+        {
+          "element_id": "112_p2_e15",
+          "sequence_order": 15,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "9. The Participatory Budgeting Process: A Bottom-Up Approach"
+        },
+        {
+          "element_id": "112_p2_e16",
+          "sequence_order": 16,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "10. Earmarking of Funds and Sectoral Guidelines"
+        },
+        {
+          "element_id": "112_p2_e17",
+          "sequence_order": 17,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "11. Financial Administration and Digital Accounting Systems"
+        },
+        {
+          "element_id": "112_p2_e18",
+          "sequence_order": 18,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "12. Audit, Accountability, and Financial Oversight"
+        },
+        {
+          "element_id": "112_p2_e19",
+          "sequence_order": 19,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "13. Conclusion and Emerging Fiscal Challenges"
+        },
+        {
+          "element_id": "112_p2_e20",
+          "sequence_order": 20,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Finance, Grants and Budgeting of Kerala LSGD"
+        },
+        {
+          "element_id": "112_p2_e21",
+          "sequence_order": 21,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Page 2"
+        }
+      ]
+    },
+    "3": {
+      "elements": 24,
+      "flagged": 24,
+      "flags": [
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "112_p3_e22",
+          "sequence_order": 22,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "1. Introduction: The Kerala Model of Financial"
+        },
+        {
+          "element_id": "112_p3_e23",
+          "sequence_order": 23,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Devolution"
+        },
+        {
+          "element_id": "112_p3_e24",
+          "sequence_order": 24,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Financial autonomy is the most critical determinant of the functional efficacy of Local"
+        },
+        {
+          "element_id": "112_p3_e25",
+          "sequence_order": 25,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Self Government Institutions (LSGIs). The mere transfer of subjects without"
+        },
+        {
+          "element_id": "112_p3_e26",
+          "sequence_order": 26,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "commensurate financial resources renders local governance ineffective. The state of"
+        },
+        {
+          "element_id": "112_p3_e27",
+          "sequence_order": 27,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Kerala recognized this early in its decentralization journey, adopting what scholars"
+        },
+        {
+          "element_id": "112_p3_e28",
+          "sequence_order": 28,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "term a \"big-bang\" approach to devolution during the historical People's Plan Campaign"
+        },
+        {
+          "element_id": "112_p3_e29",
+          "sequence_order": 29,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "in 1996."
+        },
+        {
+          "element_id": "112_p3_e30",
+          "sequence_order": 30,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Unlike many Indian states where local bodies operate as mere implementing agencies"
+        },
+        {
+          "element_id": "112_p3_e31",
+          "sequence_order": 31,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "for centralized schemes, reliant entirely on tied grants, Kerala structured its LSGIs as"
+        },
+        {
+          "element_id": "112_p3_e32",
+          "sequence_order": 32,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "autonomous democratic institutions. The hallmark of Kerala’s fiscal decentralization is"
+        },
+        {
+          "element_id": "112_p3_e33",
+          "sequence_order": 33,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "the unconditional transfer of approximately 30-35% of the state’s annual plan outlay"
+        },
+        {
+          "element_id": "112_p3_e34",
+          "sequence_order": 34,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "directly to the local bodies. This massive financial devolution empowers local"
+        },
+        {
+          "element_id": "112_p3_e35",
+          "sequence_order": 35,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "governments—Grama, Block, and District Panchayats, along with Municipalities and"
+        },
+        {
+          "element_id": "112_p3_e36",
+          "sequence_order": 36,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Corporations—to independently formulate and execute developmental projects that"
+        },
+        {
+          "element_id": "112_p3_e37",
+          "sequence_order": 37,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "cater directly to the localized needs of their constituents."
+        },
+        {
+          "element_id": "112_p3_e38",
+          "sequence_order": 38,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "The financial architecture of Kerala's LSGIs is characterized by a carefully balanced mix"
+        },
+        {
+          "element_id": "112_p3_e39",
+          "sequence_order": 39,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "of Own Source Revenues (OSR), systematic formula-based transfers from the State"
+        },
+        {
+          "element_id": "112_p3_e40",
+          "sequence_order": 40,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Government, and grants from the Union Government. This extensive document"
+        },
+        {
+          "element_id": "112_p3_e41",
+          "sequence_order": 41,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "provides an in-depth analysis of these financial streams, the rules governing them, the"
+        },
+        {
+          "element_id": "112_p3_e42",
+          "sequence_order": 42,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "budgeting process, and the mechanisms of accountability that ensure these funds are"
+        },
+        {
+          "element_id": "112_p3_e43",
+          "sequence_order": 43,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "utilized efficiently and equitably."
+        },
+        {
+          "element_id": "112_p3_e44",
+          "sequence_order": 44,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Finance, Grants and Budgeting of Kerala LSGD"
+        },
+        {
+          "element_id": "112_p3_e45",
+          "sequence_order": 45,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Page 3"
+        }
+      ]
+    },
+    "4": {
+      "elements": 8,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "112_p4_e48",
+          "sequence_order": 48,
+          "page_number": 4,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Constitutional Provisions"
+        }
+      ]
+    },
+    "5": {
+      "elements": 6,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "6": {
+      "elements": 22,
+      "flagged": 22,
+      "flags": [
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "112_p6_e60",
+          "sequence_order": 60,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "4. Own Source Revenue (OSR): Tax and Non-"
+        },
+        {
+          "element_id": "112_p6_e61",
+          "sequence_order": 61,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Tax Mobilization"
+        },
+        {
+          "element_id": "112_p6_e62",
+          "sequence_order": 62,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "The ability of an LSGI to mobilize its own resources is a critical indicator of its"
+        },
+        {
+          "element_id": "112_p6_e63",
+          "sequence_order": 63,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "institutional capacity. While urban bodies (Municipalities and Corporations) generally"
+        },
+        {
+          "element_id": "112_p6_e64",
+          "sequence_order": 64,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "have robust OSRs, Grama Panchayats in Kerala also actively utilize their taxation"
+        },
+        {
+          "element_id": "112_p6_e65",
+          "sequence_order": 65,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "powers."
+        },
+        {
+          "element_id": "112_p6_e66",
+          "sequence_order": 66,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Tax Revenues"
+        },
+        {
+          "element_id": "112_p6_e67",
+          "sequence_order": 67,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "The Kerala Panchayat Raj Act and Kerala Municipality Act empower local bodies to levy"
+        },
+        {
+          "element_id": "112_p6_e68",
+          "sequence_order": 68,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "several compulsory and optional taxes. The major taxes include:"
+        },
+        {
+          "element_id": "112_p6_e69",
+          "sequence_order": 69,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "1. Property Tax (The Fiscal Anchor)"
+        },
+        {
+          "element_id": "112_p6_e70",
+          "sequence_order": 70,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "Property tax is the most significant source of own revenue for all tiers of LSGIs,"
+        },
+        {
+          "element_id": "112_p6_e71",
+          "sequence_order": 71,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "particularly urban bodies. In Kerala, the assessment of property tax transitioned"
+        },
+        {
+          "element_id": "112_p6_e72",
+          "sequence_order": 72,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "from the archaic Annual Rental Value (ARV) method to the more objective Plinth"
+        },
+        {
+          "element_id": "112_p6_e73",
+          "sequence_order": 73,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Area-based System."
+        },
+        {
+          "element_id": "112_p6_e74",
+          "sequence_order": 74,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Calculation: The tax is calculated based on the plinth area of the building,"
+        },
+        {
+          "element_id": "112_p6_e75",
+          "sequence_order": 75,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "multiplied by a basic tax rate determined by the local body. The formula"
+        },
+        {
+          "element_id": "112_p6_e76",
+          "sequence_order": 76,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "incorporates weightages for the type of roof, the age of the building, the"
+        },
+        {
+          "element_id": "112_p6_e77",
+          "sequence_order": 77,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "location (proximity to roads, markets), and the usage (residential,"
+        },
+        {
+          "element_id": "112_p6_e78",
+          "sequence_order": 78,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "commercial, industrial)."
+        },
+        {
+          "element_id": "112_p6_e79",
+          "sequence_order": 79,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Equation: PT = Area × Basic Rate × (Wlocation + Wusage + Wstructure)"
+        },
+        {
+          "element_id": "112_p6_e80",
+          "sequence_order": 80,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Finance, Grants and Budgeting of Kerala LSGD"
+        },
+        {
+          "element_id": "112_p6_e81",
+          "sequence_order": 81,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Page 6"
+        }
+      ]
+    },
+    "7": {
+      "elements": 22,
+      "flagged": 22,
+      "flags": [
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "112_p7_e82",
+          "sequence_order": 82,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Revision: The State Government mandates a periodic revision (usually a 5%"
+        },
+        {
+          "element_id": "112_p7_e83",
+          "sequence_order": 83,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "increase annually or a comprehensive revision every five years) to account"
+        },
+        {
+          "element_id": "112_p7_e84",
+          "sequence_order": 84,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "for inflation, though political pressures sometimes delay these revisions."
+        },
+        {
+          "element_id": "112_p7_e85",
+          "sequence_order": 85,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "2. Profession Tax"
+        },
+        {
+          "element_id": "112_p7_e86",
+          "sequence_order": 86,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Levied on individuals exercising a profession, art, or calling, or transacting"
+        },
+        {
+          "element_id": "112_p7_e87",
+          "sequence_order": 87,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "business within the local body's jurisdiction for more than 60 days in a half-year."
+        },
+        {
+          "element_id": "112_p7_e88",
+          "sequence_order": 88,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "The tax is deducted at source by employers for salaried individuals and remitted"
+        },
+        {
+          "element_id": "112_p7_e89",
+          "sequence_order": 89,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "directly to the LSGI. The maximum limit for profession tax is capped by the"
+        },
+        {
+          "element_id": "112_p7_e90",
+          "sequence_order": 90,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Constitution (Article 276) at ₹2,500 per annum per person."
+        },
+        {
+          "element_id": "112_p7_e91",
+          "sequence_order": 91,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "3. Entertainment Tax"
+        },
+        {
+          "element_id": "112_p7_e92",
+          "sequence_order": 92,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Levied primarily on cinema tickets, amusement parks, and dramatic"
+        },
+        {
+          "element_id": "112_p7_e93",
+          "sequence_order": 93,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "performances. While the introduction of GST absorbed many local taxes, Kerala"
+        },
+        {
+          "element_id": "112_p7_e94",
+          "sequence_order": 94,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "passed specific legislation allowing local bodies to continue levying a local"
+        },
+        {
+          "element_id": "112_p7_e95",
+          "sequence_order": 95,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "entertainment tax on cinemas (often capped at 8.5% over the GST), ensuring this"
+        },
+        {
+          "element_id": "112_p7_e96",
+          "sequence_order": 96,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "vital revenue stream was not entirely lost."
+        },
+        {
+          "element_id": "112_p7_e97",
+          "sequence_order": 97,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Non-Tax Revenues"
+        },
+        {
+          "element_id": "112_p7_e98",
+          "sequence_order": 98,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Non-tax revenues are generated from the administrative and regulatory functions of"
+        },
+        {
+          "element_id": "112_p7_e99",
+          "sequence_order": 99,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "the local body, as well as returns on its assets."
+        },
+        {
+          "element_id": "112_p7_e100",
+          "sequence_order": 100,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Licence and Permit Fees: Fees collected for issuing Dangerous and Offensive"
+        },
+        {
+          "element_id": "112_p7_e101",
+          "sequence_order": 101,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "(D&O) trade licenses, building permits, and environmental clearances."
+        },
+        {
+          "element_id": "112_p7_e102",
+          "sequence_order": 102,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Finance, Grants and Budgeting of Kerala LSGD"
+        },
+        {
+          "element_id": "112_p7_e103",
+          "sequence_order": 103,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Page 7"
+        }
+      ]
+    },
+    "8": {
+      "elements": 8,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "9": {
+      "elements": 4,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "10": {
+      "elements": 9,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "11": {
+      "elements": 9,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "12": {
+      "elements": 8,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "13": {
+      "elements": 18,
+      "flagged": 18,
+      "flags": [
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "112_p13_e142",
+          "sequence_order": 142,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "1. Tied Grants (60% of total CFC allocation)"
+        },
+        {
+          "element_id": "112_p13_e143",
+          "sequence_order": 143,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "These funds are strictly earmarked for critical national priority sectors. The LSGIs"
+        },
+        {
+          "element_id": "112_p13_e144",
+          "sequence_order": 144,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "cannot divert these funds to any other project. The two major tied components"
+        },
+        {
+          "element_id": "112_p13_e145",
+          "sequence_order": 145,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Sanitation and Solid Waste Management: Funds must be used for achieving"
+        },
+        {
+          "element_id": "112_p13_e146",
+          "sequence_order": 146,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "ODF+ (Open Defecation Free plus) status, constructing community toilets,"
+        },
+        {
+          "element_id": "112_p13_e147",
+          "sequence_order": 147,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "purchasing waste collection vehicles, and setting up material recovery"
+        },
+        {
+          "element_id": "112_p13_e148",
+          "sequence_order": 148,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "facilities (MRFs)."
+        },
+        {
+          "element_id": "112_p13_e149",
+          "sequence_order": 149,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Drinking Water and Water Conservation: Earmarked for providing"
+        },
+        {
+          "element_id": "112_p13_e150",
+          "sequence_order": 150,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "household water connections (aligning with the Jal Jeevan Mission),"
+        },
+        {
+          "element_id": "112_p13_e151",
+          "sequence_order": 151,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "rainwater harvesting structures, and rejuvenation of local water bodies."
+        },
+        {
+          "element_id": "112_p13_e152",
+          "sequence_order": 152,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "2. Untied Grants / Basic Grants (40% of total CFC allocation)"
+        },
+        {
+          "element_id": "112_p13_e153",
+          "sequence_order": 153,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "These grants are discretionary and can be used by the local body for any location-"
+        },
+        {
+          "element_id": "112_p13_e154",
+          "sequence_order": 154,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "specific need, provided it falls under the 29 subjects (for Panchayats) or 18"
+        },
+        {
+          "element_id": "112_p13_e155",
+          "sequence_order": 155,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "subjects (for Municipalities) listed in the Constitution. Common uses include"
+        },
+        {
+          "element_id": "112_p13_e156",
+          "sequence_order": 156,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "payment of electricity bills for public infrastructure, improving local roads, and"
+        },
+        {
+          "element_id": "112_p13_e157",
+          "sequence_order": 157,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "upgrading Anganwadi infrastructure."
+        },
+        {
+          "element_id": "112_p13_e158",
+          "sequence_order": 158,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Finance, Grants and Budgeting of Kerala LSGD"
+        },
+        {
+          "element_id": "112_p13_e159",
+          "sequence_order": 159,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Page 13"
+        }
+      ]
+    },
+    "14": {
+      "elements": 8,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "15": {
+      "elements": 8,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "16": {
+      "elements": 5,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "17": {
+      "elements": 7,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "18": {
+      "elements": 6,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "19": {
+      "elements": 8,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "20": {
+      "elements": 9,
+      "flagged": 9,
+      "flags": [
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "112_p20_e202",
+          "sequence_order": 202,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "level. Panchayats often struggle with the technical estimation and rapid execution"
+        },
+        {
+          "element_id": "112_p20_e203",
+          "sequence_order": 203,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "of complex projects within the financial year, leading to rushed expenditures in the"
+        },
+        {
+          "element_id": "112_p20_e204",
+          "sequence_order": 204,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "final quarter (the \"March rush\")."
+        },
+        {
+          "element_id": "112_p20_e205",
+          "sequence_order": 205,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "Moving forward, the focus of Kerala's LSG finance is shifting from mere fund allocation"
+        },
+        {
+          "element_id": "112_p20_e206",
+          "sequence_order": 206,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "to outcome-based budgeting, prioritizing climate resilience, total digitization through K-"
+        },
+        {
+          "element_id": "112_p20_e207",
+          "sequence_order": 207,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "SMART, and building institutional capacity to execute sophisticated micro-economic"
+        },
+        {
+          "element_id": "112_p20_e208",
+          "sequence_order": 208,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "development plans."
+        },
+        {
+          "element_id": "112_p20_e209",
+          "sequence_order": 209,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Finance, Grants and Budgeting of Kerala LSGD"
+        },
+        {
+          "element_id": "112_p20_e210",
+          "sequence_order": 210,
+          "page_number": 20,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Page 20"
+        }
+      ]
+    }
+  }
+}

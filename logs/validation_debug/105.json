@@ -2,126 +2,128 @@
   "document_id": 105,
   "pages": {
     "1": {
-      "elements": 2,
-      "flagged": 2,
-      "flags": [],
-      "ocr_conf": 31.39,
+      "elements": 11,
+      "flagged": 11,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
       "issues": [
         {
           "element_id": "105_p1_e0",
           "sequence_order": 0,
           "page_number": 1,
-          "quality_score": 0.314,
-          "element_type": "heading",
-          "reason": [],
-          "token_count": 5,
-          "text_preview": "arantera Were foresitrent Hares, arergt"
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Module 4"
         },
         {
           "element_id": "105_p1_e1",
           "sequence_order": 1,
           "page_number": 1,
-          "quality_score": 0.314,
-          "element_type": "table",
-          "reason": [],
-          "token_count": 341,
-          "text_preview": "aaMeahset Wavad AT-at Bat: fa[2[-S =; read ara: AST, aaMeahset Wavad AT-at Bat: HpTH Ware - frat ¢ aitrss 1) AERTS seteT"
-        }
-      ]
-    },
-    "2": {
-      "elements": 1,
-      "flagged": 1,
-      "flags": [],
-      "ocr_conf": 32.64,
-      "issues": [
-        {
-          "element_id": "105_p2_e2",
-          "sequence_order": 2,
-          "page_number": 2,
-          "quality_score": 0.326,
-          "element_type": "table",
-          "reason": [],
-          "token_count": 255,
-          "text_preview": "BNA Wer sas 1959: CEaa BNA Wer 3fAfasa 1959; BNA Wer sas 1959: aca wea afer 1959, GO / - ee: reer; BNA Wer sas 1959: BNA"
-        }
-      ]
-    },
-    "3": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "4": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "5": {
-      "elements": 2,
-      "flagged": 1,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": null,
-      "issues": [
-        {
-          "element_id": "105_p5_e5",
-          "sequence_order": 5,
-          "page_number": 5,
-          "quality_score": 0.6,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "a[2 i]"
-        }
-      ]
-    },
-    "6": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "7": {
-      "elements": 4,
-      "flagged": 2,
-      "flags": [
-        "corrupted_text",
-        "low_content"
-      ],
-      "ocr_conf": null,
-      "issues": [
-        {
-          "element_id": "105_p7_e8",
-          "sequence_order": 8,
-          "page_number": 7,
-          "quality_score": 0.6,
-          "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "ij 2]"
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "1. Explain the role of Kernels in CNN."
         },
         {
-          "element_id": "105_p7_e9",
-          "sequence_order": 9,
-          "page_number": 7,
-          "quality_score": 0.5,
+          "element_id": "105_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "2. Explain the need of Padding in CNN."
+        },
+        {
+          "element_id": "105_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "3. Explain types of Padding in CNN."
+        },
+        {
+          "element_id": "105_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "4. Apply Max Pooling and Average Pooling on the given Feature Map using Pool Size 2 x 2."
+        },
+        {
+          "element_id": "105_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "5. Explain Strides in context of CNN."
+        },
+        {
+          "element_id": "105_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "6. Explain Flattening in CNN."
+        },
+        {
+          "element_id": "105_p1_e7",
+          "sequence_order": 7,
+          "page_number": 1,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
-            "corrupted_text"
+            "low_content"
           ],
-          "token_count": 6,
-          "text_preview": "© 3 - [4 [| $6"
+          "token_count": 2,
+          "text_preview": "Module 5"
+        },
+        {
+          "element_id": "105_p1_e8",
+          "sequence_order": 8,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "1. Application based question on LSTM/GRU along with architecture.  2. Numerical based on LSTM with formulae.  3. One di"
+        },
+        {
+          "element_id": "105_p1_e9",
+          "sequence_order": 9,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Module 6"
+        },
+        {
+          "element_id": "105_p1_e10",
+          "sequence_order": 10,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "1. Attention mechanism  2. Auto Encoder  3. Difference between GAN & VAE"
         }
       ]
     }

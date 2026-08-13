@@ -2,10 +2,9 @@
   "document_id": 106,
   "pages": {
     "1": {
-      "elements": 24,
-      "flagged": 5,
+      "elements": 10,
+      "flagged": 10,
       "flags": [
-        "corrupted_text",
         "low_content"
       ],
       "ocr_conf": null,
@@ -14,83 +13,105 @@
           "element_id": "106_p1_e0",
           "sequence_order": 0,
           "page_number": 1,
-          "quality_score": 0.6,
-          "element_type": "heading",
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
-          "text_preview": "ુજરાત સરકાર"
+          "text_preview": "Sr. No"
         },
         {
           "element_id": "106_p1_e1",
           "sequence_order": 1,
           "page_number": 1,
-          "quality_score": 0.6,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
-          "text_preview": "નાણા િવભાગ"
+          "text_preview": "Experiment Name"
         },
         {
           "element_id": "106_p1_e2",
           "sequence_order": 2,
           "page_number": 1,
-          "quality_score": 0.6,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "ઠરાવ માંક:"
+          "reason": [],
+          "token_count": 105,
+          "text_preview": "1  Write Python programs for tokenization (word & sentence), stopword removal,  and stemming using NLTK  2  Write a Pyth"
         },
         {
           "element_id": "106_p1_e3",
           "sequence_order": 3,
           "page_number": 1,
-          "quality_score": 0.6,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 1,
-          "text_preview": "FD/OTH/e-file/4/2022/3153/A(BPE)"
+          "reason": [],
+          "token_count": 72,
+          "text_preview": "5  Write a Python program for chunking using NLTK and for Named Entity  Recognition (NER) using NLTK.  6  Write Python p"
         },
         {
-          "element_id": "106_p1_e12",
-          "sequence_order": 12,
+          "element_id": "106_p1_e4",
+          "sequence_order": 4,
           "page_number": 1,
-          "quality_score": 0.5,
-          "element_type": "clause",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 16,
-          "text_preview": "માન. મં:ી ીઓ, રા%ય ક;ાના મં:ી ીઓ, અને નાયબ મં:ી ીઓના <ગત સ ચવ ીઓ"
-        }
-      ]
-    },
-    "2": {
-      "elements": 2,
-      "flagged": 1,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": null,
-      "issues": [
-        {
-          "element_id": "106_p2_e25",
-          "sequence_order": 25,
-          "page_number": 2,
-          "quality_score": 0.6,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 1,
-          "text_preview": "<unknown>"
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "8  Implement stemming and lemmatization on raw text using NLTK or spacy."
+        },
+        {
+          "element_id": "106_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "9  Write a program for constituency parsing using a given context-free grammar."
+        },
+        {
+          "element_id": "106_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 59,
+          "text_preview": "10  Implement a dependency parser using transition-based parsing.  11  Implement (as well as compare) different rule-bas"
+        },
+        {
+          "element_id": "106_p1_e7",
+          "sequence_order": 7,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 26,
+          "text_preview": "14  Demonstrate word embedding using Word2Vec and visualize them using PCA.  15  Implement fine-tune a pre-trained BERT "
+        },
+        {
+          "element_id": "106_p1_e8",
+          "sequence_order": 8,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "16  Write Python code to perform sentiment analysis using NLP"
+        },
+        {
+          "element_id": "106_p1_e9",
+          "sequence_order": 9,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "17  Write Python code to detect Fake News using NLP."
         }
       ]
     }

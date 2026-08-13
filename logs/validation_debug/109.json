@@ -2,577 +2,1250 @@
   "document_id": 109,
   "pages": {
     "1": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
+      "elements": 4,
+      "flagged": 4,
+      "flags": [
+        "noise_detected"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "109_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "CURRENT TRENDS IN KERALA LOCAL GOVERNANCE"
+        },
+        {
+          "element_id": "109_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Decentralisation, Elections, Digital Reform, and the Road to 2026"
+        },
+        {
+          "element_id": "109_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "A Policy and Governance Briefing"
+        },
+        {
+          "element_id": "109_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Prepared July 2026"
+        }
+      ]
     },
-    "12": {
+    "2": {
       "elements": 13,
       "flagged": 13,
       "flags": [
-        "corrupted_text"
+        "noise_detected",
+        "low_content"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "109_p12_e1",
-          "sequence_order": 1,
-          "page_number": 12,
-          "quality_score": 0.5,
-          "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 118,
-          "text_preview": "છેોડાીનીે એકૃ યાુવીકૃ સંાથીે તિલવી-ઇનીમેાં રેહીેવીા જાયા છેે. તાેનીે લાગે છેે કૃે તાેનીે દુતિનીયાાનીો સંૌથીી સંારેો જીવી"
-        },
-        {
-          "element_id": "109_p12_e2",
-          "sequence_order": 2,
-          "page_number": 12,
-          "quality_score": 0.5,
-          "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 84,
-          "text_preview": "આવીા રિકૃસ્સંાઓમેાં સંૌથીી મેોટીી સંમેસ્યાા એ હીોયા છેે કૃે દીકૃરેીનીા પોરિરેવીારેનીે ખાબરે નીથીી હીોતાી કૃે તાે કૃોનીી "
-        },
-        {
-          "element_id": "109_p12_e3",
-          "sequence_order": 3,
-          "page_number": 12,
-          "quality_score": 0.5,
-          "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 18,
-          "text_preview": "આ રેતિજસ્ટ્રેેર્શની દીકૃરેીઓ મેાટીે એકૃ કૃાનીૂનીી સંુરેક્ષાા કૃવીચ બનીર્શે."
-        },
-        {
-          "element_id": "109_p12_e4",
+          "element_id": "109_p2_e4",
           "sequence_order": 4,
-          "page_number": 12,
-          "quality_score": 0.5,
+          "page_number": 2,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 101,
-          "text_preview": "કૃલમે ૩૮૪ હીેઠળ તિલવી-ઇની સંંબંધુ મેાટીે નીંધુણી ફોરેતિજયાાતા છેે; નીંધુણી ની કૃરેાવીવીાથીી ૩ મેતિહીનીા સંુધુીનીી કૃેદ અ"
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Current Trends in Kerala Local Governance 2026 Report"
         },
         {
-          "element_id": "109_p12_e5",
+          "element_id": "109_p2_e5",
           "sequence_order": 5,
-          "page_number": 12,
-          "quality_score": 0.5,
+          "page_number": 2,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
-            "corrupted_text"
+            "noise_detected",
+            "low_content"
           ],
-          "token_count": 153,
-          "text_preview": "જોગવીાઈ છેે. તાેમેજ સંગીરે સંાથીે તિલવી ઇની સંંબંધુમેાં પોોકૃસંો ઍક્ટી (POCSO Act) મેુજબ સંજાનીી જોગવીાઈ છેે, ઉપોરેાંતા "
+          "token_count": 2,
+          "text_preview": "Page 1"
         },
         {
-          "element_id": "109_p12_e6",
+          "element_id": "109_p2_e6",
           "sequence_order": 6,
-          "page_number": 12,
-          "quality_score": 0.5,
-          "element_type": "heading",
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
-            "corrupted_text"
+            "noise_detected"
           ],
-          "token_count": 5,
-          "text_preview": "જનાતંનાો અંવિભાપ્રાંય"
+          "token_count": 3,
+          "text_preview": "Table of Contents"
         },
         {
-          "element_id": "109_p12_e7",
+          "element_id": "109_p2_e7",
           "sequence_order": 7,
-          "page_number": 12,
-          "quality_score": 0.5,
+          "page_number": 2,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 98,
-          "text_preview": "આ તિવી�યાનીી સંંવીેદનીર્શીલતાા સંમેજીનીે તિનીવૃત્ત જન્જિસ્ટીસં રેં જનીાબહીેની દેસંાઇનીા અધ્ યા ક્ષા સ્થીા નીે તિની મે વી"
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "1. Introduction: Kerala's Decentralisation Story"
         },
         {
-          "element_id": "109_p12_e8",
+          "element_id": "109_p2_e8",
           "sequence_order": 8,
-          "page_number": 12,
-          "quality_score": 0.5,
+          "page_number": 2,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 52,
-          "text_preview": "દેર્શનીા ઇતિતાહીાસંમેાં કૃદાચ જ કૃોઈ કૃાયાદા મેાટીે આટીલી મેોટીી જનીભાાગીદારેી જોવીા મેળી હીર્શે. ૪૯% એટીલે કૃે ૯.૭૨ લાખ"
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "2. Constitutional and Institutional Framework"
         },
         {
-          "element_id": "109_p12_e9",
+          "element_id": "109_p2_e9",
           "sequence_order": 9,
-          "page_number": 12,
-          "quality_score": 0.5,
+          "page_number": 2,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 20,
-          "text_preview": "મેાધ્યામેથીી મેળ્યાા છેે.અંદાજે ૨૦ લાખા સંૂચનીોમેાંથીી UCC તારેફોી બહુમેતાી છેે."
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "3. The 2025 Delimitation Exercise"
         },
         {
-          "element_id": "109_p12_e10",
+          "element_id": "109_p2_e10",
           "sequence_order": 10,
-          "page_number": 12,
-          "quality_score": 0.5,
+          "page_number": 2,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 177,
-          "text_preview": "કૃાયાદામેાં લગ્નનીી સંમેાની જોગવીાઈઓ સંામેેલ કૃરેવીા મેાટીે ૮૧% લોકૃોએ સંમેથીશની આપ્યાું છેે.છેૂટીાછેેડાા મેાટીે સંમેાની"
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "4. The 2025 Local Body Elections: Results and Political Signal"
         },
         {
-          "element_id": "109_p12_e11",
+          "element_id": "109_p2_e11",
           "sequence_order": 11,
-          "page_number": 12,
-          "quality_score": 0.5,
+          "page_number": 2,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 52,
-          "text_preview": "અનીે સંૌથીી મેોટીી વીા તા, તા મેા મે સંમેુદાયાોમેાં સ્ત્રી અનીે પોુરુ� મેાટીે એકૃસંમેાની તિમેલકૃતા/સંંપોતિત્ત અતિધુકૃારે"
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "5. Devolution Index 2025: Kerala's National Standing"
         },
         {
-          "element_id": "109_p12_e12",
+          "element_id": "109_p2_e12",
           "sequence_order": 12,
-          "page_number": 12,
-          "quality_score": 0.5,
-          "element_type": "heading",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 12,
-          "text_preview": "વિ�વિ�ધ વિનાષ્કષોનાં આધંરે તૈયંર થયું યુસીસી વિબલાં"
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "6. Kudumbashree: Women-Led Local Development at Scale"
         },
         {
-          "element_id": "109_p12_e13",
+          "element_id": "109_p2_e13",
           "sequence_order": 13,
-          "page_number": 12,
-          "quality_score": 0.5,
+          "page_number": 2,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 174,
-          "text_preview": "રેાજ્યામેાં આ સંમેાની નીાગરિરેકૃ સંંતિહીતાા અંગે તિનીવૃત્ત જન્જિસ્ટીસં રેંજનીાબહીેની દેસંાઈનીા અધ્યાક્ષાસ્થીાનીે નીીમેવી"
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "7. Digital Governance and E-Government Infrastructure"
+        },
+        {
+          "element_id": "109_p2_e14",
+          "sequence_order": 14,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "8. Participatory Planning: From People's Plan to Sabki Yojana"
+        },
+        {
+          "element_id": "109_p2_e15",
+          "sequence_order": 15,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "9. Persistent Challenges and Emerging Concerns"
+        },
+        {
+          "element_id": "109_p2_e16",
+          "sequence_order": 16,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "10. Outlook: Local Governance on the Road to 2026"
         }
       ]
     },
-    "13": {
+    "3": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "109_p3_e17",
+          "sequence_order": 17,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Current Trends in Kerala Local Governance 2026 Report"
+        },
+        {
+          "element_id": "109_p3_e18",
+          "sequence_order": 18,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Page 2"
+        },
+        {
+          "element_id": "109_p3_e19",
+          "sequence_order": 19,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "1. Introduction: Kerala's Decentralisation Story"
+        },
+        {
+          "element_id": "109_p3_e20",
+          "sequence_order": 20,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 109,
+          "text_preview": "Kerala's system of local self-government is widely regarded as one of the most mature and empowered in India. Its roots "
+        },
+        {
+          "element_id": "109_p3_e21",
+          "sequence_order": 21,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 118,
+          "text_preview": "Three decades on, this experiment continues to evolve. The period since 2025 has been especially consequential for Keral"
+        },
+        {
+          "element_id": "109_p3_e22",
+          "sequence_order": 22,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "1.1 Why Local Governance Matters in Kerala"
+        },
+        {
+          "element_id": "109_p3_e23",
+          "sequence_order": 23,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 66,
+          "text_preview": "Kerala's local bodies are not merely implementing agencies for centrally sponsored schemes; they are constitutionally em"
+        }
+      ]
+    },
+    "4": {
+      "elements": 13,
+      "flagged": 13,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "109_p4_e24",
+          "sequence_order": 24,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Current Trends in Kerala Local Governance 2026 Report"
+        },
+        {
+          "element_id": "109_p4_e25",
+          "sequence_order": 25,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Page 3"
+        },
+        {
+          "element_id": "109_p4_e26",
+          "sequence_order": 26,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "2. Constitutional and Institutional Framework"
+        },
+        {
+          "element_id": "109_p4_e27",
+          "sequence_order": 27,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 56,
+          "text_preview": "Kerala operates a three-tier Panchayati Raj system in rural areas and a two-tier urban structure, all functioning under "
+        },
+        {
+          "element_id": "109_p4_e28",
+          "sequence_order": 28,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Tier Number of Units Level"
+        },
+        {
+          "element_id": "109_p4_e29",
+          "sequence_order": 29,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Grama Panchayat 941 Village"
+        },
+        {
+          "element_id": "109_p4_e30",
+          "sequence_order": 30,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Block Panchayat 152 Intermediate (rural)"
+        },
+        {
+          "element_id": "109_p4_e31",
+          "sequence_order": 31,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "District Panchayat 14 District (rural)"
+        },
+        {
+          "element_id": "109_p4_e32",
+          "sequence_order": 32,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Municipality 87 Urban (town)"
+        },
+        {
+          "element_id": "109_p4_e33",
+          "sequence_order": 33,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Municipal Corporation 6 Urban (city)"
+        },
+        {
+          "element_id": "109_p4_e34",
+          "sequence_order": 34,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 71,
+          "text_preview": "Key institutions supporting this structure include the Kerala Institute of Local Administration (KILA), which trains ele"
+        },
+        {
+          "element_id": "109_p4_e35",
+          "sequence_order": 35,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "2.2 Institutional Partnerships"
+        },
+        {
+          "element_id": "109_p4_e36",
+          "sequence_order": 36,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 109,
+          "text_preview": "A notable recent development is KILA's growing role as a knowledge and research partner beyond Kerala's borders. In Sept"
+        }
+      ]
+    },
+    "5": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "109_p5_e37",
+          "sequence_order": 37,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Current Trends in Kerala Local Governance 2026 Report"
+        },
+        {
+          "element_id": "109_p5_e38",
+          "sequence_order": 38,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Page 4"
+        },
+        {
+          "element_id": "109_p5_e39",
+          "sequence_order": 39,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "3. The 2025 Delimitation Exercise"
+        },
+        {
+          "element_id": "109_p5_e40",
+          "sequence_order": 40,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 62,
+          "text_preview": "Ahead of the December 2025 local body elections, Kerala carried out a comprehensive ward delimitation exercise based on "
+        },
+        {
+          "element_id": "109_p5_e41",
+          "sequence_order": 41,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 59,
+          "text_preview": "The exercise increased the total number of wards across all local self-government institutions from 21,900 to 23,612 — a"
+        },
+        {
+          "element_id": "109_p5_e42",
+          "sequence_order": 42,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "3.1 Judicial Scrutiny"
+        },
+        {
+          "element_id": "109_p5_e43",
+          "sequence_order": 43,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 117,
+          "text_preview": "The delimitation exercise faced legal challenges but was ultimately upheld by the courts. In February 2025, a division b"
+        }
+      ]
+    },
+    "6": {
+      "elements": 12,
+      "flagged": 12,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "109_p6_e44",
+          "sequence_order": 44,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Current Trends in Kerala Local Governance 2026 Report"
+        },
+        {
+          "element_id": "109_p6_e45",
+          "sequence_order": 45,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Page 5"
+        },
+        {
+          "element_id": "109_p6_e46",
+          "sequence_order": 46,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "4. The 2025 Local Body Elections: Results and Political Signal"
+        },
+        {
+          "element_id": "109_p6_e47",
+          "sequence_order": 47,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 84,
+          "text_preview": "Elections to Kerala's panchayats, municipalities, and corporations were held in two phases on 9 and 11 December 2025, co"
+        },
+        {
+          "element_id": "109_p6_e48",
+          "sequence_order": 48,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 90,
+          "text_preview": "The 2025 results marked a significant shift. The Congress-led United Democratic Front (UDF) emerged as the largest allia"
+        },
+        {
+          "element_id": "109_p6_e49",
+          "sequence_order": 49,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Alliance Corporations Municipalities Grama Panchayats Statewide Vote Share"
+        },
+        {
+          "element_id": "109_p6_e50",
+          "sequence_order": 50,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "UDF 4 of 6 54 of 86 505 of 941 38.81%"
+        },
+        {
+          "element_id": "109_p6_e51",
+          "sequence_order": 51,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "LDF — — 340 33.45%"
+        },
+        {
+          "element_id": "109_p6_e52",
+          "sequence_order": 52,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "NDA (BJP-led) — — 26 14.71%"
+        },
+        {
+          "element_id": "109_p6_e53",
+          "sequence_order": 53,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Others / Independents — — 64 13.03%"
+        },
+        {
+          "element_id": "109_p6_e54",
+          "sequence_order": 54,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "4.1 Political Reading"
+        },
+        {
+          "element_id": "109_p6_e55",
+          "sequence_order": 55,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 95,
+          "text_preview": "Commentary following the results framed the outcome as more than a routine mid-term swing. Political analysts described "
+        }
+      ]
+    },
+    "7": {
       "elements": 10,
       "flagged": 10,
       "flags": [
-        "corrupted_text"
+        "noise_detected",
+        "low_content"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "109_p13_e14",
-          "sequence_order": 14,
-          "page_number": 13,
-          "quality_score": 0.5,
+          "element_id": "109_p7_e56",
+          "sequence_order": 56,
+          "page_number": 7,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 29,
-          "text_preview": "કૃોઈ પોણ રેીતા-રિરેવીાજ, તાેમેનીા લગ્ન, છેૂટીાછેેડાા કૃે વીારેસંાનીી પ્રથીાઓમેાં લેર્શમેાત્ર પોણ દખાલગીરેી નીહીં કૃરેે."
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Current Trends in Kerala Local Governance 2026 Report"
         },
         {
-          "element_id": "109_p13_e15",
-          "sequence_order": 15,
-          "page_number": 13,
-          "quality_score": 0.5,
+          "element_id": "109_p7_e57",
+          "sequence_order": 57,
+          "page_number": 7,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
-            "corrupted_text"
+            "noise_detected",
+            "low_content"
           ],
-          "token_count": 120,
-          "text_preview": "સંતિમેતિતા દ્વાારેા તિવીતિવીધુ કૃાયાદાઓ, સંુપ્રીમે કૃોટીટ અનીે હીાઈકૃોટીટનીા ચુકૃાદાઓ અનીે ઉત્તરેાખાંડા રેાજ્યાનીા યાુતિ"
+          "token_count": 2,
+          "text_preview": "Page 6"
         },
         {
-          "element_id": "109_p13_e16",
-          "sequence_order": 16,
-          "page_number": 13,
-          "quality_score": 0.5,
+          "element_id": "109_p7_e58",
+          "sequence_order": 58,
+          "page_number": 7,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 207,
-          "text_preview": "સંનીાતાની સંંસ્કૃૃતિતાએ આપોણનીે એકૃતાાનીા પોાઠ તિર્શખાવીાડ્યુંા છેે. ઋગ્વી ેદમેાં પોણ એકૃસંાથીે ચાલવીાનીી, બોલવીાનીી અની"
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "5. Devolution Index 2025: Kerala's National Standing"
         },
         {
-          "element_id": "109_p13_e17",
-          "sequence_order": 17,
-          "page_number": 13,
-          "quality_score": 0.5,
+          "element_id": "109_p7_e59",
+          "sequence_order": 59,
+          "page_number": 7,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 86,
-          "text_preview": "યાુ સંી સંી નીી અ ન્ યા બાબતાોમેાં પોણ સંમેાનીતાાનીો અનીે સંમેુતિચતા ન્યાાયાનીો તિસં�ાંતા અપોનીાવીવીામેાં આવ્યાો છેે. એ "
-        },
-        {
-          "element_id": "109_p13_e18",
-          "sequence_order": 18,
-          "page_number": 13,
-          "quality_score": 0.5,
-          "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 64,
-          "text_preview": "તિવી તિવી ધુ તાા નીે ધ્ યાા ની મેાં રેા ખાીનીે તામેામે પોાસંાંઓ પોરે સંઘની ચચાશ તિવીચારેણા કૃયાાશ પોછેી તાૈયાારે કૃરેવીા"
-        },
-        {
-          "element_id": "109_p13_e19",
-          "sequence_order": 19,
-          "page_number": 13,
-          "quality_score": 0.5,
-          "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 234,
-          "text_preview": "ખાાસં કૃરેીનીે મેતિહીલાઓનીા સંમેાની અતિધુકૃારેો અનીે સંુરેક્ષાાનીે આ ડ્રાાફ્ટીમેાં પ્રાથીતિમેકૃતાા આપોવીામેાં આવીી છેે. "
-        },
-        {
-          "element_id": "109_p13_e20",
-          "sequence_order": 20,
-          "page_number": 13,
-          "quality_score": 0.5,
-          "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 32,
-          "text_preview": "આ તિવીધુેયાકૃ અંગે નીાયાબ મેુખ્યામેંત્રીશ્રીીએ જણાવ્યાું હીતાું કૃે, એકૃ જ બંધુારેણ હીેઠળ, અલગ અલગ ધુમેશ કૃે સંમેુદાયાો "
-        },
-        {
-          "element_id": "109_p13_e21",
-          "sequence_order": 21,
-          "page_number": 13,
-          "quality_score": 0.5,
-          "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 81,
-          "text_preview": "જ પ્રકૃારેનીા રિકૃસ્સંામેાં અલગ અલગ તિનીયામેો હીોઈ જ ની ર્શકૃે. જેમે બંધુારેણ દરેેકૃ નીાગરિરેકૃ મેાટીે, ધુમેશ કૃે સંમેુદ"
-        },
-        {
-          "element_id": "109_p13_e22",
-          "sequence_order": 22,
-          "page_number": 13,
-          "quality_score": 0.5,
-          "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 77,
-          "text_preview": "આ તિબલ કૃોઈ ધુમેશ, કૃોઈ આસ્થીા કૃે કૃોઈનીી પોૂજા-પો�તિતાનીી તિવીરુ�મેાં નીથીી. આ તિબલ કૃોઈનીા રેીતિતા-રિરેવીાજો છેીનીવીી"
-        },
-        {
-          "element_id": "109_p13_e23",
-          "sequence_order": 23,
-          "page_number": 13,
-          "quality_score": 0.5,
-          "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 140,
-          "text_preview": "આપોણી સંંસ્કૃૃતિતામેાં સ્ત્રીનીે ર્શતિ�સ્વીરૂપોા તારેીકૃે પોૂજનીીયા ગણવીામેાં આવીી છેે. આ યાુ.સંી.સંી.મેાં સંવીશનીી સંમે"
-        }
-      ]
-    },
-    "21": {
-      "elements": 11,
-      "flagged": 9,
-      "flags": [
-        "corrupted_text"
-      ],
-      "ocr_conf": null,
-      "issues": [
-        {
-          "element_id": "109_p21_e25",
-          "sequence_order": 25,
-          "page_number": 21,
-          "quality_score": 0.5,
-          "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 189,
-          "text_preview": "ભાારેતામેાં સ્ટીાટીટ-અપો સંંસ્કૃૃતિતા ઝીડાપોથીી તિવીકૃસંી રેહીી છેે, જે યાુવીાનીોનીે સ્વીરેોજગારે મેાટીે પ્રોત્સંાતિહીતા"
-        },
-        {
-          "element_id": "109_p21_e26",
-          "sequence_order": 26,
-          "page_number": 21,
-          "quality_score": 0.5,
-          "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 149,
-          "text_preview": "નીાણાકૃીયા તિર્શસ્તા સંાથીે નીવીી ટીૅક્નૉોલૉજીનીે ઝીડાપોથીી અપોનીાવીવીામેાં ગુજરેાતા દેર્શમેાં મેોખારેે છેે. ઇમેતિજશગ સં"
-        },
-        {
-          "element_id": "109_p21_e27",
-          "sequence_order": 27,
-          "page_number": 21,
-          "quality_score": 0.5,
-          "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 130,
-          "text_preview": "રેાજ્યા સંરેકૃારે સંાથીે કૃામે કૃરેવીા મેાટીે પ્રતિતાભાાર્શાળી સ્ટીાટીટઅપ્સંનીે પ્રાથીતિમેકૃતાા આપોવીાનીી સંરેકૃારેનીી ન"
-        },
-        {
-          "element_id": "109_p21_e28",
-          "sequence_order": 28,
-          "page_number": 21,
-          "quality_score": 0.5,
-          "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 106,
-          "text_preview": "મેુખ્યામેંત્રીશ્રીી અનીે સંૌ ઉપોન્જિસ્થીતાો સંમેક્ષા ઍતિગ્રા કૃ લ્ ચ રે સંે ક્ ટી રે મેાં એ.આઇ. ટીૅક્નૉોલૉજીનીા તિવીતિવી"
-        },
-        {
-          "element_id": "109_p21_e29",
-          "sequence_order": 29,
-          "page_number": 21,
-          "quality_score": 0.5,
-          "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
+          "reason": [],
           "token_count": 68,
-          "text_preview": "આ AI સંંવીાદ દરેતિમેયાાની સંાયાન્સં એન્ડા ટીૅક્નૉોલૉજી તિવીભાાગ અનીે સંવીશમે AI તાથીા MIKO સ્ટીાટીટ-અપો સંાથીે MOU કૃરેવ"
+          "text_preview": "A 2025 devolution assessment commissioned by the Ministry of Panchayati Raj (MoPR) and conducted by the Indian Institute"
         },
         {
-          "element_id": "109_p21_e31",
-          "sequence_order": 31,
-          "page_number": 21,
-          "quality_score": 0.5,
+          "element_id": "109_p7_e60",
+          "sequence_order": 60,
+          "page_number": 7,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 162,
-          "text_preview": "ગુજરેાતામેાં એકૃ આધુુતિનીકૃ Sovereign AI પોાકૃક ઊંભાો કૃરેાર્શે. આ AI પોાકૃકમેાં હીાઇ-એન્ડા કૃમ્પ્યાૂરિટીંગ ઇન્ફ્રાાસ્ટ્"
+          "reason": [],
+          "token_count": 89,
+          "text_preview": "Nationally, the study found that devolution to Rural Local Bodies improved from 39.9 percent to 43.9 percent, aided by t"
         },
         {
-          "element_id": "109_p21_e32",
-          "sequence_order": 32,
-          "page_number": 21,
-          "quality_score": 0.5,
+          "element_id": "109_p7_e61",
+          "sequence_order": 61,
+          "page_number": 7,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 88,
-          "text_preview": "ગુજરેાતા સંરેકૃારેે AI ઇનીોવીેર્શની ચૅલેન્જ હીેઠળ સ્ટીાટીટ-અપ્સંનીે નીવીીની AI સંૉલ્યાુર્શન્સં તિવીકૃસંાવીવીા અનીે ઝીડાપ"
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "5.1 What the Ranking Reflects"
         },
         {
-          "element_id": "109_p21_e33",
-          "sequence_order": 33,
-          "page_number": 21,
-          "quality_score": 0.5,
+          "element_id": "109_p7_e62",
+          "sequence_order": 62,
+          "page_number": 7,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 74,
-          "text_preview": "આ પોહીેલ અંતાગશતા PoC તાબક્કા મેાટીે સ્ટીાટીટ-અપ્સંનીે યાૂઝી કૃેસં અનીુસંારે સંીધુી નીાણાકૃીયા મેદદ આપોવીામેાં આવીર્શે. "
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "G Consistent, high-volume fiscal transfers to local bodies as a share of the state plan, sustained since the 1996 People"
         },
         {
-          "element_id": "109_p21_e34",
-          "sequence_order": 34,
-          "page_number": 21,
-          "quality_score": 0.5,
+          "element_id": "109_p7_e63",
+          "sequence_order": 63,
+          "page_number": 7,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 99,
-          "text_preview": "આ ફોાઇનીાન્જિન્ર્શયાલ સંપોોટીટ મેૉડાેલથીી સ્ટીાટીટ-અપ્સંનીે ગુજરેાતા સંરેકૃારે સંાથીે સંીધુું કૃામે કૃરેવીાનીી તાકૃ મેળર"
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "G Strengthened financial audit and anti-corruption mechanisms at the local body level."
+        },
+        {
+          "element_id": "109_p7_e64",
+          "sequence_order": 64,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "G Deep functional devolution: panchayats in Kerala directly administer welfare pensions, health sub-centres, anganwadis,"
+        },
+        {
+          "element_id": "109_p7_e65",
+          "sequence_order": 65,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 31,
+          "text_preview": "G A dense support ecosystem — KILA for training, the Information Kerala Mission for IT systems, and Kudumbashree for las"
         }
       ]
     },
-    "41": {
-      "elements": 14,
+    "8": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "109_p8_e66",
+          "sequence_order": 66,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Current Trends in Kerala Local Governance 2026 Report"
+        },
+        {
+          "element_id": "109_p8_e67",
+          "sequence_order": 67,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Page 7"
+        },
+        {
+          "element_id": "109_p8_e68",
+          "sequence_order": 68,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "6. Kudumbashree: Women-Led Local Development at Scale"
+        },
+        {
+          "element_id": "109_p8_e69",
+          "sequence_order": 69,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 89,
+          "text_preview": "Launched on 17 May 1997 under the Local Self Government Department, Kudumbashree remains India's largest women-led commu"
+        },
+        {
+          "element_id": "109_p8_e70",
+          "sequence_order": 70,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 76,
+          "text_preview": "Kudumbashree was recognised as a National Resource Organisation in 2012 and continues to be cited nationally as a replic"
+        },
+        {
+          "element_id": "109_p8_e71",
+          "sequence_order": 71,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "6.1 Governance Role Beyond Livelihoods"
+        },
+        {
+          "element_id": "109_p8_e72",
+          "sequence_order": 72,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 84,
+          "text_preview": "Kudumbashree functions as an implementation arm for numerous local governance responsibilities: beneficiary identificati"
+        }
+      ]
+    },
+    "9": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "109_p9_e73",
+          "sequence_order": 73,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Current Trends in Kerala Local Governance 2026 Report"
+        },
+        {
+          "element_id": "109_p9_e74",
+          "sequence_order": 74,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Page 8"
+        },
+        {
+          "element_id": "109_p9_e75",
+          "sequence_order": 75,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "7. Digital Governance and E-Government Infrastructure"
+        },
+        {
+          "element_id": "109_p9_e76",
+          "sequence_order": 76,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 52,
+          "text_preview": "Kerala's local bodies have been early and sustained adopters of e-governance, largely through the Information Kerala Mis"
+        },
+        {
+          "element_id": "109_p9_e77",
+          "sequence_order": 77,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 97,
+          "text_preview": "A widely cited recent example of this digital push is Kerala's real-time SDG monitoring dashboard, developed by the LSGD"
+        },
+        {
+          "element_id": "109_p9_e78",
+          "sequence_order": 78,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "7.1 Reported Local Innovation"
+        },
+        {
+          "element_id": "109_p9_e79",
+          "sequence_order": 79,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 66,
+          "text_preview": "Media coverage in late 2025 also pointed to individual panchayats piloting their own technology and service-delivery pro"
+        }
+      ]
+    },
+    "10": {
+      "elements": 6,
+      "flagged": 6,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "109_p10_e80",
+          "sequence_order": 80,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Current Trends in Kerala Local Governance 2026 Report"
+        },
+        {
+          "element_id": "109_p10_e81",
+          "sequence_order": 81,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Page 9"
+        },
+        {
+          "element_id": "109_p10_e82",
+          "sequence_order": 82,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "8. Participatory Planning: From People's Plan to Sabki Yojana"
+        },
+        {
+          "element_id": "109_p10_e83",
+          "sequence_order": 83,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 68,
+          "text_preview": "Kerala's approach to decentralisation has always rested on participatory planning through the Gram Sabha (ward-level ass"
+        },
+        {
+          "element_id": "109_p10_e84",
+          "sequence_order": 84,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 88,
+          "text_preview": "This tradition now intersects with a national initiative. In late September 2025, the Union Ministry of Panchayati Raj a"
+        },
+        {
+          "element_id": "109_p10_e85",
+          "sequence_order": 85,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 46,
+          "text_preview": "For Kerala, which pioneered many of these participatory-planning practices three decades earlier, the national rollout r"
+        }
+      ]
+    },
+    "11": {
+      "elements": 12,
       "flagged": 12,
       "flags": [
-        "corrupted_text"
+        "noise_detected",
+        "low_content"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "109_p41_e36",
-          "sequence_order": 36,
-          "page_number": 41,
-          "quality_score": 0.5,
+          "element_id": "109_p11_e86",
+          "sequence_order": 86,
+          "page_number": 11,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 217,
-          "text_preview": "વિનાણ�ય: રેાજ્યામેાં પ્રમેોલગેર્શની થીયાેલાં ગામેોમેાં મેાપોણી અંતાગશતા રેહીી ગયાેલી ક્ષા તિતા ઓ નીી સંુ ધુા રે ણા નીી અ"
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Current Trends in Kerala Local Governance 2026 Report"
         },
         {
-          "element_id": "109_p41_e37",
-          "sequence_order": 37,
-          "page_number": 41,
-          "quality_score": 0.5,
+          "element_id": "109_p11_e87",
+          "sequence_order": 87,
+          "page_number": 11,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
-            "corrupted_text"
+            "noise_detected",
+            "low_content"
           ],
-          "token_count": 12,
-          "text_preview": "કૃરેીનીે તિનીવીારેણ લાવીવીા પોણ સંૂચનીાઓ આપોી છેે."
+          "token_count": 2,
+          "text_preview": "Page 10"
         },
         {
-          "element_id": "109_p41_e38",
-          "sequence_order": 38,
-          "page_number": 41,
-          "quality_score": 0.5,
+          "element_id": "109_p11_e88",
+          "sequence_order": 88,
+          "page_number": 11,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 85,
-          "text_preview": "અંવિભાગમુ: ખાે તાી નીી જમેીનીોનીી મેાપોણીમેાં પ્રમેોલગેર્શની પોછેી ખાેડાૂતાોનીી વીાંધુા અરેજીઓનીો તિનીકૃાલ પોારેદર્શશકૃ "
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "9. Persistent Challenges and Emerging Concerns"
         },
         {
-          "element_id": "109_p41_e39",
-          "sequence_order": 39,
-          "page_number": 41,
-          "quality_score": 0.5,
+          "element_id": "109_p11_e89",
+          "sequence_order": 89,
+          "page_number": 11,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 104,
-          "text_preview": "ભાૂ વિમુ સી મુંં ક ના સ વિમુ વિત: મેુખ્યામેંત્રીશ્રીીએ ભાૂતિમે સંીમેાંકૃની અંતાગશતા રેા જ્ યા નીા તિજ લ્લાા ઓ મેાં કૃ લે"
+          "reason": [],
+          "token_count": 20,
+          "text_preview": "Despite its strong national ranking, Kerala's local governance system continues to face structural and political challen"
         },
         {
-          "element_id": "109_p41_e40",
-          "sequence_order": 40,
-          "page_number": 41,
-          "quality_score": 0.5,
+          "element_id": "109_p11_e90",
+          "sequence_order": 90,
+          "page_number": 11,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 128,
-          "text_preview": "દફોતા રે, પ્રાં તા અતિધુ કૃ ા રેી, DILR, મેામેલતાદારે, TDO, જમેીની સંંપોાદની અતિધુકૃારેી, સંરેદારે સંરેોવીરે પોુની:વીસંવ"
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "9.1 Political Contestation and Accountability"
         },
         {
-          "element_id": "109_p41_e41",
-          "sequence_order": 41,
-          "page_number": 41,
-          "quality_score": 0.5,
+          "element_id": "109_p11_e91",
+          "sequence_order": 91,
+          "page_number": 11,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 71,
-          "text_preview": "લાંંભા: મેુખ્યામેંત્રીશ્રીીનીા તિનીણશયાથીી ગુડા ગવીનીશન્સં દ્વાારેા ઇઝી ઑફો ડાુઇંગ તિબઝીનીેસંનીે વીેગ મેળર્શે. ભાૂતિમે સ"
+          "reason": [],
+          "token_count": 46,
+          "text_preview": "The 2025 election results were interpreted by commentators as a signal that Kerala's electorate increasingly separates w"
         },
         {
-          "element_id": "109_p41_e43",
-          "sequence_order": 43,
-          "page_number": 41,
-          "quality_score": 0.5,
+          "element_id": "109_p11_e92",
+          "sequence_order": 92,
+          "page_number": 11,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 76,
-          "text_preview": "વિનાણ�ય: રેાજ્યાનીા ખાેડાૂતા અનીે પોર્શુપોાલકૃ તિમેત્રો તિવીતિવીધુ કૃૃતિ� અનીે પોર્શુપોાલનીલક્ષાી સંહીાયા યાોજનીાઓનીો લા"
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "9.2 Delimitation and Litigation Risk"
         },
         {
-          "element_id": "109_p41_e44",
-          "sequence_order": 44,
-          "page_number": 41,
-          "quality_score": 0.5,
+          "element_id": "109_p11_e93",
+          "sequence_order": 93,
+          "page_number": 11,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 68,
-          "text_preview": "લાંંભા: રેાજ્યા સંરેકૃારેનીું વી�શ ૨૦૨૬૨૭નીું અંદાજપોત્ર તિવીધુાનીસંભાા ગૃહીમેાં રેજૂ થીયાાનીા ગણતારેીનીા રિદવીસંોમેાં જ"
+          "reason": [],
+          "token_count": 54,
+          "text_preview": "While courts ultimately upheld the 2025 delimitation exercise, the fact that it was challenged in multiple benches — inc"
         },
         {
-          "element_id": "109_p41_e45",
-          "sequence_order": 45,
-          "page_number": 41,
-          "quality_score": 0.5,
+          "element_id": "109_p11_e94",
+          "sequence_order": 94,
+          "page_number": 11,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 77,
-          "text_preview": "કૃૃતિ� અનીે પોર્શુપોાલની મેંત્રી શ્રીી જીતાુભાાઈ વીાઘાણીએ જણાવ્યાું હીતાું કૃે, આધુુતિનીકૃ ખાેતાીનીે પ્રોત્સંાહીની આપોતા"
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "9.3 Capacity and Coordination"
         },
         {
-          "element_id": "109_p41_e46",
-          "sequence_order": 46,
-          "page_number": 41,
-          "quality_score": 0.5,
+          "element_id": "109_p11_e95",
+          "sequence_order": 95,
+          "page_number": 11,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 100,
-          "text_preview": "છેેલ્લાી તાારેીખાનીી રેાહી જોયાા તિવીનીા, જેમે જેમે અરેજીઓ આવીર્શે અનીે તાેનીી ચકૃાસંણી પોૂણશ થીર્શે, તાેમે પોાત્રતાા ધુ"
+          "reason": [],
+          "token_count": 74,
+          "text_preview": "The scale of Kerala's local government system — 941 Grama Panchayats plus 152 Block and 14 District Panchayats, 87 Munic"
         },
         {
-          "element_id": "109_p41_e47",
-          "sequence_order": 47,
-          "page_number": 41,
-          "quality_score": 0.5,
+          "element_id": "109_p11_e96",
+          "sequence_order": 96,
+          "page_number": 11,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "corrupted_text"
-          ],
-          "token_count": 80,
-          "text_preview": "ખાેતાપોેદાર્શોનીા રેક્ષાણ મેાટીે કૃાંટીાળા તાારેનીી વીાડા અનીે પોાકૃ સંંગ્રાહી સ્ટ્રેકૃચરે, સંોલારે પોાવીરે યાુતિનીટી, પ"
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "9.4 Fiscal Sustainability"
         },
         {
-          "element_id": "109_p41_e48",
-          "sequence_order": 48,
-          "page_number": 41,
-          "quality_score": 0.5,
+          "element_id": "109_p11_e97",
+          "sequence_order": 97,
+          "page_number": 11,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 61,
+          "text_preview": "Nationally, the Devolution Index findings on rising Rural Local Body devolution (from 39.9 percent to 43.9 percent) poin"
+        }
+      ]
+    },
+    "12": {
+      "elements": 10,
+      "flagged": 10,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "109_p12_e98",
+          "sequence_order": 98,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Current Trends in Kerala Local Governance 2026 Report"
+        },
+        {
+          "element_id": "109_p12_e99",
+          "sequence_order": 99,
+          "page_number": 12,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
-            "corrupted_text"
+            "noise_detected",
+            "low_content"
           ],
-          "token_count": 113,
-          "text_preview": "ફોૂલ અનીે ર્શાકૃભાાજીનીા વીાવીેતારે તાેમેજ તિવીર્શે� કૃરેીનીે કૃમેલમ્ (ડ્રાેગની ફ્રાૂટી) અનીે ઓઇલપોામેનીા વીાવીેતારે મેા"
+          "token_count": 2,
+          "text_preview": "Page 11"
+        },
+        {
+          "element_id": "109_p12_e100",
+          "sequence_order": 100,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "10. Outlook: Local Governance on the Road to 2026"
+        },
+        {
+          "element_id": "109_p12_e101",
+          "sequence_order": 101,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 87,
+          "text_preview": "Kerala's local governance system enters the second half of the decade from a position of comparative strength, underscor"
+        },
+        {
+          "element_id": "109_p12_e102",
+          "sequence_order": 102,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Three trends are likely to define the coming period:"
+        },
+        {
+          "element_id": "109_p12_e103",
+          "sequence_order": 103,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 35,
+          "text_preview": "G Convergence with national programmes: the rollout of the Sabki Yojana, Sabka Vikas Abhiyaan will require Kerala's loca"
+        },
+        {
+          "element_id": "109_p12_e104",
+          "sequence_order": 104,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "G Deepening digital governance: continued build-out of real-time SDG dashboards and IKM platforms is likely, alongside m"
+        },
+        {
+          "element_id": "109_p12_e105",
+          "sequence_order": 105,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 50,
+          "text_preview": "G Political stakes ahead of the 2026 Assembly election: with local governance performance emerging as a central campaign"
+        },
+        {
+          "element_id": "109_p12_e106",
+          "sequence_order": 106,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 46,
+          "text_preview": "Taken together, these trends suggest that Kerala's local governance system, often described as a national reference mode"
+        },
+        {
+          "element_id": "109_p12_e107",
+          "sequence_order": 107,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 47,
+          "text_preview": "This briefing synthesises publicly available information on Kerala's local self-government system as of July 2026, drawi"
         }
       ]
     }

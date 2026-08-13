@@ -2,8 +2,8 @@
   "document_id": 104,
   "pages": {
     "1": {
-      "elements": 3,
-      "flagged": 1,
+      "elements": 20,
+      "flagged": 20,
       "flags": [
         "low_content"
       ],
@@ -13,53 +13,385 @@
           "element_id": "104_p1_e0",
           "sequence_order": 0,
           "page_number": 1,
-          "quality_score": 0.6,
-          "element_type": "heading",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "Prepared for:"
-        }
-      ]
-    },
-    "2": {
-      "elements": 2,
-      "flagged": 2,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": 62.59,
-      "issues": [
-        {
-          "element_id": "104_p2_e3",
-          "sequence_order": 3,
-          "page_number": 2,
-          "quality_score": 0.376,
-          "element_type": "section",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "TABLEOF CONTENTS"
-        },
-        {
-          "element_id": "104_p2_e4",
-          "sequence_order": 4,
-          "page_number": 2,
-          "quality_score": 0.376,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
-          "text_preview": "PARTICULARS) st-i'('C;CCOCOCOCéRPA<G€E"
+          "text_preview": "Module 4"
+        },
+        {
+          "element_id": "104_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Q1: Explain Propositional vs First Order Logic"
+        },
+        {
+          "element_id": "104_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Propositional Logic  First Order Logic"
+        },
+        {
+          "element_id": "104_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Uses simple true/false propositions without"
+        },
+        {
+          "element_id": "104_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "internal structure."
+        },
+        {
+          "element_id": "104_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Uses objects, relations, and quantifiers for"
+        },
+        {
+          "element_id": "104_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "representation."
+        },
+        {
+          "element_id": "104_p1_e7",
+          "sequence_order": 7,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Consists of symbols like P, Q combined with"
+        },
+        {
+          "element_id": "104_p1_e8",
+          "sequence_order": 8,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "logical connectives."
+        },
+        {
+          "element_id": "104_p1_e9",
+          "sequence_order": 9,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Uses constants, variables, predicates, and"
+        },
+        {
+          "element_id": "104_p1_e10",
+          "sequence_order": 10,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "functions."
+        },
+        {
+          "element_id": "104_p1_e11",
+          "sequence_order": 11,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Cannot represent relationships between objects. Can represent relationships like Brother(x,y)."
+        },
+        {
+          "element_id": "104_p1_e12",
+          "sequence_order": 12,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Has limited expressiveness for real-world"
+        },
+        {
+          "element_id": "104_p1_e13",
+          "sequence_order": 13,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "knowledge."
+        },
+        {
+          "element_id": "104_p1_e14",
+          "sequence_order": 14,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Highly expressive for complex knowledge"
+        },
+        {
+          "element_id": "104_p1_e15",
+          "sequence_order": 15,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "representation."
+        },
+        {
+          "element_id": "104_p1_e16",
+          "sequence_order": 16,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Suitable for simple logical reasoning tasks.  Suitable for complex reasoning with"
+        },
+        {
+          "element_id": "104_p1_e17",
+          "sequence_order": 17,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "quantifiers (∀, ∃)."
+        },
+        {
+          "element_id": "104_p1_e18",
+          "sequence_order": 18,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Q3: Explain Bayesian Networks with diagram and formula"
+        },
+        {
+          "element_id": "104_p1_e19",
+          "sequence_order": 19,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 44,
+          "text_preview": "● A Bayesian Network is a directed acyclic graph (DAG) where nodes represent random  variables and edges represent proba"
         }
       ]
     },
-    "4": {
-      "elements": 12,
-      "flagged": 3,
+    "2": {
+      "elements": 15,
+      "flagged": 15,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "104_p2_e20",
+          "sequence_order": 20,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 40,
+          "text_preview": "● The structure encodes conditional independence, allowing compact representation of  joint probability distributions. T"
+        },
+        {
+          "element_id": "104_p2_e21",
+          "sequence_order": 21,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "● Formula (Joint Distribution):    𝑃(𝑋1, 𝑋2,..., 𝑋𝑛) = ∏𝑖𝑃(𝑋𝑖∣𝑃𝑎𝑟𝑒𝑛𝑡𝑠(𝑋𝑖))"
+        },
+        {
+          "element_id": "104_p2_e22",
+          "sequence_order": 22,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "● Bayesian networks enable efficient inference such as diagnostic, causal, and intercausal  reasoning using probabilisti"
+        },
+        {
+          "element_id": "104_p2_e23",
+          "sequence_order": 23,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Q9: Convert given statements into First Order Logic and prove using resolution"
+        },
+        {
+          "element_id": "104_p2_e24",
+          "sequence_order": 24,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Example:"
+        },
+        {
+          "element_id": "104_p2_e25",
+          "sequence_order": 25,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "#  Statement  FOL Representation"
+        },
+        {
+          "element_id": "104_p2_e26",
+          "sequence_order": 26,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "1  All humans are mortal  ∀x Human(x) → Mortal(x)"
+        },
+        {
+          "element_id": "104_p2_e27",
+          "sequence_order": 27,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "2  Someone is tall  ∃x Tall(x)"
+        },
+        {
+          "element_id": "104_p2_e28",
+          "sequence_order": 28,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "3  Everyone loves someone  ∀x ∃y Loves(x,y)"
+        },
+        {
+          "element_id": "104_p2_e29",
+          "sequence_order": 29,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "4  John's father is rich  Rich(Father(John))"
+        },
+        {
+          "element_id": "104_p2_e30",
+          "sequence_order": 30,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "5  All kings are persons  ∀x King(x) → Person(x)"
+        },
+        {
+          "element_id": "104_p2_e31",
+          "sequence_order": 31,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Q10: Perform Unification for given expressions"
+        },
+        {
+          "element_id": "104_p2_e32",
+          "sequence_order": 32,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "Unification is the process of finding a substitution θ that makes two logical expressions identical.  It is essential fo"
+        },
+        {
+          "element_id": "104_p2_e33",
+          "sequence_order": 33,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Key Terms:"
+        },
+        {
+          "element_id": "104_p2_e34",
+          "sequence_order": 34,
+          "page_number": 2,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "● Substitution (θ): A set of variable replacements that make expressions identical  ● Unifier: Any substitution that uni"
+        }
+      ]
+    },
+    "3": {
+      "elements": 16,
+      "flagged": 16,
       "flags": [
         "corrupted_text",
         "low_content"
@@ -67,686 +399,1885 @@
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "104_p4_e5",
-          "sequence_order": 5,
-          "page_number": 4,
-          "quality_score": 0.6,
-          "element_type": "section",
+          "element_id": "104_p3_e35",
+          "sequence_order": 35,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Steps for Unification:"
+        },
+        {
+          "element_id": "104_p3_e36",
+          "sequence_order": 36,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 46,
+          "text_preview": "1. Compare the two expressions term by term  2. If both are constants and equal, unification succeeds  3. If one is a va"
+        },
+        {
+          "element_id": "104_p3_e37",
+          "sequence_order": 37,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Examples:"
+        },
+        {
+          "element_id": "104_p3_e38",
+          "sequence_order": 38,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Expression 1  Expression 2  Substitution θ  Result"
+        },
+        {
+          "element_id": "104_p3_e39",
+          "sequence_order": 39,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 9,
+          "text_preview": "P(x, f(y))  P(a, f(b))  {x/a, y/b}  P(a, f(b)) ✓"
+        },
+        {
+          "element_id": "104_p3_e40",
+          "sequence_order": 40,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Knows(John, x)  Knows(John, Mary)  {x/Mary}  Knows(John, Mary) ✓"
+        },
+        {
+          "element_id": "104_p3_e41",
+          "sequence_order": 41,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "P(x, x)  P(a, b)  None  Fails ✗"
+        },
+        {
+          "element_id": "104_p3_e42",
+          "sequence_order": 42,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Likes(x, y)  Likes(John, Mary)  {x/John, y/Mary}  Likes(John, Mary) ✓"
+        },
+        {
+          "element_id": "104_p3_e43",
+          "sequence_order": 43,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Q11: Apply Resolution method to prove a theorem"
+        },
+        {
+          "element_id": "104_p3_e44",
+          "sequence_order": 44,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "Resolution is a rule of inference used to derive new clauses by eliminating complementary  literals, ultimately proving "
+        },
+        {
+          "element_id": "104_p3_e45",
+          "sequence_order": 45,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Steps:"
+        },
+        {
+          "element_id": "104_p3_e46",
+          "sequence_order": 46,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 43,
+          "text_preview": "1. Convert all statements to CNF (Conjunctive Normal Form)  2. Negate the goal/theorem to be proved  3. Add negated goal"
+        },
+        {
+          "element_id": "104_p3_e47",
+          "sequence_order": 47,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
-          "text_preview": "CHAPTER-I GENERAL"
+          "text_preview": "Worked Example:"
         },
         {
-          "element_id": "104_p4_e6",
-          "sequence_order": 6,
+          "element_id": "104_p3_e48",
+          "sequence_order": 48,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Prove: Socrates is mortal"
+        },
+        {
+          "element_id": "104_p3_e49",
+          "sequence_order": 49,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Given Premises:"
+        },
+        {
+          "element_id": "104_p3_e50",
+          "sequence_order": 50,
+          "page_number": 3,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 16,
+          "text_preview": "1. All humans are mortal → ∀x Human(x) → Mortal(x)  2. Socrates is human → Human(Socrates)"
+        }
+      ]
+    },
+    "4": {
+      "elements": 19,
+      "flagged": 19,
+      "flags": [
+        "corrupted_text",
+        "noise_detected",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "104_p4_e51",
+          "sequence_order": 51,
           "page_number": 4,
-          "quality_score": 0.6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Step 1 — Convert to CNF:"
+        },
+        {
+          "element_id": "104_p4_e52",
+          "sequence_order": 52,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Clause  Statement  Source"
+        },
+        {
+          "element_id": "104_p4_e53",
+          "sequence_order": 53,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "C1  ¬Human(x) ∨ Mortal(x)  Premise 1 (eliminate implication)"
+        },
+        {
+          "element_id": "104_p4_e54",
+          "sequence_order": 54,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "C2  Human(Socrates)  Premise 2"
+        },
+        {
+          "element_id": "104_p4_e55",
+          "sequence_order": 55,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "C3  ¬Mortal(Socrates)  Negated Goal"
+        },
+        {
+          "element_id": "104_p4_e56",
+          "sequence_order": 56,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Step 2 — Apply Resolution:"
+        },
+        {
+          "element_id": "104_p4_e57",
+          "sequence_order": 57,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "C1: ¬Human(x) ∨ Mortal(x)"
+        },
+        {
+          "element_id": "104_p4_e58",
+          "sequence_order": 58,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "C3: ¬Mortal(Socrates)"
+        },
+        {
+          "element_id": "104_p4_e59",
+          "sequence_order": 59,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 8,
+          "text_preview": "───────────────────────────── Resolve on Mortal, unify x = Socrates"
+        },
+        {
+          "element_id": "104_p4_e60",
+          "sequence_order": 60,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "C4: ¬Human(Socrates)"
+        },
+        {
+          "element_id": "104_p4_e61",
+          "sequence_order": 61,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "C2: Human(Socrates)"
+        },
+        {
+          "element_id": "104_p4_e62",
+          "sequence_order": 62,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "C4: ¬Human(Socrates)"
+        },
+        {
+          "element_id": "104_p4_e63",
+          "sequence_order": 63,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 4,
+          "text_preview": "───────────────────────────── Resolve on Human(Socrates)"
+        },
+        {
+          "element_id": "104_p4_e64",
+          "sequence_order": 64,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "C5: □ (Empty Clause)"
+        },
+        {
+          "element_id": "104_p4_e65",
+          "sequence_order": 65,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Conclusion: Empty clause derived → contradiction found → Mortal(Socrates) is proved ✓"
+        },
+        {
+          "element_id": "104_p4_e66",
+          "sequence_order": 66,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Q12: Solve Bayes theorem problem (medical diagnosis type)"
+        },
+        {
+          "element_id": "104_p4_e67",
+          "sequence_order": 67,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Bayes' Rule Formula: P(H|E) = P(E|H) × P(H) / P(E)"
+        },
+        {
+          "element_id": "104_p4_e68",
+          "sequence_order": 68,
+          "page_number": 4,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 1,
-          "text_preview": "NotificationNo.__"
+          "text_preview": "Where:"
         },
         {
-          "element_id": "104_p4_e7",
-          "sequence_order": 7,
+          "element_id": "104_p4_e69",
+          "sequence_order": 69,
           "page_number": 4,
-          "quality_score": 0.3,
+          "quality_score": 0.0,
           "element_type": "paragraph",
-          "reason": [
-            "corrupted_text",
-            "low_content"
-          ],
-          "token_count": 1,
-          "text_preview": "Date:__"
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "● P(H) = Prior probability of Hypothesis"
         }
       ]
     },
     "5": {
-      "elements": 18,
-      "flagged": 4,
+      "elements": 19,
+      "flagged": 19,
       "flags": [
+        "corrupted_text",
         "low_content"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "104_p5_e17",
-          "sequence_order": 17,
+          "element_id": "104_p5_e70",
+          "sequence_order": 70,
           "page_number": 5,
-          "quality_score": 0.6,
-          "element_type": "section",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "4. Definitions"
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "● P(E|H) = Likelihood of Evidence given Hypothesis  ● P(H|E) = Posterior probability of Hypothesis given Evidence"
         },
         {
-          "element_id": "104_p5_e29",
-          "sequence_order": 29,
+          "element_id": "104_p5_e71",
+          "sequence_order": 71,
           "page_number": 5,
-          "quality_score": 0.6,
-          "element_type": "clause",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "and rules'"
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Alternative Form: P(H|E) = P(E|H) × P(H) / [P(E|H)P(H) + P(E|¬H)P(¬H)]"
         },
         {
-          "element_id": "104_p5_e32",
-          "sequence_order": 32,
+          "element_id": "104_p5_e72",
+          "sequence_order": 72,
           "page_number": 5,
-          "quality_score": 0.6,
-          "element_type": "section",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "4.6. 'authorization':"
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "Disease D affects 1% of the population. A test gives the following results:"
         },
         {
-          "element_id": "104_p5_e34",
-          "sequence_order": 34,
+          "element_id": "104_p5_e73",
+          "sequence_order": 73,
           "page_number": 5,
-          "quality_score": 0.6,
-          "element_type": "section",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "CHAPTER-II DEFINITIONS"
-        }
-      ]
-    },
-    "6": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "7": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "8": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "9": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "10": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "11": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "12": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "13": {
-      "elements": 9,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "14": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "15": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "16": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "17": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "18": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "19": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "20": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "21": {
-      "elements": 7,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "22": {
-      "elements": 13,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "23": {
-      "elements": 10,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "24": {
-      "elements": 5,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "25": {
-      "elements": 16,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "26": {
-      "elements": 9,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "27": {
-      "elements": 7,
-      "flagged": 1,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": null,
-      "issues": [
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "● Test positive if disease present: P(+|D) = 0.99 (sensitivity)  ● Test positive if no disease: P(+|¬D) = 0.05 (false po"
+        },
         {
-          "element_id": "104_p27_e118",
-          "sequence_order": 118,
-          "page_number": 27,
-          "quality_score": 0.6,
+          "element_id": "104_p5_e74",
+          "sequence_order": 74,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "A patient tests positive. What is the probability they actually have the disease?"
+        },
+        {
+          "element_id": "104_p5_e75",
+          "sequence_order": 75,
+          "page_number": 5,
+          "quality_score": 0.0,
           "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 1,
-          "text_preview": "official/authority."
-        }
-      ]
-    },
-    "28": {
-      "elements": 12,
-      "flagged": 1,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": null,
-      "issues": [
+          "text_preview": "Given:"
+        },
         {
-          "element_id": "104_p28_e125",
-          "sequence_order": 125,
-          "page_number": 28,
-          "quality_score": 0.6,
-          "element_type": "section",
+          "element_id": "104_p5_e76",
+          "sequence_order": 76,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 16,
+          "text_preview": "● P(D) = 0.01 → P(¬D) = 0.99  ● P(+|D) = 0.99  ● P(+|¬D) = 0.05"
+        },
+        {
+          "element_id": "104_p5_e77",
+          "sequence_order": 77,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Applying Bayes' Theorem:"
+        },
+        {
+          "element_id": "104_p5_e78",
+          "sequence_order": 78,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 9,
+          "text_preview": "P(D|+) = P(+|D) × P(D) / [P(+|D)P(D) + P(+|¬D)P(¬D)]"
+        },
+        {
+          "element_id": "104_p5_e79",
+          "sequence_order": 79,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 13,
+          "text_preview": "P(D|+) = 0.99 × 0.01 / [(0.99 × 0.01) + (0.05 × 0.99)]"
+        },
+        {
+          "element_id": "104_p5_e80",
+          "sequence_order": 80,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "P(D|+) = 0.0099 / [0.0099 + 0.0495]"
+        },
+        {
+          "element_id": "104_p5_e81",
+          "sequence_order": 81,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "P(D|+) = 0.0099 / 0.0594"
+        },
+        {
+          "element_id": "104_p5_e82",
+          "sequence_order": 82,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "P(D|+) ≈ 0.167 (about 17%)"
+        },
+        {
+          "element_id": "104_p5_e83",
+          "sequence_order": 83,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 1,
-          "text_preview": "CHAPTER-VI"
+          "text_preview": "Conclusion"
+        },
+        {
+          "element_id": "104_p5_e84",
+          "sequence_order": 84,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 43,
+          "text_preview": "Despite testing positive, the patient has only a 17% chance of actually having the disease. This  is because the disease"
+        },
+        {
+          "element_id": "104_p5_e85",
+          "sequence_order": 85,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Q13: Construct a Partial Order Plan for a given problem"
+        },
+        {
+          "element_id": "104_p5_e86",
+          "sequence_order": 86,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "Partial Order Planning constructs plans where actions are partially ordered rather than strictly  sequential, allowing f"
+        },
+        {
+          "element_id": "104_p5_e87",
+          "sequence_order": 87,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Key Concepts:"
+        },
+        {
+          "element_id": "104_p5_e88",
+          "sequence_order": 88,
+          "page_number": 5,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 22,
+          "text_preview": "● Actions are only ordered when necessary (e.g., one action must precede another)  ● Uses Start and Finish nodes as dumm"
         }
       ]
     },
-    "29": {
-      "elements": 10,
-      "flagged": 0,
-      "flags": [],
+    "6": {
+      "elements": 11,
+      "flagged": 11,
+      "flags": [
+        "noise_detected",
+        "low_content"
+      ],
       "ocr_conf": null,
-      "issues": []
+      "issues": [
+        {
+          "element_id": "104_p6_e89",
+          "sequence_order": 89,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "● Resolves threats when one action could undo the precondition of another"
+        },
+        {
+          "element_id": "104_p6_e90",
+          "sequence_order": 90,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Example: Making Breakfast (Get Milk and Get Coffee)"
+        },
+        {
+          "element_id": "104_p6_e91",
+          "sequence_order": 91,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Goal: Have(Milk) ∧ Have(Coffee)"
+        },
+        {
+          "element_id": "104_p6_e92",
+          "sequence_order": 92,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Available Actions:"
+        },
+        {
+          "element_id": "104_p6_e93",
+          "sequence_order": 93,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Action  Precondition  Effect"
+        },
+        {
+          "element_id": "104_p6_e94",
+          "sequence_order": 94,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "BuyMilk  Have(Money)  Have(Milk)"
+        },
+        {
+          "element_id": "104_p6_e95",
+          "sequence_order": 95,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "BrewCoffee Have(CoffeeBeans)  Have(Coffee)"
+        },
+        {
+          "element_id": "104_p6_e96",
+          "sequence_order": 96,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "GoToStore  —  Have(Money), Have(CoffeeBeans)"
+        },
+        {
+          "element_id": "104_p6_e97",
+          "sequence_order": 97,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "Partial Order Plan:"
+        },
+        {
+          "element_id": "104_p6_e98",
+          "sequence_order": 98,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Key Points:"
+        },
+        {
+          "element_id": "104_p6_e99",
+          "sequence_order": 99,
+          "page_number": 6,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "● BuyMilk and BrewCoffee are unordered relative to each other — they can execute in  any order  ● GoToStore must come be"
+        }
+      ]
     },
-    "30": {
-      "elements": 12,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "31": {
-      "elements": 4,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "32": {
-      "elements": 8,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "33": {
-      "elements": 16,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "34": {
+    "7": {
       "elements": 14,
-      "flagged": 0,
+      "flagged": 14,
       "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "35": {
-      "elements": 5,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "36": {
-      "elements": 10,
-      "flagged": 1,
-      "flags": [
-        "low_content"
-      ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "104_p36_e206",
-          "sequence_order": 206,
-          "page_number": 36,
-          "quality_score": 0.6,
-          "element_type": "section",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "(II) E-WASTE"
-        }
-      ]
-    },
-    "37": {
-      "elements": 12,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "38": {
-      "elements": 12,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "39": {
-      "elements": 11,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "40": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "41": {
-      "elements": 12,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "42": {
-      "elements": 12,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "43": {
-      "elements": 5,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "44": {
-      "elements": 10,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "45": {
-      "elements": 11,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "46": {
-      "elements": 10,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "47": {
-      "elements": 15,
-      "flagged": 2,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": null,
-      "issues": [
-        {
-          "element_id": "104_p47_e314",
-          "sequence_order": 314,
-          "page_number": 47,
-          "quality_score": 0.6,
-          "element_type": "clause",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "17.1.21.1 Manufacturers;"
+          "element_id": "104_p7_e100",
+          "sequence_order": 100,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "● This flexibility is what distinguishes partial order from total order planning"
         },
         {
-          "element_id": "104_p47_e319",
-          "sequence_order": 319,
-          "page_number": 47,
-          "quality_score": 0.6,
-          "element_type": "clause",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "17.1.21.6 Recyclers."
-        }
-      ]
-    },
-    "48": {
-      "elements": 10,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "49": {
-      "elements": 12,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "50": {
-      "elements": 15,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "51": {
-      "elements": 12,
-      "flagged": 1,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": null,
-      "issues": [
+          "element_id": "104_p7_e101",
+          "sequence_order": 101,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Q15: Explain Dynamic Bayesian Network"
+        },
         {
-          "element_id": "104_p51_e371",
-          "sequence_order": 371,
-          "page_number": 51,
-          "quality_score": 0.6,
-          "element_type": "section",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "22.7 Self-Compliance:"
-        }
-      ]
-    },
-    "52": {
-      "elements": 6,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "53": {
-      "elements": 3,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "54": {
-      "elements": 3,
-      "flagged": 1,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": null,
-      "issues": [
+          "element_id": "104_p7_e102",
+          "sequence_order": 102,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 77,
+          "text_preview": "● Dynamic Bayesian Networks extend Bayesian networks to model temporal processes  where variables evolve over time.  ● T"
+        },
         {
-          "element_id": "104_p54_e385",
-          "sequence_order": 385,
-          "page_number": 54,
-          "quality_score": 0.6,
-          "element_type": "section",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "CHAPTER-XIV PENALTY"
+          "element_id": "104_p7_e103",
+          "sequence_order": 103,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Q21: Explain the Causes of Uncertainty"
+        },
+        {
+          "element_id": "104_p7_e104",
+          "sequence_order": 104,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "Uncertainty in AI arises when an agent cannot determine the true state of the world with  complete confidence. The cause"
+        },
+        {
+          "element_id": "104_p7_e105",
+          "sequence_order": 105,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "1. Partial Observability: The agent cannot perceive the complete state of the"
+        },
+        {
+          "element_id": "104_p7_e106",
+          "sequence_order": 106,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "environment, leading to incomplete information. Example: a robot that cannot see behind  obstacles.  2. Nondeterminism: "
+        },
+        {
+          "element_id": "104_p7_e107",
+          "sequence_order": 107,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "predict which will occur. Example: a robotic arm that may or may not successfully grasp  an object.  3. Complexity of th"
+        },
+        {
+          "element_id": "104_p7_e108",
+          "sequence_order": 108,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "precisely, so approximations introduce uncertainty.  4. Laziness: It is too costly to list all conditions and exceptions"
+        },
+        {
+          "element_id": "104_p7_e109",
+          "sequence_order": 109,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "stated incompletely, introducing possible error.  5. Theoretical Ignorance: The relevant domain may lack a complete or w"
+        },
+        {
+          "element_id": "104_p7_e110",
+          "sequence_order": 110,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 24,
+          "text_preview": "theory, so the agent cannot reason with full confidence.  6. Theoretical Inadequacy: Even when a theory exists, it may b"
+        },
+        {
+          "element_id": "104_p7_e111",
+          "sequence_order": 111,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "imperfect approximation of reality, introducing inherent uncertainty."
+        },
+        {
+          "element_id": "104_p7_e112",
+          "sequence_order": 112,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 23,
+          "text_preview": "Handling Uncertainty: These factors require probabilistic reasoning methods such as Bayesian  Networks and probability t"
+        },
+        {
+          "element_id": "104_p7_e113",
+          "sequence_order": 113,
+          "page_number": 7,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Q30: What is a knowledge base? Explain facts and rules with example"
         }
       ]
     },
-    "55": {
-      "elements": 3,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "56": {
-      "elements": 8,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "57": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "58": {
-      "elements": 1,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "59": {
-      "elements": 3,
-      "flagged": 0,
-      "flags": [],
-      "ocr_conf": null,
-      "issues": []
-    },
-    "60": {
+    "8": {
       "elements": 16,
-      "flagged": 1,
+      "flagged": 16,
       "flags": [
         "low_content"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "104_p60_e406",
-          "sequence_order": 406,
-          "page_number": 60,
-          "quality_score": 0.6,
-          "element_type": "clause",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "Aerosol cans"
-        }
-      ]
-    },
-    "61": {
-      "elements": 9,
-      "flagged": 2,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": null,
-      "issues": [
-        {
-          "element_id": "104_p61_e422",
-          "sequence_order": 422,
-          "page_number": 61,
-          "quality_score": 0.6,
-          "element_type": "heading",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "Bio-medical waste"
+          "element_id": "104_p8_e114",
+          "sequence_order": 114,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 95,
+          "text_preview": "● A knowledge base (KB) is a collection of sentences representing knowledge about the  world in a formal language. It is"
         },
         {
-          "element_id": "104_p61_e426",
-          "sequence_order": 426,
-          "page_number": 61,
+          "element_id": "104_p8_e115",
+          "sequence_order": 115,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Module 5"
+        },
+        {
+          "element_id": "104_p8_e116",
+          "sequence_order": 116,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Q4: Explain Support Vector Machine with optimization formulation"
+        },
+        {
+          "element_id": "104_p8_e117",
+          "sequence_order": 117,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "● Support Vector Machines (SVM) are classifiers that find an optimal decision boundary  (hyperplane) that maximizes the "
+        },
+        {
+          "element_id": "104_p8_e118",
+          "sequence_order": 118,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": ", where margin =    𝑤"
+        },
+        {
+          "element_id": "104_p8_e119",
+          "sequence_order": 119,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "𝑇𝑥+ 𝑏= 0  2 ∣∣𝑤∣∣"
+        },
+        {
+          "element_id": "104_p8_e120",
+          "sequence_order": 120,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "● Optimization Formulation (Hard Margin):"
+        },
+        {
+          "element_id": "104_p8_e121",
+          "sequence_order": 121,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Minimize:  1 2 ∣∣𝑤∣∣"
+        },
+        {
+          "element_id": "104_p8_e122",
+          "sequence_order": 122,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Subject to:   for all i.  𝑦"
+        },
+        {
+          "element_id": "104_p8_e123",
+          "sequence_order": 123,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 32,
+          "text_preview": "𝑖+ 𝑏) ≥ 1  ● Support vectors are the data points lying closest to the boundary, and only they influence  the model.  ● F"
+        },
+        {
+          "element_id": "104_p8_e124",
+          "sequence_order": 124,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Minimize:, allowing some misclassification.  1 2 ∣∣𝑤∣∣"
+        },
+        {
+          "element_id": "104_p8_e125",
+          "sequence_order": 125,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "2 + 𝐶∑ξ𝑖"
+        },
+        {
+          "element_id": "104_p8_e126",
+          "sequence_order": 126,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Q5: Explain Logistic Regression with derivation"
+        },
+        {
+          "element_id": "104_p8_e127",
+          "sequence_order": 127,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 21,
+          "text_preview": "● Logistic regression is a classification algorithm that models the probability of a class  using the sigmoid function. "
+        },
+        {
+          "element_id": "104_p8_e128",
+          "sequence_order": 128,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": ", representing ( P(y=1|x) ).  ℎ(𝑥) = σ(θ"
+        },
+        {
+          "element_id": "104_p8_e129",
+          "sequence_order": 129,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "𝑇𝑥) = 1"
+        }
+      ]
+    },
+    "9": {
+      "elements": 11,
+      "flagged": 11,
+      "flags": [
+        "corrupted_text",
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "104_p9_e130",
+          "sequence_order": 130,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 28,
+          "text_preview": "● The sigmoid function maps any real value into the range (0,1), making it suitable for  probability estimation.  ● Cost"
+        },
+        {
+          "element_id": "104_p9_e131",
+          "sequence_order": 131,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "corrupted_text"
+          ],
+          "token_count": 8,
+          "text_preview": "𝐽(θ) =− 1 𝑚∑[𝑦𝑙𝑜𝑔ℎ(𝑥) + (1 −𝑦)𝑙𝑜𝑔(1 −ℎ(𝑥))]"
+        },
+        {
+          "element_id": "104_p9_e132",
+          "sequence_order": 132,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "● Gradient:"
+        },
+        {
+          "element_id": "104_p9_e133",
+          "sequence_order": 133,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "used in gradient descent optimization.   ∂𝐽"
+        },
+        {
+          "element_id": "104_p9_e134",
+          "sequence_order": 134,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "∂θ𝑗 = 1 𝑚∑(ℎ(𝑥𝑖) −𝑦𝑖)𝑥𝑗"
+        },
+        {
+          "element_id": "104_p9_e135",
+          "sequence_order": 135,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Q7: Explain PAC Learning and VC Dimension in detail"
+        },
+        {
+          "element_id": "104_p9_e136",
+          "sequence_order": 136,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 43,
+          "text_preview": "● PAC (Probably Approximately Correct) learning provides a framework to determine when  a concept can be learned with hi"
+        },
+        {
+          "element_id": "104_p9_e137",
+          "sequence_order": 137,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 79,
+          "text_preview": "𝑃(𝑒𝑟𝑟𝑜𝑟(ℎ)≤ϵ) ≥ 1 −δ  ● Sample complexity defines the number of training examples needed, depending on ε, δ,  and hypoth"
+        },
+        {
+          "element_id": "104_p9_e138",
+          "sequence_order": 138,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Q16: What is Logistic Regression?"
+        },
+        {
+          "element_id": "104_p9_e139",
+          "sequence_order": 139,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 62,
+          "text_preview": "● Logistic regression is a supervised learning algorithm used for binary classification  problems.  ● It models the prob"
+        },
+        {
+          "element_id": "104_p9_e140",
+          "sequence_order": 140,
+          "page_number": 9,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Q17: Explain the use of Computing the SVM for Classification"
+        }
+      ]
+    },
+    "10": {
+      "elements": 13,
+      "flagged": 13,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "104_p10_e141",
+          "sequence_order": 141,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "● SVM computes a decision boundary that separates classes with maximum margin,  improving generalization.  ● The classif"
+        },
+        {
+          "element_id": "104_p10_e142",
+          "sequence_order": 142,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "𝑓(𝑥) = 𝑤"
+        },
+        {
+          "element_id": "104_p10_e143",
+          "sequence_order": 143,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 44,
+          "text_preview": "𝑇𝑥+ 𝑏  ● Only support vectors contribute to the decision boundary, making SVM efficient after  training.  ● For non-line"
+        },
+        {
+          "element_id": "104_p10_e144",
+          "sequence_order": 144,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Q19: Explain VC Dimension in Machine Learning"
+        },
+        {
+          "element_id": "104_p10_e145",
+          "sequence_order": 145,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 79,
+          "text_preview": "● VC dimension is a measure of the capacity or expressiveness of a hypothesis space in  machine learning.  ● It is defin"
+        },
+        {
+          "element_id": "104_p10_e146",
+          "sequence_order": 146,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Q20: Explain effect of shrinkage on bias-variance"
+        },
+        {
+          "element_id": "104_p10_e147",
+          "sequence_order": 147,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 74,
+          "text_preview": "● Shrinkage methods (regularization) add a penalty term to reduce model complexity and  prevent overfitting.  ● Increasi"
+        },
+        {
+          "element_id": "104_p10_e148",
+          "sequence_order": 148,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "Q23: Find margin of hyperplane in SVM: 5x₁ + 6x₂ − 10 = 0"
+        },
+        {
+          "element_id": "104_p10_e149",
+          "sequence_order": 149,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "● Given hyperplane:, compare with, so  .  5𝑥1 + 6𝑥2 − 10 = 0  𝑤"
+        },
+        {
+          "element_id": "104_p10_e150",
+          "sequence_order": 150,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "𝑇𝑥+ 𝑏 𝑤= (5, 6)"
+        },
+        {
+          "element_id": "104_p10_e151",
+          "sequence_order": 151,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "● Compute norm:    ∣∣𝑤∣∣= 5"
+        },
+        {
+          "element_id": "104_p10_e152",
+          "sequence_order": 152,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "2 + 6"
+        },
+        {
+          "element_id": "104_p10_e153",
+          "sequence_order": 153,
+          "page_number": 10,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "2 = 25 + 36 = 61"
+        }
+      ]
+    },
+    "11": {
+      "elements": 20,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "104_p11_e161",
+          "sequence_order": 161,
+          "page_number": 11,
           "quality_score": 0.6,
           "element_type": "clause",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
-          "text_preview": "Solid Waste"
+          "text_preview": "Kernel value:"
         }
       ]
     },
-    "62": {
-      "elements": 3,
-      "flagged": 0,
+    "12": {
+      "elements": 7,
+      "flagged": 7,
       "flags": [],
       "ocr_conf": null,
-      "issues": []
-    },
-    "63": {
-      "elements": 21,
-      "flagged": 1,
-      "flags": [
-        "low_content"
-      ],
-      "ocr_conf": null,
       "issues": [
         {
-          "element_id": "104_p63_e433",
-          "sequence_order": 433,
-          "page_number": 63,
-          "quality_score": 0.6,
-          "element_type": "heading",
-          "reason": [
-            "low_content"
-          ],
-          "token_count": 2,
-          "text_preview": "I. Environment"
+          "element_id": "104_p12_e174",
+          "sequence_order": 174,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 29,
+          "text_preview": "● Parameters can be learned using gradient descent or closed-form solution (normal  equation).  ● Regression is widely u"
+        },
+        {
+          "element_id": "104_p12_e175",
+          "sequence_order": 175,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Q27: Explain model selection and generalization in machine learning"
+        },
+        {
+          "element_id": "104_p12_e176",
+          "sequence_order": 176,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 66,
+          "text_preview": "● Model selection involves choosing a model that balances complexity and performance  on unseen data.  ● The goal is gen"
+        },
+        {
+          "element_id": "104_p12_e177",
+          "sequence_order": 177,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Q28: What is Subset Selection?"
+        },
+        {
+          "element_id": "104_p12_e178",
+          "sequence_order": 178,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 74,
+          "text_preview": "● Subset selection is a feature selection technique used to choose the most relevant  subset of features for a model.  ●"
+        },
+        {
+          "element_id": "104_p12_e179",
+          "sequence_order": 179,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Q29: Explain function of Support Vector Machines and Kernels"
+        },
+        {
+          "element_id": "104_p12_e180",
+          "sequence_order": 180,
+          "page_number": 12,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 77,
+          "text_preview": "● SVM functions by finding a hyperplane that maximizes margin between classes,  ensuring better generalization.  ● The d"
         }
       ]
     },
-    "64": {
-      "elements": 21,
-      "flagged": 1,
+    "13": {
+      "elements": 9,
+      "flagged": 9,
       "flags": [
         "low_content"
       ],
       "ocr_conf": null,
       "issues": [
         {
-          "element_id": "104_p64_e470",
-          "sequence_order": 470,
-          "page_number": 64,
-          "quality_score": 0.6,
-          "element_type": "heading",
+          "element_id": "104_p13_e181",
+          "sequence_order": 181,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
           "reason": [
             "low_content"
           ],
           "token_count": 2,
-          "text_preview": "II. Other"
+          "text_preview": "Module 6"
+        },
+        {
+          "element_id": "104_p13_e182",
+          "sequence_order": 182,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Q2: Explain K-Means clustering algorithm"
+        },
+        {
+          "element_id": "104_p13_e183",
+          "sequence_order": 183,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 97,
+          "text_preview": "● K-Means is an unsupervised learning algorithm that partitions data into K clusters by  minimizing within-cluster varia"
+        },
+        {
+          "element_id": "104_p13_e184",
+          "sequence_order": 184,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Q6: Explain Hidden Markov Model and its three basic problems"
+        },
+        {
+          "element_id": "104_p13_e185",
+          "sequence_order": 185,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 68,
+          "text_preview": "● Hidden Markov Model (HMM) is a probabilistic model for sequential data where the  system has hidden states and observa"
+        },
+        {
+          "element_id": "104_p13_e186",
+          "sequence_order": 186,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 25,
+          "text_preview": "Forward algorithm.  2. Decoding: Find most likely state sequence, solved using Viterbi algorithm.  3. Learning: Estimate"
+        },
+        {
+          "element_id": "104_p13_e187",
+          "sequence_order": 187,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 18,
+          "text_preview": "algorithm).  ● These problems enable prediction, inference, and training of sequential models such as  speech and bioinf"
+        },
+        {
+          "element_id": "104_p13_e188",
+          "sequence_order": 188,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Q8: Explain Clustering techniques: K-Means, Hierarchical, GMM"
+        },
+        {
+          "element_id": "104_p13_e189",
+          "sequence_order": 189,
+          "page_number": 13,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 17,
+          "text_preview": "● K-Means Clustering: Partitions data into K clusters using centroid-based assignment and iterative updates to  minimize"
+        }
+      ]
+    },
+    "14": {
+      "elements": 11,
+      "flagged": 11,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "104_p14_e190",
+          "sequence_order": 190,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 87,
+          "text_preview": "● It produces hard clustering where each point belongs to exactly one cluster and works  well for spherical clusters.  ●"
+        },
+        {
+          "element_id": "104_p14_e191",
+          "sequence_order": 191,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Q14: Difference between the forward and Viterbi algorithms"
+        },
+        {
+          "element_id": "104_p14_e192",
+          "sequence_order": 192,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Forward Algorithm  Viterbi Algorithm"
+        },
+        {
+          "element_id": "104_p14_e193",
+          "sequence_order": 193,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Computes total probability of observation"
+        },
+        {
+          "element_id": "104_p14_e194",
+          "sequence_order": 194,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "sequence.  Computes most likely hidden state sequence."
+        },
+        {
+          "element_id": "104_p14_e195",
+          "sequence_order": 195,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Uses summation over all possible paths.  Uses maximization to choose best path."
+        },
+        {
+          "element_id": "104_p14_e196",
+          "sequence_order": 196,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Solves evaluation problem in HMM.  Solves decoding problem in HMM."
+        },
+        {
+          "element_id": "104_p14_e197",
+          "sequence_order": 197,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Output is a probability value.  Output is a sequence of states."
+        },
+        {
+          "element_id": "104_p14_e198",
+          "sequence_order": 198,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Considers all possible state sequences.  Tracks only the optimal path."
+        },
+        {
+          "element_id": "104_p14_e199",
+          "sequence_order": 199,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Q22: What is proximity? Compare types of proximity measures"
+        },
+        {
+          "element_id": "104_p14_e200",
+          "sequence_order": 200,
+          "page_number": 14,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 36,
+          "text_preview": "● Proximity refers to the measure of similarity or distance between data points, used in  clustering to group similar ob"
+        }
+      ]
+    },
+    "15": {
+      "elements": 23,
+      "flagged": 23,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "104_p15_e201",
+          "sequence_order": 201,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Aspect  Euclidean"
+        },
+        {
+          "element_id": "104_p15_e202",
+          "sequence_order": 202,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Distance"
+        },
+        {
+          "element_id": "104_p15_e203",
+          "sequence_order": 203,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Manhattan"
+        },
+        {
+          "element_id": "104_p15_e204",
+          "sequence_order": 204,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Distance"
+        },
+        {
+          "element_id": "104_p15_e205",
+          "sequence_order": 205,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Cosine Similarity  Jaccard  Similarity"
+        },
+        {
+          "element_id": "104_p15_e206",
+          "sequence_order": 206,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Definition  Straight-line  distance between  two points in  space."
+        },
+        {
+          "element_id": "104_p15_e207",
+          "sequence_order": 207,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Sum of absolute  differences along  each dimension."
+        },
+        {
+          "element_id": "104_p15_e208",
+          "sequence_order": 208,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Measures angle  between two  vectors, not  magnitude."
+        },
+        {
+          "element_id": "104_p15_e209",
+          "sequence_order": 209,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "Ratio of  intersection to  union of two sets."
+        },
+        {
+          "element_id": "104_p15_e210",
+          "sequence_order": 210,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Data Type Works on"
+        },
+        {
+          "element_id": "104_p15_e211",
+          "sequence_order": 211,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "continuous  numerical data."
+        },
+        {
+          "element_id": "104_p15_e212",
+          "sequence_order": 212,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Works on  numerical data,  especially  grid-based."
+        },
+        {
+          "element_id": "104_p15_e213",
+          "sequence_order": 213,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Used for  high-dimensional  vector data like  text."
+        },
+        {
+          "element_id": "104_p15_e214",
+          "sequence_order": 214,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Used for  set-based or  binary data."
+        },
+        {
+          "element_id": "104_p15_e215",
+          "sequence_order": 215,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Sensitivity  Sensitive to scale  and outliers."
+        },
+        {
+          "element_id": "104_p15_e216",
+          "sequence_order": 216,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "More robust to  outliers than  Euclidean."
+        },
+        {
+          "element_id": "104_p15_e217",
+          "sequence_order": 217,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Ignores magnitude,  focuses on  direction similarity."
+        },
+        {
+          "element_id": "104_p15_e218",
+          "sequence_order": 218,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Sensitive to size  of intersection  and union."
+        },
+        {
+          "element_id": "104_p15_e219",
+          "sequence_order": 219,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Typical  Use"
+        },
+        {
+          "element_id": "104_p15_e220",
+          "sequence_order": 220,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "Common in  clustering like  K-Means."
+        },
+        {
+          "element_id": "104_p15_e221",
+          "sequence_order": 221,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Used in  grid/path-based  problems."
+        },
+        {
+          "element_id": "104_p15_e222",
+          "sequence_order": 222,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Used in text mining  and document  similarity."
+        },
+        {
+          "element_id": "104_p15_e223",
+          "sequence_order": 223,
+          "page_number": 15,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "Used in market  basket and  association  analysis."
         }
       ]
     }

@@ -1,0 +1,636 @@
+{
+  "document_id": 111,
+  "pages": {
+    "1": {
+      "elements": 7,
+      "flagged": 7,
+      "flags": [
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "111_p1_e0",
+          "sequence_order": 0,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "The Kerala Panchayat Raj Act, 1994"
+        },
+        {
+          "element_id": "111_p1_e1",
+          "sequence_order": 1,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "Statutory Framework for Rural Local Governance"
+        },
+        {
+          "element_id": "111_p1_e2",
+          "sequence_order": 2,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "An Analytical Guide to the Three-Tier System, Grama Sabhas, and Rural"
+        },
+        {
+          "element_id": "111_p1_e3",
+          "sequence_order": 3,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "Devolution"
+        },
+        {
+          "element_id": "111_p1_e4",
+          "sequence_order": 4,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 3,
+          "text_preview": "L EGISLATIVE OVERVIEW"
+        },
+        {
+          "element_id": "111_p1_e5",
+          "sequence_order": 5,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "The Kerala Panchayat Raj Act, 1994 - Official Overview"
+        },
+        {
+          "element_id": "111_p1_e6",
+          "sequence_order": 6,
+          "page_number": 1,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Page 1"
+        }
+      ]
+    },
+    "2": {
+      "elements": 6,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "3": {
+      "elements": 8,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "4": {
+      "elements": 23,
+      "flagged": 23,
+      "flags": [
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "111_p4_e21",
+          "sequence_order": 21,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "4. Composition, Elections, and Reservations"
+        },
+        {
+          "element_id": "111_p4_e22",
+          "sequence_order": 22,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "The Act ensures a democratic composition for all three tiers, with direct elections and"
+        },
+        {
+          "element_id": "111_p4_e23",
+          "sequence_order": 23,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "robust provisions for social inclusion."
+        },
+        {
+          "element_id": "111_p4_e24",
+          "sequence_order": 24,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Direct Elections"
+        },
+        {
+          "element_id": "111_p4_e25",
+          "sequence_order": 25,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 14,
+          "text_preview": "Members of Grama, Block, and District Panchayats are directly elected by the voters of"
+        },
+        {
+          "element_id": "111_p4_e26",
+          "sequence_order": 26,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "their respective territorial constituencies (wards) for a term of five years. The State"
+        },
+        {
+          "element_id": "111_p4_e27",
+          "sequence_order": 27,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "Election Commission is solely responsible for conducting these elections."
+        },
+        {
+          "element_id": "111_p4_e28",
+          "sequence_order": 28,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected"
+          ],
+          "token_count": 3,
+          "text_preview": "Progressive Reservation Policy"
+        },
+        {
+          "element_id": "111_p4_e29",
+          "sequence_order": 29,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Kerala is recognized nationally for its pioneering steps in ensuring inclusive"
+        },
+        {
+          "element_id": "111_p4_e30",
+          "sequence_order": 30,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "governance through statutory reservations:"
+        },
+        {
+          "element_id": "111_p4_e31",
+          "sequence_order": 31,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Women Empowerment: Kerala amended the Act in 2009 to increase the"
+        },
+        {
+          "element_id": "111_p4_e32",
+          "sequence_order": 32,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "reservation for women from 33% to 50%. This applies not just to the seats of"
+        },
+        {
+          "element_id": "111_p4_e33",
+          "sequence_order": 33,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "members across all three tiers, but also to the offices of the President and Vice-"
+        },
+        {
+          "element_id": "111_p4_e34",
+          "sequence_order": 34,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 1,
+          "text_preview": "President."
+        },
+        {
+          "element_id": "111_p4_e35",
+          "sequence_order": 35,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Scheduled Castes (SC) and Scheduled Tribes (ST): Seats are reserved strictly in"
+        },
+        {
+          "element_id": "111_p4_e36",
+          "sequence_order": 36,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "proportion to their population in the respective Panchayat area. Furthermore, 50%"
+        },
+        {
+          "element_id": "111_p4_e37",
+          "sequence_order": 37,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "of the seats reserved for SC/ST categories are earmarked for women belonging to"
+        },
+        {
+          "element_id": "111_p4_e38",
+          "sequence_order": 38,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "those communities."
+        },
+        {
+          "element_id": "111_p4_e39",
+          "sequence_order": 39,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 5,
+          "text_preview": "5. Authorities and Committee System"
+        },
+        {
+          "element_id": "111_p4_e40",
+          "sequence_order": 40,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "To avoid autocracy and to decentralize decision-making within the elected council itself,"
+        },
+        {
+          "element_id": "111_p4_e41",
+          "sequence_order": 41,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "the Act establishes a mandatory Committee System."
+        },
+        {
+          "element_id": "111_p4_e42",
+          "sequence_order": 42,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "The Kerala Panchayat Raj Act, 1994 - Official Overview"
+        },
+        {
+          "element_id": "111_p4_e43",
+          "sequence_order": 43,
+          "page_number": 4,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Page 4"
+        }
+      ]
+    },
+    "5": {
+      "elements": 9,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "111_p5_e49",
+          "sequence_order": 49,
+          "page_number": 5,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Steering Committee"
+        }
+      ]
+    },
+    "6": {
+      "elements": 12,
+      "flagged": 0,
+      "flags": [],
+      "ocr_conf": null,
+      "issues": []
+    },
+    "7": {
+      "elements": 13,
+      "flagged": 1,
+      "flags": [
+        "low_content"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "111_p7_e70",
+          "sequence_order": 70,
+          "page_number": 7,
+          "quality_score": 0.6,
+          "element_type": "heading",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "State Devolution"
+        }
+      ]
+    },
+    "8": {
+      "elements": 21,
+      "flagged": 21,
+      "flags": [
+        "low_content",
+        "noise_detected"
+      ],
+      "ocr_conf": null,
+      "issues": [
+        {
+          "element_id": "111_p8_e78",
+          "sequence_order": 78,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 8,
+          "text_preview": "complaints of corruption, nepotism, and maladministration against elected"
+        },
+        {
+          "element_id": "111_p8_e79",
+          "sequence_order": 79,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 4,
+          "text_preview": "Panchayat members and officials."
+        },
+        {
+          "element_id": "111_p8_e80",
+          "sequence_order": 80,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "Appellate Tribunal: An independent judicial body that hears appeals from citizens"
+        },
+        {
+          "element_id": "111_p8_e81",
+          "sequence_order": 81,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "aggrieved by the decisions of the Panchayat regarding tax assessments, building"
+        },
+        {
+          "element_id": "111_p8_e82",
+          "sequence_order": 82,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 6,
+          "text_preview": "permit rejections, or trade license denials."
+        },
+        {
+          "element_id": "111_p8_e83",
+          "sequence_order": 83,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "Local Fund Audit Department (LFAD): The statutory auditor that conducts"
+        },
+        {
+          "element_id": "111_p8_e84",
+          "sequence_order": 84,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "detailed, mandatory annual audits of every Panchayat's accounts. Irregularities can"
+        },
+        {
+          "element_id": "111_p8_e85",
+          "sequence_order": 85,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "lead to surcharging the responsible officials or elected representatives."
+        },
+        {
+          "element_id": "111_p8_e86",
+          "sequence_order": 86,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "Citizen's Charter and Right to Information: The Act mandates every Panchayat to"
+        },
+        {
+          "element_id": "111_p8_e87",
+          "sequence_order": 87,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 11,
+          "text_preview": "publish a Citizen's Charter detailing the services offered, standard delivery times,"
+        },
+        {
+          "element_id": "111_p8_e88",
+          "sequence_order": 88,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 7,
+          "text_preview": "and the responsible officials, ensuring frontline transparency."
+        },
+        {
+          "element_id": "111_p8_e89",
+          "sequence_order": 89,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "9. Conclusion"
+        },
+        {
+          "element_id": "111_p8_e90",
+          "sequence_order": 90,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "The Kerala Panchayat Raj Act, 1994, transformed the landscape of rural administration"
+        },
+        {
+          "element_id": "111_p8_e91",
+          "sequence_order": 91,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 13,
+          "text_preview": "in Kerala. By institutionalizing the Grama Sabha as the ultimate arbiter of grassroots"
+        },
+        {
+          "element_id": "111_p8_e92",
+          "sequence_order": 92,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 10,
+          "text_preview": "development, mandating 50% reservation for women, and establishing a robust"
+        },
+        {
+          "element_id": "111_p8_e93",
+          "sequence_order": 93,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 12,
+          "text_preview": "framework for financial devolution and independent oversight, the Act created a model"
+        },
+        {
+          "element_id": "111_p8_e94",
+          "sequence_order": 94,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 15,
+          "text_preview": "of local self-government that remains a benchmark for the rest of India. It shifted the"
+        },
+        {
+          "element_id": "111_p8_e95",
+          "sequence_order": 95,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "paradigm from bureaucratic administration to genuine, participatory, and democratic"
+        },
+        {
+          "element_id": "111_p8_e96",
+          "sequence_order": 96,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "rural governance."
+        },
+        {
+          "element_id": "111_p8_e97",
+          "sequence_order": 97,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [],
+          "token_count": 9,
+          "text_preview": "The Kerala Panchayat Raj Act, 1994 - Official Overview"
+        },
+        {
+          "element_id": "111_p8_e98",
+          "sequence_order": 98,
+          "page_number": 8,
+          "quality_score": 0.0,
+          "element_type": "paragraph",
+          "reason": [
+            "noise_detected",
+            "low_content"
+          ],
+          "token_count": 2,
+          "text_preview": "Page 8"
+        }
+      ]
+    }
+  }
+}

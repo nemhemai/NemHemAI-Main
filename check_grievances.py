@@ -10,8 +10,9 @@ conn = psycopg2.connect(
 )
 cur = conn.cursor()
 try:
-    cur.execute("SELECT column_name FROM information_schema.columns WHERE table_name = 'document_chunks';")
-    print([r[0] for r in cur.fetchall()])
+    cur.execute("SELECT COUNT(*) FROM grievances;")
+    count = cur.fetchone()[0]
+    print(f"Total grievances: {count}")
 except Exception as e:
     print(f"Error: {e}")
 finally:

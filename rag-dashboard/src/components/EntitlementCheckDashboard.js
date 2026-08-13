@@ -10,8 +10,9 @@ const EntitlementCheckDashboard = () => {
 
   const fetchAuditLogs = async () => {
     try {
-      const response = await axios.get(`${API_URL}/api/v1/gaca/decisions/all`);
-      setAuditLogs(response.data);
+      const timestamp = new Date().getTime();
+      const response = await axios.get(`${API_URL}/api/v1/gaca/decisions/all?_t=${timestamp}`);
+      setAuditLogs(Array.isArray(response.data) ? response.data : []);
       setError("");
     } catch (err) {
       console.error("Failed to fetch audit logs", err);
